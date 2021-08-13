@@ -3,7 +3,7 @@
 
 ### Guides that I like.
 
-- [beej.us](https://beej.us)'s Guide on C Programming ("rough draft", Beej): [original](http://beej.us/guide/bgc/), [my mirror](/mirrors/bgc) (Licensed under Attribution-NonCommercial-NoDerivatives 3.0 Unported CC BY-NC-ND 3.0, [license](/mirrors/bgc/LICENSE.md) )
+- [beej.us](https://beej.us)'s Guide on C Programming ("rough draft", Beej): [original](http://beej.us/guide/bgc/), [my mirror](/mirrors/bgc/website) (Licensed under Attribution-NonCommercial-NoDerivatives 3.0 Unported CC BY-NC-ND 3.0, [license](/mirrors/bgc/LICENSE.md) )
 
 <!--
 You can use the [editor on GitHub](https://github.com/TrevCan/trevcan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
