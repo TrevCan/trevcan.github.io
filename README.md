@@ -44,6 +44,37 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 -->
-aa
 
-a
+### AUR packages
+ - `ddgr`
+ - `duc`
+ - `glmark2`
+ - `libxft-bgra-git`
+ - `linux-wifi-hotspot`
+ - `logiops`
+ - `minipro`
+ - `networkmanager-dmenu-git`
+ - `openboard`
+ - `optimus-manager`
+ - `pam-gnupg`
+ - `selectdefaultapplication-git`
+ - `srecord`
+ - `steamcmd`
+ - `taglib-git`
+ - `tremc-git`
+ - `wd719x-firmware`
+ - `weylus`
+ - `xwinwrap-git`
+
+
+urls:
+- AUR: name only, minipro, ascending, 50pp
+- 	https://aur.archlinux.org/packages/?O=0&SeB=n&K=minipro&outdated=&SB=n&SO=a&PP=50&do_Search=Go
+- AUR: name & desc, minipro, ascending, 50pp
+- 	https://aur.archlinux.org/packages/?O=0&SeB=nd&K=minipro&outdated=&SB=n&SO=a&PP=50&do_Search=Go
+
+https://aur.archlinux.org/packages/?O=0&SeB=n&K=
+html keys=
+	required:	?O=0
+	search by: 	SeB=n (search by name only)
+	keywords:	K=gvim (keyword=gvim)
