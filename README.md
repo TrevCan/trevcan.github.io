@@ -43,7 +43,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
--->
 
 ### AUR packages
  - `ddgr`
@@ -78,10 +77,13 @@ html keys=
 	required:	?O=0
 	search by: 	SeB=n (search by name only)
 	keywords:	K=gvim (keyword=gvim)
+-->
+
 =======
 ## `aw3s0me`
 - Monticello, R. T. V. [ReasonTV]. (2021, August 23). This Hacker Is Teaching a Smartphone App to Drive Your Car [Video]. YouTube. https://www.youtube.com/watch?v=XpUyL3IuULo&feature=youtu.be (CC BY)
 
 
 ### wooowww
-https://youtu.be/a-gZ2OS4Sjg [video] (2021)
+ - https://youtu.be/a-gZ2OS4Sjg [video] (2021)
+ - Frasier, Kodi. "YouTube" *Oil well drilling* https://www.youtube.com/watch?v=a-gZ2OS4Sjg
