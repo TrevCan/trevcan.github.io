@@ -87,3 +87,55 @@ html keys=
 ### wooowww
  - https://youtu.be/a-gZ2OS4Sjg [video] (2021)
  - Frasier, Kodi. "YouTube" *Oil well drilling* https://www.youtube.com/watch?v=a-gZ2OS4Sjg
+
+
+## learning
+- [Basic Graphics Programming With the Xlib Library, 2012, archived (users.actcom.co.il/~choo/lupg) ](https://archive.is/8kKa)
+- [GWM, the Generic Window Manager, 2004, tronche.com](https://tronche.com/gui/x/gwm/)
+- [Overview of the X Window System, tronche.com](https://tronche.com/gui/x/xlib/introduction/overview.html)
+- [Xlib programming: a short tutorial, tronche.com](https://tronche.com/gui/x/xlib-tutorial/)
+
+
+## TaskWarrior tags
+- https://taskwarrior.org/docs/tags.html
+
+### maybe modify...
+- [suckless' sent : simple plaintext presentation tool](https://tools.suckless.org/sent/) _**maybe add primitive markdown support**_
+- 
+
+**[trevcan's Hacker News submissions](https://news.ycombinator.com/submitted?id=trevcanhuman)
+
+- learn [irssi](https://irssi.org/documentation/startup/)
+- learn [gzip](https://en.wikipedia.org/wiki/Gzip)
+- learn [LZ77 and LZ78 compression algos, lossless](https://en.wikipedia.org/wiki/LZ77_and_LZ78)
+- learn [huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
+- learn [tar, probably simple enough...](https://en.wikipedia.org/wiki/Tar_\(computing\)#External_links)
+- [tar manual, 9p.io](https://9p.io/magic/man2html/1/tar)
+- [bzip 2 ????](https://en.wikipedia.org/wiki/Bzip2)
+- [x info for devs](https://www.x.org/wiki/DeveloperStart/)
+- [xlib](https://en.wikipedia.org/wiki/Xlib)
+- [xlib -c language x interface, filetype:pdf](http://www.xfree86.org/current/xlib.pdf)
+- [XCB, better alternative??](https://xcb.freedesktop.org/)
+- [XCB papers](https://xcb.freedesktop.org/Publications/)
+- [vim-processing syntax highlighting ](https://github.com/sophacles/vim-processing)
+
+# news
+- [news](https://news.ycombinator.com/news) 
+- [news Frequent Asked Questions](https://news.ycombinator.com/newsfaq.html)
+- [news Guidelines](https://news.ycombinator.com/newsguidelines.html)
+- 
+
+### pastebins
+- [bpa.st](https://bpa.st/)
+- [ghostbin.com](https://ghostbin.com/)
+- 
+
+
+### maybe read later...
+- [The Jigsaw of Independence *Putting together an independent life without falling apart*](https://tomcritchlow.com/2021/09/09/jigsaw/)
+- 
+
+
+### todo
+- make scrcpy android mirroring to laptop actuallly work!! https://github.com/Genymobile/scrcpy
+- 
