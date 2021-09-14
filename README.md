@@ -94,7 +94,9 @@ html keys=
 - [GWM, the Generic Window Manager, 2004, tronche.com](https://tronche.com/gui/x/gwm/)
 - [Overview of the X Window System, tronche.com](https://tronche.com/gui/x/xlib/introduction/overview.html)
 - [Xlib programming: a short tutorial, tronche.com](https://tronche.com/gui/x/xlib-tutorial/)
-
+##security
+- [pass: the standard unix password manager](https://www.passwordstore.org/)
+- 
 
 ## TaskWarrior tags
 - https://taskwarrior.org/docs/tags.html
