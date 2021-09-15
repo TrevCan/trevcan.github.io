@@ -137,7 +137,10 @@ html keys=
 - [The Jigsaw of Independence *Putting together an independent life without falling apart*](https://tomcritchlow.com/2021/09/09/jigsaw/)
 - 
 
+## nice music
+- [Kevin Bryce](https://www.youtube.com/channel/UCKronkmoPSFic9zdAbdyUag)
 
 ### todo
 - make scrcpy android mirroring to laptop actuallly work!! https://github.com/Genymobile/scrcpy
+- 
 - 
