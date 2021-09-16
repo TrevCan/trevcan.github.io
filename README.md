@@ -144,3 +144,9 @@ html keys=
 - make scrcpy android mirroring to laptop actuallly work!! https://github.com/Genymobile/scrcpy
 - 
 - 
+
+### math in GitHub flavored markdown ?
+- a-rodin, *A hack for showing LaTeX formulas in GitHub markdown.md* . [https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b]
+- 	> Problem
+	> A lot of GitHub projects need to have pretty math formulas in READMEs, wikis or other markdown pages. The desired approach would be to just write inline LaTeX-style formulas like this:
+- 
