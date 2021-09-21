@@ -81,12 +81,12 @@ html keys=
 
 =======
 ## `aw3s0me`
-- Monticello, R. T. V. [ReasonTV]. (2021, August 23). This Hacker Is Teaching a Smartphone App to Drive Your Car [Video]. YouTube. https://www.youtube.com/watch?v=XpUyL3IuULo&feature=youtu.be (CC BY)
+- Monticello, R. T. V. [ReasonTV]. (2021, August 23). This Hacker Is Teaching a Smartphone App to Drive Your Car [Video]. YouTube. [https://www.youtube.com/watch?v=XpUyL3IuULo&feature=youtu.be] (CC BY)
 
 
 ### wooowww
- - https://youtu.be/a-gZ2OS4Sjg [video] (2021)
- - Frasier, Kodi. "YouTube" *Oil well drilling* https://www.youtube.com/watch?v=a-gZ2OS4Sjg
+ - [https://youtu.be/a-gZ2OS4Sjg] [video] (2021)
+ - Frasier, Kodi. "YouTube" *Oil well drilling* [https://www.youtube.com/watch?v=a-gZ2OS4Sjg]
 
 
 ## learning
@@ -99,7 +99,7 @@ html keys=
 - 
 
 ## TaskWarrior tags
-- https://taskwarrior.org/docs/tags.html
+- [https://taskwarrior.org/docs/tags.html]
 
 ### maybe modify...
 - [suckless' sent : simple plaintext presentation tool](https://tools.suckless.org/sent/) _**maybe add primitive markdown support**_
