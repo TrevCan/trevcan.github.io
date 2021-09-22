@@ -155,4 +155,4 @@ html keys=
 ## useful
 - [*using youtube-dl to download entire youtube channel*, 2021](https://askubuntu.com/questions/856911/using-youtube-dl-to-download-entire-youtube-channel)
 - [*how can i get the raw stream url of a iheartradio station.*, 2021](https://stackoverflow.com/questions/42043962/how-can-i-get-the-raw-stream-url-of-a-iheartradio-station/68795800#68795800)
-- 
+- [Weylus: Use your tablet as graphic tablet/touch screen on your computer.](https://github.com/H-M-H/Weylus)
