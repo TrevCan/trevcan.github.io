@@ -135,6 +135,8 @@ html keys=
 
 ### maybe read later...
 - [The Jigsaw of Independence *Putting together an independent life without falling apart*](https://tomcritchlow.com/2021/09/09/jigsaw/)
+- [groffTutorial, filetype:pdf](https://github.com/SubhadityaMukherjee/groffTutorial/blob/master/groffTutorial.pdf)
+- [groffMarkdown, same author above, [source, old.reddit.com I think it was hacker news](https://old.reddit.com/r/linux/comments/n2cc06/groff_with_wings/) ](https://github.com/SubhadityaMukherjee/pyGroff)
 - 
 
 ## nice music
