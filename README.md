@@ -191,3 +191,6 @@ html keys=
 - [avant garde music???](https://en.wikipedia.org/wiki/Avant-garde_music)
 
 # [At Least It Was Here / Community theme - (The 88 Cover)](https://youtu.be/CkDLH2a9Yyo)
+
+# more yt rss
+- [oflow](https://stackoverflow.com/questions/64232403/rss-feed-for-youtube-channels)
