@@ -137,6 +137,7 @@ html keys=
 - [The Jigsaw of Independence *Putting together an independent life without falling apart*](https://tomcritchlow.com/2021/09/09/jigsaw/)
 - [groffTutorial, filetype:pdf](https://github.com/SubhadityaMukherjee/groffTutorial/blob/master/groffTutorial.pdf)
 - [groffMarkdown, same author above, [source, old.reddit.com I think it was hacker news](https://old.reddit.com/r/linux/comments/n2cc06/groff_with_wings/) ](https://github.com/SubhadityaMukherjee/pyGroff)
+- [tjluoma/youtube-rss.sh](https://gist.github.com/tjluoma/fdbc63ceb78a2aecd3d638fd18b6ec6e)
 - 
 
 ## nice music
@@ -144,7 +145,14 @@ html keys=
 
 ### todo
 - make scrcpy android mirroring to laptop actuallly work!! https://github.com/Genymobile/scrcpy
-- 
+
+# joe
+- [father of neural nets/ AI: jeff hinton](https://www.cs.toronto.edu/~hinton/), [wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+- [tensorflow: Tinker With a Neural Network Right Here in Your Browser.](https://playground.tensorflow.org/)
+- [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+    - [Dijkstra's Algorithm CS225 Illinois university](https://courses.physics.illinois.edu/cs225/fa2021/resources/dijkstra/)
+- [TIDF algo some random technews site](https://www.glassdoor.com/Interview/What-is-the-TFIDF-algorithm-QTN_4110589.htm)
+- [probaly amazon's official idf algo](https://aws.amazon.com/marketplace/pp/prodview-yw4cvkljrukfm)
 - 
 
 ### math in GitHub flavored markdown ?
@@ -158,3 +166,28 @@ html keys=
 - [*using youtube-dl to download entire youtube channel*, 2021](https://askubuntu.com/questions/856911/using-youtube-dl-to-download-entire-youtube-channel)
 - [*how can i get the raw stream url of a iheartradio station.*, 2021](https://stackoverflow.com/questions/42043962/how-can-i-get-the-raw-stream-url-of-a-iheartradio-station/68795800#68795800)
 - [Weylus: Use your tablet as graphic tablet/touch screen on your computer.](https://github.com/H-M-H/Weylus)
+
+
+# login rangeforce
+- [rangeforce; login](http://portal.rangeforce.com/)
+
+
+
+# rnadom
+- [maybe secure email?](https://tutanota.com/)
+
+# chromium Hi-DPI scaling
+- basically how to scale the UI when connected to a big pixel monitor, e.g. 4k i want to be able to see lots of things. Would be nice to know how to automatically scale in 
+- [How to FIX Chromium HiDPI Scaling: \[closed\] ](https://stackoverflow.com/questions/37935305/how-to-fix-chromium-hidpi-scaling)
+- [whois this human ?](https://git.zx2c4.com/)
+- [xkcd](https://xkcd.com/how-to/)
+- [Add HTTP Headers (TLDR: Use -H argument)](https://catonmat.net/cookbooks/curl/add-http-headers)
+
+
+# idk man
+- [The Text Processor for Typesetters](https://troff.org/)
+- [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan)
+- [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
+- [avant garde music???](https://en.wikipedia.org/wiki/Avant-garde_music)
+
+# [At Least It Was Here / Community theme - (The 88 Cover)](https://youtu.be/CkDLH2a9Yyo)
