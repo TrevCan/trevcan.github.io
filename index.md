@@ -17,7 +17,7 @@
 
 - [GNU Aspell](http://aspell.net/){:target="_blank"}
 
-- 
+- [High-Intellect Mathematical Formatting with eqn! (groff and troff)](https://www.youtube.com/watch?v=sp0qgpeG6EY) 
 
 
 
