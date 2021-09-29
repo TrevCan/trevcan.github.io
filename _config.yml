@@ -3,3 +3,6 @@ theme: jekyll-theme-hacker
 include:
  - "www/**/*.md"
  - "*.md"
+
+plugins:
+  - jekyll-feed
