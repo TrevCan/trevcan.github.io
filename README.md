@@ -5,6 +5,11 @@
 
 - [beej.us](https://beej.us)'s Guide on C Programming ("rough draft", Beej): [original](http://beej.us/guide/bgc/), [my mirror](/mirrors/bgc/website) (Licensed under Attribution-NonCommercial-NoDerivatives 3.0 Unported CC BY-NC-ND 3.0, [license](/mirrors/bgc/LICENSE.md) )
 
+
+
+# aa
+- [airdrop but cross-platform; works with websockets and is LAN but a backend is still necessary to generate the websockets](https://snapdrop.net/) also, doesn't work great on ~600 MB files.
+
 <!--
 You can use the [editor on GitHub](https://github.com/TrevCan/trevcan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
