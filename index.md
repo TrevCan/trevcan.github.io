@@ -6,6 +6,7 @@
 # [later](/wl.md){:target="_blank"}
 
 
+- [gpg](/gpg.why){:target="_blank"}
 
 # john cena 
 
