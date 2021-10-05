@@ -21,6 +21,7 @@ any information regarding GnuPG acting up except for [\[0\]](#references), which
 
 
 ### references
+- P.S.: hyperlinks open in new tab
 - [\[0\] Why would GPG Pinentry be slow when opening in GUI but instantaneous when opening in CLI?](https://unix.stackexchange.com/questions/628092/why-would-gpg-pinentry-be-slow-when-opening-in-gui-but-instantaneous-when-openin){:target="_blank"}
 
 
