@@ -21,6 +21,8 @@ any information regarding GnuPG acting up except for [\[0\]](#references),
 which 
 
 ### reddit post
+[source: \[1\]](#references)
+
 First of all, your help, any help would be greatly appreciated.
 
 *Maybe this will be Unix/Linux specific, i don't really know.*
@@ -69,6 +71,8 @@ edit: add behaviour
 when opening in 
 CLI?](https://unix.stackexchange.com/questions/628092/why-would-gpg-pinentry-be-
 slow-when-opening-in-gui-but-instantaneous-when-openin){:target="_blank"}
+- [\[1\] pinentry slows down all of a sudden. old.reddit.com](https://old.reddit.com/r/GPGpractice/comments/q26tsf/pinentry_slows_down_all_of_a_sudden/?ref=share&ref_source=link){:target="_blank"}
+
 
 
 
