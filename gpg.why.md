@@ -479,7 +479,9 @@ exit_group(0)                           = ?
 - try with other kernels:
 	- linux-lts, linux
 
-
+# done
+- yes i've tried with normal lunux kernel and linux-lts and linux-zen. . same behaviour for both.
+- live boot off iso: yes, there os a change, just does it instantly lol, which rules out hardware !! yayyyy.
 
 ### references
 - P.S.: hyperlinks open in new tab
