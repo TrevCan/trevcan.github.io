@@ -491,4 +491,9 @@ CLI?](https://unix.stackexchange.com/questions/628092/why-would-gpg-pinentry-be-
 slow-when-opening-in-gui-but-instantaneous-when-openin){:target="_blank"}
 - [\[1\] pinentry slows down all of a sudden. old.reddit.com](https://old.reddit.com/r/GPGpractice/comments/q26tsf/pinentry_slows_down_all_of_a_sudden/?ref=share&ref_source=link){:target="_blank"}
 - [\[2\] neofetch ](/neofetch.html){:target="_blank"}
+	
 
+- [understanding Apple's binary propert lists files](https://medium.com/@karaiskc/understanding-apples-binary-property-list-format-281e6da00dbd)
+	
+	
+	
