@@ -65,6 +65,13 @@ something...
 
 edit: add behaviour
 
+## system
+Arch Linux. Hardware: T490. 16 GB RAM, 500 GB SSD. Intel core i7 8th gen.
+
+neofetch [\[2\]](#references)
+
+`Linux t490-4rch 5.14.9-zen2-1-zen #1 ZEN SMP PREEMPT Fri, 01 Oct 2021 19:03:23 +0000 x86_64 GNU/Linux`
+
 ### references
 - P.S.: hyperlinks open in new tab
 - [\[0\] Why would GPG Pinentry be slow when opening in GUI but instantaneous 
