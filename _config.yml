@@ -9,4 +9,3 @@ include:
 plugins:
   - jekyll-feed
 
-markdown: CommonMarkGhPages
