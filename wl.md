@@ -22,3 +22,8 @@
 
 {:target="_blank"}
 {:target="_blank"}
+
+- [understanding Apple's binary propert lists files](https://medium.com/@karaiskc/understanding-apples-binary-property-list-format-281e6da00dbd){:target="_blank"}
+	
+	
+	
