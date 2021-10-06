@@ -470,6 +470,15 @@ exit_group(0)                           = ?
 </p>
 </details>  
 
+# todo
+- try with other linux kernels (current one is zen)
+- boot off a live arch iso and test there... 
+- idk
+
+# inprogress
+- try with other kernels:
+	- linux-lts, linux
+
 
 
 ### references
