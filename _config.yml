@@ -8,12 +8,12 @@ include:
  - "*.md"
 
 plugins:
-  #  - jekyll-remote-theme 
+  - jekyll-remote-theme 
   - jemoji
   - jekyll_feed
 
 
-    # remote_theme: tareqdandachi/jekyll-shell-theme
+remote_theme: tareqdandachi/jekyll-shell-theme
 
 sass:
   style: compressed
