@@ -13,7 +13,7 @@ plugins:
   - jekyll_feed
 
 
-# remote_theme: tareqdandachi/jekyll-shell-theme
+remote_theme: tareqdandachi/jekyll-shell-theme
 
 sass:
   style: compressed
