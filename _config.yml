@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 title: [trevcan's blog static site]
 description: ["no, i don't serve cookies. Please [make your own](https://i.imgur.com/ksl2b1b.jpeg)"]
 
@@ -7,5 +7,12 @@ include:
  - "*.md"
 
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme 
+  - jemoji
+
+remote_theme: tareqdandachi/jekyll-shell-theme
+
+sass:
+  style: compressed
+    #  - jekyll-feed
 
