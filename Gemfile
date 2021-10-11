@@ -1,3 +1,3 @@
 gem 'jekyll-feed'
 gem 'github-pages'
-# gem 'jekyll-shell-theme'
+gem 'jekyll-shell-theme'
