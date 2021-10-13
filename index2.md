@@ -22,4 +22,4 @@
 
 
 
-
+- Convert from HTML to markdown: `pandoc -f html -t markdown bookmarks.html > bookmarks.md`
