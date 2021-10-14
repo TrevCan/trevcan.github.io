@@ -26,6 +26,7 @@ wl as in...
 {:target="_blank"}
 
 - [understanding Apple's binary propert lists files](https://medium.com/@karaiskc/understanding-apples-binary-property-list-format-281e6da00dbd){:target="_blank"}
+- [Making of: Prison Break *youtube.com*](https://youtube.com/playlist?list=PL5lba9VUYztkUKlzpoiwAmRHopDwqo7zA)
 	
 	
 	
