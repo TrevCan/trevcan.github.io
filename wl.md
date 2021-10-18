@@ -28,7 +28,10 @@ wl as in...
 - [understanding Apple's binary propert lists files](https://medium.com/@karaiskc/understanding-apples-binary-property-list-format-281e6da00dbd){:target="_blank"}
 - [Making of: Prison Break *youtube.com*](https://youtube.com/playlist?list=PL5lba9VUYztkUKlzpoiwAmRHopDwqo7zA)
 - [ncdu — Simple ncurses disk usage analyzer](https://dev.yorhel.nl/ncdu) ncdu:archlinux
+
+### maybe watch??? 
 - [5 Reasons Why DWM is My Favorite Window Manager, **The Linux Cast**, *youtube.com*](https://www.youtube.com/watch?v=83JwMLUS04E)
+- [DistroTube video on xmonad vs dwm]
 	
 	
 	
