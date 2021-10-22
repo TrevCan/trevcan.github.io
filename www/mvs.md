@@ -1,4 +1,11 @@
 # MB’s
+
+## Julian's recommended
+- Mid90s (2018), _written and directed by the legendary **Jonah Hill**_
+- NeonGenesis Evangelion (1995). Japanese, apocalyptic, idk and also a lot of things!!
+- sorry Julian idk remember if you said any more
+
+
 - Matrix
 - Daylib (John carpenter)
 - D de venganza
