@@ -1,4 +1,10 @@
 theme: jekyll-theme-hacker
 
+include:
+   - "www/**/*.md"
+   - "*.md"
+   - "www/*.md"
+
 plugins:
   - jekyll-feed
+
