@@ -1,6 +1,4 @@
-...
 {% feed_meta %}
-...
 
 # Trevcan's blog/website/githubio/thingy/towhichidkhowto/actually/install/jekyll/pluings
 
