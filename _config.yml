@@ -5,6 +5,6 @@ include:
    - "*.md"
    - "www/*.md"
 
-plugins:
-  - jekyll-feed
+     # plugins:
+     #   - jekyll-feed
 
