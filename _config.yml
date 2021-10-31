@@ -7,4 +7,8 @@ include:
 
      # plugins:
      #   - jekyll-feed
+     #
+description: ["no, i don't serve cookies. Please [make your own](https://i.imgur.com/ksl2b1b.jpeg)"]
+
+     # -description: ["no, i don't serve cookies. Please [make your own](https://i.imgur.com/ksl2b1b.jpeg)"]
 
