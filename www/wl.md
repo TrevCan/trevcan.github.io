@@ -10,6 +10,9 @@ wl as in...
 - read on how to use `libcurl`, `man libcurl-tutorial`
 - figure out why YCM (YouCompleteMe vim plugin) cannot compile, something to do with python http requests!?
 - [libcurl: simple.c](https://curl.se/libcurl/c/simple.html)
+- [Manifesto: Early Retirement Extreme](https://earlyretirementextreme.com/manifesto.html)
+- [_**warning: very much ad-filled with pop ups and a lot of cookies!**_ Early Retirement Extreme: The ten-year update](https://www.getrichslowly.org/early-retirement-extreme/)
+- [Maximize Serendipity, *Early Retirement Extreme*](https://wiki.earlyretirementextreme.com/wiki/What_is_ERE%3F#Maximize_Serendipity)
 
 
 --------------------------
