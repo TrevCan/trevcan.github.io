@@ -40,6 +40,7 @@
 
 - The secret life of Walter Mitty 
 
+- Idk; Una verdad incómoda de Algor (2006)
 
 
 - 500 days of summer
@@ -79,3 +80,14 @@
 - Comer, rezar y amar 
 - 2001, A Space Odyssey 
 - The Waking Life
+
+
+# Pau
+
+- Chocolat (2001, fr)
+- The Devil Wears Prada (2006), prequel to ‘The Intern’ w/ Anne Hathaway
+- The Night Manager (2016)
+- Intouchables (2011)
+- 
+- LE FABULEUX DESTIN D'AMÉLIE POULAIN (2001) // Amélie de Montmartre
+- Sherlock (Tv series)
