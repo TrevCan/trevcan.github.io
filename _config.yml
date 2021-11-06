@@ -17,7 +17,7 @@ defaults:
   -
     scope:
       path: "/www/*.md"
-        type: "posts"
+      type: "posts"
     values:
       layout: "post"
 
