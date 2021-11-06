@@ -1,14 +1,32 @@
-theme: jekyll-theme-hacker
+title: Trevcan's blog
+description: "Trevcan's wannabe hacker blog idk."
+author:
+  name: "Trevcan Hector Canizales"
+  email: "hector [dot] canizales `at` tuta [dot] io"
+  url: "https://trevcan.github.io"
 
-include:
-   - "www/**/*.md"
-   - "*.md"
-   - "www/*.md"
+baseurl: /
 
-     # plugins:
-     #   - jekyll-feed
-     #
-description: ["no, i don't serve cookies. Please [make your own](https://i.imgur.com/ksl2b1b.jpeg)"]
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
 
-     # -description: ["no, i don't serve cookies. Please [make your own](https://i.imgur.com/ksl2b1b.jpeg)"]
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "Hector Canizales"
+year : "2021~∞"
