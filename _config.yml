@@ -16,7 +16,7 @@ paginate_path: /page/:num/
 defaults:
   -
     scope:
-      path: "www/*.md"
+      path: "/www/*.md"
         type: "posts"
     values:
       layout: "post"
