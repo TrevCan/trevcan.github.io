@@ -16,16 +16,10 @@ paginate_path: /page/:num/
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path: "***.md"
+        # type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: "/www/*.md"
-    values:
-      layout: "post"
-
 
 include:
    - "www/**/*.md"
