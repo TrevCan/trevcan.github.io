@@ -1,0 +1,205 @@
+<!DOCTYPE html><html><head>
+		<title>Why is GnuPG acting up ? </title>
+		<link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/b/ba/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /random/yourpath $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link">/atom</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+<!--<div class="container">-->
+
+	<h1>Why is GnuPG acting up ? </h1>
+
+	<i>Last edited: 11/09/21 00:00:56 </i>
+
+<p>
+After trying several things to fix encryption and decryption in GnuPG I have no 
+real hopes. I honestly don't know what to do but to keep asking. I've searched on 
+stackoverflow for pinentry and gpg-agent acting up and taking too much time and 
+I only found one stack overflow question [\[0\]](#references) which didn't get
+that close to my issue.
+It slows down when using the pinentry-curses, pinentry-gtk-2 binaries.
+</p>
+
+<h1> the problem</h1>
+<p>
+I've been using the [https://passwordstore.org] program for quite a while now,
+about 8 months I'd say. All was going well until about 3 weeks ago. I don't 
+know what happened, what caused it or why. Pass started acting up, it took from
+20 to 30 seconds what used to take literally 1 second. The pinentry-gtk-2 
+program was taking a whole lot of time to start. So I dug deeper. Eventually I
+found out that it definitely had something to do with GnuPG as decrypting
+files directly through GnuPG also yielded the same results, after all, pass is
+just a bash script that uses gpg encryption and decryption commands. So then I
+went searching on the internets and it was pretty bad. I couldn't really find
+any information regarding GnuPG acting up except for [\[0\]](#references), 
+which 
+</p>
+
+<h3> reddit post</h3>
+<p>
+[source: \[1\]](#references)
+</p>
+<p>
+First of all, your help, any help would be greatly appreciated.
+</p>
+<p>
+<i>Maybe this will be Unix/Linux specific, i don't really know.</i>
+</p>
+<p>
+Hello. I've tried almost* everything to get gpg up and running but it just, 
+won't work! So, storytime. Almost after I went full linux I stumbled upon 
+<a href="http://passwordstore.org">pass</a>, a great tool to manage passwords in a 
+convenient way. I've been using it for around 8-9 months. And it's worked like 
+a charm, until about 3 weeks ago. I don't know if this was a system upgrade or 
+something but point is, it just slowed way down. When requesting a password, 
+it'd take anywhere from 20 to 40 seconds to just show the pinentry binary (the 
+one that asks you for the password), in particular, the <code>pinentry-gtk-2</code>, but 
+guess what? I tried using the ncurses version also and it didn't work! I tried 
+decrypting and encrypting files directly by using gpg, but yielded the same 
+results!, cause after all, <code>pass</code> is just a bash script that uses gpg commands 
+for encryption and decryption. So, yeah. After that, I tried searching on the 
+internets, but didn't stumble upon anything at all except for 
+[this](https://unix.stackexchange.com/questions/628092/why-would-gpg-pinentry-be
+-slow-when-opening-in-gui-but-instantaneous-when-openin) which didn't seem to 
+solve the problem, as my problem happened with all <code>pinentry*</code> binaries (yes, 
+even <code>pinentry-tty</code> !!). I tried the solution but it didn't work. Later on, 
+actually yesterday, I hopped onto libera IRC to join the <code>gnupg</code> channel, as 
+suggested by members in the <code>pass</code> channel, as this is clearly much more 
+specific to gpg. In the <code>gnupg</code> channel I had the fortune to be able to talk to 
+someone to walk me through a ton of things. Testing, after testing and testing. 
+We even tried creating less-resource intensive keys, creating temporary gnu 
+directories to store keys in, et cetera. I'm documenting most (if not all, ) 
+this info at <a href="https://trevcan.github.io/gpg.why">this website</a> .
+</p>
+<p>
+**Also, I should point out that the behaviour is not intermittent, _it is 
+definitely constant_. I do have a password cache enabled, but every time time 
+has passed or I manually clear the password cache (with `echo RELOADAGENT | 
+gpg-connect-agent<code> and then </code>gpgconf --kill all`) the same behaviour happens.**
+</p>
+<p>
+I haven't tried this yet, but maybe later in the day I'll try booting off a 
+linux arch iso and trying to install gpg and checking if it's my laptop or 
+something...
+</p>
+<p>
+*maybe i will reinstall arch linux
+</p>
+<p>
+edit: add behaviour
+</p>
+
+<h2> system</h2>
+<p>
+Arch Linux. Hardware: T490. 16 GB RAM, 500 GB SSD. Intel core i7 8th gen.
+</p>
+<p>
+neofetch [\[2\]](#references)
+</p>
+
+<pre><code>
+&#36; uname --all
+Linux t490-4rch 5.14.9-zen2-1-zen #1 ZEN SMP PREEMPT Fri, 01 Oct 2021 19:03:23 +0000 x86_64 GNU/Linux
+</code></pre>
+
+<h2> logs</h2>
+<p>
+<code>strace pass show Test/random &gt; strace.pass.show.test.random.out 2&gt;&amp;1</code>
+</p>
+
+<h1> todo</h1>
+
+<ul>
+<li>try with other linux kernels (current one is zen)</li>
+<li>boot off a live arch iso and test there... </li>
+<li>idk</li>
+</ul>
+
+<h1> inprogress</h1>
+
+<ul>
+<li>try with other kernels:</li>
+	- linux-lts, linux
+</ul>
+
+<h1> done</h1>
+
+<ul>
+<li>yes i've tried with normal lunux kernel and linux-lts and linux-zen. . same behaviour for both.</li>
+<li>live boot off iso: yes, there os a change, just does it instantly lol, which rules out hardware !! yayyyy.</li>
+</ul>
+
+<h3> references</h3>
+
+<ul>
+<li>P.S.: hyperlinks open in new tab</li>
+<li>[\[0\] Why would GPG Pinentry be slow when opening in GUI but instantaneous </li>
+when opening in 
+CLI?](https://unix.stackexchange.com/questions/628092/why-would-gpg-pinentry-be-
+slow-when-opening-in-gui-but-instantaneous-when-openin){:target="_blank"}
+<li>[\[1\] pinentry slows down all of a sudden. old.reddit.com](https://old.reddit.com/r/GPGpractice/comments/q26tsf/pinentry_slows_down_all_of_a_sudden/?ref=share&amp;ref_source=link){:target="_blank"}</li>
+<li>[\[2\] neofetch ](/neofetch.html){:target="_blank"}</li>
+	
+</ul>
+
+<ul>
+<li><a href="https://medium.com/@karaiskc/understanding-apples-binary-property-list-format-281e6da00dbd">understanding Apple's binary propert lists files</a></li>
+	
+	
+	
+</ul>
+<!--</div>-->
+</div>
+<footer>
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>
