@@ -45,3 +45,4 @@ wl as in...
 ### maybe watch??? 
 - [5 Reasons Why DWM is My Favorite Window Manager, **The Linux Cast**, *youtube.com*](https://www.youtube.com/watch?v=83JwMLUS04E)
 - [DistroTube video on xmonad vs dwm]
+- [whatis a word](https://www.ling.upenn.edu/courses/Fall_2007/ling001/morphology.html)
