@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">trevcan's blog</title>
 <subtitle type="text">the blog by trevcan</subtitle>
-<updated>2021-11-09T06:07:10Z</updated>
+<updated>2021-11-09T17:29:25Z</updated>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit"/>
 <id>http://trevcan.github.io/blogit/atom.xml</id>
 <link rel="self" type="application/atom+xml" href="http://trevcan.github.io/blogit/atom.xml"/>
@@ -10,8 +10,8 @@
 <title type="text">404</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/404.html"/>
 <id>http://trevcan.github.io/blogit/404.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">This page does not exist. [Go back]({{ "/" | prepend: site.baseurl | replace: '//', '/' }}).</summary>
 </entry>
@@ -19,8 +19,8 @@
 <title type="text">title: TrevCan REadme</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/README.html"/>
 <id>http://trevcan.github.io/blogit/README.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text"># Trevcan README</summary>
 </entry>
@@ -28,8 +28,8 @@
 <title type="text">about:Trevcan</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/about.html"/>
 <id>http://trevcan.github.io/blogit/about.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">Hello there, I'm a human! I'm into programming, computers, and of course,
 the beloved *linux*. I like learning about new things, and enjoy riding
@@ -40,8 +40,8 @@ and breathing</summary>
 <title type="text">Bookmarks</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/bookmarks.html"/>
 <id>http://trevcan.github.io/blogit/bookmarks.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text"># Bookmarks</summary>
 </entry>
@@ -49,8 +49,8 @@ and breathing</summary>
 <title type="text">courses</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/courses.html"/>
 <id>http://trevcan.github.io/blogit/courses.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">- [NDG Linux Unhatched English 0421b](https://www.netacad.com/courses/os-it/ndg-linux-unhatched){:target="_blank"}
 - [Linux Journey *; learn the ways of Linux-fu, for free*](https://linuxjourney.com/){:target="_blank"}</summary>
@@ -59,8 +59,8 @@ and breathing</summary>
 <title type="text">Arch Linux Bulletin Board System Post</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/gpg.why.bbs.html"/>
 <id>http://trevcan.github.io/blogit/gpg.why.bbs.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text"> 
 First of all, your help, any help would be greatly appreciated.
@@ -83,8 +83,8 @@ any information regarding GnuPG besides [0]</summary>
 <title type="text">Why is GnuPG acting up ? </title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/gpg.why.html"/>
 <id>http://trevcan.github.io/blogit/gpg.why.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">After trying several things to fix encryption and decryption in GnuPG I have no 
 real hopes. I honestly don't know what to do but to keep asking. I've searched on 
@@ -97,8 +97,8 @@ It slows down when using the pinentry-curses, pinentry-gtk-2 binaries.</summary>
 <title type="text">Learn how to use pedantic.software/git/blogit !!</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/idk-learn-pedantics-blogit.html"/>
 <id>http://trevcan.github.io/blogit/idk-learn-pedantics-blogit.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">originally posted on : 2021-11-06
 # Hello there,</summary>
@@ -107,8 +107,8 @@ It slows down when using the pinentry-curses, pinentry-gtk-2 binaries.</summary>
 <title type="text">LogLuke: "Will you ever stand up for yourself"</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/log-luke-stand-up-thy-self.html"/>
 <id>http://trevcan.github.io/blogit/log-luke-stand-up-thy-self.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">although Luke of course shares some of his personal beliefs,
 he **ultimately encourages** humans to do what they **think is right**
@@ -118,8 +118,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text">Main</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/main.html"/>
 <id>http://trevcan.github.io/blogit/main.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text"># helloooooo</summary>
 </entry>
@@ -127,8 +127,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text">Movies</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/mvs.html"/>
 <id>http://trevcan.github.io/blogit/mvs.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">## Julian's recommended
 - Mid90s (2018), _written and directed by the legendary **Jonah Hill**_
@@ -139,8 +139,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text">quotes</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/quotes.html"/>
 <id>http://trevcan.github.io/blogit/quotes.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">- > So don't be afraid; your heart is in me, and it's racing so fast now. 
   > 'Cause everything we ever were or ever will be is shapeless as a changing cloud.
@@ -151,8 +151,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text"></title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/sk.html"/>
 <id>http://trevcan.github.io/blogit/sk.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text"></summary>
 </entry>
@@ -160,8 +160,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text"></title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/tecbot.html"/>
 <id>http://trevcan.github.io/blogit/tecbot.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text"></summary>
 </entry>
@@ -169,8 +169,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text"># trevcan.github.io/wl</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/wl.html"/>
 <id>http://trevcan.github.io/blogit/wl.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">wl as in...
 # watch later</summary>
@@ -179,8 +179,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text"></title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/www.html"/>
 <id>http://trevcan.github.io/blogit/www.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text"></summary>
 </entry>
@@ -188,8 +188,8 @@ and to be autonomous /independent in a sense.</summary>
 <title type="text">finally blog it!</title>
 <link rel="alternate" type="text/html" href="http://trevcan.github.io/blogit/yayy.html"/>
 <id>http://trevcan.github.io/blogit/yayy.html</id>
-<published>2021-11-09T00:06:44Z</published>
-<updated>2021-11-09T00:06:44Z</updated>
+<published>2021-11-09T11:28:55Z</published>
+<updated>2021-11-09T11:28:55Z</updated>
 <author><name>Hector Canizales</name></author>
 <summary type="text">Hello there, I've just finished mygration of my website
 over to [my fork of blogit](https://github.com/trevcan/blogit)
