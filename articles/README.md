@@ -1,8 +1,4 @@
----
-title: TrevCan REadme! from www/
-published: true
----
-
+title: TrevCan REadme
 
 # Trevcan README
 

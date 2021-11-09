@@ -1,4 +1,4 @@
-# Arch Linux Bulletin Board System Post
+Arch Linux Bulletin Board System Post
  
 First of all, your help, any help would be greatly appreciated.
  
