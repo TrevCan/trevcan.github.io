@@ -21,7 +21,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -204,4 +205,4 @@ html keys=
 - [oflow](https://stackoverflow.com/questions/64232403/rss-feed-for-youtube-channels)
 
 
-tags; lire moi, random links
+tags: lire-moi, random-links
