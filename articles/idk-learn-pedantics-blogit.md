@@ -1,8 +1,6 @@
----
-title: Learn how to use pedantic.software/git/blogit !!
-published: true
----
+Learn how to use pedantic.software/git/blogit !!
 
+originally posted on : 2021-11-06
 # Hello there,
 
 I've been trying out several bloggin systems but none of them seem to work
