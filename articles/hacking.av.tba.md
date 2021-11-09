@@ -16,3 +16,5 @@ friendly request to retrieve data. Just remember to assign the HTTP header
 `X-TBA-Auth-Key` to the API key you receive.
 
 ### 
+
+;tags: tecbot TBA API C
