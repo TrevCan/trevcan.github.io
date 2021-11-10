@@ -1,7 +1,5 @@
 Bookmarks
 
-# Bookmarks
-
 ### Bookmarks bar {#bookmarks-bar add_date="1628991664" last_modified="1634164207" personal_toolbar_folder="true"}
 
 ### kbs {#kbs add_date="1628992714" last_modified="1629814053"}
@@ -562,4 +560,4 @@ Fr](https://www.itseyeris.com/book/ocr-gcse-computer-science-9-1-j277)
 [ISBN 1910523216 pdf at
 DuckDuckGo](https://duckduckgo.com/?q=+ISBN+1910523216+pdf&ia=web)
 
-tags; html-bookmarks ugly-unformatted-html
+;tags: html-bookmarks ugly-unformatted-html
