@@ -4,6 +4,11 @@
 
 Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
 
+#### Dependencies
+- rsync
+- git
+- make
+
 ### Included
 
 1. Pagination
