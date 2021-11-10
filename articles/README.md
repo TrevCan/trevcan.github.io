@@ -1,7 +1,4 @@
-title: TrevCan REadme
-
-# Trevcan README
-
+Trevcan Readme
 
 ### Guides that I like.
 
