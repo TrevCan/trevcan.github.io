@@ -1,4 +1,6 @@
-LogLuke: "Will you ever stand up for yourself"
+Luke: 'Will you ever stand up for yourself ?'
+
+[his video](https://videos.lukesmith.xyz/w/aWCVkSQTXKJ1yuR6o8zjDY)
 
 although Luke of course shares some of his personal beliefs,
 he **ultimately encourages** humans to do what they **think is right**
