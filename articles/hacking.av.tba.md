@@ -1,4 +1,4 @@
-# Hacking with The Blue Alliance 
+Hacking with The Blue Alliance 
 
 Another year, another FRC Season. I'm currently in the Tecbot 3158 First 
 Robotics Competition, a great way in which students of all STEM fields can
