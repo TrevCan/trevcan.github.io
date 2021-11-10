@@ -81,6 +81,7 @@ blog/index.html: $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsuffix .htm
 	export BLOG_WEBSITE_NAME="$(BLOG_WEBSITE_NAME)"; \
 	export BLOG_AUTHOR_ALIAS="$(BLOG_AUTHOR_ALIAS)"; \
 	export BLOG_AUTHOR="$(BLOG_AUTHOR)"; \
+	export BLOG_URL_ROOT="$(BLOG_URL_ROOT)" ; \
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/index_header.html >> $@; \
 	envsubst < templates/tag_list_header.html >> $@; \
@@ -153,6 +154,7 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	export BLOG_WEBSITE_NAME="$(BLOG_WEBSITE_NAME)"; \
 	export BLOG_AUTHOR_ALIAS="$(BLOG_AUTHOR_ALIAS)"; \
 	export BLOG_AUTHOR="$(BLOG_AUTHOR)"; \
+	export BLOG_URL_ROOT="$(BLOG_URL_ROOT)"; \
 	AUTHOR="$(shell git log -n 1 --reverse --format="%cn" -- "$<")"; \
 	export AUTHOR; \
 	DATE_POSTED="$(shell git log --diff-filter=A --date="format:$(BLOG_DATE_FORMAT)" --pretty=format:'%ad' -- "$<")"; \
@@ -234,16 +236,18 @@ redirects:
 		printf "Found\n\t$$target\n\t\t" ; \
 		cat $$target;  \
 		target_html=$${$\target%.redirect}.html ; \
-		echo "$${new}" ; \
-		cat $$target ; \
-		BLOG_REDIRECT_TARGET="$$(cat $$target | tr -d '\n')" ; \
-		export BLOG_REDIRECT_TITLE="$$(./get_title.sh $$BLOG_REDIRECT_TARGET)" ; \
-		export BLOG_REDIRECT_TARGET="$$(cat $$target)" ; \
-		export BLOG_REDIRECT_TIME="$(BLOG_REDIRECT_TIME)" ; \
-		export BLOG_AUTHOR="$(BLOG_AUTHOR)"; \
-		export BLOG_AUTHOR_ALIAS="$(BLOG_AUTHOR_ALIAS)"; \
-		export TITLE="$(BLOG_TITLE)"; \
-		export BLOG_URL_ROOT="$(BLOG_URL_ROOT)" ; \
-		export BLOG_WEBSITE_NAME="$(BLOG_WEBSITE_NAME)"; \
-		envsubst < templates/redirect.html > $$target_html ; \
-	done;   \
+		if [[ ! -a $$target_html ]] ; then   \
+			echo "$${new}" ; \
+			cat $$target ; \
+			BLOG_REDIRECT_TARGET="$$(cat $$target | tr -d '\n')" ; \
+			export BLOG_REDIRECT_TITLE="$$(./get_title.sh $$BLOG_REDIRECT_TARGET)" ; \
+			export BLOG_REDIRECT_TARGET="$$(cat $$target)" ; \
+			export BLOG_REDIRECT_TIME="$(BLOG_REDIRECT_TIME)" ; \
+			export BLOG_AUTHOR="$(BLOG_AUTHOR)"; \
+			export BLOG_AUTHOR_ALIAS="$(BLOG_AUTHOR_ALIAS)"; \
+			export TITLE="$(BLOG_TITLE)"; \
+			export BLOG_URL_ROOT="$(BLOG_URL_ROOT)" ; \
+			export BLOG_WEBSITE_NAME="$(BLOG_WEBSITE_NAME)"; \
+			envsubst < templates/redirect.html > $$target_html ; \
+		fi ; \
+		done;   \
