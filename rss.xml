@@ -8,21 +8,21 @@
 <title>404</title>
 <link>http://trevcan.github.io//404.html</link>
 <guid>http://trevcan.github.io//404.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>This page does not exist. [Go back]({{ "/" | prepend: site.baseurl | replace: '//', '/' }}).</description>
 </item>
 <item>
 <title>Trevcan Readme</title>
 <link>http://trevcan.github.io//README.html</link>
 <guid>http://trevcan.github.io//README.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>These are just some useful links</description>
 </item>
 <item>
 <title>about:Trevcan</title>
 <link>http://trevcan.github.io//about.html</link>
 <guid>http://trevcan.github.io//about.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>Hello there, I'm a human! 
 I'm into programming, computers, and of course,
 the beloved *linux* (I use [arch](http://archlinux.org) btw).
@@ -31,17 +31,28 @@ bikes, reading books such as 1984 (George Orwell), talking to people,
 and breathing.</description>
 </item>
 <item>
+<title>En parlant français</title>
+<link>http://trevcan.github.io//blooaub.html</link>
+<guid>http://trevcan.github.io//blooaub.html</guid>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
+<description>Bonjour, ça c'est seulement un petit blog post
+où j'essaye parler français et aussi pour vérifier
+que le système autonome fonctionne. Le suivants mots
+monteraient un peux de comme fonctionne le système pour
+faire le blog possible.</description>
+</item>
+<item>
 <title>Bookmarks</title>
 <link>http://trevcan.github.io//bookmarks.html</link>
 <guid>http://trevcan.github.io//bookmarks.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>### Bookmarks bar {#bookmarks-bar add_date="1628991664" last_modified="1634164207" personal_toolbar_folder="true"}</description>
 </item>
 <item>
 <title>courses</title>
 <link>http://trevcan.github.io//courses.html</link>
 <guid>http://trevcan.github.io//courses.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>- [NDG Linux Unhatched English 0421b](https://www.netacad.com/courses/os-it/ndg-linux-unhatched){:target="_blank"}
 - [Linux Journey *; learn the ways of Linux-fu, for free*](https://linuxjourney.com/){:target="_blank"}</description>
 </item>
@@ -49,7 +60,7 @@ and breathing.</description>
 <title>Arch Linux Bulletin Board System Post</title>
 <link>http://trevcan.github.io//gpg.why.bbs.html</link>
 <guid>http://trevcan.github.io//gpg.why.bbs.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description> 
 First of all, your help, any help would be greatly appreciated.
  
@@ -71,7 +82,7 @@ any information regarding GnuPG besides [0]</description>
 <title>Why is GnuPG acting up ? </title>
 <link>http://trevcan.github.io//gpg.why.html</link>
 <guid>http://trevcan.github.io//gpg.why.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>After trying several things to fix encryption and decryption in GnuPG I have no 
 real hopes. I honestly don't know what to do but to keep asking. I've searched on 
 stackoverflow for pinentry and gpg-agent acting up and taking too much time and 
@@ -83,7 +94,7 @@ It slows down when using the pinentry-curses, pinentry-gtk-2 binaries.</descript
 <title>Hacking with The Blue Alliance </title>
 <link>http://trevcan.github.io//hacking.av.tba.html</link>
 <guid>http://trevcan.github.io//hacking.av.tba.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>Another year, another FRC Season. I'm currently in the Tecbot 3158 First 
 Robotics Competition, a great way in which students of all STEM fields can
 show their abilities through teamwork. </description>
@@ -92,7 +103,7 @@ show their abilities through teamwork. </description>
 <title>Learn how to use pedantic.software/git/blogit !!</title>
 <link>http://trevcan.github.io//idk-learn-pedantics-blogit.html</link>
 <guid>http://trevcan.github.io//idk-learn-pedantics-blogit.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>originally posted on : 2021-11-06
 # Hello there,</description>
 </item>
@@ -100,14 +111,14 @@ show their abilities through teamwork. </description>
 <title>Main</title>
 <link>http://trevcan.github.io//main.html</link>
 <guid>http://trevcan.github.io//main.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description># quick links</description>
 </item>
 <item>
 <title>Movies</title>
 <link>http://trevcan.github.io//mvs.html</link>
 <guid>http://trevcan.github.io//mvs.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>## Julian's recommended
 - Mid90s (2018), _written and directed by the legendary **Jonah Hill**_
 - NeonGenesis Evangelion (1995). Japanese, apocalyptic, idk and also a lot of things!!
@@ -117,7 +128,7 @@ show their abilities through teamwork. </description>
 <title>quotes</title>
 <link>http://trevcan.github.io//quotes.html</link>
 <guid>http://trevcan.github.io//quotes.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>- > So don't be afraid; your heart is in me, and it's racing so fast now. 
   > 'Cause everything we ever were or ever will be is shapeless as a changing cloud.
   (*Endless Dream, by Conjure One*; song)
@@ -127,14 +138,14 @@ show their abilities through teamwork. </description>
 <title>Luke: 'Will you ever stand up for yourself ?'</title>
 <link>http://trevcan.github.io//stand-up-thy-self.html</link>
 <guid>http://trevcan.github.io//stand-up-thy-self.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>[his video](https://videos.lukesmith.xyz/w/aWCVkSQTXKJ1yuR6o8zjDY)</description>
 </item>
 <item>
 <title>watch later</title>
 <link>http://trevcan.github.io//wl.html</link>
 <guid>http://trevcan.github.io//wl.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>wl as in...
 [#](#) watch later</description>
 </item>
@@ -142,7 +153,7 @@ show their abilities through teamwork. </description>
 <title>finally blog it!</title>
 <link>http://trevcan.github.io//yayy.html</link>
 <guid>http://trevcan.github.io//yayy.html</guid>
-<pubDate>Tue, 09 Nov 2021 19:38:09 -0600</pubDate>
+<pubDate>Tue, 09 Nov 2021 22:02:36 -0600</pubDate>
 <description>Hello there, I've just finished mygration of my website
 over to [my fork of blogit](https://github.com/trevcan/blogit)
 and so far so good. Just have to fix up the 404 and should
