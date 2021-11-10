@@ -1,5 +1,7 @@
 Trevcan Readme
 
+These are just some useful links
+
 ### Guides that I like.
 
 - [beej.us](https://beej.us)'s Guide on C Programming ("rough draft", Beej): [original](http://beej.us/guide/bgc/), [my mirror](/mirrors/bgc/website) (Licensed under Attribution-NonCommercial-NoDerivatives 3.0 Unported CC BY-NC-ND 3.0, [license](/mirrors/bgc/LICENSE.md) )
@@ -86,7 +88,7 @@ html keys=
 
 =======
 ## `aw3s0me`
-- Monticello, R. T. V. [ReasonTV]. (2021, August 23). This Hacker Is Teaching a Smartphone App to Drive Your Car [Video]. YouTube. [https://www.youtube.com/watch?v=XpUyL3IuULo&feature=youtu.be] (CC BY)
+- [Monticello, R. T. V. *ReasonTV*. (2021, August 23). This Hacker Is Teaching a Smartphone App to Drive Your Car \Video\. YouTube.](https://www.youtube.com/watch?v=XpUyL3IuULo&feature=youtu.be)
 
 
 ### wooowww
@@ -99,8 +101,10 @@ html keys=
 - [GWM, the Generic Window Manager, 2004, tronche.com](https://tronche.com/gui/x/gwm/)
 - [Overview of the X Window System, tronche.com](https://tronche.com/gui/x/xlib/introduction/overview.html)
 - [Xlib programming: a short tutorial, tronche.com](https://tronche.com/gui/x/xlib-tutorial/)
+
 ##security
 - [pass: the standard unix password manager](https://www.passwordstore.org/)
+  - works pretty good imo
 - 
 
 ## TaskWarrior tags
@@ -110,7 +114,6 @@ html keys=
 - [suckless' sent : simple plaintext presentation tool](https://tools.suckless.org/sent/) _**maybe add primitive markdown support**_
 - 
 
-**[trevcan's Hacker News submissions](https://news.ycombinator.com/submitted?id=trevcanhuman)
 
 - learn [irssi](https://irssi.org/documentation/startup/)
 - learn [gzip](https://en.wikipedia.org/wiki/Gzip)
@@ -130,11 +133,12 @@ html keys=
 - [news](https://news.ycombinator.com/news) 
 - [news Frequent Asked Questions](https://news.ycombinator.com/newsfaq.html)
 - [news Guidelines](https://news.ycombinator.com/newsguidelines.html)
-- 
+- [trevcan's Hacker News submissions](https://news.ycombinator.com/submitted?id=trevcanhuman)
 
 ### pastebins
 - [bpa.st](https://bpa.st/)
 - [ghostbin.com](https://ghostbin.com/)
+- [the null pointer](https://0x0.st)
 - 
 
 
@@ -191,7 +195,9 @@ html keys=
 
 
 # idk man
-- [The Text Processor for Typesetters](https://troff.org/)
+- [Nice formatting alternative to MS word: The Text Processor for Typesetters](https://troff.org/)
+  - also, i look kinda like a hacker when writing in a terminal i guess.
+  	Just spitballing here. 
 - [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan)
 - [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
 - [avant garde music???](https://en.wikipedia.org/wiki/Avant-garde_music)
@@ -199,7 +205,7 @@ html keys=
 # [At Least It Was Here / Community theme - (The 88 Cover)](https://youtu.be/CkDLH2a9Yyo)
 
 # more yt rss
-- [oflow](https://stackoverflow.com/questions/64232403/rss-feed-for-youtube-channels)
+- [*stackoverflow.com*](https://stackoverflow.com/questions/64232403/rss-feed-for-youtube-channels)
 
 
-;tags: readme, random-links
+;tags: readme random-links quick-links
