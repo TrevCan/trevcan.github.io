@@ -1,0 +1,122 @@
+<!DOCTYPE html><html><head>
+		<title>How do I fix this blogit?</title>
+		<meta charset="utf-8">
+		<link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/b/ba/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="http://trevcan.github.io/">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /random/yourpath $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link">/atom</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+<!--<div class="container">-->
+
+	<h1>How do I fix this blogit?</h1>
+
+	<i>Last edited: 11/10/21 18:41:11 </i>
+
+<p>
+hey there, I hope you are having a nice day.
+Today was a much more intersting day than the rest of the week,
+I got to actually deploy my <a href="http://trevcan.duckdns.org/blog">blog mirror</a>
+and it literally looks exactly like on github, exect that mime types
+are not auto-completed like in github, e.g. i can type something like
+</p>
+<pre><code>
+http://trevcan.github.io/index
+</code></pre>
+<p>
+and it will be the same as 
+</p>
+<pre><code>
+http://trevcan.github.io/index.html
+</code></pre>
+<p>
+and so on. I guess there's some plugin in <i>nginx</i> that I can use or something.
+Should also add https or something, although since I'm not hosting any 
+arbitrary code, it is simply rendering html and css (no js folks!) it shouldn't
+be a problem, right?
+</p>
+<p>
+--------------------------------
+Well, onto another random thing. There's a problem with 
+<a href="http://github.com/trevcan/blogit"><i>blogit</i></a>
+(<a href="http://trevcan.duckdns.org/git/blogit/log.html">mirror</a>
+. See, the issue is that sometimes I deploy it and it works perfectly. The most 
+recent article pops up at the top of the index html file but sometimes, more like
+almost every time it stops working out of nowhere! Github and my computer and
+my home server all react the same way as long as they were on the same commit/
+working directory etc.... When this happens, **every article gets the same edit
+date** which is nuts! And then for some weird reason the 404 article pops up
+right at the top! <a href="https://archive.md/9Fn0i/image">look!</a>
+</p>
+<p>
+So yeah I'm not sure how I'll tackle this problem.  I was doing some light 
+testing and I think when one of the build directories existen the commit date/
+last edited date worked correctly and most recent articles were always at
+the top. I guess I'll look into that.
+</p>
+<p>
+Also, as you might have noticed, I now have a static html thingy showing
+some git repos. the server works and everything and I'm using
+<a href="http://duckdns.org"><i>duckdns.org</i></a> to serve my dynamic ip address
+and use their free dns subdomain services and it works well enough and you can
+have up to 5 subdomains.
+</p>
+<p>
+so yeah, that's it. I'llprobably solve this problem right now maybe??
+</p>
+<!--</div>-->
+
+<i> Tags: <b> write en site-update </b></i>
+</div>
+<footer>
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>
