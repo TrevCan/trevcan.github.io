@@ -77,7 +77,8 @@ then start tracking the new blog post i just made,
 
 ```
 $ make clean
-$ make main```
+$ make main
+```
 I did it and then another main just to be safe and sure enough,
 it is working persistently as expected.
 
@@ -159,3 +160,5 @@ or idk. Now the first article at the top is 'How do i fix this blogit' which is,
 the last article I committed. But the next one is 404, which is definitely not what I've committed
 recently. next is about:trevcan, haven't made any recent updates, and so on. the second most 
 recent article is right below the middle, the sixth one from bottom to top.
+
+;tags: debugging sysadmin
