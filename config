@@ -1,2 +1,2 @@
-BLOG_REMOTE:=www
 BLOG_REMOTE:=root@trevcan.duckdns.org:/var/www/blog
+BLOG_REMOTE:=www
