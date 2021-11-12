@@ -1,7 +1,7 @@
 # blogit specifics
 /blog
 /tags
-
+*.out
 
 *.gem
 *.rbc
