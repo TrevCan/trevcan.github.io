@@ -2,7 +2,7 @@ options:
 	@echo "clean | build | deploy | show | git-status"
 	@echo "main: clean build deploy git-status"
 
-main: clean build deploy git-status
+main: clean build deploy
 
 clean:
 	rm -rf www/
