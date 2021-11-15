@@ -13,3 +13,4 @@ it. It was kinda like Shutter island in the sense that the end is whatever your
 brain's interpretation is. So yeah, maybe I'll update this post idk.
 
 
+;tags: entertainment movies write
