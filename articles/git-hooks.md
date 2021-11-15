@@ -60,3 +60,5 @@ guess what :( ?? it didn't work. apparently it's not pulling the latest changes
 I push for some weird reason and when I pull them as the git user in a shell
 it works perfectly fine and detects new changes. i removed some arguments
 i had in the git pull command so let's see if that works.
+
+;tags: debugging sysadmin site-update
