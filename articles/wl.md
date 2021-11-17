@@ -3,6 +3,11 @@ watch later
 wl as in...
 [#](#) watch later
 
+# people websites
+- [Professor David Brailsford's homepage](http://www.cs.nott.ac.uk/~psadb1/)
+- [Curduroy's Meditations](https://josh8.com/blog/)
+- 
+
 
 ## lire 
 - [Relativism, *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/relativism/)
