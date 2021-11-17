@@ -47,6 +47,8 @@ wl as in...
 - [How can I safely remove a SATA disk from a running system? *via @unix.stackexchange.com*](https://unix.stackexchange.com/questions/43413/how-can-i-safely-remove-a-sata-disk-from-a-running-system)
 - `timeout` coreutils command learn how to use maybe when unmounting HDD?
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+- [*wherethefuckisjohnconnor.com*](http://www.wherethefuckisjohnconnor.com/)
+  - no idea how I got here but seems like it might be worth my procrastination time
 - 
 
 ### maybe watch??? 
