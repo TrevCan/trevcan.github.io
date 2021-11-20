@@ -12,3 +12,5 @@ attempting to set up a minimalist blogging system with blogit I guess
 and a tad of github actions automation with gh pages.
 
 [contact info here](contact.html)
+
+;tags: meta
