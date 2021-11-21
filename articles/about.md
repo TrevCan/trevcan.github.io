@@ -13,4 +13,11 @@ and a tad of github actions automation with gh pages.
 
 [contact info here](contact.html)
 
+Software used:
+- `discount` > A Markdown implementation written in C
+  - https://www.pell.portland.or.us/~orc/Code/discount/
+  - by David Parsons
+- hacker-blog css: 
+  - 
+
 ;tags: meta
