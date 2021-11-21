@@ -202,14 +202,13 @@ blog/rss.xml: $(ARTICLES)
 	for f in $(ARTICLES); do \
 		printf '%s ' "$$f"; \
 		git log --diff-filter=A --date="format:%s %a, %d %b %Y %H:%M:%S %z" --pretty=format:'%ad%n' -- "$$f"; \
-		let "LINES_TARGET=$(wc -l  | cut --delimiter=  --fields=1 ) / 2"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
 		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description>%s</description>\n</item>\n' \
 			"`head -n 1 $$FILE`" \
 			"`basename $$FILE .md`.html" \
 			"`basename $$FILE .md`.html" \
 			"$$DATE" \
-			"`head -n $$LINES_TARGET < $$FILE`"; \
+			"$(cat $$FILE | sed 's/&/and/g | tr -d '\n')"; \
 	done >> $@
 	printf '</channel>\n</rss>\n' >> $@
 
@@ -220,7 +219,6 @@ blog/atom.xml: $(ARTICLES)
 		printf '%s ' "$$f"; \
 		git log --diff-filter=A --date="format:%s %Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad %aN%n' -- "$$f"; \
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE AUTHOR; do \
-		let "LINES_TARGET=$(wc -l  | cut --delimiter=  --fields=1 ) / 2"; \
 		printf '<entry>\n<title type="text">%s</title>\n<link rel="alternate" type="text/html" href="%s"/>\n<id>%s</id>\n<published>%s</published>\n<updated>%s</updated>\n<author><name>%s</name></author>\n<summary type="text">%s</summary>\n</entry>\n' \
 			"`head -n 1 $$FILE`" \
 			"`basename $$FILE .md`.html" \
@@ -228,7 +226,7 @@ blog/atom.xml: $(ARTICLES)
 			"$$DATE" \
 			"`git log -n 1 --date="format:%Y-%m-%dT%H:%M:%SZ" --pretty=format:'%ad' -- "$$FILE"`" \
 			"$$AUTHOR" \
-			"`head -n $$LINES_TARGET < $$FILE`"; \
+			"$(cat $$FILE | sed 's/&/and/g | tr -d '\n')"; \
 	done >> $@
 	printf '</feed>\n' >> $@
 
