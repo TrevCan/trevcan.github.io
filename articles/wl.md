@@ -14,6 +14,8 @@ wl as in...
 - [Libertarianism from a Programmer's Perspective, *Bihan De Silva, via medium.com* @ 2018](https://vihandesilva.medium.com/libertarianism-from-a-programmers-perspective-c2df557e4181)
 - [Libertarianism *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/libertarianism/)
 - [reading from "/dev/random" in c, *stackoverflow.com*](https://stackoverflow.com/questions/7455610/reading-from-dev-random-in-c#7455622)
+- [What happened? NightLion Security. Viny Troia](https://www.databreaches.net/wp-content/uploads/WhatHappened-rev1.pdf)
+- 
 - read on how to use `libcurl`, `man libcurl-tutorial`
 - figure out why YCM (YouCompleteMe vim plugin) cannot compile, something to do with python http requests!?
 - [libcurl: simple.c](https://curl.se/libcurl/c/simple.html)
