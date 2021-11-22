@@ -58,4 +58,11 @@ wl as in...
 - [DistroTube video on xmonad vs dwm]
 - [whatis a word](https://www.ling.upenn.edu/courses/Fall_2007/ling001/morphology.html)
 
+## interestingly peculiar videos
+- [Hitler Did Nothing Right](https://youtu.be/9xNHSeuedAE)
+- [4th Dimension Explained By A High-School Student](https://www.youtube.com/watch?v=eGguwYPC32I)
+- 
+
+[x] checkbox test
+
 ;tags: later list
