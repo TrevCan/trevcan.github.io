@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/trevcan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://trevcan.github.io
+  * I am trevcan (https://keybase.io/trevcan) on keybase.
+  * I have a public key ASBohQT7PL3jqgAp-nFieaftfxaYH4GSc80JL1aSnt5F3go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120688504fb3cbde3aa0029fa716279a7ed7f16981f819273cd092f56929ede45de0a",
+      "host": "keybase.io",
+      "kid": "0120688504fb3cbde3aa0029fa716279a7ed7f16981f819273cd092f56929ede45de0a",
+      "uid": "986023a432b8b21f1bd540ae49166419",
+      "username": "trevcan"
+    },
+    "merkle_root": {
+      "ctime": 1637676088,
+      "hash": "8658cc40115e810a21788ca1f740bd552c69d1ee5abb27544341db374cfdd93d7cd82eb0bcf3d13154944f90d52e6d39a9dbc1c363ffb28c1ef27ac6ec1d0e94",
+      "hash_meta": "c07fd71e9e4b955698e62785c0d27f9cfffe6f4a7a8dc85a7c9c327649eeab4e",
+      "seqno": 21285628
+    },
+    "service": {
+      "entropy": "uXd0EqCuX243lcHu3onFMUeL",
+      "hostname": "trevcan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.1"
+  },
+  "ctime": 1637676124,
+  "expire_in": 504576000,
+  "prev": "251bc0110f9d0631419e839da587f6f4a9b4fff635f440c19e87f28bb2107bd7",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaIUE+zy946oAKfpxYnmn7X8WmB+BknPNCS9Wkp7eRd4Kp3BheWxvYWTESpcCEMQgJRvAEQ+dBjFBnoOdpYf29Km0//Y19EDBnofyi7IQe9fEILM5c3Fzs86O4x3pB6oYyZE36XUDdmOO94v+7cOEwUnnAgHCo3NpZ8RAuxHsDkWqFN6FlY6ibRnn5GO3N8IZUu/8tttrbnr/8tHPBWBhEKpf9ds6PozIosY7BQjDOR0oQXV6jCCTAgMpCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGKLxjRqpkNLBX0hA3gyFwojPLVo2pYgzOi1oOpf23TZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trevcan
+
+==================================================================
