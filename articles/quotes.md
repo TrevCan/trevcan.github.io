@@ -21,7 +21,22 @@ quotes
   > have nothing useful to say.
 
   – Edward Snowden
-   
-	
+
+- comments from [Positividad Tóxica, lo bueno y lo malo del coaching | THE WILD PROJECT](https://www.youtube.com/watch?v=P3RxGaw9buM)
+	- Cristian Exposito Reviriego
+	- >“En una sociedad donde puedes hacer de todo, tienes que lograr algo.”
+	  > Es una construcción psicológica. Todo el mundo puede hacer lo que sea.
+	  > Entonces todo el mundo tiene que ser algo.
+	  > El nivel de exigencia no se había visto antes en la historia de la humanidad.
+	  > “Somos 70% más productivos que hace 50 años. Somos unas máquinas de producir
+	  > y sin embargo, sigue habiendo demasiada frustración. Sabiendo psicología:
+	  > uno nunca logra satisfacer sus deseos por completos. El vacío de la falta
+	  > nunca se llena realmente. El ser humano es una máquina desecante.
+	  > Nos falta algo y por eso caminamos decía Lacan. Siempre buscamos más cosas, algo más.
+	  > Es un deseo por ser completos.
+	  > El problema es que ese deseo se instrumentalizo en nombre de la hiperproductividad.”
+	  > “La gente que te exige positividad no es que te quiera ver bien, es que no puede tolerar tu queja, esa es la diferencia.”
+	  > “Si no le damos lugar a las quejas, no desaparecen.”
+
 
 ;tags: list
