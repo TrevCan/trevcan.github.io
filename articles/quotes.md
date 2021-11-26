@@ -37,6 +37,12 @@ quotes
 	  > El problema es que ese deseo se instrumentalizo en nombre de la hiperproductividad.”
 	  > “La gente que te exige positividad no es que te quiera ver bien, es que no puede tolerar tu queja, esa es la diferencia.”
 	  > “Si no le damos lugar a las quejas, no desaparecen.”
+	- 
+- > "Desire is something that humans will always *desire*."
 
+	- me, Hector Canizales (2021, november 24th, 10:43 pm mx ;)
+- does time tell ? we tell what we want to tell about what can be told about time. - me.
+-  individual level.
+> how well they act on what they deem valuable on themselves
 
 ;tags: list

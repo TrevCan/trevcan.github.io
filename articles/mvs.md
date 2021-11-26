@@ -92,5 +92,12 @@ Movies
 - LE FABULEUX DESTIN D'AMÉLIE POULAIN (2001) // Amélie de Montmartre
 - Sherlock (Tv series)
 
+# francais
+- 8 rue de l'humanité 
+- Lupin
+- Kaepernick en blanc et noir 
+- La haine...
+- 
+
 
 ;tags: entertainment movies tv-shows list
