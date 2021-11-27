@@ -12,6 +12,7 @@ that can take input from stdin (standard input) and only show those choices
 and of course, prints to stdout the result.
 
 So one can do something like
+
 ```
 cat << EOF | fzf
 one
@@ -22,6 +23,7 @@ john cena
 EOF
 
 ```
+
 and that will basically show you an interactive command line prompt which can
 let you make a choice. This is kind of similar to pedantic software's choice 
 tool by 
@@ -45,13 +47,16 @@ If you're interested in how to set it up I'll put the steps below:
 any other distro
 2. install fzf core functions vim plugin; simply clone the official fzf repo
 to `~/.vim/pack/plugins/start/fzfcore` to start the plugin on vim startup.
+
 ```
 git clone "https://github.com/junegunn/fzf.git" ~/.vim/pack/plugins/start/fzfcore
 ```
+
 note: this will only work if you have the vim pack functionality. It probably
 is if you keep vim up to date. I think this was released in vim 8.0
 3. install [fzf.vim](https://github.com/junegunn/fzf.vim) as another vim
 plugin. Same as step 2.
+
 ```
 git clone "https://github.com/junegunn/fzf.vim" ~/.vim/pack/plugins/start/fzf.vim
 ```
