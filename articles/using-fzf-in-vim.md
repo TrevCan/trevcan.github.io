@@ -43,17 +43,19 @@ stuff gives me a pretty prompt like this:
 
 and yeah that's cool, isn't it?
 If you're interested in how to set it up I'll put the steps below:
+
 1.	install fzf, can be found in the official Arch Linux repos and pretty much
 any other distro
+
 2.	install fzf core functions vim plugin; simply clone the official fzf repo
 to `~/.vim/pack/plugins/start/fzfcore` to start the plugin on vim startup.
 
 ```
 git clone "https://github.com/junegunn/fzf.git" ~/.vim/pack/plugins/start/fzfcore
 ```
-
 note: this will only work if you have the vim pack functionality. It probably
 is if you keep vim up to date. I think this was released in vim 8.0
+
 3.	install [fzf.vim](https://github.com/junegunn/fzf.vim) as another vim
 plugin. Same as step 2.
 
