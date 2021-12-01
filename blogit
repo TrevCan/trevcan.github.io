@@ -164,7 +164,7 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	DATE_EDITED="$(shell git log -n 1 --date="format:$(BLOG_DATE_FORMAT)" --pretty=format:'%ad' -- "$<")"; \
 	export DATE_EDITED; \
 	echo "--------------------"; \
-	echo " LASTTT edit date is... $DATE_EDITED " ; \
+	echo " LASTTT edit date is... $$DATE_EDITED " ; \
 	TAGS="$(shell grep -i '^; *tags:' "$<" | cut -d: -f2- | paste -sd ',')"; \
 	export TAGS; \
 	envsubst < templates/header.html > $@; \
