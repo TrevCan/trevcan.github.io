@@ -39,7 +39,7 @@ I've seen several internet humans use vim as a file-finder. So I cloned a
 sample vim plugin which connects the fzf vim plugin which only gives core
 functions but doesn't actually implement anything. So installing all these
 stuff gives me a pretty prompt like this:
-![fzf in vim](http://ix.io/3GeG)
+![fzf in vim](https://trevcan.duckdns.org/files/fzf-in-vim.png)
 
 and yeah that's cool, isn't it?
 If you're interested in how to set it up I'll put the steps below:
