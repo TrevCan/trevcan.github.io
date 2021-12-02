@@ -54,8 +54,6 @@ wl as in...
 - 
 
 ### maybe watch??? 
-- [5 Reasons Why DWM is My Favorite Window Manager, **The Linux Cast**, *youtube.com*](https://www.youtube.com/watch?v=83JwMLUS04E)
-- [DistroTube video on xmonad vs dwm]
 - [whatis a word](https://www.ling.upenn.edu/courses/Fall_2007/ling001/morphology.html)
 
 ## interestingly peculiar videos
@@ -64,5 +62,8 @@ wl as in...
 - 
 
 [x] checkbox test
+
+## linux
+- [man pages - *wiki.archlinux.org*](https://wiki.archlinux.org/title/Man_page#Online_man_pages)
 
 ;tags: later list
