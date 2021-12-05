@@ -51,7 +51,20 @@ wl as in...
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 - [*wherethefuckisjohnconnor.com*](http://www.wherethefuckisjohnconnor.com/)
   - no idea how I got here but seems like it might be worth my procrastination time
-- 
+- [multiplying matrices without multiplying. paper](https://arxiv.org/pdf/2106.10860.pdf)
+- [ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation](https://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf)
+- [If I could bring one thing back to the internet it would be blogs](http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs)
+- [Prefrontal Cognitive Ability, Intelligence, Big Five Personality, and the Prediction of Advanced Academic and Workplace Performance](https://www.researchgate.net/profile/Jordan-Peterson-9/publication/6194035_Prefrontal_Cognitive_Ability_Intelligence_Big_Five_Personality_and_the_Prediction_of_Advanced_Academic_and_Workplace_Performance/links/0912f50e6ba814de7d000000/Prefrontal-Cognitive-Ability-Intelligence-Big-Five-Personality-and-the-Prediction-of-Advanced-Academic-and-Workplace-Performance.pdf?origin=publication_detail)
+- [QOI - The "Quite OK Image" format for fast, lossless image compression](https://github.com/phoboslab/qoi)
+- [Robots Must Be Ephemeralized](https://blog.evjang.com/2021/09/ephemeralization.html?m=1)
+- [node. casio watch hacking and other cool projects](https://n-o-d-e.net/index.html)
+- [Cache-timing attacks on AES](http://cr.yp.to/antiforgery/cachetiming-20050414.pdf)
+- [Hints.](https://peterburk.github.io/hints/)
+- [SECOND TREATISE OF GOVERNMENT by JOHN LOCKE](https://www.gutenberg.org/files/7370/7370-h/7370-h.htm)
+- [duckdcukho as tty](https://news.ycombinator.com/item?id=28938265)
+- [How I learned to program](https://danluu.com/learning-to-program/)
+- [open sim](https://news.ycombinator.com/item?id=28891201)
+
 
 ### maybe watch??? 
 - [whatis a word](https://www.ling.upenn.edu/courses/Fall_2007/ling001/morphology.html)
