@@ -40,6 +40,8 @@ or...
 - [Maximize Serendipity, *Early Retirement Extreme*](https://wiki.earlyretirementextreme.com/wiki/What_is_ERE%3F#Maximize_Serendipity)
 - [sunday corner](https://m-chrzan.xyz/sunday-corner), only opens when it is Sunday!
 
+- [hosts: boost your productivity with this simple trick!](https://pedantic.software/syg/blog/hosts.html)
+
 
 ### choose
 - xml parser in C
