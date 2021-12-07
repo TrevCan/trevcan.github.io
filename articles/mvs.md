@@ -9,6 +9,7 @@ Movies
 
 # tres bon je pense
 - Arrival (2016)
+- The Firm (1993)
 
 ------------------------
 
@@ -98,6 +99,12 @@ Movies
 - Kaepernick en blanc et noir 
 - La haine...
 - 
+
+# weird
+- maybe watch some of Nicholas Cage's crazy-acclaimed movies;
+  - [Matchstick men](https://en.m.wikipedia.org/wiki/Matchstick_Men)
+  - [Not the bees!: The Wicker Man](https://duckduckgo.com/?q=Not+the+Bees!!!%0A"The+Wicker+Man")
+  - [birdy (1984)](https://duckduckgo.com/?q=birdy+(1984))
 
 
 ;tags: entertainment movies tv-shows list
