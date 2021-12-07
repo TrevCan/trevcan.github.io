@@ -16,4 +16,5 @@ If you have any ideas for projects...
   using pupeteer (python library to use the chromium debugger thingy) to take
   high quality screenshots, make PDFs and archive the hole html thing.
 - **implement all of the above using something such as fastcgi to serve  with simple web requests or something**
-- 
+- simple rss reader that parses rss/atom files and gives you a summary in html form or 
+  even ANSI!
