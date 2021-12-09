@@ -1,12 +1,26 @@
 watch later
 
 wl as in...
-[#](#) watch later
+
+# watch later
+
+or...
+
+# read later
+
+or...
+
+# [any verb that constitutes an action]... later
 
 # people websites
 - [Professor David Brailsford's homepage](http://www.cs.nott.ac.uk/~psadb1/)
 - [Curduroy's Meditations](https://josh8.com/blog/)
-- 
+- [josh's website, [/blog] very creative btw!](http://josh8.com/)
+- [François-Xavier Carton](https://pedantic.software/fxc/blog/)
+- [Sylvain Gauthier](https://pedantic.software/syg/blog/)
+- [Luke Smith](https://lukesmith.xyz/)
+- [pompompurin](https://blog.pompur.in/rss/)
+- [bitreich](http://bitreich.org/)
 
 
 ## lire 
@@ -15,6 +29,8 @@ wl as in...
 - [Libertarianism *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/libertarianism/)
 - [reading from "/dev/random" in c, *stackoverflow.com*](https://stackoverflow.com/questions/7455610/reading-from-dev-random-in-c#7455622)
 - [What happened? NightLion Security. Viny Troia](https://www.databreaches.net/wp-content/uploads/WhatHappened-rev1.pdf)
+- actually finish reading [suckless's](http://suckless.org) philosophy. (and references at the footer)
+	- [philosophy here](https://suckless.org/philosophy/)
 - 
 - read on how to use `libcurl`, `man libcurl-tutorial`
 - figure out why YCM (YouCompleteMe vim plugin) cannot compile, something to do with python http requests!?
@@ -22,6 +38,24 @@ wl as in...
 - [Manifesto: Early Retirement Extreme](https://earlyretirementextreme.com/manifesto.html)
 - [_**warning: very much ad-filled with pop ups and a lot of cookies!**_ Early Retirement Extreme: The ten-year update](https://www.getrichslowly.org/early-retirement-extreme/)
 - [Maximize Serendipity, *Early Retirement Extreme*](https://wiki.earlyretirementextreme.com/wiki/What_is_ERE%3F#Maximize_Serendipity)
+- [sunday corner](https://m-chrzan.xyz/sunday-corner), only opens when it is Sunday!
+
+- [hosts: boost your productivity with this simple trick!](https://pedantic.software/syg/blog/hosts.html)
+
+
+### choose
+- xml parser in C
+	- *[libexpat](https://libexpat.github.io/doc/getting-started/)
+or
+[libxml2](http://xmlsoft.org/index.html)*
+ ???
+ 
+ 
+ 
+### security
+- [the standard unix password manager, *pass*](http://passwordstore.org)
+- [tomb, the encrypted storage folder that uses gpg and virtual file systems (i think?)](https://www.dyne.org/software/tomb/)
+- 
 
 
 --------------------------
@@ -72,7 +106,14 @@ wl as in...
 ## interestingly peculiar videos
 - [Hitler Did Nothing Right](https://youtu.be/9xNHSeuedAE)
 - [4th Dimension Explained By A High-School Student](https://www.youtube.com/watch?v=eGguwYPC32I)
-- 
+
+---
+
+# software groups // entities 
+- [suckless: *software that sucks less*](http://suckless.org)
+- [pedantic: *simplicity and minimalism*](http://pedantic.software)
+
+- **please let me know if you find any other relevant ones!!**
 
 [x] checkbox test
 
