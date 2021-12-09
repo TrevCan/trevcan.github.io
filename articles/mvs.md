@@ -100,6 +100,9 @@ Movies
 - La haine...
 - 
 
+
+- amores perros (2000)
+
 # weird
 - maybe watch some of Nicholas Cage's crazy-acclaimed movies;
   - [Matchstick men](https://en.m.wikipedia.org/wiki/Matchstick_Men)
