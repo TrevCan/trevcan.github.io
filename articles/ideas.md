@@ -18,3 +18,4 @@ If you have any ideas for projects...
 - **implement all of the above using something such as fastcgi to serve  with simple web requests or something**
 - simple rss reader that parses rss/atom files and gives you a summary in html form or 
   even ANSI!
+- make simple, suckless, maybe in C, clipboard http POST pastebin. (examples: <https://github.com/Willyfrog/pastas>, <http://0x0.st>, <http://ix.io>)

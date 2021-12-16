@@ -41,6 +41,8 @@ or...
 - [sunday corner](https://m-chrzan.xyz/sunday-corner), only opens when it is Sunday!
 
 - [hosts: boost your productivity with this simple trick!](https://pedantic.software/syg/blog/hosts.html)
+- [Making a simple HTTP webserver in C](https://bruinsslot.jp/post/simple-http-webserver-in-c/)
+- [the `/proc` filesystem](https://www.kernel.org/doc/html/latest/filesystems/proc.html)
 
 
 ### choose
@@ -49,6 +51,16 @@ or...
 or
 [libxml2](http://xmlsoft.org/index.html)*
  ???
+ 
+ 
+ 
+---
+
+- [How to build custom form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_build_custom_form_controls)
+- [web forms - working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+- [HTTP Post method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+- [curl_easy_unescape: function to decode URIs into regular characters](https://curl.se/libcurl/c/curl_easy_unescape.html)
+- [uriparser C89 library](https://github.com/uriparser/uriparser/)
  
  
  
