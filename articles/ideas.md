@@ -19,3 +19,4 @@ If you have any ideas for projects...
 - simple rss reader that parses rss/atom files and gives you a summary in html form or 
   even ANSI!
 - make simple, suckless, maybe in C, clipboard http POST pastebin. (examples: <https://github.com/Willyfrog/pastas>, <http://0x0.st>, <http://ix.io>)
+- simple terminal ncurses app that can parse and generate vcard contact info!

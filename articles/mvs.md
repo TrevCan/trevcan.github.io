@@ -10,7 +10,9 @@ Movies
 # tres bon je pense
 - Arrival (2016)
 - The Firm (1993)
+- Gran Torino (2008)
 
+- The Nanny Diaries (2007)
 ------------------------
 
 
@@ -99,6 +101,9 @@ Movies
 - Kaepernick en blanc et noir 
 - La haine...
 - 
+
+
+- amores perros (2000)
 
 # weird
 - maybe watch some of Nicholas Cage's crazy-acclaimed movies;

@@ -12,6 +12,9 @@ Software tools
 - drawing:
 	- [tldraw. *minimalist drawing.*](https://www.tldraw.com/)
 	- [excalidraw](https://excalidraw.com/)
+	
+- [*snapdrop*: transfer files over LAN with simple web app. cross-platform.](https://snapdrop.net/)
+	
 
 
 
