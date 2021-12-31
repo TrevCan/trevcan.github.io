@@ -120,4 +120,15 @@ or
 ## linux
 - [man pages - *wiki.archlinux.org*](https://wiki.archlinux.org/title/Man_page#Online_man_pages)
 
+
+### hacker news ask hn post: [Ask HN: What is your spiritual practice?](https://news.ycombinator.com/item?id=29700445)
+- [linoleum on ddg](https://duckduckgo.com/?q=linoleum&t=iphone&iax=images&ia=images)
+- [linoleum on merriam webster](https://www.merriam-webster.com/dictionary/linoleum)
+- [apophenia on ddg](https://duckduckgo.com/?q=apophenia&t=iphone&ia=definition)
+- [What is druidism. *carm.org*](https://carm.org/about-religions/what-is-druidism/)
+- [Discordianism. *rationalwiki.org*](https://rationalwiki.org/wiki/Discordianism)
+- [NOFX on ddg](https://duckduckgo.com/?q=NOFX&t=iphone&ia=web)
+
+- [post](https://news.ycombinator.com/item?id=29700445)
+
 ;tags: later list
