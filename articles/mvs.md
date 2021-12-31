@@ -10,6 +10,7 @@ Movies
 # tres bon je pense
 - Arrival (2016)
 - The Firm (1993)
+- Gran Torino (2008)
 
 - The Nanny Diaries (2007)
 ------------------------
