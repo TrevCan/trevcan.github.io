@@ -100,10 +100,11 @@ Movies
 - Lupin
 - Kaepernick en blanc et noir 
 - La haine...
-- 
+- The Closet (2001)
 
-
+# mexico
 - amores perros (2000)
+- Roma (2018)
 
 # weird
 - maybe watch some of Nicholas Cage's crazy-acclaimed movies;
@@ -111,5 +112,18 @@ Movies
   - [Not the bees!: The Wicker Man](https://duckduckgo.com/?q=Not+the+Bees!!!%0A"The+Wicker+Man")
   - [birdy (1984)](https://duckduckgo.com/?q=birdy+(1984))
 
+-----
+
+- Sound of Metal (2020)
+- The Professor (2019)
+- The Assistant (2020)
+- Elf (2003)
+- Knives Out (2019)
+
+
+- I don't know how she does it (2011)
+
+## maybe
+- 21 jump street jonah hill
 
 ;tags: entertainment movies tv-shows list
