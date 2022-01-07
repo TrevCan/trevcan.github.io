@@ -11,6 +11,7 @@ Movies
 - Arrival (2016)
 - The Firm (1993)
 - Gran Torino (2008)
+- The Mule (2018)
 
 - The Nanny Diaries (2007)
 ------------------------
@@ -119,6 +120,7 @@ Movies
 - The Assistant (2020)
 - Elf (2003)
 - Knives Out (2019)
+- Victoria (2015) 
 
 
 - I don't know how she does it (2011)
