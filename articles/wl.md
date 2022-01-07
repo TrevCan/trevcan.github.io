@@ -12,6 +12,13 @@ or...
 
 # [any verb that constitutes an action]... later
 
+
+
+
+- aaaaa.....
+- learn more about huffman coding... and maybe jpeg? it was on HN last i checked ...
+- 
+
 # people websites
 - [Professor David Brailsford's homepage](http://www.cs.nott.ac.uk/~psadb1/)
 - [Curduroy's Meditations](https://josh8.com/blog/)
