@@ -182,7 +182,7 @@ blog/rss.xml: $(ARTICLES)
 	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
 		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description>%s</description>\n</item>\n' \
 			"`head -n 1 $$FILE`" \
-			"`basename $$FILE .md`.html" \
+			"https://trevcan.duckdns.org/blog/`basename $$FILE .md`.html" \
 			"`basename $$FILE .md`.html" \
 			"$$DATE" \
 			"$(cat $$FILE | sed 's/&/and/g | tr -d '\n')"; \
