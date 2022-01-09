@@ -7,6 +7,15 @@ I only found one stack overflow question [\[0\]](#references) which didn't get
 that close to my issue.
 It slows down when using the pinentry-curses, pinentry-gtk-2 binaries.
 
+edit: I found out the problem! Thanks to [u/xXbobby123Xx](https://www.reddit.com/r/GnuPG/comments/q2apuh/comment/hpa3m6f/?utm_source=share&utm_medium=web2x&context=3) for discovering the solution,
+and this GNU forum: https://dev.gnupg.org/T3240 it appears to be a bug in gnome-keyring.
+
+**Uninstalling the gnome-keyring is the solution for now.**
+
+there appear to be 2 dev.gnupg.org forum posts:
+- https://dev.gnupg.org/T3240
+- https://dev.gnupg.org/T4592 (this url is kinda broken but didn't use to be)
+
 # the problem
 I've been using the [https://passwordstore.org] program for quite a while now,
 about 8 months I'd say. All was going well until about 3 weeks ago. I don't 
