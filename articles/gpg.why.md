@@ -1,4 +1,4 @@
-Why is GnuPG acting up ? 
+Why is GnuPG / GPG  acting up ? 
 
 After trying several things to fix encryption and decryption in GnuPG I have no 
 real hopes. I honestly don't know what to do but to keep asking. I've searched on 
