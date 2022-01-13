@@ -14,6 +14,8 @@ or...
 
 
 
+- [Why I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
+- 
 
 - aaaaa.....
 - learn more about huffman coding... and maybe jpeg? it was on HN last i checked ...
@@ -149,5 +151,22 @@ or
 - [NOFX on ddg](https://duckduckgo.com/?q=NOFX&t=iphone&ia=web)
 
 - [post](https://news.ycombinator.com/item?id=29700445)
+
+
+---
+- [tom johnson](https://idratherbewriting.com/aboutme/#were-you-always-a-technical-writer)
+
+- [deploying mediagoblin. peertube/odyssee/yt alternative](https://docs.mediagoblin.org/en/master/siteadmin/deploying.html)
+- [deployment mediagoblin in lighttpd](https://web.archive.org/web/20201116055028/https://wiki.mediagoblin.org/Deployment#Lighttpd)
+- [AUR: mediagoblin-git](https://aur.archlinux.org/packages/mediagoblin-git/)
+- [AUR: mediagoblin](https://aur.archlinux.org/packages/mediagoblin/)
+- [dockerized mediagoblin](https://hub.docker.com/r/mtlynch/mediagoblin)
+- [same, kinda](https://notabug.org/dachary/mediagoblin-docker/src/master)
+- 
+
+
+
+## books
+- mindfuck (Cristopher Wyely)
 
 ;tags: later list
