@@ -169,4 +169,21 @@ or
 ## books
 - mindfuck (Cristopher Wyely)
 
+
+
+- [amish hackers](https://kk.org/thetechnium/amish-hackers-a/)
+
+- [sshuttle VPN with ssh!](https://www.xmodulo.com/how-to-set-up-vpn-over-ssh-in-linux.html)
+- [goaccess, a detailed tutorial](https://arnaudr.io/2020/08/10/goaccess-14-a-detailed-tutorial/)
+- [ssh tunneling clients ios](https://apple.stackexchange.com/questions/69163/which-options-exist-for-ssh-tunneling-clients-on-ios#69171)
+- [proxy tunnel](https://proxytunnel.sourceforge.io/intro.php)
+- [corkscrew. use ssh thru https](https://github.com/bryanpkc/corkscrew/)
+- [openvpn](https://openvpn.net/access-server/)
+
+
+---
+
+# mediagoblin
+- [mediagoblin instance: *dressupgeekout*](http://art.dressupgeekout.com/)
+
 ;tags: later list
