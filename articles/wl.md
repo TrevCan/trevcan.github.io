@@ -221,4 +221,17 @@ or
 # mediagoblin
 - [mediagoblin instance: *dressupgeekout*](http://art.dressupgeekout.com/)
 
+
+---
+
+- [config wifi on Linux itesm](https://kenscourses.com/tc1019fall2016/syndicated/configuring-wifi-on-linux-in-itesm/)
+- [contacting ken](https://kenscourses.com/tc1019fall2016/contact/)
+- [6.s801 OS Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+- [semester’s over](https://kenscourses.com/tc1019fall2016/)
+- [syllabus](https://kenscourses.com/tc1019fall2016/pageone/)
+- [el curso](https://kenscourses.com/tc1019fall2016/syndicated/el-curso/)
+- [post conf rflx](https://kenscourses.com/tc1019fall2016/instructor/week-14-rescue-mode-i-hope-not/)
+- [about: jwz.org](https://www.jwz.org/blog/about/)
+
+
 ;tags: later list
