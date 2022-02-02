@@ -131,4 +131,43 @@ Movies
 - The Darjeeling Limited (with the guy who starred on the Pianist ?)
 
 
+---
+
+
+
+- Saving private Ryan 
+- Wings (1927)
+- Jarhead
+- The rain people
+- Nashville (1975)
+
+- Eraser head (1977)
+- Apocalypse Now
+- Filter through consciousness 
+- The Dead Poets Society
+- Monster (Patty Jenkins)
+- Ordinary People (1980)
+- Tom Hanks Baseball movie
+- Argo (2012, Ben afflict)
+- Selma (2014)
+- Top Gun mm  
+- Lost In Translation
+- Wild (;)
+- El descanso 
+- Un pequeño favor (2021)
+- Good girls
+- 9 perfectos desconocidos (Amazon prime series)
+- The Bartender
+
+
+- Knives out 237 
+- bravo tv
+
+
+- one day at a time
+- the warning
+- Vivarium
+
+
+
 ;tags: entertainment movies tv-shows list

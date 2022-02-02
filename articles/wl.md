@@ -234,4 +234,20 @@ or
 - [about: jwz.org](https://www.jwz.org/blog/about/)
 
 
+---
+- ROS: Robot Operating System
+
+- George hotz
+  - Tomcr00se
+- TempleOS
+- SerenityOS
+
+
+---
+- CS50	
+- nand2tetris
+
+
+
+
 ;tags: later list

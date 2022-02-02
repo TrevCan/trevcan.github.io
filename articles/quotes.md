@@ -45,4 +45,12 @@ quotes
 -  individual level.
 > how well they act on what they deem valuable on themselves
 
+
+- > Oh, man! The alphabet boys are not gonna like this video.
+  - mental outlaw, 2021 [7](#references)
+
+
+#references
+[7] https://youtu.be/hbawQuKZst0
+
 ;tags: list
