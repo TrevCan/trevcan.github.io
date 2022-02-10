@@ -15,6 +15,6 @@ reboots. But yeah we're back.
 
 
 ### tldr
-RTFM! [https://wiki.archlinux.org/title/Network_configuration#IP_addresses]
+RTFM! [arch linux wiki with network info.](https://wiki.archlinux.org/title/Network_configuration#IP_addresses)
 
 ;tags: site-update sysadmin
