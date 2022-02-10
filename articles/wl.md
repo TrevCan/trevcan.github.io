@@ -186,4 +186,24 @@ or
 # mediagoblin
 - [mediagoblin instance: *dressupgeekout*](http://art.dressupgeekout.com/)
 
+# get public ipv6 raw https api
+- just curl this url:
+- https://api6.ipify.org/
+- 
+
+---
+# ethical ads
+- maybe add to my site?
+- [ethical ads, nein cookies, just a tad bit of js](https://www.ethicalads.io/)
+
+
+
+
+
+---
+# nofkidea
+- [make me a sandwich](https://chrismorgan.info/blog/make-me-a-sandwich/)
+	- [xkcd](https://xkcd.com/149/)
+- 
+
 ;tags: later list
