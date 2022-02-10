@@ -20,3 +20,4 @@ If you have any ideas for projects...
   even ANSI!
 - make simple, suckless, maybe in C, clipboard http POST pastebin. (examples: <https://github.com/Willyfrog/pastas>, <http://0x0.st>, <http://ix.io>)
 - simple terminal ncurses app that can parse and generate vcard contact info!
+- archivemoi-gh:  GitHub archiver, generate token w/ private repo permissions

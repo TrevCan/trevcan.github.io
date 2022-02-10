@@ -171,6 +171,41 @@ or
 
 
 
+# phone
+- just my endless list of articles I may never read that just waste memory on my phone
+- [thirty hi im sam](https://soffes.blog/thirty)
+- [tom sachs filmmaker](https://www.tomsachs.com/)
+- [breakfast of champions](https://en.m.wikipedia.org/wiki/Breakfast_of_Champions)
+- [unstuck in timr kurt vunnegut](https://vonnegutdocumentary.com/)
+- [argan et molliere ](https://duckduckgo.com/?q=argan+et+molliere&t=iphone&ia=web)
+- [argan un hypocondriaque](https://www.gazettelitteraire.com/2020/09/argan-un-hypocondriaque-moliere.html)
+- [moliere](https://en.m.wikipedia.org/wiki/Molière)
+- [imaginary invalid](https://en.m.wikipedia.org/wiki/The_Imaginary_Invalid)
+- [marak.com](https://web.archive.org/web/20210628030444/https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic)
+- [who wrote this shit?](https://www.heltweg.org/posts/who-wrote-this-shit/)
+- [austin henley ](https://austinhenley.com/blog.html)
+- [paradox code editors](https://austinhenley.com/blog/perfecteditorparadox.html)
+- [optional chaining operator](https://blog.jim-nielsen.com/2022/a-web-for-all/)
+- [test product on crappy laptop](https://css-tricks.com/test-your-product-on-a-crappy-laptop/)
+- [sysjoker](https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/)
+- [dark web justice](https://analyst1.com/blog/dark-web-justice-league)
+- [MAD series](https://duckduckgo.com/?q=MAD+series&t=iphone&ia=web)
+- [rooting phone ](https://piana.eu/root/)
+- [eigth grade on netflix by that guy on netflix with songs bo burnham](https://www.netflix.com/mx-en/title/80238596)
+- [life @ 800mhz](https://artemis.sh/2022/01/12/life-at-800mhz.html)
+- [jim cramer](https://en.m.wikipedia.org/wiki/Jim_Cramer)
+- [workings of git IBM !](https://developer.ibm.com/tutorials/d-learn-workings-git/)
+
+--- 
+- [luke francl](http://luke.francl.org/)
+- [on looking 4 job](https://muan.co/2021/12/15/notes-on-looking-for-a-job/)
+- [run ur own social](https://runyourown.social/#license)
+- [tiny VG ](https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8)
+- [lisp w/ gc whatever that means](https://justine.lol/sectorlisp2/)
+- [quoi img spec ](https://phoboslab.org/log/2021/12/qoi-specification)
+- 
+
+
 - [amish hackers](https://kk.org/thetechnium/amish-hackers-a/)
 
 - [sshuttle VPN with ssh!](https://www.xmodulo.com/how-to-set-up-vpn-over-ssh-in-linux.html)
@@ -205,5 +240,34 @@ or
 - [make me a sandwich](https://chrismorgan.info/blog/make-me-a-sandwich/)
 	- [xkcd](https://xkcd.com/149/)
 - 
+=======
+
+---
+
+- [config wifi on Linux itesm](https://kenscourses.com/tc1019fall2016/syndicated/configuring-wifi-on-linux-in-itesm/)
+- [contacting ken](https://kenscourses.com/tc1019fall2016/contact/)
+- [6.s801 OS Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+- [semester’s over](https://kenscourses.com/tc1019fall2016/)
+- [syllabus](https://kenscourses.com/tc1019fall2016/pageone/)
+- [el curso](https://kenscourses.com/tc1019fall2016/syndicated/el-curso/)
+- [post conf rflx](https://kenscourses.com/tc1019fall2016/instructor/week-14-rescue-mode-i-hope-not/)
+- [about: jwz.org](https://www.jwz.org/blog/about/)
+
+
+---
+- ROS: Robot Operating System
+
+- George hotz
+  - Tomcr00se
+- TempleOS
+- SerenityOS
+
+
+---
+- CS50	
+- nand2tetris
+
+
+
 
 ;tags: later list
