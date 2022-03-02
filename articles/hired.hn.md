@@ -3,11 +3,15 @@ My hacker news Who wants to be hired full comment
 
 here it is:
 
-Hello there. I am a self-taught programmer and have been working with robotics for about 4 years, mostly within FRC. 
-I am the lead programmer of the software team of my local robotics FRC Team, known as tecbot [0]. 
+Hello there. I am a self-taught programmer and have been working with robotics 
+for about 4 years, mostly within FRC. 
+I am the lead programmer of the software team of my local robotics FRC Team, 
+known as tecbot [0]. 
 I have a blog that I built and self-host with an old computer [1]. 
 *I am looking for an internship*. 
-I have experience with systems administration of my own website, among some services here and there ( e.g. git repo: [2]. *I am a high school senior and will be starting a CS Engineering degree in the Fall of 2022.*
+I have experience with systems administration of my own website, among some 
+services here and there ( e.g. git repo: [2]. *I am a high school senior and 
+will be starting a CS Engineering degree in the Fall of 2022.*
 
 ```
 
