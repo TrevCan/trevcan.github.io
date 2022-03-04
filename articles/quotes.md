@@ -48,6 +48,10 @@ quotes
 
 - > Oh, man! The alphabet boys are not gonna like this video.
   - mental outlaw, 2021 [7](#references)
+- 
+- « No me juzguen por mis ideas ! »
+  - - Ricardo Amano, 2022
+  - entonces por qué te juzgaremos richie ? por tus acciones ?
 
 
 #references
