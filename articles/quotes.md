@@ -49,6 +49,9 @@ quotes
 - > Oh, man! The alphabet boys are not gonna like this video.
   - mental outlaw, 2021 [7](#references)
 
+> "Somos nuestras relaciones."
+  - Victor Hugo Obregón
+
 
 #references
 [7] https://youtu.be/hbawQuKZst0
