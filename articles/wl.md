@@ -168,6 +168,17 @@ or
 
 ## books
 - mindfuck (Cristopher Wyely)
+  - de Gaby
+- Guerra de los Mundos (Orson Wells, 1938)
+  - interesante suceso del que me ha contado mi hermana. 
+  Lo encontramos en una de las historias de La taverna del ciervo blanco (Arthur C. Clarke). 
+  Mi hermana me cuenta que conmovió
+  a gran cantidad de personas debido
+  a que la manera en que fue contada la
+  historia era tan realista que la
+  gente pensaba que sí estaba pasando el suceso.
+  Que los alienígenas estaban atacando por doquier el mundo.
+  _Cabe recalcar que esta novela fue contada en forma de **radio novela**_
 
 
 
@@ -266,6 +277,12 @@ or
 ---
 - CS50	
 - nand2tetris
+
+
+### whatis indie web?
+
+- [e](https://indieweb.org/)
+- shouldnt this just be the web itself ?
 
 
 
