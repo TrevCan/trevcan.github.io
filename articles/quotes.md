@@ -54,6 +54,7 @@ quotes
   - entonces por qué te juzgaremos richie ? por tus acciones ?
 
 > "Somos nuestras relaciones."
+
   - Victor Hugo Obregón
 
 
