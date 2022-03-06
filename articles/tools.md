@@ -14,6 +14,11 @@ Software tools
 	- [excalidraw](https://excalidraw.com/)
 	
 - [*snapdrop*: transfer files over LAN with simple web app. cross-platform.](https://snapdrop.net/)
+
+
+
+- ncdu disk usage
+  - https://dev.yorhel.nl/ncdu
 	
 
 
