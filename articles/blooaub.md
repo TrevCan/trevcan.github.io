@@ -1,20 +1,23 @@
 En parlant français
 
-Bonjour, ça c'est seulement un petit blog post
-où j'essaye parler français et aussi pour vérifier
+Bonjour, ç'est seulement un petit blog post
+où j'essaie de parler français et en vérifiant
 que le système autonome fonctionne. Le suivants mots
-monteraient un peux de comme fonctionne le système pour
+montreront un peux de comme fonctionne le système pour
 faire le blog possible.
 
-Donc, je suis un peux ennuiyéx et enfadé des systèmes,
+Je suis un peux ennuyé et enfadé des systèmes,
 articles, blogs qui utilise espàce comme s'il était libre.
-Presque toutes les sites web que je visite son très très
-*bloated* et ils avaient beaucoup de choses qui n'aide pas
-la lecture du site ou l'absorption d'information ou la 
+Presque toutes les sites web que je visite son très, très
+*bloated* ( saturés ) et ils ont beaucoup de choses qui n'aident pas à
+la lecture du site, l'absorption d'information ou la 
 transference d'idées.
 
-Je doit faire un travail d'école mais je continuera
-peut-être demain.
+Je doit faire un travail d'école donc je continuera,
+peut-être que demain.
 
+edité par JPLM (2022-mars-07)
 
 ;tags: fr write
+
+
