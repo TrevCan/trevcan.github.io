@@ -1,4 +1,4 @@
-How to copy all Pictures/Videos from iOS device
+copy all Pictures/Videos from iOS device to PC
 
 This guide is a tutorial to learn how to import ( and optionally delete) and browse your pictures and videos inside your iOS Device. You only need a working computer, a lightning-to-usb (with data transfer) cable, and an iOS device.
 
