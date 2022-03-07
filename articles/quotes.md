@@ -55,10 +55,11 @@ quotes
 
 > "Somos nuestras relaciones."
 
-  - - Víctor Hugo Obregón
+  - \- Víctor Hugo Obregón
 
 > "La felicidad es el camino. No el destino."
-  - - Víctor Hugo Obregón
+
+  - \- Víctor Hugo Obregón
 
 
 #references
