@@ -1,5 +1,6 @@
 options:
 	@echo "clean | build | deploy | show | git-status"
+	@echo
 	@echo "main: clean build deploy git-status"
 
 main: clean build deploy
