@@ -203,6 +203,10 @@ Here are some useful links that helped me through my journey:
 - [list of compatible file format for volvo s60. *official*](https://www.volvocars.com/en-th/support/manuals/s60/2014w46/audio-and-media/media-player/media-player---compatible-file-formats)
 
 - [specification for connecting external storage devices to the volvo. specifies file system for HDDs and usbs](https://www.volvocars.com/en-th/support/manuals/s60/2014w46/audio-and-media/media-player/external-audio-source-via-aux-usb-input)
+- [using awk to get csv fields](https://www.joeldare.com/wiki/using_awk_on_csv_files)
+- [what is awk ? how to use it.](https://kb.iu.edu/d/afja)
+- [exportify spotify github repo. exports all your spotify music](https://github.com/watsonbox/exportify/)
+- [keep processes open after ending ssh session. tldr; use tmux](https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session)
 
 references
 
