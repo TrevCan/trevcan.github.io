@@ -49,8 +49,8 @@ quotes
 - > Oh, man! The alphabet boys are not gonna like this video.
   - mental outlaw, 2021 [7](#references)
 - 
-- « No me juzguen por mis ideas ! »
-  - - Ricardo Amano, 2022
+- > No me juzguen por mis ideas !
+  - \- Ricardo Amano, 2022
   - entonces por qué te juzgaremos richie ? por tus acciones ?
 
 > "Somos nuestras relaciones."
@@ -60,6 +60,8 @@ quotes
 > "La felicidad es el camino. No el destino."
 
   - \- Víctor Hugo Obregón
+> "Robbie está bien guapo."
+  - \- Ricardo Amano, 2022
 
 
 #references
