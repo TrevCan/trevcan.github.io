@@ -63,6 +63,10 @@ quotes
 > "Robbie está bien guapo."
   - \- Ricardo Amano, 2022
 
+> "Nunca tengas miedo del día que no has visto."
+	- \- Proverbio inglés. Anónimo.
+	- Recomendado por Alex Gómez cuando estaba jugando typeracer.
+
 
 #references
 [7] https://youtu.be/hbawQuKZst0

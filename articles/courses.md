@@ -11,3 +11,5 @@ courses
 
 ## tutorials
 - [xlib: a short tutorial, *tronche.com*](https://tronche.com/gui/x/xlib-tutorial/)
+- [vim reference by example](https://learnbyexample.github.io/vim_reference/Introduction.html)
+- 
