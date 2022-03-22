@@ -29,7 +29,7 @@ https://git.trevcan.duckdns.org/RobotCode_2022.git/
 And that works over https ! Push doesn't work over http/(s) but yeah. He was
 able to pull in no time and could get my code. So that's good I guess.
 
-[0]:  speed running today's [blog]. I should probably eat now, it's 10:30 in the
+\[0]:  speed running today's [blog]. I should probably eat now, it's 10:30 in the
 morning and I haven't attended any of my high school courses. I should go to
 tecbot.
 
