@@ -66,6 +66,11 @@ quotes
 > "Nunca tengas miedo del día que no has visto."
 	- \- Proverbio inglés. Anónimo.
 	- Recomendado por Alex Gómez cuando estaba jugando typeracer.
+	
+-----
+
+- > "Madurar es para frutas."
+  - \- Santiago Arzate
 
 
 #references
