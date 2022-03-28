@@ -11,7 +11,9 @@ drive mounted **without custom** permissions.
 
 **TLDR 2; or just RTFM and man tf outta mount!**
 
-```man mount```
+```
+man mount
+```
 
 
 
