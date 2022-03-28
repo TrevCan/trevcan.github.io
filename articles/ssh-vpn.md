@@ -14,8 +14,9 @@ sshuttle -r user@server.org 0.0.0.0/0 --dns
 sshuttle -r user@server.org SUBNET/0 --dns
 ```
 
-use 0.0.0.0 on SUBNET to route ALL requests through ssh server.
+use `0.0.0.0` on `SUBNET` to route ALL requests through ssh server.
 
-use 192.168.1.0 on SUBNET to route requests starting with 192.168.1. through the ssh server.
+use `192.168.1.0` on `SUBNET` to route requests starting with `192.168.1.` through the ssh server.
+
 
 ;tags: vpn ssh sec short
