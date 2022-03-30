@@ -47,3 +47,4 @@ I hope that means bye.
 - [[0]](https://news.ycombinator.com/user?id=trevcanhuman)
 
 
+;tags: today feelings 
