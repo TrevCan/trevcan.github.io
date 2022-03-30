@@ -308,6 +308,13 @@ footer {
     min-height: calc(100vh - 100px);
 }
 
+button {
+	color: black;
+}
+
 input {
-	color: blue;
+	color: black;
+	background-color: white;
+	background: white;
+
 }
