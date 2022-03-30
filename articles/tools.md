@@ -19,6 +19,14 @@ Software tools
 
 - ncdu disk usage
   - https://dev.yorhel.nl/ncdu
+
+
+### pastebins
+- this section attempts to show minimalist pastebins.
+- no ads, no js, curl/CLI-friendly, self-hosted probably.
+- [http://ix.io/](http://ix.io/)
+- [https://0x0.st/](https://0x0.st/)
+- 
 	
 
 
