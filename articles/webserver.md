@@ -25,3 +25,19 @@ maybe I'll post the code.
 - https://briancallahan.net/blog/20220220.html
 - https://teaching.idallen.com/cst8207/13w/notes/200_redirection.html#redirection-of-input-redirection-of-output
 - https://duckduckgo.com/?q=stdin+eof+shell&ia=web
+
+---
+
+[https://jameshfisher.com/](https://jameshfisher.com)
+
+https://jameshfisher.com/2016/12/15/file-descriptor-misnomer/
+
+https://github.com/jameshfisher/jameshfisher.com/issues/23
+
+https://jameshfisher.com/2017/02/25/tcp-server-fork/
+
+https://jameshfisher.com/2016/12/14/simple-tcp-server/
+
+https://linuxhint.com/sockaddr-in-structure-usage-c/
+
+https://bruinsslot.jp/post/simple-http-webserver-in-c/
