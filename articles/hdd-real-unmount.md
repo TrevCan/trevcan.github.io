@@ -31,13 +31,15 @@ I use this script:
 	notify-send "$ dmenuumount" "Power removed from ${1}. You may disconnect it now."
 ```
 
-the important part is `hdparm -Y "$1"`. `-Y` means put the device in the 
+the important part is `hdparm -Y "$1"`. This flag `-Y` (yes, capital Y) means 
+put the device in the 
 lowest possible power mode. It will still be listed under `lsblk` but it will turn
 on once you actually want to mount it. the `"$1"` is the path for the device, e.g.
 `/dev/sde`.
 
-As noted before, you must be root. BE SURE to check the device, since running this 
-command on the root, home or boot partition can fuck up your system!
+As noted before, you must be root. 
+**BE SURE to check the device, since running this **
+**command on any devices you are using could fuck up the system!**
 
 questions ? [contact](contact.html) me.
 
