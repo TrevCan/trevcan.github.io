@@ -27,6 +27,10 @@ Software tools
 - [http://ix.io/](http://ix.io/)
 - [https://0x0.st/](https://0x0.st/)
 - 
+
+
+# philosophy reading
+- [french encyclopedia](https://encyclo-philo.fr/)
 	
 
 
