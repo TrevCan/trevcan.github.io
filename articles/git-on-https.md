@@ -14,7 +14,7 @@ So I though, I've always seen that https/ssh/zip button
 link thing on github. Why can't I do that ? Isn't https
 like allowed on almost any network ? So I started investigating.
 
-According to the git-scm reference manual, there are other 
+According to the git-scm [0] reference manual, there are other 
 ways to host servers. One of them is using a CGI script that
 runs server-side.
 
@@ -27,5 +27,21 @@ file.
 [https://git-trevcan.duckdns.org/lighttpd-conf.git/tree/sites-enabled/push-git.conf](https://git-trevcan.duckdns.org/lighttpd-conf.git/tree/sites-enabled/push-git.conf)
 
 when i have the time i'll explain it over.
+
+### references
+
+- [[0]](https://git-scm.com/book/en/v2/Git-on-the-Server-Smart-HTTP) git on the server: smart http.
+- [info on cgi scripts](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+
+
+### lighttpd useful links
+
+- [URL Rewrite mod_rewrite](https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModAuth)
+- [stackoverflow handle cgi c executables](https://stackoverflow.com/questions/6267084/configuring-lighttpd-to-handle-cgi-c-executables)
+### public inbox .org ?
+- [https://public-inbox.org/](https://public-inbox.org/)
+
+### the wisconsin shell
+- [https://github.com/Saggarwal9/MyWisconsinShell](https://github.com/Saggarwal9/MyWisconsinShell)
 
 ;tags: git technical linux https
