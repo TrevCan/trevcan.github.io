@@ -285,7 +285,11 @@ or
 - shouldnt this just be the web itself ?
 
 
+### public inbox .org ?
+- [https://public-inbox.org/](https://public-inbox.org/)
 
+### the wisconsin shell
+- [https://github.com/Saggarwal9/MyWisconsinShell](https://github.com/Saggarwal9/MyWisconsinShell)
 
 
 
