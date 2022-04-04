@@ -8,7 +8,7 @@ that close to my issue.
 It slows down when using the pinentry-curses, pinentry-gtk-2 binaries.
 
 edit: I found out the problem! Thanks to [u/xXbobby123Xx](https://www.reddit.com/r/GnuPG/comments/q2apuh/comment/hpa3m6f/?utm_source=share&utm_medium=web2x&context=3) for discovering the solution,
-and this GNU forum: https://dev.gnupg.org/T3240 it appears to be a bug in gnome-keyring.
+and this GNU forum: [https://dev.gnupg.org/T3240](https://dev.gnupg.org/T3240) it appears to be a bug in gnome-keyring.
 
 **Uninstalling the gnome-keyring is the solution for now.**
 
@@ -106,10 +106,9 @@ Linux t490-4rch 5.14.9-zen2-1-zen #1 ZEN SMP PREEMPT Fri, 01 Oct 2021 19:03:23 +
 - P.S.: hyperlinks open in new tab
 - [\[0\] Why would GPG Pinentry be slow when opening in GUI but instantaneous 
 when opening in 
-CLI?](https://unix.stackexchange.com/questions/628092/why-would-gpg-pinentry-be-
-slow-when-opening-in-gui-but-instantaneous-when-openin){:target="_blank"}
-- [\[1\] pinentry slows down all of a sudden. old.reddit.com](https://old.reddit.com/r/GPGpractice/comments/q26tsf/pinentry_slows_down_all_of_a_sudden/?ref=share&ref_source=link){:target="_blank"}
-- [\[2\] neofetch ](/neofetch.html){:target="_blank"}
+CLI?](https://unix.stackexchange.com/questions/628092/why-would-gpg-pinentry-be-slow-when-opening-in-gui-but-instantaneous-when-openin)
+- [\[1\] pinentry slows down all of a sudden. old.reddit.com](https://old.reddit.com/r/GPGpractice/comments/q26tsf/pinentry_slows_down_all_of_a_sudden/?ref=share&ref_source=link)
+- [\[2\] neofetch ](neofetch.html)
 	
 
 - [understanding Apple's binary propert lists files](https://medium.com/@karaiskc/understanding-apples-binary-property-list-format-281e6da00dbd)
