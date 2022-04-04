@@ -33,10 +33,48 @@ Software tools
 - [french encyclopedia](https://encyclo-philo.fr/)
 	
 
+# internet
+
+## DNS lookup
+
+- [https://digwebinterface.com/](https://digwebinterface.com/)
+- [https://digdns.com/](https://digdns.com/)
+
+
 
 
 ## calculator
 - [Derivative calculator w/ steps.](https://www.derivative-calculator.net/)
 - [Decent *no-ads* scientific calculator](https://www.desmos.com/scientific)
+
+
+# school
+
+this section and subsections show tools that I may use or have 
+found useful at some point. Includes links to proprietary software, etc.
+
+## screen mirroring
+
+- Apple TV software
+- MirrorOP, installed on some school projectors, works over school's LAN
+  - [MS Windows (10) app installer](https://www.barco.com/services/website/en/TdeFiles/Download?FileNumber=R33050099&TdeType=3&MajorVersion=2&MinorVersion=5&PatchVersion=4&BuildVersion=70&ShowDownloadPage=False) todo: add mirror
+  - [iOS App](https://apps.apple.com/mx/app/mirrorop-presenter/id808539605)
+  - Linux: no official version. But last time I tried installing the MS Windows executable and it worked like a charm! at least the screen sharing, I didn't test sound.
+  - [official downloads page](https://www.barco.com/en/support/mirrorop/drivers)
+  - last time i used this software the interface was somewhat laggy, the auto-lookup tool did not work and you had to enter the IP address of the project manually.
+  - questions ? contact me.
+  
+
+## file transfer
+
+one could use the usual google drive, dropbox, etc. No thanks, well, definitely useful when sharing between peers.
+
+instead I use [snapdrop](https://snapdrop.net/) to transfer files over a LAN. although I must say last time I tried it on the school network it didn't work. I use it at my house to transfer scanned files from my phone to my computer without having to send emails.
+
+Although not very privacy-respecting, I have used WhatsApp and its webapp. Their servers are extremely responsive for pdfs, unlike emails that may take minutes to arrive. I think files cap at 100 MB of file size.
+
+
+
+
 
 ;tags: list
