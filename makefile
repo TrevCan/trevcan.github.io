@@ -1,7 +1,14 @@
 options:
-	@echo "clean | build | deploy | show | git-status"
+	@echo "all | clean | build | deploy | show | git-status"
 	@echo
-	@echo "main: clean build deploy git-status"
+	@echo "all: alias for main"
+	@echo "main: does everything. (clean,build,deploy)"
+	@echo
+	@echo "clean: deletes deploy directory and other build files/folders"
+	@echo "build: generates blog and other assets in separate folders"
+	@echo "deploy: brings built assets into a single folder, defined in blogit"
+
+all: main
 
 main: clean build deploy
 
