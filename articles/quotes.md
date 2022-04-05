@@ -70,7 +70,17 @@ quotes
 -----
 
 - > "Madurar es para frutas."
-  - \- Santiago Arzate
+
+  - \- Santiago Arzate 
+  
+
+
+- > "Don't find fault,
+  > find a remedy;
+  > anybody can
+  > complain."
+  
+  - \- Henry Ford  ([source](https://www.instagram.com/p/Cb6qCZ_Llqo/)
 
 
 #references
