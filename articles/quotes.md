@@ -64,10 +64,6 @@ quotes
 - > "Robbie está bien guapo."
   - \- Ricardo Amano, 2022
 
-- > "Nunca tengas miedo del día que no has visto."
-	- \- Proverbio inglés. Anónimo.
-	- Recomendado por Alex Gómez cuando estaba jugando typeracer.
-	
 -----
 
 - > "Madurar es para frutas."
@@ -85,6 +81,34 @@ quotes
   
   - \- Henry Ford
 ([source](https://www.instagram.com/p/Cb6qCZ_Llqo/))
+
+
+# lineas
+
+Alex Gómez's phrases that most of the time he reads
+whilst playing [typeracer](https://play.typeracer.com/?universe=lang_es) 
+in Spanish.
+
+- > "Nunca tengas miedo del día que no has visto."
+
+	- \- Proverbio inglés. Anónimo.
+	- Recomendado por Alex Gómez cuando estaba jugando typeracer.
+	
+- 	
+> El sabio no dice todo lo que piensa,<br>
+pero siempre piensa todo lo que dice.
+
+- 	
+> Hay dos tipos de personas.<br>
+Las que consiguen lo que quieren,<br>
+y las que no se atreven a conseguir lo que quieren.
+
+- 	
+> Amor y deseo son dos cosas diferentes.<br>
+que no todo lo que se ama se desea,<br>
+y no todo lo que se desea se ama.
+
+- \- Don Quijote de la Mancha, Miguel de Cervantes.
 
 
 #references
