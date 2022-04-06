@@ -20,7 +20,7 @@ quotes
   > hide, you might as well say free speech is unimportant for you because you
   > have nothing useful to say.
 
-  – Edward Snowden
+  – \- Edward Snowden
 
 - comments from [Positividad Tóxica, lo bueno y lo malo del coaching | THE WILD PROJECT](https://www.youtube.com/watch?v=P3RxGaw9buM)
 	- Cristian Exposito Reviriego
@@ -28,7 +28,7 @@ quotes
 	  > Es una construcción psicológica. Todo el mundo puede hacer lo que sea.
 	  > Entonces todo el mundo tiene que ser algo.
 	  > El nivel de exigencia no se había visto antes en la historia de la humanidad.
-	  > “Somos 70% más productivos que hace 50 años. Somos unas máquinas de producir
+	  > “Somos 70% más productivos que hace 50 años. Somos unas máquinas de producir 
 	  > y sin embargo, sigue habiendo demasiada frustración. Sabiendo psicología:
 	  > uno nunca logra satisfacer sus deseos por completos. El vacío de la falta
 	  > nunca se llena realmente. El ser humano es una máquina desecante.
@@ -41,36 +41,50 @@ quotes
 - > "Desire is something that humans will always *desire*."
 
 	- me, Hector Canizales (2021, november 24th, 10:43 pm mx ;)
-- does time tell ? we tell what we want to tell about what can be told about time. - me.
+- does time tell ? we tell what we want to tell about what can be told about time. 
+  - me.
 -  individual level.
 > how well they act on what they deem valuable on themselves
 
 
-- > Oh, man! The alphabet boys are not gonna like this video.
-  - mental outlaw, 2021 [7](#references)
-- 
+- > "Oh, man! The alphabet boys are not gonna like this video."
+  - \-mental outlaw, 2021 [7](#footer)
+
+
 - > No me juzguen por mis ideas !
   - \- Ricardo Amano, 2022
   - entonces por qué te juzgaremos richie ? por tus acciones ?
 
-> "Somos nuestras relaciones."
-
+- > "Somos nuestras relaciones."
   - \- Víctor Hugo Obregón
 
-> "La felicidad es el camino. No el destino."
-
+- > "La felicidad es el camino. No el destino."
   - \- Víctor Hugo Obregón
-> "Robbie está bien guapo."
+  
+- > "Robbie está bien guapo."
   - \- Ricardo Amano, 2022
 
-> "Nunca tengas miedo del día que no has visto."
+- > "Nunca tengas miedo del día que no has visto."
 	- \- Proverbio inglés. Anónimo.
 	- Recomendado por Alex Gómez cuando estaba jugando typeracer.
 	
 -----
 
 - > "Madurar es para frutas."
-  - \- Santiago Arzate
+
+  - \- Santiago Arzate, 2022
+  
+
+
+- 
+
+> "Don't find fault,
+> find a remedy;
+> anybody can
+> complain."
+  
+  - \- Henry Ford
+([source](https://www.instagram.com/p/Cb6qCZ_Llqo/))
 
 
 #references
