@@ -20,48 +20,61 @@ quotes
   > hide, you might as well say free speech is unimportant for you because you
   > have nothing useful to say.
 
-  – \- Edward Snowden
+  - \- Edward Snowden
 
 - comments from [Positividad Tóxica, lo bueno y lo malo del coaching | THE WILD PROJECT](https://www.youtube.com/watch?v=P3RxGaw9buM)
 	- Cristian Exposito Reviriego
-	- >“En una sociedad donde puedes hacer de todo, tienes que lograr algo.”
-	  > Es una construcción psicológica. Todo el mundo puede hacer lo que sea.
-	  > Entonces todo el mundo tiene que ser algo.
-	  > El nivel de exigencia no se había visto antes en la historia de la humanidad.
-	  > “Somos 70% más productivos que hace 50 años. Somos unas máquinas de producir 
-	  > y sin embargo, sigue habiendo demasiada frustración. Sabiendo psicología:
-	  > uno nunca logra satisfacer sus deseos por completos. El vacío de la falta
-	  > nunca se llena realmente. El ser humano es una máquina desecante.
-	  > Nos falta algo y por eso caminamos decía Lacan. Siempre buscamos más cosas, algo más.
-	  > Es un deseo por ser completos.
-	  > El problema es que ese deseo se instrumentalizo en nombre de la hiperproductividad.”
-	  > “La gente que te exige positividad no es que te quiera ver bien, es que no puede tolerar tu queja, esa es la diferencia.”
-	  > “Si no le damos lugar a las quejas, no desaparecen.”
-	- 
+	- >“En una sociedad donde puedes hacer de todo, tienes que lograr algo.”						<br>
+	  > Es una construcción psicológica. Todo el mundo puede hacer lo que sea.<br>
+	  > Entonces todo el mundo tiene que ser algo.<br>
+	  > El nivel de exigencia no se había visto antes en la historia de la humanidad.<br>
+	  > “Somos 70% más productivos que hace 50 años. Somos unas máquinas de producir <br>
+	  > y sin embargo, sigue habiendo demasiada frustración. Sabiendo psicología:<br>
+	  > uno nunca logra satisfacer sus deseos por completos. El vacío de la falta<br>
+	  > nunca se llena realmente. El ser humano es una máquina desecante.<br>
+	  > Nos falta algo y por eso caminamos decía Lacan. <br>
+	  > Siempre buscamos más cosas, algo más.<br>
+	  > Es un deseo por ser completos.<br>
+	  > El problema es que ese deseo se instrumentalizo en <br>
+	  > nombre de la hiperproductividad.”<br>
+	  > “La gente que te exige positividad no es que te quiera ver bien, es que <br>
+	  > no puede tolerar tu queja, esa es la diferencia.”<br>
+	  > “Si no le damos lugar a las quejas, no desaparecen.”<br>
+
+---
+
 - > "Desire is something that humans will always *desire*."
 
 	- me, Hector Canizales (2021, november 24th, 10:43 pm mx ;)
-- does time tell ? we tell what we want to tell about what can be told about time. 
-  - me.
+
+- > does time tell ? we tell what we want to tell about what can be told about time. 
+
+  - \- me.
+  - 
 -  individual level.
 > how well they act on what they deem valuable on themselves
 
 
 - > "Oh, man! The alphabet boys are not gonna like this video."
-  - \-mental outlaw, 2021 [7](#footer)
+
+  - \-mental outlaw, 2021 [[7]](#references)
 
 
 - > No me juzguen por mis ideas !
+
   - \- Ricardo Amano, 2022
   - entonces por qué te juzgaremos richie ? por tus acciones ?
 
 - > "Somos nuestras relaciones."
+
   - \- Víctor Hugo Obregón
 
 - > "La felicidad es el camino. No el destino."
+
   - \- Víctor Hugo Obregón
   
 - > "Robbie está bien guapo."
+
   - \- Ricardo Amano, 2022
 
 -----
@@ -71,13 +84,10 @@ quotes
   - \- Santiago Arzate, 2022
   
 
-
-- 
-
-> "Don't find fault,
-> find a remedy;
-> anybody can
-> complain."
+> "Don't find fault,<br>
+> find a remedy;    <br>
+> anybody can       <br>
+> complain."        <br>
   
   - \- Henry Ford
 ([source](https://www.instagram.com/p/Cb6qCZ_Llqo/))
@@ -111,7 +121,18 @@ y no todo lo que se desea se ama.
 - \- Don Quijote de la Mancha, Miguel de Cervantes.
 
 
-#references
-[7] https://youtu.be/hbawQuKZst0
+> La nature humaine est très faible,<br>
+mais elle est un nature qui est consciente,<br>
+consicente de sa propre faibilité.
+
+- \- German Rueda Vazquez 
+
+
+
+# references
+[7] <https://youtu.be/hbawQuKZst0>
+
+
+[goto start](#)
 
 ;tags: list

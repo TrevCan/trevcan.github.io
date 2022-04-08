@@ -13,19 +13,18 @@ all: main
 main: clean build deploy
 
 clean:
-	rm -rf www/
-	./blogit clean
+	rm -rf www/ > /dev/null 
+	./blogit clean > /dev/null
 
 build:
-	./blogit build
+	./blogit build > /dev/null
 
 deploy:
-	./blogit deploy
+	./blogit deploy > /dev/null
 
 show:
 	xdg-open www/index.html
 
 git-status:
 	git status
-
 
