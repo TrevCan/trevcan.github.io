@@ -108,6 +108,8 @@ in Spanish.
 > El sabio no dice todo lo que piensa,<br>
 pero siempre piensa todo lo que dice.
 
+  - too fucking true.
+
 - 	
 > Hay dos tipos de personas.<br>
 Las que consiguen lo que quieren,<br>
@@ -119,6 +121,10 @@ que no todo lo que se ama se desea,<br>
 y no todo lo que se desea se ama.
 
 - \- Don Quijote de la Mancha, Miguel de Cervantes.
+
+- > I’m beginning to think that maybe great, 
+epic romances don’t just happen. We have to make them ourselves. 
+  - \- Marissa Meyer
 
 
 > La nature humaine est très faible,<br>
