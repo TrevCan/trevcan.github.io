@@ -80,5 +80,67 @@ Although not very privacy-respecting, I have used WhatsApp and its webapp. Their
 
 
 
+# Developer resources
 
-;tags: list
+for now in Spanish, most likely copied off a Facebook group. But yes, I've added attribution.
+
+Hola Les comparto algunos recursos para sus próximos desarrollos o si apenas inician, seguro también les sirven 
+
+Publica gratis tus páginas:
+
+http://netlify.com
+
+http://firebase.google.com
+
+ http://aws.amazon.com
+
+http://heroku.com
+
+http://pages.github.com
+
+http://vercel.com
+
+ http://surge.sh
+
+ http://render.com
+
+Páginas para practicar código en todos los lenguajes:
+
+codewars.com 
+
+http://topcoder.com 
+
+http://codingame.com 
+
+http://hackerrank.com 
+
+http://projecteuler.net 
+
+http://coderbyte.com 
+
+http://codechef.com 
+
+http://exercism.io http://leetcode.com 
+
+http://spoj.com
+
+Páginas para aprender a programar:
+
+http://freecodecamp.org
+
+http://codecademy.com
+
+http://javascript30.com
+
+http://frontendmentor.io http://testautomationu.applitools.com
+
+ http://coursera.org
+
+ http://khanacademy.org
+
+ http://sololearn.com
+ 
+@denicmarko
+
+
+;tags: list tech programming host
