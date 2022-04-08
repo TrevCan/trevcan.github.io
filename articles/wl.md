@@ -345,6 +345,9 @@ or
 
 - El psicoanalista
 - Darren Aronofsky Hogan’s villains
+- david fincher- zodiac
+
+
 
 ## joe programming
 
