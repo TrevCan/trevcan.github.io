@@ -248,6 +248,7 @@ or
 
 ---
 # nofkidea
+
 - [make me a sandwich](https://chrismorgan.info/blog/make-me-a-sandwich/)
 	- [xkcd](https://xkcd.com/149/)
 - 
@@ -286,11 +287,51 @@ or
 
 
 ### public inbox .org ?
+
 - [https://public-inbox.org/](https://public-inbox.org/)
 
 ### the wisconsin shell
+
 - [https://github.com/Saggarwal9/MyWisconsinShell](https://github.com/Saggarwal9/MyWisconsinShell)
 
+### plain text sports
+- [https://plaintextsports.com/](https://plaintextsports.com/)
+
+
+---
+
+- [diary of first time on-site engineer](https://thenewstack.io/diary-of-a-first-time-on-call-engineer/)
+
+
+- [writing a simple operating system, from scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+
+- [a website that only works when there's enough sun in the UK](http://witch.solar/)
+
+
+- [raphael kabo](https://raphael.computer/)
+
+- [tcl thing idk](https://www.tcl.tk/about/dos2unix.html)
+
+- [unix le c shell](https://www.shellunix.com/csh.html)
+
+- [game engine game ?](https://verdagon.dev/blog/yak-shave-language-engine-game)
+
+- [makefiles > package.json](https://spin.atomicobject.com/2021/03/22/makefiles-vs-package-json-scripts/)
+
+- [dead simple vpn](https://github.com/jedisct1/dsvpn) no, haven't used it yet
+
+
+- [color computer archive smth smth](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Getting%20Started%20With%20Extended%20Color%20Basic%20(Tandy).pdf)
+
+- [a random couch](https://adambasanta.com/)
+
+- [blogging, made simpler ?](https://jon.bo/posts/can-blogging-be-simple/)
+
+
+- [obscure x11 xorg tools ](http://cyber.dabamos.de/unix/x11/#3dpong)
+
+
+- [LAPD: Hidden Spy Camera Detection using Smartphone Time-of-Flight Sensors](https://dl.acm.org/doi/10.1145/3485730.3485941) 
 
 ---
 
