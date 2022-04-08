@@ -340,4 +340,17 @@ or
 - [http://savethesounds.info/](http://savethesounds.info/)
 - 
 
+
+# notes from my phone
+
+- El psicoanalista
+- Darren Aronofsky Hogan’s villains
+
+## joe programming
+
+https://docs.google.com/document/d/18RURe7qAxlO5KfVRu3d2fdTL_OrERR-EKONS_87F_DQ/edit?usp=sharing
+
+https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/edit?usp=sharing
+
+
 ;tags: later list
