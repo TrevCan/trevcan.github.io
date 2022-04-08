@@ -21,6 +21,10 @@ Software tools
   - https://dev.yorhel.nl/ncdu
 
 
+### programming
+
+- [the algorithms](https://the-algorithms.com/)
+
 ### pastebins
 - this section attempts to show minimalist pastebins.
 - no ads, no js, curl/CLI-friendly, self-hosted probably.
