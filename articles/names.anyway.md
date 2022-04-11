@@ -9,4 +9,8 @@ Who knows, lol. Just a fun story I felt like writing I guess. Back to the
 
 Bye.
 
+Other names I've sometimes forgotten:
+
+- Victoria
+
 ;tags: short
