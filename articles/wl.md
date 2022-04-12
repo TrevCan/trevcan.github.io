@@ -166,6 +166,9 @@ or
 
 
 
+- [https://redmine.lighttpd.net/projects/lighttpd/wiki/HowToRedirectHttpToHttps]
+
+
 ## books
 - mindfuck (Cristopher Wyely)
   - de Gaby
@@ -354,6 +357,16 @@ or
 https://docs.google.com/document/d/18RURe7qAxlO5KfVRu3d2fdTL_OrERR-EKONS_87F_DQ/edit?usp=sharing
 
 https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/edit?usp=sharing
+
+
+## audio
+
+- [PLS](https://en.wikipedia.org/wiki/PLS_(file_format)#Examples)
+
+
+---
+
+- [tcl misunderstood](http://antirez.com/articoli/tclmisunderstood.html)
 
 
 ;tags: later list
