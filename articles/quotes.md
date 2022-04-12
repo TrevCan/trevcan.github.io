@@ -134,6 +134,11 @@ consicente de sa propre faibilité.
 - \- German Rueda Vazquez 
 
 
+- "Lo único constante es el cambio."
+  - \- Heráclito
+  - recomendado por Gaby.
+
+
 
 # references
 [7] <https://youtu.be/hbawQuKZst0>

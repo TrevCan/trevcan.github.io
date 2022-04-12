@@ -175,6 +175,18 @@ Movies
 # santi
 - the dictator (2011)
 
+## war
+
+- The Last Race (2016)
+  - also titled *On Wings of Eagles*
+  - titled in Mexico as: *Inquebrantable*, just as another movie.
 
 
+- Gemini Man (2019)
+  - with Will Smith. Nice action/thriller.
+  - has some reasonable trama.
+
+
+
+- Split (2016) very good film. But weirdly grotesque and bizarre
 ;tags: entertainment movies tv-shows list
