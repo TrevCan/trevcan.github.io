@@ -1,4 +1,4 @@
-I talked with a human.
+I talked to a human.
 
 Nothing new, I guess.
 
