@@ -368,5 +368,14 @@ https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/
 
 - [tcl misunderstood](http://antirez.com/articoli/tclmisunderstood.html)
 
+--- 
+
+# idk
+
+- [collection of nix tools and alternatives](https://github.com/ibraheemdev/modern-unix)
+- [julia evans](https://jvns.ca/)
+- [list of newish command lien tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+- [indieblog](https://indieblog.page/)
+
 
 ;tags: later list
