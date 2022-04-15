@@ -177,7 +177,7 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 
 blog/rss.xml: $(ARTICLES)
 	printf '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n' > $@
-	printf '\t<channel>\n\t<title>%s</title>\n\t<link>index.html</link>\n\t<description>%s</description>\n' \
+	printf '\t<channel>\n\t<title>%s</title>\n\t<link>$(BLOG_FEED_ROOT)/index.html</link>\n\t<description>%s</description>\n' \
 		"$(BLOG_TITLE)" "$(BLOG_DESCRIPTION)" >> $@ ;
 	for f in $(ARTICLES); do \
 		printf '%s ' "$$f"; \
@@ -186,7 +186,7 @@ blog/rss.xml: $(ARTICLES)
 		printf '\t\t<item>\n\t\t<title>%s</title>\n\t\t<link>%s</link>\n\t\t<guid>%s</guid>\n\t\t<pubDate>%s</pubDate>\n' \
 			"`head -n 1 $$FILE`" \
 			"$(BLOG_FEED_ROOT)/`basename $$FILE .md`.html" \
-			"`basename $$FILE .md`.html" \
+			"$(BLOG_FEED_ROOT)/`basename $$FILE .md`.html" \
 			"$$DATE" ; \
 		printf '\t\t<description><![CDATA[ '; \
 		tail -n +49 blog/`basename $$FILE .md`.html | head -n 20 ; \
