@@ -9,10 +9,12 @@ endif
 BLOG_DATE_FORMAT_INDEX ?= %x
 BLOG_DATE_FORMAT ?= %x %X
 BLOG_TITLE ?= trevcan's blog
-BLOG_DESCRIPTION ?= the blog by trevcan
+BLOG_DESCRIPTION ?= the blog by trevcan, a.k.a. Hector Canizales
 BLOG_URL_ROOT ?= blog
 BLOG_FEED_MAX ?= 1000
-BLOG_FEEDS ?= rss atom
+#BLOG_FEEDS ?= rss atom
+BLOG_FEEDS ?= rss
+BLOG_FEED_ROOT := https://blog.thetrevor.tech
 BLOG_SRC ?= articles
 
 
@@ -174,18 +176,21 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	envsubst < templates/footer.html >> $@; \
 
 blog/rss.xml: $(ARTICLES)
-	printf '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n<channel>\n<title>%s</title>\n<link>index.html</link>\n<description>%s</description>\n' \
-		"$(BLOG_TITLE)" "$(BLOG_DESCRIPTION)" > $@
+	printf '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n' > $@
+	printf '\t<channel>\n\t<title>%s</title>\n\t<link>index.html</link>\n\t<description>%s</description>\n' \
+		"$(BLOG_TITLE)" "$(BLOG_DESCRIPTION)" >> $@ ;
 	for f in $(ARTICLES); do \
 		printf '%s ' "$$f"; \
 		git log --diff-filter=A --date="format:%s %a, %d %b %Y %H:%M:%S %z" --pretty=format:'%ad%n' -- "$$f"; \
-	done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
-		printf '<item>\n<title>%s</title>\n<link>%s</link>\n<guid>%s</guid>\n<pubDate>%s</pubDate>\n<description>%s</description>\n</item>\n' \
+		done | sort -k2nr | head -n $(BLOG_FEED_MAX) | cut -d" " -f1,3- | while IFS=" " read -r FILE DATE; do \
+		printf '\t\t<item>\n\t\t<title>%s</title>\n\t\t<link>%s</link>\n\t\t<guid>%s</guid>\n\t\t<pubDate>%s</pubDate>\n' \
 			"`head -n 1 $$FILE`" \
-			"https://trevcan.duckdns.org/blog/`basename $$FILE .md`.html" \
+			"$(BLOG_FEED_ROOT)/`basename $$FILE .md`.html" \
 			"`basename $$FILE .md`.html" \
-			"$$DATE" \
-			"$(cat $$FILE | sed 's/&/and/g | tr -d '\n')"; \
+			"$$DATE" ; \
+		printf '\t\t<description><![CDATA[ '; \
+		tail -n +49 blog/`basename $$FILE .md`.html | head -n 20 ; \
+		printf ']]>\n\t\t</description>\n\t\t</item>\n'; \
 	done >> $@
 	printf '</channel>\n</rss>\n' >> $@
 
