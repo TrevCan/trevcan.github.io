@@ -13,6 +13,14 @@ or...
 # [any verb that constitutes an action]... later
 
 
+# important!
+
+- [ the unbearable light of seeing](https://pujzism.substack.com/p/the-unbearable-lightness-of-seeing?s=r)
+- [hackclub](https://hackclub.com/)
+- [liquid swords album music](https://en.wikipedia.org/wiki/Liquid_Swords)
+- [do not insert this inside your ear canal](https://peabee.xyz/posts/pea-bee-5-do-not-insert-this-inside/)
+
+
 
 - [Why I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
 - 
@@ -30,6 +38,9 @@ or...
 - [Luke Smith](https://lukesmith.xyz/)
 - [pompompurin](https://blog.pompur.in/rss/)
 - [bitreich](http://bitreich.org/)
+- twitter
+	- [natsecgeek](https://nitter.net/NatSecGeek)
+	- [me](https://nitter.net/trev_Canizales)
 
 
 ## lire 
@@ -376,6 +387,9 @@ https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/
 - [julia evans](https://jvns.ca/)
 - [list of newish command lien tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 - [indieblog](https://indieblog.page/)
+- [webp image format](https://chromium.googlesource.com/webm/libwebp/+/HEAD/doc/tools.md)
+- [shell substitution](https://www.shellscript.sh/tips/pattern-substitution/)
+- [keyboard shortcuts arch linux](https://wiki.archlinux.org/title/Keyboard_shortcuts#Kernel_(SysRq))
 
 
 
