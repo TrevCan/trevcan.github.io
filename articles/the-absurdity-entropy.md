@@ -1,5 +1,7 @@
 Weirdness of entropy or the Absurdity of Entropy.
 
+note: my friend Gaby thinks that I did not touch entropy enough. Fair enough, _I don't really dive into the definition or the concept._
+
 Okay, so I just got back from Veracruz. As usual, I am procrastinating
 and not doing my calculus assignment; instead, I'll tell you about
 a story about entropy, destiny, and I do not know what else.
