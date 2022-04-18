@@ -12,7 +12,8 @@ repercussions.
 
 But when the truth affects your past, your situation,
 your view of life. You kinda die inside. You oughtta accept
-that sometimes you just aren't right and maybe you fuck.
+that sometimes you just aren't right and maybe you're
+fucking wrong.
 
 I fucked up, I guess. I think that you were definitely right,
 Gaby. No problem. But it is hard accepting the truth.
