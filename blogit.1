@@ -171,9 +171,10 @@ DATE_EDITED, the last edit (commit) date;
 TAGS, the tags parsed from "tags:" comments.
 
 .SH REDIRECT LINKS
-Redirect links are files containing a url.
+Redirect links are files containing a single url.
 They can be used to reference local or remote urls and will 
-automatically be generated into HTML files.
+automatically be generated into HTML files that redirect the
+user opening the html file to the target url.
 .P
 To add redirect links, simply create a file ending in 
 .B .redirect
@@ -185,7 +186,8 @@ directory.
 The environment variable
 .RB ( $BLOG_REDIRECT_TIME )
 can be used to control the amount of time it will take to initiate
-the url redirection. 
+the url redirection. Units are in
+.B seconds.
 It can be changed in the 
 .B blogit
 file. The default value is 3 seconds.
