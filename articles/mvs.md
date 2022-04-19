@@ -191,9 +191,22 @@ Movies
 - Split (2016) very good film. But weirdly grotesque and bizarre
 
 
+
 ## german
 - Una sombra en mi ojo. 
 - Blade Runner (80s, 2019)
 - Replicas (2018)
+
+---
+
+- The Stalker (1979)
+  - taken from Van Neistat 
+( 2021, _What your Deepest Desires Says About You_ ) [[0]](#references)
+
+
+# references
+- [0] 
+[What Your Deepest Desire Says About You, Van Neistat](https://youtu.be/eJIXX14pBbg)
+- 
 
 ;tags: entertainment movies tv-shows list
