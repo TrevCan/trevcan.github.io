@@ -6,9 +6,11 @@ The Tiny Quake
 
 _You shook me all night long._ **AC / DC**
 
-For those who arenot in Mexico at the time, apparently the Earth trembled.
+For those who were not in Mexico at the time, apparently the Earth trembled.
+It shook.
 
-The epicenter seems to originate from Zihuatanejo, Guerrero. I hope
-everyone is fine. I definitely felt it here in Toluca.
+The epicenter seemed to originate from Zihuatanejo, Guerrero. I hope
+everyone is fine. I definitely felt it here in Toluca, several hundred
+kilometers away.
 
 ;tags: now
