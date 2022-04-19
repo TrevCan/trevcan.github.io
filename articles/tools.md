@@ -77,6 +77,11 @@ instead I use [snapdrop](https://snapdrop.net/) to transfer files over a LAN. al
 
 Although not very privacy-respecting, I have used WhatsApp and its webapp. Their servers are extremely responsive for pdfs, unlike emails that may take minutes to arrive. I think files cap at 100 MB of file size.
 
+# speed tests
+- [ookla speed test](https://www.speedtest.net/)
+- [speed check](https://www.speedcheck.org/)
+- [Cloudflare speed test](
+
 
 
 

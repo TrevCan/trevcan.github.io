@@ -392,4 +392,8 @@ https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/
 - [keyboard shortcuts arch linux](https://wiki.archlinux.org/title/Keyboard_shortcuts#Kernel_(SysRq))
 
 
+
+wireguard private tunnel. 
+
+
 ;tags: later list

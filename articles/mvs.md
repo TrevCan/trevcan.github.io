@@ -189,4 +189,11 @@ Movies
 
 
 - Split (2016) very good film. But weirdly grotesque and bizarre
+
+
+## german
+- Una sombra en mi ojo. 
+- Blade Runner (80s, 2019)
+- Replicas (2018)
+
 ;tags: entertainment movies tv-shows list
