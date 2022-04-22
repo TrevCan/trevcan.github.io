@@ -2,6 +2,7 @@ This is my terminal.
 
 <p>
 <iframe src=https://thetrevor.tech/terminal.html width=800px height=600px >
+</iframe>
 </p>
 
 I will - at least for now - not tell you the specifications, but what
