@@ -1,5 +1,6 @@
 
-DEBUG_OPTS:=$$( if [ ! -z $$DEBUG ]; then echo ; else echo \> /dev/null; fi )
+DEBUG_OPTS:= > /dev/null
+#DEBUG_OPTS:= 
 
 options:
 	@echo "all | clean | build | deploy | show | git-status"
@@ -12,28 +13,24 @@ options:
 	@echo "deploy: brings built assets into a single folder, defined in blogit"
 	@echo
 	@echo output redirection is: $(DEBUG_OPTS)
-	@echo to set **output redirection** define the DEBUG variable to a
-	@echo non-empty value. e.g.:
-	@echo make all DEBUG=1
-	@echo will print all output.
 
 all: main
 
 main: clean build deploy
 
 clean:
-	rm -rf www/     			$(DEBUG_OPTS)
-	./blogit clean  			$(DEBUG_OPTS)
+	rm -rf www/     			 $(DEBUG_OPTS)
+	./blogit clean  			 $(DEBUG_OPTS)
 
 build:
-	./blogit build 				$(DEBUG_OPTS)
+	./blogit build 				 $(DEBUG_OPTS)
 
 deploy:
-	./blogit deploy 			$(DEBUG_OPTS)
+	./blogit deploy 			 $(DEBUG_OPTS)
 
 show:
-	xdg-open www/index.html		$(DEBUG_OPTS)
+	xdg-open www/index.html		 $(DEBUG_OPTS)
 
 git-status:
-	git status					$(DEBUG_OPTS)
+	git status					 $(DEBUG_OPTS)
 
