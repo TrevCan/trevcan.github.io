@@ -30,6 +30,7 @@ or...
 - 
 
 # people websites
+- [Manav Ponnekanti](https://manavp.com/)
 - [Professor David Brailsford's homepage](http://www.cs.nott.ac.uk/~psadb1/)
 - [Curduroy's Meditations](https://josh8.com/blog/)
 - [josh's website, [/blog] very creative btw!](http://josh8.com/)
@@ -41,6 +42,7 @@ or...
 - twitter
 	- [natsecgeek](https://nitter.net/NatSecGeek)
 	- [me](https://nitter.net/trev_Canizales)
+
 
 
 ## lire 
