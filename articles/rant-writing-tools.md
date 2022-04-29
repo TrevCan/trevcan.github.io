@@ -37,4 +37,4 @@ so I guess I've absorbed a style of my own and I should note, most of the
 internet/media content I view / watch / listen to is in English, so yeah,
 there's that. Whatever.
 
-;tags: no
+;tags: no rant
