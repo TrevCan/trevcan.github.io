@@ -185,6 +185,7 @@ Movies
 - Gemini Man (2019)
   - with Will Smith. Nice action/thriller.
   - has some reasonable trama.
+- Good Will Hunting. Good Will or goodwill ? hmm. who knows.
 
 
 
@@ -202,6 +203,14 @@ Movies
 - The Stalker (1979)
   - taken from Van Neistat 
 ( 2021, _What your Deepest Desires Says About You_ ) [[0]](#references)
+
+---
+
+# Silvana
+
+- Niñas bien.
+- Amar te duele.
+- 
 
 
 # references
