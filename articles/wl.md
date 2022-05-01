@@ -398,4 +398,7 @@ https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/
 wireguard private tunnel. 
 
 
+what is _amorfilia_ anyways ?
+
+
 ;tags: later list

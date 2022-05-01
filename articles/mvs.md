@@ -213,6 +213,25 @@ Movies
 - 
 
 
+---
+
+- Prisoners (2013)
+- Il filo invisibile (2022)
+- Little women (2019)
+- The Northman (2022)
+- 500 days of summer (2009)
+- Awakenings (1990) with The Robin Williams!
+- The Detour (no idea)
+
+
+
+## shows
+
+- Girl meets world
+- Boy meets world
+
+
+
 # references
 - [0] 
 [What Your Deepest Desire Says About You, Van Neistat](https://youtu.be/eJIXX14pBbg)
