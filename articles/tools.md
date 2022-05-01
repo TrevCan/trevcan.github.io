@@ -35,6 +35,8 @@ Software tools
 
 # philosophy reading
 - [french encyclopedia](https://encyclo-philo.fr/)
+- [stanford encyclopedia of philosophy](https://plato.stanford.edu/)
+	- Unlike other academic content, this is **not gated** and is free access!!
 	
 
 # internet
@@ -43,6 +45,16 @@ Software tools
 
 - [https://digwebinterface.com/](https://digwebinterface.com/)
 - [https://digdns.com/](https://digdns.com/)
+
+## social media front-ends
+
+a list of unofficial frontends that let you access
+platform-gated content without having an account.
+
+- twitter: [nitter.net](https://nitter.net)
+- instagram: [bibliogram](https://bibliogram.froth.zone/)
+	- side note: if it gives you an error, try some of the site mirrors:
+		- <https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md>
 
 
 
@@ -63,7 +75,8 @@ found useful at some point. Includes links to proprietary software, etc.
 - MirrorOP, installed on some school projectors, works over school's LAN
   - [MS Windows (10) app installer](https://www.barco.com/services/website/en/TdeFiles/Download?FileNumber=R33050099&TdeType=3&MajorVersion=2&MinorVersion=5&PatchVersion=4&BuildVersion=70&ShowDownloadPage=False) todo: add mirror
   - [iOS App](https://apps.apple.com/mx/app/mirrorop-presenter/id808539605)
-  - Linux: no official version. But last time I tried installing the MS Windows executable and it worked like a charm! at least the screen sharing, I didn't test sound.
+  - Linux: no official version. But last time I tried installing the MS Windows executable through wine
+and it worked like a charm! at least the screen sharing, I didn't test sound.
   - [official downloads page](https://www.barco.com/en/support/mirrorop/drivers)
   - last time i used this software the interface was somewhat laggy, the auto-lookup tool did not work and you had to enter the IP address of the project manually.
   - questions ? contact me.
@@ -80,16 +93,19 @@ Although not very privacy-respecting, I have used WhatsApp and its webapp. Their
 # speed tests
 - [ookla speed test](https://www.speedtest.net/)
 - [speed check](https://www.speedcheck.org/)
-- [Cloudflare speed test](
-
-
+- [Cloudflare speed test](https://speed.cloudflare.com/)
 
 
 # Developer resources
 
 for now in Spanish, most likely copied off a Facebook group. But yes, I've added attribution.
 
-Hola Les comparto algunos recursos para sus próximos desarrollos o si apenas inician, seguro también les sirven 
+<details>
+<summary>
+Hola Les comparto algunos recursos para sus próximos desarrollos o si apenas inician, seguro también les sirven.
+
+(click to open)
+</summary>
 
 Publica gratis tus páginas:
 
@@ -97,7 +113,7 @@ http://netlify.com
 
 http://firebase.google.com
 
- http://aws.amazon.com
+http://aws.amazon.com
 
 http://heroku.com
 
@@ -105,9 +121,9 @@ http://pages.github.com
 
 http://vercel.com
 
- http://surge.sh
+http://surge.sh
 
- http://render.com
+http://render.com
 
 Páginas para practicar código en todos los lenguajes:
 
@@ -139,13 +155,14 @@ http://javascript30.com
 
 http://frontendmentor.io http://testautomationu.applitools.com
 
- http://coursera.org
+http://coursera.org
 
- http://khanacademy.org
+http://khanacademy.org
 
- http://sololearn.com
- 
-@denicmarko
+http://sololearn.com
+
+</details>
+
 
 
 ;tags: list tech programming host
