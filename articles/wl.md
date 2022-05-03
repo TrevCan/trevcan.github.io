@@ -497,4 +497,9 @@ google docs warns from inappropriate words!?: <https://news.ycombinator.com/item
 Batman effect alter ego? <https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html>
 
 
+## manav
+
+- whatis aristocratic tutoring ? 
+
+
 ;tags: later list
