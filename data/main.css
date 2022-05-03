@@ -280,14 +280,15 @@ hr {
 a {
     color: #63c0f5;
 
-//	color: #8cb5cb;
-	/* gaby's recommendation, oxford blue.
+/*	color: #8cb5cb;
+	 gaby's recommendation, oxford blue.
 	 */
 
-//	text-shadow: 0 0 5px rgba(104,182,255,0.5);
+/*	text-shadow: 0 0 5px rgba(104,182,255,0.5);
+ */
 	text-decoration: none;
-	
 
+	word-wrap: break-word;
 }
 a:active,
 a:focus,
