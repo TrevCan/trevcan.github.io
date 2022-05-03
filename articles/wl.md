@@ -179,7 +179,7 @@ or
 
 
 
-- [https://redmine.lighttpd.net/projects/lighttpd/wiki/HowToRedirectHttpToHttps]
+- <https://redmine.lighttpd.net/projects/lighttpd/wiki/HowToRedirectHttpToHttps>
 
 
 ## books
@@ -308,7 +308,7 @@ or
 
 ### the wisconsin shell
 
-- [https://github.com/Saggarwal9/MyWisconsinShell](https://github.com/Saggarwal9/MyWisconsinShell)
+- <https://github.com/Saggarwal9/MyWisconsinShell>
 
 ### plain text sports
 - [https://plaintextsports.com/](https://plaintextsports.com/)
@@ -353,7 +353,7 @@ or
 
 # Save the sounds !
 
-- [http://savethesounds.info/](http://savethesounds.info/)
+- <http://savethesounds.info/>
 - 
 
 
@@ -367,9 +367,9 @@ or
 
 ## joe programming
 
-https://docs.google.com/document/d/18RURe7qAxlO5KfVRu3d2fdTL_OrERR-EKONS_87F_DQ/edit?usp=sharing
+<https://docs.google.com/document/d/18RURe7qAxlO5KfVRu3d2fdTL_OrERR-EKONS_87F_DQ/edit?usp=sharing>
 
-https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/edit?usp=sharing
+<https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/edit?usp=sharing>
 
 
 ## audio
