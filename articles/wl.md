@@ -398,4 +398,103 @@ https://docs.google.com/document/d/1Mw0VCchXsRtKUbQBevmBvyMa-HJ1MOFMhuyK796fNWE/
 wireguard private tunnel. 
 
 
+what is _amorfilia_ anyways ?
+
+
+## dystopic, yet real?
+
+- Felix Krause (2022): [How I put my whole life into a single database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) 
+  - i got this story off hacker news. Haven't read all of it.
+  
+
+
+## back in time
+
+- [3,200-Year-Old Egyptian Tablet Records Excuses for Why People Missed Work: “The Scorpion Bit Him,” “Brewing Beer” & More](https://www.openculture.com/2022/02/3200-year-old-egyptian-tablet-shows-why-people-missed-work-the-scorpion-bit-him-brewing-beer-more.html)
+
+
+### social ? stranger-danger ?
+
+- sqwok: _A social network to talk about what's new, interesting, and important on the web._
+  - <https://sqwok.im/help/faq#basics>
+
+
+---
+
+a mac OS 8 machine running from your web browser ? OMG!!
+
+- <https://macos8.app/>
+  - you must run it from a laptop/computer, not mobile.
+  - <https://news.ycombinator.com/item?id=31168646>
+  
+---
+
+dumb smartphone:
+
+- and it's rotary!
+
+<https://skysedge.com/unsmartphones/RUSP/index.html>
+
+
+
+Youtube rabbit hole is nuanced:
+ <https://www.nytimes.com/2022/04/21/technology/youtube-rabbit-hole.html>
+ 
+ 
+ 
+ crystal casino band: <https://distrokid.com/hyperfollow/thecolonies/dZA9>
+ 
+ funny twitter spanish-speaking thread: <https://nitter.net/yoyo308/status/1513573942656647179?cursor=LBl2gsCt8aT6rIEqiMCy%2FfuwqIEqgsC%2B%2FebMqIEqhMC9kfyErYEqjsC4man9poEqksCysaGiqoEqgMC4sZb6pYEqJQISAAA%3D#r>
+ 
+ wifi travel router exploit: <https://code-byter.com/2022/04/06/fantec-wifi.html>
+ 
+ 
+ Jack Leightcap: <https://jleightcap.srht.site/index.html>
+ 
+ 
+ john cage organ project ? 
+ <https://universes.art/en/specials/john-cage-organ-project-halberstadt#c29094>
+ 
+ black hole paradox weird ?!: http://backreaction.blogspot.com/2022/04/i-stopped-working-on-black-hole.html?m=1
+ 
+ 
+ INdiana Jones!!! rocks. the movies R awesome !!!
+ 
+ 
+## alarm
+
+setting up the Sony Alarm Clock Dream machine:
+- <https://youtu.be/y6KX3QfDe0U>
+
+Child forgetfulness:!?
+
+[post](https://www.washingtonpost.com/lifestyle/magazine/fatal-distraction-forgetting-a-child-in-thebackseat-of-a-car-is-a-horrifying-mistake-is-it-a-crime/2014/06/16/8ae0fe3a-f580-11e3-a3a5-42be35962a52_story.html)
+
+
+
+dealing with life-altering decisions:
+
+- https://news.ycombinator.com/item?id=31085918
+
+
+
+## jailbreak kindle
+
+- jail brake [hn link](https://news.ycombinator.com/item?id=31220553)
+
+
+leaving turkey: <https://ahmetomer.net/on-leaving-turkey/>
+
+
+
+
+
+google docs warns from inappropriate words!?: <https://news.ycombinator.com/item?id=31086310>
+
+
+
+
+Batman effect alter ego? <https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html>
+
+
 ;tags: later list

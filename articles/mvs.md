@@ -14,6 +14,7 @@ Movies
 - The Mule (2018)
 
 - The Nanny Diaries (2007)
+ - Heat (1995)
 ------------------------
 
 
@@ -211,6 +212,29 @@ Movies
 - Niñas bien.
 - Amar te duele.
 - 
+
+
+---
+
+- Prisoners (2013)
+- Il filo invisibile (2022)
+- Little women (2019)
+- The Northman (2022)
+- 500 days of summer (2009)
+- Awakenings (1990) with The Robin Williams!
+- The Detour (no idea)
+
+
+
+## shows
+
+- Girl meets world
+- Boy meets world
+
+
+- Call me by your name (2017)
+
+
 
 
 # references
