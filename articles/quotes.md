@@ -138,7 +138,12 @@ consicente de sa propre faibilité.
   - \- Heráclito
   - recomendado por Gaby.
 
+# me 
 
+> "The most difficult things to <br>
+> point out are the most obvious."
+
+- \- By me. (a.k.a. `trevor`)
 
 # references
 [7] <https://youtu.be/hbawQuKZst0>
