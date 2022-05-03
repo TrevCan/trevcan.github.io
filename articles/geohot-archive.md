@@ -18,4 +18,4 @@ TODO; fix up css to
 show small, less annoying tag links in the index file i guess ?
 
 
-;tags: list
+;tags: list archives
