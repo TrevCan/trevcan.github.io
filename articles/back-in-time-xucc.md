@@ -85,6 +85,5 @@ call me or something.
 # references
 - [0]: [Mark zuckerberg’s Livejournal Blog Post](https://kidsper.wordpress.com/2010/11/28/mark-zuckerbergs-livejournal-blog-post/) of course it's not the original.
 
-;tags archives
-
+;tags: archives
 
