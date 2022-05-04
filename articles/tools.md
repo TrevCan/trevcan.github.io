@@ -47,6 +47,7 @@ Software tools
 - [https://digdns.com/](https://digdns.com/)
 
 ## social media front-ends
+## unofficial front-ends
 
 a list of unofficial frontends that let you access
 platform-gated content without having an account.
@@ -57,6 +58,13 @@ platform-gated content without having an account.
 		- <https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md>
 
 
+### mobile
+
+- UTM: _Virtual machines for iOS and macOS_
+	- <https://github.com/utmapp/UTM>
+- ish: _The Linux shell for iOS_
+	- <https://ish.app/>
+	- <https://news.ycombinator.com/item?id=18430031>
 
 
 ## calculator
@@ -94,6 +102,25 @@ Although not very privacy-respecting, I have used WhatsApp and its webapp. Their
 - [ookla speed test](https://www.speedtest.net/)
 - [speed check](https://www.speedcheck.org/)
 - [Cloudflare speed test](https://speed.cloudflare.com/)
+
+
+
+# useless
+
+not that they suck, but do they actually serve any purpose ?
+But hey, remember that one man's trash can be another man's
+glory (treasure).
+
+- browsh: _A fully-modern text-based browser, rendering to TTY and browsers_
+	- <https://github.com/browsh-org/browsh>
+- tiv: _terminal image viewer_
+	- <https://github.com/radare/tiv>
+- 
+
+# minimalist software
+
+- suckless: <https://suckless.org/>
+- pedantic software: <https://pedantic.software/>
 
 
 # Developer resources
