@@ -42,6 +42,13 @@ or...
 - twitter
 	- [natsecgeek](https://nitter.net/NatSecGeek)
 	- [me](https://nitter.net/trev_Canizales)
+- mexican guy who I found on hacker news ? 
+	- <https://blog.aloui.se/>
+	- <https://aloui.se/>
+- sachachua.com resources:
+	- <https://sachachua.com/blog/resources/>
+	- a no excuses guide to blogging: 
+	  <https://sachachua.com/blog/2014/02/excuses-guide-blogging-pdf-epub-mobi-free-also-notes-publishing/>
 
 
 
@@ -497,9 +504,55 @@ google docs warns from inappropriate words!?: <https://news.ycombinator.com/item
 Batman effect alter ego? <https://lsa.umich.edu/psych/news-events/all-news/faculty-news/the--batman-effect---how-having-an-alter-ego-empowers-you.html>
 
 
+
+
+scattered thoughts: <https://www.scattered-thoughts.net/>
+
+
+bullshit jobs: <https://www.scattered-thoughts.net/notes/bullshit-jobs>
+
+
+ios emulation on Docker using macOS image ?
+<https://dev.to/ianito/how-to-emulate-ios-on-linux-with-docker-4gj3>
+
+
 ## manav
 
 - whatis aristocratic tutoring ? 
+
+# c89 philosophy from pedantic software 
+
+https://pedantic.software/philosophy/c89.html
+
+<https://www.hyrumslaw.com/>
+
+[link test](#c89 philosophy from pedantic software)
+
+
+# systems
+
+- serenityOS: 
+	- <https://serenityos.org/>
+- templeOS:
+	- <https://templeos.org/>
+
+
+checkra1n ios 14:
+<https://checkra.in/news/2020/09/iOS-14-announcement>
+
+ios jailbreak noob guide reddit:
+<https://old.reddit.com/r/jailbreak/comments/ltfrpk/discussion_jailbreak_noob_guide_v10/>
+
+
+
+Taoism:
+
+<https://rsc.byu.edu/light-truth/taoism>
+
+notfoss;
+
+<https://blog.notfoss.com/stories/about/>
+
 
 
 ;tags: later list
