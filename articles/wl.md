@@ -522,7 +522,7 @@ ios emulation on Docker using macOS image ?
 
 # c89 philosophy from pedantic software 
 
-https://pedantic.software/philosophy/c89.html
+<https://pedantic.software/philosophy/c89.html>
 
 <https://www.hyrumslaw.com/>
 
