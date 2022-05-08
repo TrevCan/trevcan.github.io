@@ -47,4 +47,4 @@ vulnerabilities, worked in teams.
 
 
 
-;tags: hireme
+;tags: hireme cv
