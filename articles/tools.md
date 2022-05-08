@@ -71,6 +71,13 @@ platform-gated content without having an account.
 - [Derivative calculator w/ steps.](https://www.derivative-calculator.net/)
 - [Decent *no-ads* scientific calculator](https://www.desmos.com/scientific)
 
+## APIs
+
+- ipify.org: <https://www.ipify.org/>
+	- simple API to retrieve public IPv4 and IPv6 address.
+	- ipv4: <https://api.ipify.org/>
+	- ipv6: <https://api64.ipify.org/>
+	- 
 
 # school
 
