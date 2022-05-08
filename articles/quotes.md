@@ -1,5 +1,12 @@
 quotes
 
+- > "To live, is to risk it all.<br>
+> Otherwise you're just an inert<br>
+> chunk of randomly assembled molecules<br>
+> drifting wherever the universe<br>
+> blows you."<br>
+\- Rick Sanchez
+
 - > So don't be afraid; your heart is in me, and it's racing so fast now. 
   > 'Cause everything we ever were or ever will be is shapeless as a changing cloud.
 
