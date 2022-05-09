@@ -27,7 +27,9 @@ Here it is:
 	see for yourself!: [6]
 
 	I use a dynamic DNS provider to set it up. Of course,
-	I set up port forwarding to be able to use it.
+	
+	I set up port forwarding to be able to set up the site
+		over HTTP and HTTPS. Also set up SSH, among a few other ports.
 
 	Also deployed cgit [5], a CGI web interface for viewing
 	interactively and diffing different commits and projects.
