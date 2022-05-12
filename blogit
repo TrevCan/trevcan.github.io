@@ -12,6 +12,7 @@ BLOG_TITLE ?= trevcan's blog
 BLOG_DESCRIPTION ?= the blog by trevcan, a.k.a. Hector Canizales
 BLOG_URL_ROOT ?= blog
 BLOG_FEED_MAX ?= 1000
+BLOG_HTTPS_LINK := https://blog.thetrevor.tech
 #BLOG_FEEDS ?= rss atom
 BLOG_FEEDS ?= rss
 
@@ -43,22 +44,24 @@ help:
 
 init:
 	mkdir -p $(BLOG_SRC) data templates
-	printf '<!DOCTYPE html><html><head><title>$$TITLE</title></head><body>' > templates/header.html
-	printf '</body></html>' > templates/footer.html
-	printf '' > templates/index_header.html
-	printf '<p>Tags:' > templates/tag_list_header.html
-	printf '<a href="$$URL">$$NAME</a>' > templates/tag_entry.html
-	printf ', ' > templates/tag_separator.html
-	printf '</p>' > templates/tag_list_footer.html
-	printf '<h2>Articles</h2><ul>' > templates/article_list_header.html
-	printf '<li><a href="$$URL">$$DATE $$TITLE</a></li>' > templates/article_entry.html
-	printf '' > templates/article_separator.html
-	printf '</ul>' > templates/article_list_footer.html
-	printf '' > templates/index_footer.html
-	printf '' > templates/tag_index_header.html
-	printf '' > templates/tag_index_footer.html
-	printf '<h1>$$TITLE</h1>' > templates/article_header.html
-	printf '' > templates/article_footer.html
+	# uncomment these lines to get a more 'vanilla' experience of blogit
+	#
+	# printf '<!DOCTYPE html><html><head><title>$$TITLE</title></head><body>' > templates/header.html
+	# printf '</body></html>' > templates/footer.html
+	# printf '' > templates/index_header.html
+	# printf '<p>Tags:' > templates/tag_list_header.html
+	# printf '<a href="$$URL">$$NAME</a>' > templates/tag_entry.html
+	# printf ', ' > templates/tag_separator.html
+	# printf '</p>' > templates/tag_list_footer.html
+	# printf '<h2>Articles</h2><ul>' > templates/article_list_header.html
+	# printf '<li><a href="$$URL">$$DATE $$TITLE</a></li>' > templates/article_entry.html
+	# printf '' > templates/article_separator.html
+	# printf '</ul>' > templates/article_list_footer.html
+	# printf '' > templates/index_footer.html
+	# printf '' > templates/tag_index_header.html
+	# printf '' > templates/tag_index_footer.html
+	# printf '<h1>$$TITLE</h1>' > templates/article_header.html
+	# printf '' > templates/article_footer.html
 	printf 'blog\n' > .git/info/exclude
 
 build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS)) redirects
@@ -86,6 +89,7 @@ blog/index.html: $(ARTICLES) $(TAGFILES) $(addprefix templates/,$(addsuffix .htm
 	export BLOG_AUTHOR_ALIAS="$(BLOG_AUTHOR_ALIAS)"; \
 	export BLOG_AUTHOR="$(BLOG_AUTHOR)"; \
 	export BLOG_URL_ROOT="$(BLOG_URL_ROOT)" ; \
+	export BLOG_HTTPS_LINK="$(BLOG_HTTPS_LINK)" ; \
 	envsubst < templates/header.html > $@; \
 	envsubst < templates/index_header.html >> $@; \
 	envsubst < templates/tag_list_header.html >> $@; \
