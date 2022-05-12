@@ -19,4 +19,4 @@ use `0.0.0.0` on `SUBNET` to route ALL requests through ssh server.
 use `192.168.1.0` on `SUBNET` to route requests starting with `192.168.1.` through the ssh server.
 
 
-;tags: vpn ssh sec short
+;tags: vpn ssh security short
