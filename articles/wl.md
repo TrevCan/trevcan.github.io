@@ -49,6 +49,8 @@ or...
 	- <https://sachachua.com/blog/resources/>
 	- a no excuses guide to blogging: 
 	  <https://sachachua.com/blog/2014/02/excuses-guide-blogging-pdf-epub-mobi-free-also-notes-publishing/>
+- jonathan blow:
+	- <http://number-none.com/blow/>
 
 
 
@@ -552,6 +554,15 @@ Taoism:
 notfoss;
 
 <https://blog.notfoss.com/stories/about/>
+
+
+CGI scripts:
+
+- <https://www.elated.com/your-first-cgi-script/>
+- <https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModCGI>
+
+- http library - libHTTP
+	- <https://www.libhttp.org/api-reference/>
 
 
 

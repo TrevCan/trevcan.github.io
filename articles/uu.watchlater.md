@@ -1,5 +1,10 @@
 Untitled Universtiy Useful Links
 
+# edu course
+
+- CS50 Library for C- CS50 Docs:
+	- <https://cs50.readthedocs.io/libraries/cs50/c/>
+
 
 # later
 

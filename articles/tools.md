@@ -111,6 +111,9 @@ Although not very privacy-respecting, I have used WhatsApp and its webapp. Their
 - [Cloudflare speed test](https://speed.cloudflare.com/)
 
 
+- URL Decoder
+	- <https://www.urldecoder.io/>
+
 
 # useless
 
