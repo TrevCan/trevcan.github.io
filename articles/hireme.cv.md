@@ -119,7 +119,7 @@ Here it is:
 - [3] my Blog: <https://blog.thetrevor.tech>
 - [4] my site: <https://thetrevor.tech>
 - [5] my cgit instance: <https://git.thetrevor.tech>
-- [6] my cgit instance: <https://blog.thetrevor.tech/update.html>
+- [6] my server's uptime: <https://blog.thetrevor.tech/update.html>
 - [7] my GitHub: <https://github.com/trevcan>
 - [8] Tecbot's RobotCode for 2022 Season: <https://github.com/Tecbot3158/RobotCode_2022>
 
