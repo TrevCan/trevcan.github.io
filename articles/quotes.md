@@ -5,7 +5,12 @@ quotes
 > chunk of randomly assembled molecules<br>
 > drifting wherever the universe<br>
 > blows you."<br>
-\- Rick Sanchez
+\- Rick Sanchez (from the show _Rick and Morty_)
+
+- Money will not make you happy,<br>
+and happy will not make you money.
+
+
 
 - > So don't be afraid; your heart is in me, and it's racing so fast now. 
   > 'Cause everything we ever were or ever will be is shapeless as a changing cloud.
@@ -138,7 +143,7 @@ epic romances don’t just happen. We have to make them ourselves.
 mais elle est un nature qui est consciente,<br>
 consicente de sa propre faibilité.
 
-- \- German Rueda Vazquez 
+- \- Germán Rueda Vazquez 
 
 
 - "Lo único constante es el cambio."
