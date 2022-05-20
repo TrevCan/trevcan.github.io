@@ -565,5 +565,9 @@ CGI scripts:
 	- <https://www.libhttp.org/api-reference/>
 
 
+# how to ask questions the smart way
+
+- <http://catb.org/~esr/faqs/smart-questions.html>
+
 
 ;tags: later list
