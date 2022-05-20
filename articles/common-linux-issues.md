@@ -1,5 +1,7 @@
 The Usual Linux Problems
 
+Most of the time, it boils down to RTFM [[1]](#references)!
+
 
 <https://www.linuxquestions.org/questions/linux-newbie-8/su-command-authentication-failure-753154/>
 
@@ -31,3 +33,5 @@ Unix-like systems without a POSIX shell are extremely rare nowadays. `/bin/sh` i
 - [0]: _What kinds of string interpolation does POSIX sh support?_
 	- <https://unix.stackexchange.com/a/389659/497507>
 	- License: CC BY-SA 4.0. <https://creativecommons.org/licenses/by-sa/4.0/>
+- [1]: RTFM, _Wikipedia.org_ <https://en.wikipedia.org/wiki/RTFM>
+	- see also: Arch Linux Principles <https://wiki.archlinux.org/title/Arch_Linux#Principles>
