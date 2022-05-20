@@ -51,11 +51,14 @@ Software tools
 
 a list of unofficial frontends that let you access
 platform-gated content without having an account.
+source: [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 
 - twitter: [nitter.net](https://nitter.net)
 - instagram: [bibliogram](https://bibliogram.froth.zone/)
 	- side note: if it gives you an error, try some of the site mirrors:
 		- <https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md>
+- youtube: [invidious.io](https://docs.invidious.io/instances/)
+
 
 
 ### mobile
@@ -78,6 +81,19 @@ platform-gated content without having an account.
 	- ipv4: <https://api.ipify.org/>
 	- ipv6: <https://api64.ipify.org/>
 	- 
+	- 
+- ipaddress.sh: <https://ipaddress.sh/>
+	- ipv4-only
+
+# teaching
+
+- [openboard](https://github.com/OpenBoard-org/OpenBoard)
+	- _OpenBoard is a cross-platform interactive whiteboard application intended for use in a classroom setting._
+
+## teaching programming
+
+- [processing](https://processing.org/)
+	- _Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts._
 
 # school
 
