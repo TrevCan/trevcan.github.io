@@ -564,6 +564,10 @@ CGI scripts:
 - http library - libHTTP
 	- <https://www.libhttp.org/api-reference/>
 
+# making my own website
+
+- rss feed best practices
+  - <https://kevincox.ca/2022/05/06/rss-feed-best-practices/>
 
 # how to ask questions the smart way
 

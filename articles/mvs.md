@@ -228,14 +228,30 @@ Movies
 
 
 
-## shows
+## show recommendations
+
+### Family-friendly:
 
 - Girl meets world
 - Boy meets world
 
+### random recommendations from youtube commenters
+
+- _Happy Death Day 2U_
+  - and Happy Death Day
+  - first appeared in front of my eyes
+  when I clicked on a yt recommended video, which turned out to be a meme. Then some commenters
+  said this was (and the first one) was one of the best horror-comedy movies
+  ever made.
+  - yt meme video: <https://youtu.be/7Agm1cG38CM>
+  
+- 
 
 - Call me by your name (2017)
 
+
+# tío Toño
+- When the Game stands Tall
 
 
 
