@@ -20,14 +20,8 @@ or...
 - [liquid swords album music](https://en.wikipedia.org/wiki/Liquid_Swords)
 - [do not insert this inside your ear canal](https://peabee.xyz/posts/pea-bee-5-do-not-insert-this-inside/)
 
-
-
 - [Why I Use Suckless Tools](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05)
-- 
-
-- aaaaa.....
 - learn more about huffman coding... and maybe jpeg? it was on HN last i checked ...
-- 
 
 # people websites
 - [Manav Ponnekanti](https://manavp.com/)
@@ -51,7 +45,17 @@ or...
 	  <https://sachachua.com/blog/2014/02/excuses-guide-blogging-pdf-epub-mobi-free-also-notes-publishing/>
 - jonathan blow:
 	- <http://number-none.com/blow/>
+- Jacob Smith. Random Christian guy who I found through Heaventree
+	- <https://jacobwsmith.xyz/index.html>
+- HeavenTree
+	- website ring ? Jesus believers only 
+	- <https://heaventree.xyz/>
+- Michael Carney's web buttons are nice
+	- <https://michaelc.xyz/> (see the end of the page.)
 
+---
+
+- website obesity crisis <https://idlewords.com/talks/website_obesity.htm>
 
 
 ## lire 
@@ -573,5 +577,7 @@ CGI scripts:
 
 - <http://catb.org/~esr/faqs/smart-questions.html>
 
+routing table modify linux : 
+<https://linuxbsdos.com/2014/11/08/how-to-change-the-default-route-in-linux/>
 
 ;tags: later list
