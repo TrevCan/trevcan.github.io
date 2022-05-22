@@ -2,7 +2,7 @@ Changing your device's MAC address is risky.
 
 At least that was certainly my experience with it.
 
-I recently installed macchanger [[0]], a utility to... yes! change your mac address. 
+I recently installed macchanger [[0]](#references), a utility to... yes! change your mac address. 
 
 A MAC address stands for _Media Access Control address_. It is a unique identifier address used for network interface controllers (NICs, according to Wikipedia). So your LAN controller and your WiFi controllers have MAC addresses. 
 
