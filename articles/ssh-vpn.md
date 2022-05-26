@@ -31,7 +31,7 @@ use `0.0.0.0` on `SUBNET` to route ALL requests through ssh server.
 
 use `24` for `subnet` and use `192.168.1.0` on `addresses` to route requests starting with `192.168.1.` through the ssh server.
 
-e.g. `sshuttle --dns -x thetrevor.tech -r trevor@thetrevor.tech 192.168.1.0/24`
+e.g. `sshuttle --dns -x server.org -r user@server.org 192.168.1.0/24`
 
 # references 
 
