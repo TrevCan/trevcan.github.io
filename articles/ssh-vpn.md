@@ -35,7 +35,7 @@ e.g. `sshuttle --dns -x thetrevor.tech -r trevor@thetrevor.tech 192.168.1.0/24`
 
 # references 
 
-- <https://sshuttle.readthedocs.io/en/latest/usage.html>
+- Sshuttle wiki: <https://sshuttle.readthedocs.io/en/latest/usage.html>
 - 
 
-;tags: vpn ssh security short
+;tags: vpn ssh security short linux
