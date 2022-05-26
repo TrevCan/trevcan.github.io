@@ -34,8 +34,6 @@ use `24` for `subnet` and use `192.168.1.0` on `addresses` to route requests sta
 e.g. `sshuttle --dns -x server.org -r user@server.org 192.168.1.0/24`
 
 # references 
-
-- Sshuttle wiki: <https://sshuttle.readthedocs.io/en/latest/usage.html>
-- 
+- sshuttle wiki: <https://sshuttle.readthedocs.io/en/latest/usage.html>
 
 ;tags: vpn ssh security short linux
