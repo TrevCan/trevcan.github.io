@@ -70,9 +70,15 @@ Movies
 
 - The Ballad of Buster Scruggs 
 
+# psychological thrillers
+- Shutter Island
+  - In Spanish, _Isla Siniestra_
+- The Guilty (2021)
+
 # JE sais pas
 - 12 monos
 - Shutter Island
+- The Guilty (2021)
 - En la hierba alta
 - Durante la Tormenta
 - Contratiempo
@@ -138,7 +144,8 @@ Movies
 
 ---
 
-
+# military movies
+- Jarhead (2005)
 
 - Saving private Ryan 
 - Wings (1927)
