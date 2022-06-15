@@ -580,7 +580,6 @@ CGI scripts:
 routing table modify linux : 
 <https://linuxbsdos.com/2014/11/08/how-to-change-the-default-route-in-linux/>
 
-
 - Kartik Agaram
 <http://akkartik.name/about>
   - plain text. with lines.
@@ -600,5 +599,9 @@ routing table modify linux :
 
 - soma FM
   - <https://somafm.com/>
+
+url shortener service:
+
+- <https://short.enum.run/>
 
 ;tags: later list
