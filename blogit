@@ -181,6 +181,21 @@ blog/%.html: $(BLOG_SRC)/%.md $(addprefix templates/,$(addsuffix .html,header ar
 	envsubst < templates/article_footer.html >> $@; \
 	envsubst < templates/footer.html >> $@; \
 
+
+
+# grep '^;history: yes' < $<; \
+# 	if [ $$? -eq 0 ]; \
+# ARTICLE_FILE_NAME="$${$${$$@/blog\/}%%.html}.md" \ 
+# URL_BASE="https://git.thetrevor.tech/blog.git/log/articles/" \
+# HISTORY_ARTICLE_URL=$$URL_BASE$$ARTICLE_FILE_NAME \
+# export HISTORY_ARTICLE_URL; \
+# envsubst < templates/article_history.html > $@; \
+# echo is 0; \
+# fi \ 
+# 
+# #
+
+
 blog/rss.xml: $(ARTICLES)
 	printf '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n' > $@
 	printf '\t<channel>\n\t<title>%s</title>\n\t<link>$(BLOG_FEED_ROOT)/index.html</link>\n\t<description>%s</description>\n' \
