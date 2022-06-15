@@ -165,6 +165,13 @@ consicente de sa propre faibilité.
 
 - \- By me. (a.k.a. `trevor`)
 
+> "The internet *is* attention mining."
+
+  - context: HN Story. 
+*[Human Attention has become a commodity](https://news.ycombinator.com/item?id=31732930)*
+
+\- Hector Canizales
+
 # references
 [7] <https://youtu.be/hbawQuKZst0>
 
