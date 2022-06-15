@@ -580,4 +580,25 @@ CGI scripts:
 routing table modify linux : 
 <https://linuxbsdos.com/2014/11/08/how-to-change-the-default-route-in-linux/>
 
+
+- Kartik Agaram
+<http://akkartik.name/about>
+  - plain text. with lines.
+<http://akkartik.name/lines.html>
+
+
+- the textfile directory
+<http://www.textfiles.com/directory.html>
+
+- Canoe Mail
+<https://canoemail.net/>
+
+
+- max's webpage ?
+<https://maxtroeger.xyz/index>
+
+
+- soma FM
+  - <https://somafm.com/>
+
 ;tags: later list
