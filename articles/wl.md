@@ -53,6 +53,11 @@ or...
 - Michael Carney's web buttons are nice
 	- <https://michaelc.xyz/> (see the end of the page.)
 
+# artists
+- Tom Sachs [biography](https://www.tomsachs.com/biography).
+- Teddy Blanks [music](https://teddyblanks.bandcamp.com/releases).
+[site](http://www.teddyblanks.com/).
+
 ---
 
 - website obesity crisis <https://idlewords.com/talks/website_obesity.htm>
