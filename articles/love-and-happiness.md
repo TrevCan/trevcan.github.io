@@ -1,6 +1,6 @@
 Love and happiness
 
-_See also: **Song** Love and happiness [[0]] by Al green_
+_See also: **Song** Love and happiness [[0]](#references) by Al green_
 
 <img src=alice.jpeg >
 
