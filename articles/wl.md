@@ -7,7 +7,6 @@ wl as in...
 or...
 
 # read later
-
 or...
 
 # [any verb that constitutes an action]... later
@@ -24,6 +23,9 @@ or...
 - learn more about huffman coding... and maybe jpeg? it was on HN last i checked ...
 
 # people websites
+
+<small>(in order of appearance [[49]](#references))</small>
+
 - [Manav Ponnekanti](https://manavp.com/)
 - [Professor David Brailsford's homepage](http://www.cs.nott.ac.uk/~psadb1/)
 - [Curduroy's Meditations](https://josh8.com/blog/)
@@ -608,5 +610,19 @@ routing table modify linux :
 url shortener service:
 
 - <https://short.enum.run/>
+
+# references
+
+- [49]: 
+Order of appearance may vary by time I saw it on my browser or wrote it on my 
+phone or opened it on my web browser. It could have been weeks after I wrote 
+down the  
+website because I could have opened it an eternity before.
+
+
+
+
+
+
 
 ;tags: later list
