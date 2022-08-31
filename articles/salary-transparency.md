@@ -12,7 +12,7 @@ The idea came from xeisao.net [[0]](#references)
 			<th>Start Date</th>
 			<th>End Date</th>
 			<th>Days Worked</th>
-			<th>Salary</th>
+			<th>Salary<a href=#currency >*</a></th>
 			<th>How I Left</th>
 		</tr>
 		<tr>
@@ -151,6 +151,15 @@ The idea came from xeisao.net [[0]](#references)
 
 	</tbody>
 </table>
+
+## currency
+
+- MXN: Mexican Peso
+- USD: United States Dollar
+- `MXN` to `USD`
+  - `$ 1 USD -> $ 19.97 MXN` (circa 2022)
+ 
+  
 		
 ## references
 
