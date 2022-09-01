@@ -172,6 +172,13 @@ consicente de sa propre faibilité.
 
 \- Hector Canizales
 
+# ponce
+
+- "El sentido común es el menos común de los sentidos."<br>
+Gabriel Ponce Peña
+
+
+
 # references
 [7] <https://youtu.be/hbawQuKZst0>
 
