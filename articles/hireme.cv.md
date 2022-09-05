@@ -2,6 +2,10 @@ My *Curriculum Vitae*
 
 Here it is:
 
+[short version](#short-version)
+
+# long version
+
 ```
 --- Soft Skills: ---
 	
@@ -12,6 +16,15 @@ Here it is:
 	-	Courtesy.
 	
 --- Experience: ---
+
+2022 : two and a half months. Remote. Paid internship. Junior developer.
+	@ wiringbits [9]
+	I was hired as a junior developer. I worked on learning about the Scala
+	programming language, functional paradigms plus OOP. I then started
+	fixing bugs here and there in their opensource project <cazadescuentos.net>,
+	an online web store scraper.
+	I submitted Pull Requests to the project, worked on feedback from 
+	coworkers and asked for advice when having doubts.
 	
 2019 - present: Learned Linux ! 
 	also sysadmin stuff. 
@@ -111,6 +124,87 @@ Here it is:
 
 ```
 
+# short version
+
+```
+--- Soft Skills: ---
+	
+	-	Full honesty.
+	-	Perseverance.
+	-	Team Work.
+	- 	Good communication.
+	-	Courtesy.
+	
+--- Experience: ---
+
+2022 : two and a half months. Remote. Paid internship. Junior developer.
+	@ wiringbits [9]. I learned the scala programming language, made
+	miscellaneous bug fixes, submitted PRs and collaborated remotely with 
+	coworkers.
+	
+2019 - present: Learned Linux ! 
+	also sysadmin stuff. 
+	Set up a lighttpd web server.
+	My website is hosted on my own computer.
+	
+2022: Final Project for Advanced Programming High school class.
+	CRUD web app. Done collaboratively in pairs.
+	Using XAMPP. PHP + Apache + javascript + html
+	data checks performed through javascript
+	submits to a PHP form, registers to a MySQL database.
+	source code: [2]
+	
+2021: (2 weeks) Cyber Security Externship at WorkED. 
+	Remote.
+	Learned about cybersec frameworks to make reports and main
+	strategies to combat bad actors in cybersecurity.
+	Worked with real pen-testing tools, Linux, learned about SQL injections.
+	Talked to several cybersecurity experts in several fields 
+	(private, public).
+	Worked with rangeforce platform [10].
+	Made professional reports about previous 
+	vulnerabilities, worked in teams, made new relationships. [11]
+
+2018 August - [present]: Member of TECBOT Robotics Team. 
+	Competes against other 
+	highschools, national and international in FRC. 
+    I am a member of the software 
+	team and have led the teaching of new students who learn 
+	Java Programming for FRC. 
+    Our code is on github: [0].
+    See also: Our Code for the 2022 FRC Season: [8]
+    Tecbot website: [1].
+
+2019: Workshop: •The Science Behind Technological Design: A 
+	Human-Centered Approach. 
+	With Monica Perusquia as instructor.
+	1 week. Undergrad and high school (me) students. 
+	First time I installed Linux (Ubuntu) ! Got me very interested.
+	Learned Linux, teamwork, reading software documentation, 
+	tried out python with some ML. 
+	We made a prototype to measure a person's posture + stress 
+	+ haptic feedback.
+			
+2019: Hackathon Fintech Workshop. In collaboration
+	with Banca Mifel. Mostly undergraduate students from
+	business, engineering, and tech careers. Learned about
+	Unity3D, played around with NodeJS and some database engines.
+	72 hours.
+	In Teams.
+
+
+--- Education: ---
+	
+2022 (August) - 2026 ?: Undergraduate Computer Science Engineering Degree.
+	@ Monterrey Institute of Technology and Higher Education. Campus Toluca
+	
+2019 - 2022: PrepaTec Multicultural (PTM) (3 years) (Classes in English 
+	and learned French)
+	16 weeks per semester. 	Had some classes in 5th and 6th semester
+	to get a feeling of my undergrad degree.
+
+```
+
 ## links
 
 - [0] Tecbot github: <https://github.com/Tecbot3158>
@@ -122,6 +216,9 @@ Here it is:
 - [6] my server's uptime: <https://blog.thetrevor.tech/update.html>
 - [7] my GitHub: <https://github.com/trevcan>
 - [8] Tecbot's RobotCode for 2022 Season: <https://github.com/Tecbot3158/RobotCode_2022>
+- [9] Wiringbits website: <https://wiringbits.net>
+- [10] RANGEFORCE Platform: <https://www.rangeforce.com/>
+- [11] CyberSec Externship: <https://github.com/TrevCan/cybersec-externship>
 
 
 
