@@ -54,6 +54,8 @@ or...
 	- <https://heaventree.xyz/>
 - Michael Carney's web buttons are nice
 	- <https://michaelc.xyz/> (see the end of the page.)
+- Xe Isao
+	- <https://xeisao.net>
 
 # artists
 - Tom Sachs [biography](https://www.tomsachs.com/biography).
