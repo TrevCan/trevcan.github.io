@@ -19,7 +19,9 @@ The idea came from xeisao.net [[0]](#references)
 			<td>Internship, junior dev.(part-time,20hrs a week)</td>
 			<td>2022-06-01</td>
 			<td>2022-08-16</td>
-			<td>77</td>
+			<td>77
+			<br><em>or 2.5 months</em>
+			</td>
 			<td>$ 4000 MXN per month</td>
 			<td>I quit because I became unsatisfied with the work I made.</td>
 		</tr>
