@@ -2,7 +2,9 @@ Love and happiness
 
 _See also: **Song** Love and happiness [[0]](#references) by Al green_
 
+<!--
 <img src=alice.jpeg >
+-->
 
 Love and happiness are weird concepts.
 
@@ -23,7 +25,7 @@ purely survivalist standard being with that person would most likely
 yield me success, even if I don't lvoe her, because it's come to
 my knowledge that she is, in fact, the daughter of people
 who work in the softwaredev/cybersec sector. So does that mean
-potential success ! Well, of course it does. But also, I'dlike to get
+potential success ! Well, of course it does. But also, I'd like to get
 to know her better.
 
 Because why not, right? Honestly, she seems attractive from afar. 
