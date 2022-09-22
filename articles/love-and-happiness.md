@@ -2,9 +2,7 @@ Love and happiness
 
 _See also: **Song** Love and happiness [[0]](#references) by Al green_
 
-<!--
 <img src=alice.jpeg >
--->
 
 Love and happiness are weird concepts.
 
