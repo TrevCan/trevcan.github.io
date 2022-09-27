@@ -149,6 +149,15 @@ glory (treasure).
 - pedantic software: <https://pedantic.software/>
 
 
+# static website generators (SSGs aka Static Site Generators)
+
+- _meta_: <https://jamstack.org/generators/>, <https://old.reddit.com/r/selfhosted/comments/esqbuc/selfhosted_website_builder/>
+- <https://getpublii.com/>
+- <https://grapesjs.com/>
+- <https://www.odoo.com/app/website>
+- <
+
+
 # Developer resources
 
 for now in Spanish, most likely copied off a Facebook group. But yes, I've added attribution.
