@@ -56,8 +56,13 @@ or...
 	- <https://michaelc.xyz/> (see the end of the page.)
 - Xe Isao
 	- <https://xeisao.net>
+- sam lavigne
+	- <https://lav.io/>
+- landonan
+	- <https://lanodan.eu/>
 
 # artists
+
 - Tom Sachs [biography](https://www.tomsachs.com/biography).
 - Teddy Blanks [music](https://teddyblanks.bandcamp.com/releases).
 [site](http://www.teddyblanks.com/).
@@ -623,7 +628,58 @@ website because I could have opened it an eternity before.
 
 
 
+# greg shorthand ?
 
+<https://greggshorthand.github.io/index.html>
+
+## build lighttpd on ios arm64
+
+<https://www.pierreblazquez.com/2021/07/13/how-to-build-lighttpd-for-ios-on-arm64/>
+
+## terminal escape sequences
+
+<https://archive.is/D69Dj>
+<br>somewhat similar: <https://www2.ccs.neu.edu/research/gpc/VonaUtils/vona/terminal/vtansi.htm>
+
+
+# a  history of: looking up host addresses in unix
+
+<https://utcc.utoronto.ca/~cks/space/blog/unix/HostLookupHistory>
+
+# art of unix programming
+
+<https://hacktivis.me/kopimi/texts/english/The%20Art%20of%20UNIX%20Programming/catb.org/~esr/writings/taoup/html/>
+
+# erics gun page
+
+<http://www.catb.org/~esr/guns/>
+
+# liberty, as it is 
+
+<http://fare.tunes.org/liberty/>
+
+## libertarian psychology
+
+<https://righteousmind.com/largest-study-of-libertarian-psych/>
+
+# defcon slides
+
+## starlink
+
+<https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Lennert%20Wouters%20-%20Glitched%20on%20Earth%20by%20humans%20A%20Black-Box%20Security%20Evaluation%20of%20the%20SpaceX%20Starlink%20User%20Terminal.pdf>
+
+
+# funny
+
+<https://kevincox.ca/2013/03/22/c-comment-fun/>
+
+# cognitive robots ?
+
+<https://www.cs.toronto.edu/~hector/pcr.html>
+
+# paganism ? 
+
+<https://americanhumanist.org/wp-content/uploads/2016/11/paganism.pdf>
 
 
 
