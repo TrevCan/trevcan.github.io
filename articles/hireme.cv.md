@@ -1,4 +1,4 @@
-[My](My) *Curriculum Vitae*
+[My] *Curriculum Vitae*
 
 Here it is:
 
