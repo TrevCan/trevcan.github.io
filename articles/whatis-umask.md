@@ -71,4 +71,4 @@ umask -S u=rwx,g=rx,o=rx
 - [2]: Linux NDG Unhatched. cisco Netacad.
 
 
-;tags: tecnical linux bored
+;tags: technical linux bored
