@@ -683,4 +683,15 @@ website because I could have opened it an eternity before.
 
 
 
+# tech news
+
+my vm is lighter and safer than your container :
+<https://dl.acm.org/doi/pdf/10.1145/3132747.3132763>
+
+# learn c programming
+
+## in french
+
+<https://sieprog.ch/#c/hello-world>
+
 ;tags: later list
