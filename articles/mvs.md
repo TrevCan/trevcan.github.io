@@ -14,9 +14,11 @@ Movies
 - Gran Torino (2008)
 - The Mule (2018)
 - Once Upon a Time
-
+- Forrest Gump (1994)
 - The Nanny Diaries (2007)
- - Heat (1995)
+- Heat (1995)
+
+ 
 ------------------------
 
 
@@ -220,8 +222,6 @@ Movies
 
 - Niñas bien.
 - Amar te duele.
-- 
-
 
 ---
 
@@ -232,17 +232,13 @@ Movies
 - 500 days of summer (2009)
 - Awakenings (1990) with The Robin Williams!
 - The Detour (no idea)
+- The age of Adaline (2015)
 
 
 
 ## show recommendations
 
 - Into the Night (2020)
-
-### Family-friendly:
-
-- Girl meets world
-- Boy meets world
 
 ### random recommendations from youtube commenters
 
@@ -260,10 +256,16 @@ Movies
 
 
 # tío Toño
-- When the Game stands Tall
 
+- When the Game stands Tall
 - The Shawshank Redemption (1994)
 
+
+# maybe
+
+- The Wedding Singer (1998) w/ the adam sandler
+- True Detective (2014) - show
+- 
 
 
 # references
