@@ -2,6 +2,13 @@ The Myth of Technology
 
 ## The Myth of Technology: Computers for Cynics 0
 
+a video by Ted Nelson:
+
+<https://m.youtube.com/watch?v=KdnGPQaICjk>
+
+I don't remember how i stumbled upon this video. Here are some ideas I wrote down.
+
+
 - junk
 not knowing who to blame.
 
