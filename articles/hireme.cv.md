@@ -118,9 +118,8 @@ Here it is:
 	
 --- Education: ---
 	
-2022 (August) - 2026 ?: Undergraduate Computer Science Engineering Degree.
-	haven't started yet, but very excited!
-	@ Monterrey Technological Institute. Campus Toluca
+2023 - 2026 ?: Computer Science Engineering Degree.
+	@ UDLAP. Universidad de las Américas Puebla.
 	
 2019 - 2022: PrepaTec Multicultural (PTM) (3 years) (Classes in English 
 	and learned French)
@@ -205,8 +204,8 @@ Here it is:
 
 --- Education: ---
 	
-2022 (August) - 2026 ?: Undergraduate Computer Science Engineering Degree.
-	@ Monterrey Institute of Technology and Higher Education. Campus Toluca
+2023 - 2026 ?: Computer Science Engineering Degree.
+	@ UDLAP. Universidad de las Américas Puebla.
 	
 2019 - 2022: PrepaTec Multicultural (PTM) (3 years) (Classes in English 
 	and learned French)
