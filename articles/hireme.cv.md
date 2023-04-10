@@ -1,6 +1,16 @@
 My *Curriculum Vitae*
 
+<https://cv.thetrevor.tech>
+
+<https://trevcan.github.io/cv/>
+
 Here it is:
+
+```
+name: Hector Canizales
+place of birth: United States of America
+age: 18
+```
 
 [short version](#short-version)
 
@@ -121,7 +131,9 @@ Here it is:
 2023 - 2026 ?: Computer Science Engineering Degree.
 	@ UDLAP. Universidad de las Américas Puebla.
 	
-2019 - 2022: PrepaTec Multicultural (PTM) (3 years) (Classes in English 
+2019 - 2022: PrepaTec Multicultural (PTM) 
+	@ ITESM
+	(3 years) (Classes in English 
 	and learned French)
 	16 weeks per semester. 	Had some classes in 5th and 6th semester
 	to get a feeling of my undergrad degree.
@@ -207,7 +219,9 @@ Here it is:
 2023 - 2026 ?: Computer Science Engineering Degree.
 	@ UDLAP. Universidad de las Américas Puebla.
 	
-2019 - 2022: PrepaTec Multicultural (PTM) (3 years) (Classes in English 
+2019 - 2022: PrepaTec Multicultural (PTM) 
+	@ ITESM.
+	(3 years) (Classes in English 
 	and learned French)
 	16 weeks per semester. 	Had some classes in 5th and 6th semester
 	to get a feeling of my undergrad degree.
