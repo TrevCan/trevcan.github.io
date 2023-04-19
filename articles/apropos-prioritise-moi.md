@@ -1,4 +1,4 @@
-Une critique en rapport à la chanson de </em>Prioritise-Moi</em>
+Une critique en rapport à la chanson de <em>Prioritise-Moi</em>
 
 _J'ai vu et ecouté a ce chanson originale par Pomplamoose [[0]](#references)._
 _Vue les lyrics [ici](#lyrics)._
