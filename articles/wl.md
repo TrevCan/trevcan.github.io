@@ -24,7 +24,7 @@ or...
 
 # people websites
 
-<small>(in order of appearance [[49]](#references))</small>
+<small>(in the order in which they were found [[49]](#references))</small>
 
 - [Manav Ponnekanti](https://manavp.com/)
 - [Professor David Brailsford's homepage](http://www.cs.nott.ac.uk/~psadb1/)
@@ -60,12 +60,18 @@ or...
 	- <https://lav.io/>
 - landonan
 	- <https://lanodan.eu/>
+- dave gauer
+	- <http://ratfactor.com/>
+	- He is the author of the Smoking Tux Penguin logo: 
+	  <http://ratfactor.com/misc/img/avatar.jpg>
+	This is the logo I use for <https://thetrevor.tech>
 
 # artists
 
 - Tom Sachs [biography](https://www.tomsachs.com/biography).
 - Teddy Blanks [music](https://teddyblanks.bandcamp.com/releases).
 [site](http://www.teddyblanks.com/).
+- Casey Neistat <https://www.youtube.com/@casey>. Filmmaker
 
 ---
 
@@ -624,7 +630,8 @@ url shortener service:
 Order of appearance may vary by time I saw it on my browser or wrote it on my 
 phone or opened it on my web browser. It could have been weeks after I wrote 
 down the  
-website because I could have opened it an eternity before.
+website because I could have opened it an eternity before. 
+But hey, at least it got from my phone to your device, spreading information.
 
 
 
