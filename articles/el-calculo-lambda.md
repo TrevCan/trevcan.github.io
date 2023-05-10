@@ -1,7 +1,9 @@
 Cálculo Lambda
 
 
+<p>
 <img src="assets/church.alonzo.jpg" >
+</p>
 <small>Imagen de Universidad de Princeton (s.f.)</small>
 
 Alonzo Church nació el 14 de junio de 1903, en Washington, D.C. Su padre fue un juez. Estudió en la Universidad de Princeton y obtuvo una Licenciatura en Matemáticas. Se graduó en 1924 y pasó a obtener un doctorado en los próximos tres años bajo Oswald Veblen.
@@ -10,13 +12,10 @@ Fue maestro de filosofía y matemáticas por casi cuarenta años. Dentro de sus 
 
 Artículos Notables en Revistas Científicas
 
-- Church, A. (1932). A Set of Postulates for the Foundation of Logic. Annals of Mathematics, 33(2), 346–366. https://doi.org/10.2307/1968337
-
-- Church, A. (1933). A Set of Postulates For the Foundation of Logic. Annals of Mathematics, 34(4), 839–864. https://doi.org/10.2307/1968702
-
-- Church, A. (1936). An Unsolvable Problem of Elementary Number Theory. American Journal of Mathematics, 58(2), 345–363. https://doi.org/10.2307/2371045
-
-- Church, A. (1941). The Calculi of Lambda Conversion. (AM-6). Princeton University Press. http://www.jstor.org/stable/j.ctt1b9x12d
+- Church, A. (1932). A Set of Postulates for the Foundation of Logic. Annals of Mathematics, 33(2), 346–366. <https://doi.org/10.2307/1968337>
+- Church, A. (1933). A Set of Postulates For the Foundation of Logic. Annals of Mathematics, 34(4), 839–864. <https://doi.org/10.2307/1968702>
+- Church, A. (1936). An Unsolvable Problem of Elementary Number Theory. American Journal of Mathematics, 58(2), 345–363. <https://doi.org/10.2307/2371045>
+- Church, A. (1941). The Calculi of Lambda Conversion. (AM-6). Princeton University Press. <http://www.jstor.org/stable/j.ctt1b9x12d>
 
 # 1. Introducción
 
@@ -32,7 +31,7 @@ Esta investigación busca ofrecer una introducción al Cálculo Lambda a través
 # 2. ¿Qué es una Función?
 
 
-Una función, también llamada transformación u operación, es una regla de correspondencia por la cual se obtienen valores a través de argumentos. Es decir, le proveemos a una función un argumento (también referido como un valor de entrada[[1]](#Referencias) y obtenemos el valor de la función para ese argumento (también referido como valor de salida[[1]](#Referencias)). 
+Una función, también llamada transformación u operación, es una regla de correspondencia por la cual se obtienen valores a través de argumentos. Es decir, le proveemos a una función un argumento (también referido como un valor de entrada[[1]](#Referencias)) y obtenemos el valor de la función para ese argumento (también referido como valor de salida[[1]](#Referencias)). 
 
 Para estas llamadas funciones no necesitamos utilizar todos los posibles valores dentro de los números, sino que podemos definir la existencia de nuestra función sólo bajo cierto rango de valores para los que nuestra función será válida. Cuando la función sea aplicada con un argumento cuyo valor no coincida dentro del rango especificado, se podrá decir que no tiene sentido aplicar la función con ese argumento.
 
@@ -92,13 +91,29 @@ Los términos-λ (léase términos lambda) se definen inductivamente:
 
 (Stanford Encyclopedia of Philosophy, 2021)
 
+# 8. Notación Alternativa
 
+Al hacer investigaciones acerca del Cálculo Lambda, se pueden encontrar diferentes notaciones. Church propuso diferentes sintaxis para definir el Cálculo Lambda. Las siguientes expresiones son equivalentes:
 
+<img src="assets/calculoLambda.8.1.svg" >
+
+Para estas expresiones, el uso de paréntesis es opcional e incluso al aplicar una función no se necesitan paréntesis en algunos casos pero sí se pueden utilizar para tener una notación más explícita.
+
+Church utilizó corchetes[[3]](#Referencias) en artículos anteriores como "An Unsolvable Problem of Number Theory" (1936) y "A Set of Postulates for the Foundation of Logic" (1932). Sin embargo, él recalca en "The Calculi of Lambda-Conversion" (1941) que los corchetes[[3]](#Referencias) se pueden reemplazar con puntos, de tal manera que el punto reemplaza directamente al corchete abierto y el corchete cerrado se elimina por completo.
+
+# 9. Bibliografía
+
+- Church, A. (1932). A Set of Postulates for the Foundation of Logic. Annals of Mathematics, 33(2), 346–366. <https://doi.org/10.2307/1968337>
+- Church, A. (1936). An Unsolvable Problem of Elementary Number Theory. American Journal of Mathematics, 58(2), 345–363. <https://doi.org/10.2307/2371045>
+- Church, A. (1941). The Calculi of Lambda Conversion. (AM-6). Princeton University Press. <http://www.jstor.org/stable/j.ctt1b9x12d>
+- Michaleson, Greg. An Introduction to Functional Programming through Lambda Calculus. ISBN 0-201-17812-5
+- The Lambda Calculus. (2021). Stanford Encyclopedia of Philosophy. Revisado el 2 de Mayo, 2023, de <https://plato.stanford.edu/archives/sum2021/entries/lambda-calculus/>
 
 # Referencias
 
 - [1] Estos términos normalmente son referidos dentro de las Ciencas de la Computación.
 - [2] Técnicamente Church le llamó "The Calculus of lambda-conversion" ó "El Cálculo de la conversión-lambda". La mayoría de la literatura al respecto le llama Cálculo Lambda.
+- [3] En inglés conocido como "square brackets" o "brackets".
 
-;tags: es
+;tags: es math
 
