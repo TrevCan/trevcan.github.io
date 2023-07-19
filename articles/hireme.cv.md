@@ -4,7 +4,7 @@ My *Curriculum Vitae*
 
 <https://trevcan.github.io/cv/>
 
-Here it is:
+<!-- Here it is: -->
 
 ```
 name: Hector Canizales
@@ -12,9 +12,12 @@ place of birth: United States of America
 age: 18
 ```
 
-[short version](#short-version)
+<!-- [short version](#short-version)
+
 
 # long version
+-->
+
 
 ```
 --- Soft Skills: ---
@@ -28,9 +31,20 @@ age: 18
 --- Hard Skills: ---
 	
 	-	Java Object Oriented Programming
-	-	Lighttpd static-file webserver configuration and (fast)CGI protocols.
+	-   Linux server administration
+	-	Lighttpd static-file webserver configuration and (fast)CGI protocols.		
 	
 --- Experience: ---
+
+Languages:
+- Java (+4 years)
+- Scala
+- C
+- bash
+- Processing
+- English (practically native)
+- Spanish (native)
+- French (basic)
 
 2022 : two and a half months. Remote. Paid internship. Junior developer.
 	@ wiringbits [9]
@@ -128,7 +142,7 @@ age: 18
 	
 --- Education: ---
 	
-2023 - 2026 ?: Computer Science Engineering Degree.
+2023 - 2026: Computer Science Engineering Degree.
 	@ UDLAP. Universidad de las Américas Puebla.
 	
 2019 - 2022: PrepaTec Multicultural (PTM) 
@@ -137,8 +151,11 @@ age: 18
 	and learned French)
 	16 weeks per semester. 	Had some classes in 5th and 6th semester
 	to get a feeling of my undergrad degree.
+	
 
 ```
+
+<!--
 
 # short version
 
@@ -227,6 +244,7 @@ age: 18
 	to get a feeling of my undergrad degree.
 
 ```
+-->
 
 ```
 --- Contact ---
