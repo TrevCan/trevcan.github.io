@@ -720,4 +720,6 @@ my vm is lighter and safer than your container :
 - what goes around comes around <https://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf>
 - keep stuff linkable <https://animaomnium.github.io/keep-stuff-linkable/>
 
+network protocols for anyone who knows a programming language <https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147>
+
 ;tags: later list
