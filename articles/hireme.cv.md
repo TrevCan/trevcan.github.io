@@ -9,7 +9,6 @@ My *Curriculum Vitae*
 ```
 name: Hector Canizales
 place of birth: United States of America
-age: 18
 ```
 
 <!-- [short version](#short-version)
