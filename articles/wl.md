@@ -701,4 +701,10 @@ my vm is lighter and safer than your container :
 
 <https://sieprog.ch/#c/hello-world>
 
+
+network protocols for anyone who knows a programming language <https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147>
+
+
+
+
 ;tags: later list
