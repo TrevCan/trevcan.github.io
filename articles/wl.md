@@ -65,6 +65,13 @@ or...
 	- He is the author of the Smoking Tux Penguin logo: 
 	  <http://ratfactor.com/misc/img/avatar.jpg>
 	This is the logo I use for <https://thetrevor.tech>
+	- His art: <https://mastodon.art/@ratfactor>
+- Thomas Lochmatter
+	- He made a LaTex to SVG tool, I think this is how I stumbled
+upon his website
+	- <https://viereck.ch/thomas/>
+- Robert Sansom <https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page>
+	- <https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Humour>
 
 # artists
 
@@ -700,5 +707,17 @@ my vm is lighter and safer than your container :
 ## in french
 
 <https://sieprog.ch/#c/hello-world>
+
+- Course: Engineering distributed Systems
+	- <https://www.andrew.cmu.edu/course/15-749/>
+- the rsync algorithm
+	- <https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf>
+- Digital Forensics Course
+	- <https://people.cs.umass.edu/~liberato/courses/2017-spring-compsci365/>
+- Mo'ai <https://en.wikipedia.org/wiki/Moai>
+- the mit challenge <https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/>
+- daft punk <https://en.wikipedia.org/wiki/Daft_Punk>
+- what goes around comes around <https://people.cs.umass.edu/~yanlei/courses/CS691LL-f06/papers/SH05.pdf>
+- keep stuff linkable <https://animaomnium.github.io/keep-stuff-linkable/>
 
 ;tags: later list
