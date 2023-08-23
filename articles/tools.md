@@ -1,8 +1,9 @@
 Software tools
 
 # operating systems
+- linux based operating systems
+	- usually bundled with GNU utilities
 - [Arch Linux. a Linux KISS operating system.DIY.](https://archlinux.org/)
-
 - [Live regex on the web! *thanks Engineer Man!*](https://www.debuggex.com/)
 - [collaborative LaTex doc formatting. *overleaf.com*](https://www.overleaf.com/)
 
@@ -19,6 +20,15 @@ Software tools
 
 - ncdu disk usage
   - https://dev.yorhel.nl/ncdu
+
+## arch linux packages
+
+- _transset-df_
+	- a software that allows you to modify the transparency of any program in Xorg.
+	- <https://forchheimer.se/transset-df/>
+	- <https://aur.archlinux.org/packages/transset-df>
+
+
 
 
 ### programming
@@ -43,6 +53,7 @@ Software tools
 
 ## DNS lookup
 
+- dig - query dns info from terminal. From [BIND](https://www.isc.org/bind/) project
 - [https://digwebinterface.com/](https://digwebinterface.com/)
 - [https://digdns.com/](https://digdns.com/)
 
@@ -72,7 +83,7 @@ source: [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 
 ## calculator
 - [Derivative calculator w/ steps.](https://www.derivative-calculator.net/)
-- [Decent *no-ads* scientific calculator](https://www.desmos.com/scientific)
+- [Desmos *no-ads* scientific calculator](https://www.desmos.com/scientific)
 
 ## APIs
 
