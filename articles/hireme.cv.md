@@ -45,6 +45,13 @@ Languages:
 - Spanish (native)
 - French (basic)
 
+2023: Wendy's Crew. 6 weeks. Summer job.
+	I worked a summer job at a Wendy's in Flower Mound, Texas.
+	I worked the front, taking orders from customers, dispatched orders
+	to the drive-thru and the front, made fries, served drinks, washed
+	dishes, cleaned the store and the fry station. Lots of team work
+	and communication to manage multiple orders at the same time.
+
 2022 : two and a half months. Remote. Paid internship. Junior developer.
 	@ wiringbits [9]
 	I was hired as a junior developer. I worked on learning about the Scala
