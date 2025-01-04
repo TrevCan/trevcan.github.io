@@ -130,4 +130,4 @@ I wrote this partially in the bathroom. I don't know why I'm writing this. Goodb
 
 
 
-;tags: day eat breakfast
+;tags: day eat breakfast write
