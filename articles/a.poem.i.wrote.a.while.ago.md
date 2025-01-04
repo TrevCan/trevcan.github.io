@@ -49,4 +49,4 @@ originally posted on twitter on February the 10th, 2021.<br>
 
 <https://nitter.net/trev_Canizales/status/1359338312322871300>
 
-;tags: write no whynot bizarre
+;tags: write no whynot bizarre en philosophy
