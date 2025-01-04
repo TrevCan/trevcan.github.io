@@ -4,8 +4,9 @@ Software tools
 - linux based operating systems
 	- usually bundled with GNU utilities
 - [Arch Linux. a Linux KISS operating system.DIY.](https://archlinux.org/)
-- [Live regex on the web! *thanks Engineer Man!*](https://www.debuggex.com/)
+- [Live regex / grep on the web! *thanks Engineer Man!*](https://www.debuggex.com/)
 - [collaborative LaTex doc formatting. *overleaf.com*](https://www.overleaf.com/)
+- MS Word, CSV  to LaTex tables: <https://tablesgenerator.com/>
 
 ## collaborative
 - [LaTex doc formatting. *overleaf.com*](https://www.overleaf.com/)
