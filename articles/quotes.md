@@ -11,6 +11,12 @@ quotes
 - Money will not make you happy,<br>
 and happy will not make you money.
 
+- > Once men turned their thinking over to machines in the hope that this would set them free. 
+  > But that only permitted other men with machines to enslave them.
+
+\- Frank Herbert, Dune
+
+
 
 
 - > "So don't be afraid; your heart is in me, and it's racing so fast now. 
