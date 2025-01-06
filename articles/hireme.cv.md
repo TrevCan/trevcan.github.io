@@ -1,4 +1,4 @@
-My *Curriculum Vitae*
+*Curriculum Vitae*
 
 <https://cv.thetrevor.tech>
 
@@ -40,10 +40,18 @@ Languages:
 - Scala
 - C
 - bash
+- basic JavaScript
 - Processing
 - English (practically native)
 - Spanish (native)
 - French (basic)
+
+2023: Wendy's Crew. 6 weeks. Summer job.
+	I worked a summer job at a Wendy's in Flower Mound, Texas.
+	I worked the front, taking orders from customers, dispatched orders
+	to the drive-thru and the front, made fries, served drinks, washed
+	dishes, cleaned the store and the fry station. Lots of team work
+	and communication to manage multiple orders at the same time.
 
 2022 : two and a half months. Remote. Paid internship. Junior developer.
 	@ wiringbits [9]
@@ -85,10 +93,10 @@ Languages:
 
 	
 2022: Final Project for Advanced Programming High school class.
-	We implemented a web application, using XAMPP,
-	basically CRUD, allowing us to update and register
+	We implemented a web application (CRUD), using XAMPP,
+	allowing us to update and register
 	exam evaluations. 
-	It was done in pairs.
+	Collaborative project (2 developers),
 	There were data checks performed through javascript,
 	then it would submit a form and PHP would register
 	it to a MySQL database.
@@ -140,12 +148,12 @@ Languages:
 	
 	
 --- Education: ---
-	
-2023 - 2026: Computer Science Engineering Degree.
-	@ UDLAP. Universidad de las Américas Puebla.
+
+2024 - 2027: (Online) Electrical and Cybersecurity Engineering
+	@ Universidad Autónoma de Guadalajara
 	
 2019 - 2022: PrepaTec Multicultural (PTM) 
-	@ ITESM
+	@ Tec de Monterrey (ITESM)
 	(3 years) (Classes in English 
 	and learned French)
 	16 weeks per semester. 	Had some classes in 5th and 6th semester

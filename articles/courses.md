@@ -1,27 +1,37 @@
 courses
 
-- [NDG Linux Unhatched English 0421b](https://www.netacad.com/courses/os-it/ndg-linux-unhatched){:target="_blank"}
-- [Linux Journey *; learn the ways of Linux-fu, for free*](https://linuxjourney.com/){:target="_blank"}
+Online courses that I recommend
+
+- [NDG Linux Unhatched English 0421b](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
+- [Linux Journey *; learn the ways of Linux-fu, for free*](https://linuxjourney.com/)
 - [Systems Security, *MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 - [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/index.htm)
 - [Principles of Computer System design: an Introduction](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/)
-- 
 
+## hacking
+learning how to hack...
+
+- Bandit overthewire: <https://overthewire.org/wargames/bandit/> 
+	- you learn linux too! 
+- 0xf.at <https://www.0xf.at/play/1>
+	- you learn javascript and programming and web development
+- picoCTF for schools?
+	- <https://picoctf.org/>
+- a competition about hacking software and getting the device if you do 
+  hack it
+	- <https://en.wikipedia.org/wiki/Pwn2Own>
 
 ## tutorials
 - [xlib: a short tutorial, *tronche.com*](https://tronche.com/gui/x/xlib-tutorial/)
 - [vim reference by example](https://learnbyexample.github.io/vim_reference/Introduction.html)
 
 
-
 ### random recommendations
 
-thisis a list of recommendations of courses, books, etc that I have most likely not looked at but kinda seems interesting or useful.
+this is a list of recommendations of courses, books, etc that I have most likely not looked at but kinda seems interesting or useful.
 
-- book for Linux *How Linux works, 2nd edition: What every super user should know by Brian Ward *
-
+- book for Linux *How Linux works, 2nd edition: What every super user should know by Brian Ward*
 - book for learning operating systems: *Operating Systems: Design and Implementation. Andrew Tatenbaum*
-
 - C for dummies by Dan Gookin
 
 

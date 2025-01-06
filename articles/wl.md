@@ -12,7 +12,11 @@ or...
 # [any verb that constitutes an action]... later
 
 
-# important!
+# important! (or maybe not so much)
+
+<https://www.root-me.org/>
+
+<https://atlemann.github.io/fsharp/2019/02/12/make-fake-release-on-git-tag.html>
 
 - [ the unbearable light of seeing](https://pujzism.substack.com/p/the-unbearable-lightness-of-seeing?s=r)
 - [hackclub](https://hackclub.com/)
@@ -72,6 +76,17 @@ upon his website
 	- <https://viereck.ch/thomas/>
 - Robert Sansom <https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page>
 	- <https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Humour>
+- <https://malicious.link/>
+- Guillaume Quéré
+	- <https://www.errno.fr/>
+
+---
+
+- Physics in spanish <http://www.sc.ehu.es/sbweb/fisica/>
+- PointerPointer shows an image pointing to your mouse <https://pointerpointer.com/>
+- obsidian note taking application or something like that <https://obsidian.md/>
+
+a random ctf team and research team i found: <https://wiremask.eu/>
 
 # artists
 
@@ -721,5 +736,13 @@ my vm is lighter and safer than your container :
 - keep stuff linkable <https://animaomnium.github.io/keep-stuff-linkable/>
 
 network protocols for anyone who knows a programming language <https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147>
+
+Groff cheatsheet:
+<https://l04db4l4nc3r.github.io/groff-cheatsheet/#general>
+
+# web hosting and email services
+
+... maybe i'll set up an e-mail in the future....
+- https://www.mythic-beasts.com/hosting
 
 ;tags: later list

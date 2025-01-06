@@ -6,11 +6,13 @@ this is my website and it is based on [my fork](http://git-trevcan.duckdns.org/b
  of blogit, made originally by [Pedantic software](http://pedantic.software/git/blogit).
 
 ## Dependencies
-- rsync
+- bash (just a shell, but there are some bash-isms in the scripts)
+- rsync (copies files fast)
+- discount (converts markdown to html)
 - git
 - make
 - *nix system (tools like grep, sed, curl, etc.)
-- blogit
+- blogit (this repo with the blogit scritps)
 
 note: the RSS description/summary tags are kinda broken right now. I will try to fix this in the future.
 

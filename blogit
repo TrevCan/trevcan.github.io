@@ -1,5 +1,8 @@
 #!/usr/bin/make -f
 
+# yes, there are bash-isms
+SHELL = /bin/bash
+export SHELL
 BLOG := $(MAKE) -f $(lastword $(MAKEFILE_LIST)) --no-print-directory
 ifneq ($(filter-out help,$(MAKECMDGOALS)),)
 include config
