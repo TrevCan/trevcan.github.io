@@ -8,14 +8,15 @@ Movies
 -------------------------------------
 
 # tres bon je pense
-- Arrival (2016)
-- The Firm (1993)
-- Gran Torino (2008)
-- The Mule (2018)
-- Once Upon a Time
-- Forrest Gump (1994)
-- The Nanny Diaries (2007)
-- Heat (1995)
+- [x] Arrival (2016)
+- [x] The Firm (1993)
+- [ ] Gran Torino (2008)
+- [ ] The Mule (2018)
+- [x] Once Upon a Time... In Hollywood (2019)
+- [x] Forrest Gump (1994)
+- [x] The Nanny Diaries (2007)
+- [ ] Heat (1995)
+- [x] Babylon (2022)
 
  
 ------------------------
@@ -26,10 +27,10 @@ Movies
 - [ ] Matrix
 - [ ] Daylib (John carpenter)
 - [ ] D de venganza
-- [ ] Fight club
-- [ ] Trainspotting
-- [ ] American psycho
-- [ ] Taxi driver
+- [x] Fight club (1999)
+- [x] Trainspotting (1996)
+- [x] American psycho (2000)
+- [x] Taxi driver (1976)
 - [ ] Natural born killers 
 - [ ] Who am I - Kein system ist sicher 
   
@@ -223,21 +224,10 @@ Movies
 
 
 
-## show recommendations
-
-- [y] Into the Night (2020)
-
-### random recommendations from youtube commenters
+- [x] Into the Night (2020)
 
 - _Happy Death Day 2U_
-  - and Happy Death Day
-  - first appeared in front of my eyes
-  when I clicked on a yt recommended video, which turned out to be a meme. Then some commenters
-  said this was (and the first one) was one of the best horror-comedy movies
-  ever made.
-  - yt meme video: <https://youtu.be/7Agm1cG38CM>
-  
-- 
+- and Happy Death Day
 
 - [ ] Call me by your name (2017)
 
@@ -273,12 +263,12 @@ Movies
 - [x] The Whale (2022)
 - [ ] My dinner with Andre (1981)
 - [ ] The Station Agent (2003)
-- [ ] The Substance (2024)
+- [x] The Substance (2024)
 - [ ] What About Bob (1991)
 - [ ] Hitch (2005)
 - [ ] Matando Cabos (2004)
 - [ ] Cinema Paradiso (1988)
-- [ ] Ripley (2024)
+- [x] RIPLEY (2024)
 - [ ] Black Narcissus (1947)
 - [ ] the spectacular now (2012)
 - [ ] idiocracry (2006)
@@ -593,9 +583,9 @@ Napoleon Dynamite
 - [ ] American Psycho
 - [ ] Nightcrawler
 - [ ] Blade Runner
-- [ ] 7
+- [ ] Seven (1995)
 - [ ] Legend
-- [ ] the virgin suicides
+- [x] the virgin suicides (1999)
 - [ ] The 400 Blows (1959)
 - [ ] In Bruges 
 - [ ] Beyond Belief: Fact or Fiction
@@ -809,7 +799,7 @@ Napoleon Dynamite
 - [ ] Here (2024)
 - [ ] Salo
 - [ ] Raw
-- [ ] Por la Libre (2000)
+- [x] Por la Libre (2000, drama, mexican)
 - [ ] Inside (2023)
 - [ ] Summering
 - [ ] Moonrise Kingdom
@@ -822,8 +812,8 @@ Napoleon Dynamite
 - [ ] My dinner with Andre (1981)
 - [ ] fire of love
 - [ ] a good year (2006)
-- [ ] The Human Stain (2003)
-- [ ] American History X (1998)
+- [x] The Human Stain (2003)
+- [x] American History X (1998)
 - [ ] King of the Hill (1997)
 - [ ] A serious man (2009)
 - [ ] A Single Man (2009)
