@@ -242,10 +242,10 @@ blog/atom.xml: $(ARTICLES)
 			"`head -n 1 $$FILE`" \
 			"$(BLOG_FEED_ROOT)/`basename $$FILE .md`.html" \
 			"$(BLOG_FEED_ROOT)/`basename $$FILE .md`.html" \
-			"$$DATE" ; \
-		printf '\t\t<summary type="html"><html><![CDATA['; \
-		tail -c +22 blog/`basename $$FILE .md`.html; \
-		printf '>\n\t\t>]]></summary>\n\t\t</entry>\n'; \
+			"`date -d \"$$DATE\" +%Y-%m-%dT%H:%m:%SZ`"; \
+		printf '\t\t<summary type="html"><![CDATA['; \
+		tail -c +16 blog/`basename $$FILE .md`.html; \
+		printf '\n\t\t]]></summary>\n\t\t</entry>\n'; \
 	done >> $@
 	printf '</feed>\n' >> $@
 
