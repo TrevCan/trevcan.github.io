@@ -1,6 +1,6 @@
 i am happy.
 
-big image.
+big image
 
 <a href="assets/happy.wed.29j.2025.jpeg">
 
