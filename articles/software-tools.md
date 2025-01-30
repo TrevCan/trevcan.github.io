@@ -5,11 +5,14 @@ Software tools
 	- usually bundled with GNU utilities
 - [Arch Linux. a Linux KISS operating system.DIY.](https://archlinux.org/)
 - [Live regex / grep on the web! *thanks Engineer Man!*](https://www.debuggex.com/)
-- [collaborative LaTex doc formatting. *overleaf.com*](https://www.overleaf.com/)
+
+## LaTex
+- Collaborative LaTex doc formatting with optional WYSIWYG gui <https://www.overleaf.com/>
 - MS Word, CSV  to LaTex tables: <https://tablesgenerator.com/>
+- LaTex plot generator <https://mitchellt.com/tikzpgfplotsgenerator.html>
 
 ## collaborative
-- [LaTex doc formatting. *overleaf.com*](https://www.overleaf.com/)
+- Collaborative LaTex doc formatting with optional WYSIWYG gui <https://www.overleaf.com/>
 - [privacy-respecting remote storage, docs, slides, markdown, code, live collab.](https://cryptpad.fr/)
 - drawing:
 	- [tldraw. *minimalist drawing.*](https://www.tldraw.com/)
