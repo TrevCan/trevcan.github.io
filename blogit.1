@@ -11,6 +11,22 @@ blogit \- a small static blog generator
 is a small static blog generator, using a markdown-like syntax and git capabilities.
 For example, first posted and last edited dates are extracted from git history.
 
+.SH DEPENDENCIES
+.TP
+ - bash (just a shell, but there are some bash-isms in the scripts)
+.TP
+ - rsync (copies files fast)
+.TP
+ - discount (converts markdown to html)
+.TP
+ - git
+.TP
+ - make
+.TP
+ - *nix system (tools like grep, sed, curl, etc.)
+.TP
+ - blogit (this repo with the blogit scritps)
+
 .SH GETTING STARTED
 Run "blogit init" and follow the interactive configuration.
 This will create the basic structure and initialize a git repository.
@@ -59,7 +75,7 @@ Paragraphs are started with a blank line.
 .B Bold, italics
 Chunks enclosed in stars
 .RB ' * '
-are formatted in bold.
+are formatted in italics.
 Chunks enclosed with two stars
 .RB ' ** '
 are formatted in bold.
