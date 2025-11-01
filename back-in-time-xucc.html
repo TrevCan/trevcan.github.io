@@ -1,0 +1,165 @@
+<!DOCTYPE html><html><head>
+		<title>Going back in time and reading some of Zuckerberg's blog posts.</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Going back in time and reading some of Zuckerberg's blog posts.</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>05/01/2022 02:15:16 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>05/02/2022 09:00:32 PM</i></td>
+		</tr>
+	</table>
+
+<p>Yes, the Mark Zuckerberg!</p>
+
+<p>More like&hellip; only one, unfortunately.</p>
+
+<p>I&rsquo;ll make some commentary at the end.</p>
+
+<p>I got it from <a href="#references">[0]</a></p>
+
+<p>Here&rsquo;s the text:</p>
+
+<p><strong>&mdash;-BEGIN TEXT&mdash;-</strong></p>
+
+<p>10.28.03</p>
+
+<p>8:13pm. I need to think of something to occupy my mind. Easy enough
+now I just need an idea…</p>
+
+<p>9:48pm. I’m a little intoxicated, not gonna lie. So what if it’s not even 10pm and it’s a Tuesday night? What? The Kirkland facebook is open on my computer desktop and some of these people have pretty horrendous facebook pics.
+I almost want to put some of these faces next to pictures of farm animals and have people vote on which is more attractive. It’s not such a great idea and probably not even funny, but Billy comes up with the idea of comparing two people from the facebook, and only sometimes putting a farm animal in there. Good call Mr. Olson! I think he’s onto something.</p>
+
+<p>11:09pm. Yea, it’s on. I’m not exactly sure how the farm animals are going to fit into this whole thing (you can’t really ever be sure with farm animals…), but I like the idea of comparing two people together. It gives the whole thing a very Turing feel, since people’s ratings of the pictures will be more implicit than, say, choosing a number to represent each person’s hotness like they do on hotornot.com. The other thing we’re going to need is a lot of pictures. Unfortunately, Harvard doesn’t keep a public centralized
+facebook so I’m going to have to get all the images from the individual houses that people arein.
+And that means no freshman pictures…drats.</p>
+
+<p>12:58pm. Let the hacking begin. First on the list is Kirkland. They keep everything open and allow indexes in their Apache configuration, so a little wget magic is all that’s necessary to download the entire Kirkland facebook. Child’s play.</p>
+
+<p>1:03am. Next on the list is Eliot. They’re also open, but with no indexes in Apache. I can run an empty search and it returns all of the images in the database in single page. Then I can save the page and Mozilla will save all the images for me.
+Excellent. Moving right along…</p>
+
+<p>1:06am. Lowell has some security. They require a username/password combo to access the facebook. I’m going to go ahead and say that they don’thave access to the main fas user database, so they have no way of knowing what people’s passwords are, and
+the house isn’t exactly going to ask students for their fas passwords, so it’s got to be something else. Maybe there’s a single username/password combo that all of Lowell knows.
+That seems a little hard to manage since it would be impossible for the webmaster to tell Lowell residents how to figure out the username and password without giving them away completely. And you do want people to know what kind of authentication is necessary,
+so it’s probably not that either. So what does each student have that can be used for authentication that the house webmaster has access to? Student ids anyone? Suspicions affirmed –time to get myself a matching name and student id combo for Lowell and I’m in. But there are more problems. The pictures are separated into a bunch of different pages, and I’m way too lazy to go through all of them and save each one. Writing a perl script to take care of that seems like the right answer. Indeed.</p>
+
+<p>1:31am. Adams has no security, but limits the number of results to 20 a page. All I need to do is break out the same script I just used on Lowell and we’re set.</p>
+
+<p>1:42am. Quincy has no online facebook. What a sham. Nothing I can do about that.</p>
+
+<p>1:43am. Dunster is intense. Not only is there no public directory, but there’s no directory at all. You have to do searches, and if your search returns more than 20 matches, nothing gets returned. And once you do get results, they don’t link directly
+to the images; they link to a php that redirects or something. Weird. This may bedifficult.
+I’ll come back later.</p>
+
+<p>1:52am. Leverett is a little better. They still make you search, but you can do an empty search and get links to pages with every student’s picture. It’s slightly obnoxious that they only let you view one picture at a time, and there’s no way I’m going
+to go to 500 pages to download pics one at a time, so it’s definitely necessary to break out emacs and modify that perl script. This time it’s going to look at the directory and figure out what pages it needs to go to by finding links with regexes. Then it’ll just go to
+all of the pages it found links to and jack the images from them. It’s taking a few tries to
+compile the script…another Beck’s is in order.</p>
+
+<p>2:08am. Mather is basically the same as Leverett, except they break their directory down into classes. There aren’t any freshmen in their facebook…how weak.</p>
+
+<p><strong>&mdash;-END TEXT&mdash;-</strong></p>
+
+<a name="commentary"></a>
+<h1>commentary</h1>
+
+<p>Wow, nice story. I was definitely able
+to follow through with what he was
+saying.
+Although I must say, I don&rsquo;t know
+how to code in perl.
+But I do know what PHP is! So that&rsquo;s good ?
+Hmmm, a lot of the tech hasn&rsquo;t changed.</p>
+
+<p>Would definitely be fun to make this as a challenge. Making
+a faceSmash for my school !?</p>
+
+<p>Dope! But a lot feminists would probably curse at me
+for an entire week straight and
+I could get expelled.</p>
+
+<p>I&rsquo;d probably just need to steal some
+credentials off one professor who
+has enough admin privileges.</p>
+
+<p>Hmmm, maybe I&rsquo;ll go back to this.
+Hey friends! Don&rsquo;t kill me, if you
+don&rsquo;t want me to do this then
+call me or something.</p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li>[0]: <a href="https://kidsper.wordpress.com/2010/11/28/mark-zuckerbergs-livejournal-blog-post/">Mark zuckerberg’s Livejournal Blog Post</a> of course it&rsquo;s not the original.</li>
+</ul>
+
+
+<i> Tags: <b> archives </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

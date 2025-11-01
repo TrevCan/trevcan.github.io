@@ -1,0 +1,152 @@
+<!DOCTYPE html><html><head>
+		<title>$ whatis umask anyways</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>$ whatis umask anyways</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>06/01/2022 07:26:23 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>01/01/2023 01:55:06 PM</i></td>
+		</tr>
+	</table>
+
+<p>So, linux and other operating systems use files.
+You might have heard the expression
+<em>&ldquo;On Linux, everything is a file.&rdquo;</em></p>
+
+<p>And Linux uses lots of files. And if everyone
+had the same rights to all files, it&rsquo;d be a mess.
+Unprivileged users would be able to edit critical system files.</p>
+
+<p><em>small detour:</em></p>
+
+<p>So, in conclusion folks, applying personifying traits and giving &lsquo;rights&rsquo;
+to computer programs to do whatever they want <strong>will</strong> create trouble!
+I&rsquo;m talking to you, Github! No reason at all to change from <em>master</em>
+to <em>main</em>. Completely absurd.</p>
+
+<p><em>detour ends here</em></p>
+
+<p>So the <code>ext4</code> filesystem has permission on files. I can get the permission
+of a file using the <code>ls</code> command with some fancy options:</p>
+
+<p><pre><code># -l stands for long options
+$ ls -l articles/whatis-umask.md
+-rw-r--r-- 1 john cena 780 May  2 21:03 articles/whatis-umask.md
+</code></pre>
+where <code>john</code> is the owner of the file and <code>cena</code> is the group owner
+of the file. and the first characters are what matter: <code>-rw-r--r--</code>
+that garbougle of characters is weird! let&rsquo;s put some spaces!</p>
+
+<p><code>-rw- r-- r--</code>. Okay, looks better. These permissions are for the
+user, group, and other, respectively. Yes, <code>john</code> and <code>cena</code> come
+into play. <code>john</code> will have <code>-rw-</code>, <code>cena</code> will have <code>r--</code>, and
+other will have <code>r--</code>. <code>rw</code> means read, write. <code>r--</code> means
+read. <code>rwx</code> means read, write, execute. Yes, execute as in execute
+programs.</p>
+
+<p>But cool thing is if it&rsquo;s a directory the <code>x</code> means you can create
+files within the directory ! Try it out in a temp folder ! try making
+a new dir, looking at file permissions of a folder with <code>ls -lad folder/</code>
+and <code>chmod -x</code>ing it. can you create files ? folders ? what happens
+if you revert the <code>-x</code> ?</p>
+
+<a name="what-umask-actually-is"></a>
+<h1>what umask actually is</h1>
+
+<p>the umask command returns the <strong>inverse</strong> file mask used to create
+new files within the current shell. Yes, <strong>INVERSE</strong>. not the &lsquo;real&rsquo;
+mask you get with the <code>ls</code> command.</p>
+
+<p><strong>EVEN more confusingly</strong>, you can run the <code>umask -S</code>
+command to get a set of friendly-looking
+permissions
+like in the <code>ls</code> command which will now return the <strong>real file mask</strong>,
+not the inverse. You can set the real permissions for your current
+shell in the same way by just typing out the permissions you want.</p>
+
+<p>e.g.</p>
+
+<p><pre><code>umask -S u=rwx,g=rx,o=rx
+</code></pre>
+</p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li>[0]: <em>Umask command in linux</em>. Yes, it has ads.
+<a href="https://linuxize.com/post/umask-command-in-linux/">https://linuxize.com/post/umask-command-in-linux/</a></li>
+<li>[1]: <em>File permissions and attributes</em>. Arch Linux wiki.
+<a href="https://wiki.archlinux.org/title/File_permissions_and_attributes">https://wiki.archlinux.org/title/File_permissions_and_attributes</a></li>
+<li>[2]: Linux NDG Unhatched. cisco Netacad.</li>
+</ul>
+
+
+<i> Tags: <b> technical linux bored </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

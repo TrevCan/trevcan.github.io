@@ -1,0 +1,143 @@
+<!DOCTYPE html><html><head>
+		<title>Getting access to public wifi internet on Linux</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Getting access to public wifi internet on Linux</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>05/02/2022 08:53:00 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>05/02/2022 08:53:00 PM</i></td>
+		</tr>
+	</table>
+
+<p>Okay, so you&rsquo;re at a mall or something, there&rsquo;s public
+<em>WiFi</em>. Cool. And you can access the internet with your
+phone. But you open your Linux computer and connect
+to the network, yet nothing happens ! I&rsquo;ll show you
+how to fix this.</p>
+
+<p>Most public wifi networks use what is known as a
+<strong><em>Captive Portal</em></strong>. It is merely a login page used
+to authenticate control over Wi-Fi hotspots (Nyman, 2013).</p>
+
+<a name="tdlr"></a>
+<h1>tdlr</h1>
+
+<p>just go to <a href="http://192.168.1.1">http://192.168.1.1</a> on a web browser.
+It should redirect
+you to the login page.</p>
+
+<a name="tldr-2"></a>
+<h1>tldr 2</h1>
+
+<p>tldr didn&rsquo;t work ? Open a web browser, create an incognito window,
+go to a website <strong>you&rsquo;ve never visited before</strong>. It should
+redirect you to the login page.</p>
+
+<a name="tldr-3"></a>
+<h1>tldr 3</h1>
+
+<p>get into a terminal. type the following command: <code>ip route</code>.
+you should get something like:</p>
+
+<p><pre><code>$ ip route
+default via 192.168.1.1 dev zwn0 proto dhcp metric 600
+172.17.0.0/16 dev docker0 proto kernel scope link src 172.17.0.1 linkdown
+192.168.1.0/24 dev wlan0 proto kernel scope link src 192.168.1.68 metric 600
+</code></pre>
+get the first IP address under <em>default</em>. In this case, <code>192.168.1.1</code>.
+That should redirect you to the login page. If none of these
+solutions work, you should try reading this <a href="#references">[0]</a> stackoverflow
+question. It has great explanations on what
+could be going on, as well as multiple solutions.</p>
+
+<a name="wut"></a>
+<h1>wut</h1>
+
+<p>if you&rsquo;re on a nice Desktop Environment (DE), the captive portal page
+will most likely open for you just as you connect to the network.</p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li>[0]: How to sign into an open Wireless Network?. <em>unix.stackexchange.com</em>. 2013. <a href="https://unix.stackexchange.com/q/89630/497507">https://unix.stackexchange.com/q/89630/497507</a></li>
+<li>Thomas, Nyman. 2013. Answer for <em>How to sign into an open Wireless Network ?</em>
+<a href="https://unix.stackexchange.com/a/89705/497507">https://unix.stackexchange.com/a/89705/497507</a></li>
+<li>Gite, Vivek. 2020. How Do I Find Out My Linux Gateway / Router IP Address?
+<a href="https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/">https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/</a>
+
+<ul>
+<li>because sometimes I don&rsquo;t RTFM.</li>
+</ul>
+</li>
+</ul>
+
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html><html><head>
+		<title>copy all Pictures/Videos from iOS device to PC</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>copy all Pictures/Videos from iOS device to PC</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>03/06/2022 01:14:58 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>03/07/2022 01:47:02 PM</i></td>
+		</tr>
+	</table>
+
+<p>This guide is a tutorial to learn how to import ( and optionally delete) and browse your pictures and videos inside your iOS Device. You only need a working computer, a lightning-to-usb (with data transfer) cable, and an iOS device.</p>
+
+<a name="non-2d-features"></a>
+<h3>non-features</h3>
+
+<ul>
+<li><strong>You do not need another, external iOS Device, you do not need to pay Apple for iCloud, you do not need to download laggy, iTunes windows-and-mac only software.</strong></li>
+</ul>
+
+
+<a name="features"></a>
+<h3>features</h3>
+
+<ul>
+<li>you can browse all pictures and videos saved in your iOS Device</li>
+<li>you can delete any pictures on said iOS Device</li>
+<li>you can copy all the pictures easily.</li>
+<li>you can do this from a Linux / GNU + Linux / *NIX machine.</li>
+</ul>
+
+
+<p>the software used will be <a href="https://libimobiledevice.org/">libimobiledevice</a>, a cross-platform software library used to communicate to iOS devices. <a href="https://libimobiledevice.org/#get-started">ifuse</a> shall also be used to enable filesystem mounting.</p>
+
+<a name="start"></a>
+<h1>start</h1>
+
+<ol>
+<li>connect iOS device. Click allow for computer pop-up thing.</li>
+</ol>
+
+
+<p>assuming usbmuxd service is active,
+use the idevicepair command to connect to your device:
+<pre><code>$ idevicepair pair
+</code></pre>
+yeah, the command argument seems redundant. You should get some
+&lsquo;SUCESS: Paired with &rsquo;
+and a long string of characters.</p>
+
+<ol>
+<li>mount filesystem.</li>
+</ol>
+
+
+<p>assuming you have ifuse installed,
+use this command:</p>
+
+<p><pre><code># ifuse -o allow_other MOUNTPOINT
+</code></pre>
+where mountpoint is an existing directory.</p>
+
+<ol>
+<li>Access. Access your mountpoint.
+Keep in mind user permissions,
+you may have to chmod the directory
+beforehand to be able to gain
+access as a non-root user.</li>
+</ol>
+
+
+<p>now you can enter the file system.</p>
+
+<p>You should get a lot of folders
+when browsing the root dir.</p>
+
+<p>The important folder is DCIM.</p>
+
+<p>all pictures are there. <strong>Careful!</strong></p>
+
+<p>You can write to this folder.</p>
+
+<a name="delete-photos"></a>
+<h1>delete photos</h1>
+
+<p>If you want to delete the pictures just
+do an rm -rf of the *APPLE folders
+under DCIM. Careful!</p>
+
+<p>Pictures will still be cached in
+the device, so you&rsquo;ll need to cause
+a database rebuild of your camera
+roll:</p>
+
+<p><pre><code># cd &lt;mountpoint&gt;/PhotoData
+# rm Photos* com.apple.photos.caches_metadata.plist
+</code></pre>
+that&rsquo;s it. you can also browse your
+ringtones, there&rsquo;s a folder.</p>
+
+<p>you can also write to it, but I haven&rsquo;t found a way to let new ringtones appear in the list.</p>
+
+<p>Right now what I do is generate a new one from garageband, choose a name,
+then import it. connect device. copy m3u ringtone to the dir and change its name to one of the custom ringtones. that works.</p>
+
+<a name="files-3f-"></a>
+<h1>files?</h1>
+
+<p>I haven&rsquo;t found a way to access
+the &lsquo;files&rsquo; within the iOS File Manager. For now, I use this thing called &lsquo;snapdrop&rsquo; to serve over LAN a couple files here and there.</p>
+
+<p>that&rsquo;s it! Something you want to add
+or critique ? Go ahead and <a href="https://trevcan.duckdns.org/blog/contact.html">contact</a> me!</p>
+
+<p>resources:
+- <a href="https://wiki.archlinux.org/title/IOS">ArchLinux Wiki: iOS</a></p>
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

@@ -1,0 +1,3452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>trevcan's blog</title>
+	<link>https://trevcan.github.io/index.html</link>
+	<description>the blog by trevcan, a.k.a. Hector Canizales</description>
+		<item>
+		<title>$ whois trevor. featuring guest author</title>
+		<link>https://trevcan.github.io/paolo.the.challenge.html</link>
+		<guid>https://trevcan.github.io/paolo.the.challenge.html</guid>
+		<pubDate>Fri, 31 Jan 2025 18:23:43 -0600</pubDate>
+		<description><![CDATA[ <p>Hello. This is a challenge for Paolo. I hope you read this, Paolo.
+You are an interesting human being, you know more about me than what I know
+about what you know about me, because I have barely talked to you and you,
+too, have barely talked. Words. Mouths. Saliva. Syllables. Ideas, brain
+gew, brain stew.</p>
+
+<p>Your challenge is here. Now. You should provide your public ssh-key for
+repository access through e-mail (<code>heror0 4 8 4 [ a t ] pr ot onmai l.com</code>
+without spaces it&rsquo;s just so that the web scrapers don&rsquo;t catch on to this email.
+)
+. <strong>Your task is to edit this article</strong>
+and <strong><em>say anything you want about me</em></strong>. I invite you to write in any language
+you choose, could be more than one. You can say as little or as much as
+you&rsquo;d like. Your preference. I would love to see a story about myself
+through the eyes of an interested reader of my blog. you may add images,
+drawings, etcetera. you should make all hyperlinks relative to the <code>data/</code>
+directory, e.g. I have an image <code>data/asdf/img</code> and you should reference
+it in this markdown file in html as <code>asdf/img</code>.</p>
+
+<p>you can preview the whole blog using the <code>make all</code> command from the
+]]>
+		</description>
+		</item>
+		<item>
+		<title>i am happy.</title>
+		<link>https://trevcan.github.io/happy.wed.html</link>
+		<guid>https://trevcan.github.io/happy.wed.html</guid>
+		<pubDate>Wed, 29 Jan 2025 23:10:52 -0600</pubDate>
+		<description><![CDATA[ <p>big image</p>
+
+<div class="container-image">
+<style>
+/* https://www.w3schools.com/howto/howto_css_image_text.asp  */
+
+/* Container holding the image and the text */
+.container-image {
+  position: relative;
+  text-align: center;
+  color: white;
+  text-align:left;
+  color:rgba(0,0,0,0);
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+]]>
+		</description>
+		</item>
+		<item>
+		<title>believing in something: Stalker (1979)</title>
+		<link>https://trevcan.github.io/stalker.html</link>
+		<guid>https://trevcan.github.io/stalker.html</guid>
+		<pubDate>Sun, 05 Jan 2025 22:07:27 -0600</pubDate>
+		<description><![CDATA[ <p>I watched Stalker(1979), a Russian film
+recommended to me by Miranda. It was
+hard to watch at first, I constantly
+looking for consistent meaning and
+then I started contemplating it. That
+is when I started to appreciate the film.</p>
+
+<p>I watched it in two sittings. In the
+first sitting my Father was with me, we
+watched about 30% of the film. Then I
+watched it the next night and I am
+writing my review of it just after I&rsquo;ve
+watched the film so I don&rsquo;t forget most
+of my thoughts.</p>
+
+<p><strong>Spoilers ahead.</strong></p>
+
+<p>I wrote some things in my notebook:</p>
+
+<ul>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>On a chaotic mind or mind chaos</title>
+		<link>https://trevcan.github.io/on.a.chaotic.mind.html</link>
+		<guid>https://trevcan.github.io/on.a.chaotic.mind.html</guid>
+		<pubDate>Sat, 04 Jan 2025 11:58:01 -0600</pubDate>
+		<description><![CDATA[ <p>March 23, 2023. More than one and a half year later, I am here to write this.
+I don&rsquo;t even remember anything of what I was going to write.</p>
+
+<p>Today is now Saturday, January the fourth, <strong>2025</strong>!. Yes, 2025.
+Can u believe it!?!?! I barely can!</p>
+
+<p>Yesterday I went to Mexico City to get a typewriter (yes, those ancient
+beautiful machines) fixed. I could not find any shops
+near were I live. The nearest one was in Mexico City.</p>
+
+<p>So I went there. And there it was. A shop. A workshop. Its banner
+barely said anything about typewriters.
+The business itself is more tailored to the fixing of printing machines,
+the newer machines that have become the norm in almost every house with a
+computer. You have a computer, you are to print. And if you didn&rsquo;t have
+a printer at home you wen&rsquo;t to the stationery store. In Spanish this is
+a <em>papelería</em>. And I also had with me another machine which I had been
+almost using daily for about two weeks or so now. And that one worked
+almost flawlessly. Maybe every 300 characters or so it slightly jammed,
+it was easy getting it to work again but it did need some cleaning
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Archiving iPhone photo albums without iTunes in Linux</title>
+		<link>https://trevcan.github.io/archiving-ios-pictures.html</link>
+		<guid>https://trevcan.github.io/archiving-ios-pictures.html</guid>
+		<pubDate>Thu, 28 Mar 2024 01:55:39 -0600</pubDate>
+		<description><![CDATA[ <p>Hello! My Mom asked me to archive the pictures and videos on her iPhone.
+I tried doing it without iTunes and was somewhat successful!
+I was able to keep all of her albums!</p>
+
+<p>One knows that iTunes can be a very buggy piece of software. I&rsquo;ve personally
+backed up very few times iPhones using iTunes, as I do not really care
+about having the apps backed up. I only care about the Photos and videos.</p>
+
+<p>It should be as easy as connecting it to your computer, right? Well, no.
+I mean, kind of. You can easily connect your iPhone to your Windows computer
+and from your iPhone click on &lsquo;Trust this device&rsquo; and it will magically open
+up the access to your iPhone&rsquo;s DCIM folder which contains all your pictures.</p>
+
+<p>I&rsquo;m using Garuda Linux but I&rsquo;ve been able to mount my iPhone with Arch Linux:
+<a href="https://wiki.archlinux.org/title/IOS">https://wiki.archlinux.org/title/IOS</a></p>
+
+<p>Note: It was a pain in the ass finding the mount point of my iPhone in Garuda
+Linux. They really didn&rsquo;t make it easy! Turns out it was in
+<code>/run/user/1000/kio-fuse-OUJOte/</code>. I could see the files in the file manager,
+but whenever I right clicked to open a terminal, it would drop me in the home
+]]>
+		</description>
+		</item>
+		<item>
+		<title>On a bus.</title>
+		<link>https://trevcan.github.io/just-writing-2024-january26th.html</link>
+		<guid>https://trevcan.github.io/just-writing-2024-january26th.html</guid>
+		<pubDate>Fri, 26 Jan 2024 14:34:03 -0600</pubDate>
+		<description><![CDATA[ <p>Today, hello. I am writing slightly uncomfortably
+on a moving bus. It looks small from the back. But it&rsquo;s
+indeed a relatively large bus. It is the first time I use
+one of these tables. There are tables for eight passengers.
+Always at the back. Are they eight tables? Or just two?
+They seem to be two. Since on each side of the bus there are
+four seats, two seats facing another two seats. With a table
+in the middle. And then there are these little arm/tablerests on top
+of the big table
+with hinges attached to it. And they say not to put your
+arms over it. But that&rsquo;s really what it&rsquo;s for. Maybe they mean your
+full weight or something.</p>
+
+<p>Anyways, apparently there is WiFi. I&rsquo;ve never used the WiFi on this bus.
+I like to be out of connection when being on a bus.</p>
+
+<p>Although calls do come in every once in a while. From my parents, mostly.
+I haven&rsquo;t written in a big while. My last post must be more than a month old,
+I think. Esteban read it, thank you Esteban.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>El Teatro ó El Teatro y Yo.</title>
+		<link>https://trevcan.github.io/theatre.html</link>
+		<guid>https://trevcan.github.io/theatre.html</guid>
+		<pubDate>Wed, 18 Oct 2023 22:16:40 -0600</pubDate>
+		<description><![CDATA[ <p>Lunes 16 de octubre de 2023.
+Acrerca de: El Teatro ó El Teatro y Yo.
+Título: aún no decidido.</p>
+
+<p>El Teatro. El Teatro es algo. No es alguien. No es una persona. Podría ser varias ideas. No creo que sea una sola idea. Puede ser muchas cosas, claramente. Puede ser bailar, cantar, actuar. Verse a los ojos en un escenario. O también en la calle. No hay que estar tan alto en un bloque de madera o viendo a lo lejos desde unas butacas incómodas para decir que vivimos el teatro. El teatro es una manera de contar historias. Sí, ya sé. Hay muchas maneras de contar historias. Pero el teatro es más personal. Es en vivo. Hay personas frente a frente. Hay butcas, sillas. Un escenario de madera que a veces rechina. La acción sucede ahí mismo. Y sólo lo presenciarás una vez. Podrás ir a ver una obra del mismo director, mismos actores, mismo todo, una y otra y otra y otra vez. Pero nunca será lo mismo. La hora no será la misma. Probablemente el día tampoco. Los actores idealmente estarán pensando en básicamente nada y sólo serán quien tengan que ser. Porque ser un actor se trata de comprender una escena, se trata de ser quien tienes que ser. Tienes que vivir y sólo ser. Sí, sí estás pensando. Pero estás pensando como todos los días, siendo quien tengas que ser.</p>
+
+<p>El teatro puede ser esto:</p>
+
+<p>Oh, Hanna. How I&rsquo;d like to meet you is&hellip; i don&rsquo;t know. Yeah, I like you, sure. You&rsquo;re beautiful. I&rsquo;ve heard you&rsquo;ve got a boyfriend. Fine, I won&rsquo;t try to ask you out. Yet, I still want to meet you. Wouldn&rsquo;t you? Don&rsquo;t you? I wanna meet you. Know who you are. Know why the fuck do we stare at each other. Maybe we wonder too much about what could be, instead of doing whatever it is we wanna do, you know? I wanna give you a kiss, just for fun. But alright, I won&rsquo;t, I know you&rsquo;ve got a boyfriend so I won&rsquo;t try to do that. But you see, the obsession is not with being your boyfriend. It&rsquo;s with getting to know you. Know what&rsquo;s going on in your mind, understanding how you can achieve such beauty.</p>
+
+<p>I wanna ask you if I, me, myself, ever happens to cross around your mind, If you ever wonder about me, if I create, if any, importance within you.</p>
+
+<p>Fin.</p>
+
+<i> Tags: <b> es en write </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Life before your eyes</title>
+		<link>https://trevcan.github.io/rebooting-remotely.html</link>
+		<guid>https://trevcan.github.io/rebooting-remotely.html</guid>
+		<pubDate>Fri, 25 Aug 2023 21:23:43 -0600</pubDate>
+		<description><![CDATA[ <p>Hopefully it is not a tragedy. I am rebooting my server
+after more than 374 days of uptime. Not complete uptime,
+since sometimes I do reboot the webserver command (<code>lighttpd</code>)
+every once in a while. But in fact, this computer has been alive,
+consuming some amount of electricity, power, work from somewhere else,
+for the last 6 minutes,
+21 hours, nine days, and one full year as of writing this. In a
+few minutes time, power will be cutoff for a few seconds, and
+then, back to business!</p>
+
+<p>But what is it with computers and rebooting, that we must do it all
+the time. It feels kind of essential. We&rsquo;ve built this persistence around
+memory, hard disks, solid-state drives. The files will be there, intact,
+thanks to the error-correction built-in to file systems and physical
+devices. Pretty weird, right? That you can kill all the power, turn on
+again and it will work almost exactly the same as before. Or maybe
+your error will be fixed, because of some weird condition in the code
+that specifically made it act that way.</p>
+
+<p>Oh, computers, persistence is key. But the persistence of the reboot is there.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Software tools</title>
+		<link>https://trevcan.github.io/software-tools.html</link>
+		<guid>https://trevcan.github.io/software-tools.html</guid>
+		<pubDate>Wed, 23 Aug 2023 10:17:55 -0600</pubDate>
+		<description><![CDATA[ <a name="operating-systems"></a>
+<h1>operating systems</h1>
+
+<ul>
+<li>linux based operating systems
+
+<ul>
+<li>usually bundled with GNU utilities</li>
+</ul>
+</li>
+<li><a href="https://archlinux.org/">Arch Linux. a Linux KISS operating system.DIY.</a></li>
+<li><a href="https://www.debuggex.com/">Live regex / grep on the web! <em>thanks Engineer Man!</em></a></li>
+</ul>
+
+
+<a name="LaTex"></a>
+<h2>LaTex</h2>
+
+<ul>
+<li>Collaborative LaTex doc formatting with optional WYSIWYG gui <a href="https://www.overleaf.com/">https://www.overleaf.com/</a></li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Cálculo Lambda</title>
+		<link>https://trevcan.github.io/el-calculo-lambda.html</link>
+		<guid>https://trevcan.github.io/el-calculo-lambda.html</guid>
+		<pubDate>Wed, 10 May 2023 00:42:09 -0600</pubDate>
+		<description><![CDATA[ 
+
+<p>
+<img src="assets/church.alonzo.jpg" >
+</p>
+
+
+<p><small>Imagen de Universidad de Princeton (s.f.)</small></p>
+
+<p>Alonzo Church nació el 14 de junio de 1903, en Washington, D.C. Su padre fue un juez. Estudió en la Universidad de Princeton y obtuvo una Licenciatura en Matemáticas. Se graduó en 1924 y pasó a obtener un doctorado en los próximos tres años bajo Oswald Veblen.</p>
+
+<p>Fue maestro de filosofía y matemáticas por casi cuarenta años. Dentro de sus trabajos notables, se encuentra su desmostración al problema Entscheidungsproblem, desarrollado independientemente de Alan Turing y en donde llegaron a la misma conclusión. Se destaca por haber inventado el Cálculo Lambda, un sistema de notación para funciones y sus aplicaciones. Church fue el asesor de tesis de Alan Turing, también en la universidad de Princeton.</p>
+
+<p>Artículos Notables en Revistas Científicas</p>
+
+<ul>
+<li>Church, A. (1932). A Set of Postulates for the Foundation of Logic. Annals of Mathematics, 33(2), 346–366. <a href="https://doi.org/10.2307/1968337">https://doi.org/10.2307/1968337</a></li>
+<li>Church, A. (1933). A Set of Postulates For the Foundation of Logic. Annals of Mathematics, 34(4), 839–864. <a href="https://doi.org/10.2307/1968702">https://doi.org/10.2307/1968702</a></li>
+<li>Church, A. (1936). An Unsolvable Problem of Elementary Number Theory. American Journal of Mathematics, 58(2), 345–363. <a href="https://doi.org/10.2307/2371045">https://doi.org/10.2307/2371045</a></li>
+<li>Church, A. (1941). The Calculi of Lambda Conversion. (AM-6). Princeton University Press. <a href="http://www.jstor.org/stable/j.ctt1b9x12d">http://www.jstor.org/stable/j.ctt1b9x12d</a></li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>How to get a consistent RSS feed ?</title>
+		<link>https://trevcan.github.io/fixing-rss.html</link>
+		<guid>https://trevcan.github.io/fixing-rss.html</guid>
+		<pubDate>Wed, 19 Apr 2023 16:33:16 -0600</pubDate>
+		<description><![CDATA[ <p>It&rsquo;s hard. Well, maybe not that hard. But when
+you coded a half-assed program to generate an RSS
+feed using shell scripting inside a makefile it&rsquo;s gonna
+be pretty hard to fix it.</p>
+
+<p>I&rsquo;m most likely going to rewrite all the RSS feed generator
+in C. I hope that doesn&rsquo;t bring any more problems&hellip;</p>
+
+<p>Well, it all began when one of my readers told me that he
+was attempting to use the RSS feed and told me that it was
+broken. He didn&rsquo;t explain much else beyond that, aside from
+the fact that the atom link was broken too.</p>
+
+<p>And by broken, he meant that it wasn&rsquo;t being properly parsed. But
+the atom link just has been broken for a while - because the file
+doesn&rsquo;t exist on purpose. I&rsquo;ve been meaning to fix both, the RSS
+and the Atom feeds which are very similar but just haven&rsquo;t had
+the will to do it, until now apparently. I hope this will lasts
+long enough that I am able to fix both problems.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>High on happiness</title>
+		<link>https://trevcan.github.io/high-on-happiness.html</link>
+		<guid>https://trevcan.github.io/high-on-happiness.html</guid>
+		<pubDate>Wed, 29 Mar 2023 00:40:57 -0600</pubDate>
+		<description><![CDATA[ <p>When do you ever, truly, feel happy ?</p>
+
+<p>I think that&rsquo;s when your willingness to live to survive, increases.
+When you wanna feel alive you wanna just keep on living and you&rsquo;re
+so fucking high on adrenaline you just feel like you wanna keep going.</p>
+
+<p>That&rsquo;s what I felt like whilst watching Uncut Gems. A movie with Adam
+Sandler. It&rsquo;s about a guy who deals jewelry, all kinds of things.
+Fancy, big things. He&rsquo;s jewish.</p>
+
+<p>so he gets this rock. And the guy&rsquo;s a gambler, like a real fucking
+gambler. He gambles his money at work. He owes debt to a ton shit
+of guys. Even one of his family members. And one of his family even
+makes Adam Sandler get beat up cause he stills owes money.</p>
+
+<p>And you know, the plot realy doesn&rsquo;t matter that much. Well, no, it does,
+it did to me!</p>
+
+<p>Really, what this film is about. It&rsquo;s about the unexpected. About life
+itself, you never really know what you&rsquo;re gonna get. You don&rsquo;t know if
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Agárrate, ¡con las manos!</title>
+		<link>https://trevcan.github.io/agarrate.con.las.manos.html</link>
+		<guid>https://trevcan.github.io/agarrate.con.las.manos.html</guid>
+		<pubDate>Sat, 28 Jan 2023 14:35:57 -0600</pubDate>
+		<description><![CDATA[ <p>Escribo aquí, ahora, porque puedo y lo he decidido.
+El día de hoy me levanté  alrededor de las 8:25 horas de la mañana.
+La noche anterior comí mucho. Salí alrededor de las siete u ocho de la
+noche por elotes.
+Fui con mis amigos a un estacionamiento con un &lsquo;food truck&rsquo; como se le
+conoce en los Estados Unidos de América. En español de México también
+le decimos así. No he escuchado la expresión &lsquo;un camión de comida&rsquo;. Así
+que así se quedará.
+Bueno, el punto es que en este puesto venden elote.
+Ni siquiera elote en vaso, esquite o trolelote (al menos no lo vi
+anunciado).
+No. Sólo elote con un palo. Se le pone queso, mayonesa, salda. De todo.
+También vendían un tostielote - justo lo que pedí. Es una bolsa de papas
+de tu elección (doritos, tostitos, entre otros) y le ponen, efectivamente,
+elote y salsa, queso, todo eso lindo y querido.
+Y también vendían panqué y pastel de elote. Yo pedí una rebanada de
+pastel de elote.
+El panqué sabía casi igual - lo probé de un amigo.
+Nos gustó.
+Está cerca de donde vivo.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>What?</title>
+		<link>https://trevcan.github.io/what.html</link>
+		<guid>https://trevcan.github.io/what.html</guid>
+		<pubDate>Sat, 21 Jan 2023 23:58:21 -0600</pubDate>
+		<description><![CDATA[ <p>Hello, world!</p>
+
+<p>What am i doing here? what am i doing now ?
+i do not really know. i can tell that i am writing.
+i am writing on a text editor, on vim, on an operating
+system called linux.</p>
+
+<p>but how do i feel? because for some reason i keep thinking
+and thinking and thinking. but sometimes none of that thinking
+sticks.</p>
+
+<p>i think too much. i am a person with ideas that flow. i am
+not directing those ideas anywhere, really. why don&rsquo;t i?</p>
+
+<p>i don&rsquo;t know, i am unsure. i am writing to remind myself that
+i used to do this, write. I used to write on my blog.</p>
+
+<p>maybe someone will read it, maybe someone will not. i also
+want to remind myself this blod, it is a record of some
+of my thoughts and should act as an archive of my mind.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>A new beginning </title>
+		<link>https://trevcan.github.io/new-beginning.html</link>
+		<guid>https://trevcan.github.io/new-beginning.html</guid>
+		<pubDate>Sun, 01 Jan 2023 13:54:09 -0600</pubDate>
+		<description><![CDATA[ <p>I dropped out of university. I was majoring for CS Engineering (Ingeniería en Tecnologías Computacionales) at Tec de Monterrey Campus Toluca.</p>
+
+<p>I didn&rsquo;t like it there. I mean, I did but I felt like I wasn&rsquo;t learning. Plus, I was there for three years during high school. Not exactly the same building, but the same place. This might sound kind of dumb, but I wasn&rsquo;t learning much from my programming classes. And my engineering classes could have been better. I felt like I wasn&rsquo;t grasping
+the concepts necessary to understand physics, I felt like I was rushing.</p>
+
+<p>I felt like I needed a change.</p>
+
+<p>So I dropped out of there and I&rsquo;ve decided I&rsquo;m going to Puebla. It&rsquo;s a three and a half hour drive from where I currently live. I will be studying at UDLAP. that&rsquo;s short for Universidad de las Américas Puebla.
+I will be studying the same thing. Here it is called Ingeniería en Sistemas Computacionales.
+Or Computer Science Engineering, I think.</p>
+
+<p>Anyways, I will be starting classes on January 9th, 2023. I&rsquo;ll be staying at the university&rsquo;s dorms.</p>
+
+<i> Tags: <b> life  </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Logging in to day</title>
+		<link>https://trevcan.github.io/aujourdhui.13.of.the22.oct.html</link>
+		<guid>https://trevcan.github.io/aujourdhui.13.of.the22.oct.html</guid>
+		<pubDate>Thu, 13 Oct 2022 21:39:32 -0500</pubDate>
+		<description><![CDATA[ <p>Hello, world!</p>
+
+<p>You know, there was a big gap of history and life between this post and the post
+before it: <em>Not on the melancholy hill</em>. I guess I could say that I honestly
+felt like shit between those two times but I don&rsquo;t really feel like doing
+that.
+What i feel like doing is telling a story.
+A story of now, of a recent now. Not a yesterday but of today. Of what
+I did for me and for others the day of today. That&rsquo;s right, not the morrow
+(yes it&rsquo;s an actual word look it up),
+not the yesterday but today. What happened today and maybe what will
+and what  i want to happen.</p>
+
+<a name="a-new-beginning"></a>
+<h1>a new beginning</h1>
+
+<p><small>(not-so)</small>
+So yeah, a not so new beginning. I had three alarms set for today.
+One at exactly 06:59, another one at 07:00, another one at 07:01. That was it.
+This was the day I was actually going to shower fucking early, have the time
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Not on the melancholy hill</title>
+		<link>https://trevcan.github.io/on-not-melancholy-hill.html</link>
+		<guid>https://trevcan.github.io/on-not-melancholy-hill.html</guid>
+		<pubDate>Sun, 02 Oct 2022 00:59:14 -0500</pubDate>
+		<description><![CDATA[ <p>For some strange fucking reason, I feel satisfied.
+I am not sad.
+I feel like I&rsquo;ve done enough of a purpose to myself and society and to my family. At least for today.
+I&rsquo;ve talked to friends, maybe not as much as I like but whatever.</p>
+
+<p>Today I drove. A lot. I drove in highways, strange fucking race-car-like roads that are technically in the state where I live !</p>
+
+<p>I liked driving.
+I went to one of my dad&rsquo;s friends from work apartment with my mom and dad, we were invited to a dinner.
+He lives in some kind of a paradise.
+There&rsquo;s a supermarket in his gated community ! It&rsquo;s gigantic ! There&rsquo;s so many houses surrounded  by the woods. Looks like a lotta rich people live there.</p>
+
+<p>Not necessarily high-class rich people but middle-high class who still work but do a pretty nice living.
+Guy&rsquo;s living the dream.</p>
+
+<p>I mean, this guy lives in an apartment.
+It&rsquo;s a nice living I suppose.
+there are many people with houses there so I suppose
+he&rsquo;s technically one of the &lsquo;poor&rsquo;
+from there but he sure seems to be making
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Today is Friday my dudes ! </title>
+		<link>https://trevcan.github.io/its-friday-my-dudes--30-septem-22.html</link>
+		<guid>https://trevcan.github.io/its-friday-my-dudes--30-septem-22.html</guid>
+		<pubDate>Fri, 30 Sep 2022 09:48:34 -0500</pubDate>
+		<description><![CDATA[ <p>Hello Stranger. I am me. And i&rsquo;m blogging.</p>
+
+<p>I feel kinda bad, ok ?</p>
+
+<p>Should I ? I don&rsquo;t know.
+I enjoyed all this.
+The human mind works in very mysterious ways&hellip;
+<strong>insert another lame cliché here</strong></p>
+
+<p>I don&rsquo;t even know how to feel.
+i don&rsquo;t know what to think.
+The only thing that I know for certain is that I&rsquo;ve balanced
+my wrong-doings.</p>
+
+<p>Last Tuesday I lied. I gave into a lie.
+But I&rsquo;m an honest person, yet I had the choice to not choose
+to lie.
+But I fucking did!!
+And I&rsquo;m not saying it&rsquo;s the other person&rsquo;s fault for suggesting
+<em>to lie</em> but in fact, it was my fault.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Une critique en rapport à la chanson de <em>Prioritise-Moi</em></title>
+		<link>https://trevcan.github.io/apropos-prioritise-moi.html</link>
+		<guid>https://trevcan.github.io/apropos-prioritise-moi.html</guid>
+		<pubDate>Tue, 27 Sep 2022 10:06:08 -0500</pubDate>
+		<description><![CDATA[ <p><em>J'ai vu et ecouté a ce chanson originale par Pomplamoose <a href="#references">[0]</a>.</em>
+<em>Vue les lyrics <a href="#lyrics">ici</a>.</em></p>
+
+<p>Ok, donc qu'est-ce que je pourrait dire ?</p>
+
+<p>Bon, je sais pas. Je pense que ça c'est une chanson pas dépriment nécessairement
+mais réaliste de la realité où on vivre. Elle pourrait être la femme ou l'homme
+mais à fin on a toujours une personne qui veut d'attention et une personne qui
+est occupé déjà avec de travail ou quelques autres choses.</p>
+
+<p>La personne qui chante a beaucoup d'intérêt d'être avec la personne mais
+l'autre personne n'a pas l'intérêt. Il est pas interessé plus de être
+avec la personne. Il est consummé par plus des choses comme le travail.</p>
+
+<p>Mais la personne - l'homme qui travaile - est dans la date, non ? Il
+est physiquement avec cette femme mais pour quoi est-ce qu'il ne prenne pas
+d'intérêt s'il est là dejà.</p>
+
+<p>Je sais pas.
+Et aussi, analyser une chanson dans ma troisième langue est très difficile,
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Divide and Conquer</title>
+		<link>https://trevcan.github.io/divide-et-conquer.html</link>
+		<guid>https://trevcan.github.io/divide-et-conquer.html</guid>
+		<pubDate>Thu, 22 Sep 2022 21:46:29 -0500</pubDate>
+		<description><![CDATA[ <p>That&rsquo;s what it&rsquo;s all about when pursuing your dreams.</p>
+
+<p>Just do it. Yes, Nikeee.</p>
+
+<p>Make it Count by Casey Neistat:  <a href="https://youtu.be/WxfZkMm3wcg">https://youtu.be/WxfZkMm3wcg</a></p>
+
+<p>DO WHAT YOU CAN&rsquo;t by Casey Neistat:
+<a href="https://youtu.be/jG7dSXcfVqE">https://youtu.be/jG7dSXcfVqE</a></p>
+
+<p>Be who you want to be.</p>
+
+<p><em>C'est la vie.</em></p>
+
+<i> Tags: <b> random feelings life </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Salary transparency	</title>
+		<link>https://trevcan.github.io/salary-transparency.html</link>
+		<guid>https://trevcan.github.io/salary-transparency.html</guid>
+		<pubDate>Thu, 25 Aug 2022 11:16:27 -0500</pubDate>
+		<description><![CDATA[ <p>This is the page where I publish my salary transparency data.
+Hopefully I&rsquo;ll remember to update this in the future.</p>
+
+<p>The idea came from xeisao.net <a href="#references">[0]</a></p>
+
+<table class="salary_history">
+    <tbody>
+        <tr>
+            <th>Title</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Days Worked</th>
+            <th>Salary<a href=#currency >*</a></th>
+            <th>How I Left</th>
+        </tr>
+        <tr>
+            <td>Internship, junior dev.(part-time,20hrs a week)</td>
+            <td>2022-06-01</td>
+            <td>2022-08-16</td>
+            <td>77
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Love and happiness</title>
+		<link>https://trevcan.github.io/love-and-happiness.html</link>
+		<guid>https://trevcan.github.io/love-and-happiness.html</guid>
+		<pubDate>Sun, 14 Aug 2022 23:11:43 -0500</pubDate>
+		<description><![CDATA[ <p><em>See also: <strong>Song</strong> Love and happiness <a href="#references">[0]</a> by Al green</em></p>
+
+<p><img src=alice.jpeg ></p>
+
+<p>Love and happiness are weird concepts.</p>
+
+<p>whatis love ? and why does our society take such pride and emotion
+into having it ? I mean, not just society, but my family and me as a
+whole, right ? Why don&rsquo;t I get the love I deserve ? Maybe I do, but
+I just don&rsquo;t see it.</p>
+
+<p>I&rsquo;ve tried having love, sharing intimacy with others. But I guess I&rsquo;m
+just not good enough, or just not good enough for them. Or i haven&rsquo;t
+found the right person at all.</p>
+
+<p>But the point of this blog post is to say that maybe, mayybeee
+I have the one. Maybe I do. I&rsquo;ve crossed eyes with her. A lot.. maybe
+way too much. She&rsquo;s crossed eyes with me. We&rsquo;ve crossed eyes.
+Who started it ? Did I ? Hmmm, maybe maybe not ? You see, on a
+purely survivalist standard being with that person would most likely
+]]>
+		</description>
+		</item>
+		<item>
+		<title>No: a Poem by <em><small>yours truly</small></em></title>
+		<link>https://trevcan.github.io/a.poem.i.wrote.a.while.ago.html</link>
+		<guid>https://trevcan.github.io/a.poem.i.wrote.a.while.ago.html</guid>
+		<pubDate>Fri, 12 Aug 2022 00:11:57 -0500</pubDate>
+		<description><![CDATA[ <p>Oh my, oh my,<br>
+with no path for myself,<br>
+I got nowhere but the void to go to,<br>
+overinformed by everyone,<br>
+just wanting to go to the snow,<br></p>
+
+<p>Oh my, Oh my,<br>
+what a free world we live in,<br>
+is society doomed?<br>
+or am I?<br></p>
+
+<p>Should i live by critique?<br>
+Or by desire?<br>
+am I good enough for you?<br>
+Is this right?<br>
+this wrong?<br>
+like this?<br>
+like that?<br>
+I&rsquo;m a lazy human for not doing my part!<br></p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>At last my error.</title>
+		<link>https://trevcan.github.io/need-write-now.html</link>
+		<guid>https://trevcan.github.io/need-write-now.html</guid>
+		<pubDate>Sat, 18 Jun 2022 03:06:09 -0500</pubDate>
+		<description><![CDATA[ <p>Instead of working I have found myself dealing
+with some mysery and happiness.
+Lots of both sometimes.
+I miss things.
+I think I miss writing.
+I like writing at the two a.m. in the morning because why not.</p>
+
+<p>Anyways, I recently bought myself something that actually uses the usb-c
+port on my computer. The USB-C connection actually has a Thunderbolt 3
+controller and yes, in theory, I could just connect literally everything
+I&rsquo;d possibly ever need through that cable.</p>
+
+<p>I went to a Best Buy in Michigan to get a thunderbolt 3 capable dock
+but to my surprise I did not find any of my liking. The thing that was
+missing the most was a Display Port. Literally none of them had it.
+Not even the extra expensive ones. I mean, they were all kinda equally
+expensive, even though they&rsquo;re probably as shitty as one would expect
+from too new technologies and not enough real manufacturing of them.</p>
+
+<p>In the past month I stumbled upon a hacker news post talking about
+]]>
+		</description>
+		</item>
+		<item>
+		<title>$ whoami</title>
+		<link>https://trevcan.github.io/me-why.html</link>
+		<guid>https://trevcan.github.io/me-why.html</guid>
+		<pubDate>Mon, 06 Jun 2022 20:38:08 -0400</pubDate>
+		<description><![CDATA[ <p>Well, <strong>who am I?</strong></p>
+
+<p>Well, that&rsquo;s a great question. I don&rsquo;t really know myself.</p>
+
+<p>If you know french, here is a reflexion essay I made in highschool for my
+philosophy course:
+<a href="https://files.thetrevor.tech/trevor/misc/qui-suis-je-philos.pdf">https://files.thetrevor.tech/trevor/misc/qui-suis-je-philos.pdf</a></p>
+
+<p>I wanted to start off by explaining the <code>whoami</code> Linux (gnu coreutils) command first. But I&rsquo;m sure it&rsquo;s self explanatory. Computer systems have users. The command just prints who is the user running the command.</p>
+
+<p>But well&hellip; who am I ? That&rsquo;s one of
+philosophy&rsquo;s most-searched questions.</p>
+
+<p><em>See the history of this blog post: </em>
+<a href="https://git.thetrevor.tech/blog.git/log/articles/me-why.md" >
+https://git.thetrevor.tech/blog.git/log/articles/me-why.md
+</a></p>
+
+<i> Tags: <b> meta </b></i>
+</div>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>$ whatis umask anyways</title>
+		<link>https://trevcan.github.io/whatis-umask.html</link>
+		<guid>https://trevcan.github.io/whatis-umask.html</guid>
+		<pubDate>Wed, 01 Jun 2022 19:26:23 -0500</pubDate>
+		<description><![CDATA[ <p>So, linux and other operating systems use files.
+You might have heard the expression
+<em>&ldquo;On Linux, everything is a file.&rdquo;</em></p>
+
+<p>And Linux uses lots of files. And if everyone
+had the same rights to all files, it&rsquo;d be a mess.
+Unprivileged users would be able to edit critical system files.</p>
+
+<p><em>small detour:</em></p>
+
+<p>So, in conclusion folks, applying personifying traits and giving &lsquo;rights&rsquo;
+to computer programs to do whatever they want <strong>will</strong> create trouble!
+I&rsquo;m talking to you, Github! No reason at all to change from <em>master</em>
+to <em>main</em>. Completely absurd.</p>
+
+<p><em>detour ends here</em></p>
+
+<p>So the <code>ext4</code> filesystem has permission on files. I can get the permission
+of a file using the <code>ls</code> command with some fancy options:</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>A not-so-long plane ride.</title>
+		<link>https://trevcan.github.io/the-offline.html</link>
+		<guid>https://trevcan.github.io/the-offline.html</guid>
+		<pubDate>Wed, 01 Jun 2022 13:23:00 -0500</pubDate>
+		<description><![CDATA[ <p><small>but one without headphones
+</small></p>
+
+<p>Technically, I did get earphones.
+But I just got a kinda severe ear infection from which I am just recovering and it has been a wild ride.</p>
+
+<p>One of my ears used to be plugged but I didn&rsquo;t do much about it until it started to hurt.
+I went to a party and then left early because one of my ears was practically burning, or at least that&rsquo;s what it felt like.
+Next day I went to the doctor and he told me that I had an ear infection. But this doctor showed me what was inside my ear.
+And in the other one too. The difference was clear.
+The ear conduct in the bad ear was very small and red, there were little pimples inside it which were just inflammation. It certainly hurt. Plus, the <em>timbre</em> was barely visible.</p>
+
+<p>And he gave me a shit-load of meds, and now I have to apply some eardrops every 8 hours plus other pills and such. And now it doesn&rsquo;t hurt, so that&rsquo;s good!
+And I&rsquo;m flying right now and wrote this as the plane was landing,
+which is a completely unnecessary comment yet one
+I chose to make.</p>
+
+<p>Anyways, the subtitle of this blog post is <em>one without headphones</em>.
+I chose not to bring my in-ear headphones because they are very uncomfortable and they might have been the cause to the infection in
+the first place. So I chose not to bring them at all. But in the plane I was offered some. At first I thought of just saying no, but two people around me said yes so I kinda had to go with it, you know,
+]]>
+		</description>
+		</item>
+		<item>
+		<title>A writing from Alex</title>
+		<link>https://trevcan.github.io/alexss-writing.html</link>
+		<guid>https://trevcan.github.io/alexss-writing.html</guid>
+		<pubDate>Sat, 28 May 2022 20:50:55 -0500</pubDate>
+		<description><![CDATA[ <p>Alex, write anything you&rsquo;d like to make public. Go right ahead:</p>
+
+<blockquote><p>I cover my ears to no avail, as the noise comes from within.</p></blockquote>
+
+<ul>
+<li>- Alex Solis</li>
+</ul>
+
+
+<i> Tags: <b> alex ª </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Changing your device's MAC address is risky.</title>
+		<link>https://trevcan.github.io/dont-change-mac-addr.html</link>
+		<guid>https://trevcan.github.io/dont-change-mac-addr.html</guid>
+		<pubDate>Sun, 22 May 2022 09:02:54 -0500</pubDate>
+		<description><![CDATA[ <p>At least that was certainly my experience with it.</p>
+
+<p>I recently installed macchanger <a href="#references">[0]</a>, a utility to&hellip; yes! change your mac address.</p>
+
+<p>A MAC address stands for <em>Media Access Control address</em>. It is a unique identifier address used for network interface controllers (NICs, according to Wikipedia). So your LAN controller and your WiFi controllers have MAC addresses.</p>
+
+<p>But companies and governments have standardized the way in which unique MAC addresses are set. I could, in theory, get into an insecure network and know how many devices are from X or why company. The FCC or some other organization assigns &lsquo;blocks&rsquo; that companies can use in order to set these MAC addresses. I think MAC addresses are used in network routers (e.g. the one your ISP gives you) to keep track of who has this or that IP address.</p>
+
+<p>So as I sad in the beginning of this post, I tried changing my MAC address.
+Because as of now, I could connect to my network and possibly know that this or that device is or this or that brand.
+Which, in my opinion, is creepy as fuck.
+So why not be more privacy minded ? So yeah, I tried changing my MAC address to a random one.</p>
+
+<p>So you run the command. Nothing happens, it says that you should try using the <code>--help</code> flag, so I do. There is a <strong>random</strong> flag, just what I need. I do it. It tells me that I&rsquo;m missing something.
+I read the manpage.
+You have to specify the network adapter.
+So I run <code>ip a</code>.
+my computer is connected through an ethernet cable. I get the adapter name. I put it at the end of my command. Now I get permission denied. Fair enough, just use <code>sudo !!</code>. and it works!
+Now I have another MAC address. But guess what ?</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>The Usual Linux Problems</title>
+		<link>https://trevcan.github.io/common-linux-issues.html</link>
+		<guid>https://trevcan.github.io/common-linux-issues.html</guid>
+		<pubDate>Thu, 19 May 2022 23:14:03 -0500</pubDate>
+		<description><![CDATA[ <p>Most of the time, it boils down to RTFM <a href="#references">[1]</a>!</p>
+
+<p><a href="https://www.linuxquestions.org/questions/linux-newbie-8/su-command-authentication-failure-753154/">https://www.linuxquestions.org/questions/linux-newbie-8/su-command-authentication-failure-753154/</a></p>
+
+<p><a href="https://askubuntu.com/questions/615790/maximum-time-for-which-a-linux-pc-can-be-up#615835">https://askubuntu.com/questions/615790/maximum-time-for-which-a-linux-pc-can-be-up#615835</a></p>
+
+<a name="scripting"></a>
+<h1>scripting</h1>
+
+<a name="what-kinds-of-string-interpolation-does-POSIX-sh-support--3f-"></a>
+<h2>what kinds of string interpolation does POSIX sh support ?</h2>
+
+<p><strong>By Gilles &lsquo;SO-stop being evil&rsquo;</strong>: source and license: <a href="#references">[0]</a></p>
+
+<p><code>--BEGIN--TEXT</code></p>
+
+<p><code>"${blah}"</code> and <code>"$blah"</code> are portable shell syntax: they work on all POSIX-compliant shells as well as in traditional Bourne shells. POSIX also requires other features of variable expansion:</p>
+
+<ul>
+<li>String manipulation with <code>${VAR#PREFIX}</code>, <code>${VAR##PREFIX}</code>, <code>${VAR%SUFFIX}</code> and <code>${VAR%%SUFFIX}</code>.</li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Interesting readings from the Internet</title>
+		<link>https://trevcan.github.io/nice-reads.html</link>
+		<guid>https://trevcan.github.io/nice-reads.html</guid>
+		<pubDate>Mon, 16 May 2022 22:35:35 -0500</pubDate>
+		<description><![CDATA[ <ul>
+<li><p>A take on George Hotz and his journey on making something useful.</p>
+
+<ul>
+<li>link: <a href="https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/">https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/</a></li>
+<li>yes, the article has different names but it&rsquo;s the same.</li>
+</ul>
+</li>
+<li><p>The Very Weird Hewlett Packard FreeDOS Option</p>
+
+<ul>
+<li><a href="https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/">https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/</a></li>
+</ul>
+</li>
+</ul>
+
+
+<a name="software"></a>
+<h1>software</h1>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Something I did not write.</title>
+		<link>https://trevcan.github.io/writing-not-me-films.html</link>
+		<guid>https://trevcan.github.io/writing-not-me-films.html</guid>
+		<pubDate>Mon, 16 May 2022 22:35:04 -0500</pubDate>
+		<description><![CDATA[ <p>Read this article:
+<a href="https://www.sabzian.be/article/hossein-sabzian">https://www.sabzian.be/article/hossein-sabzian</a></p>
+
+<p>More than film, it talks about obsession, relationships,
+and in a way, recognized
+dependency.</p>
+
+<i> Tags: <b> ext </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Creo que extraño mi computadora</title>
+		<link>https://trevcan.github.io/miss-computer-among-autres.html</link>
+		<guid>https://trevcan.github.io/miss-computer-among-autres.html</guid>
+		<pubDate>Sat, 14 May 2022 22:52:15 -0500</pubDate>
+		<description><![CDATA[ <p>Why am I writing the title in Spanish ? Hmmm, I don&rsquo;t know.</p>
+
+<p>Bueno, continuemos.</p>
+
+<p>Aburrimiento. Algo que nos puede
+pasar a todos. El estar solo, aislado nos puede provocar cosas raras en la cabeza.</p>
+
+<p>¿ qué hacer ? qué somos ? el
+ser intelectuales nos hace mejores personas ? para qué vivimos ?
+a este punto sólo estoy diciendo mamada y media. Realmente no
+he subido un artículo para mi blog
+en un buen rato&hellip;.</p>
+
+<p>Debería de leer un libro.</p>
+
+<p>Pero por qué me avergonzaría leer
+un libro que me ayudará a ser un mejor adolescente en frente de familiares no muy cercanos ?</p>
+
+<p>Bueno, principalmente porque eso los considero <em>familiares no muy cercanos</em>. Y puede que surjan preguntas de todo tipo, cómo por
+qué compré el libro en primera instancia, por qué lo estoy leyendo, por qué no estabas en la fiesta, por qué eres raro ?</p>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>the woke tech culture has spoken</title>
+		<link>https://trevcan.github.io/why-git.html</link>
+		<guid>https://trevcan.github.io/why-git.html</guid>
+		<pubDate>Sun, 08 May 2022 13:07:05 -0500</pubDate>
+		<description><![CDATA[ <p>Read this story: <a href="https://news.ycombinator.com/item?id=31009675">https://news.ycombinator.com/item?id=31009675</a></p>
+
+<p><a href="https://github.blog/2022-04-12-git-security-vulnerability-announced/">https://github.blog/2022-04-12-git-security-vulnerability-announced/</a></p>
+
+<p>Okay, fine. The DLL injection
+on the windows 10 uninstaller
+is a fair vulnerability.</p>
+
+<p>But what the hell happened to &lsquo;I own my machine&rsquo;. I can take pride
+in fucking up and accepting my own decisions !?!?</p>
+
+<p>where&rsquo;s the unix philosophy at ?</p>
+
+<p>since when do I have to own a git repo to look at it? Wasn&rsquo;t this <strong>the</strong>
+decentralized control versioning system created by Linus Torvalds?
+The one that he kinda made in about 2 weeks but has been the top CVS for what ?, more
+than 12 years now ?</p>
+
+<p>I mean, this is an absurd decision.
+Hundreds of CI/CD (Continuous integration / Continuous delivery ).</p>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Untitled Universtiy Useful Links</title>
+		<link>https://trevcan.github.io/uu.watchlater.html</link>
+		<guid>https://trevcan.github.io/uu.watchlater.html</guid>
+		<pubDate>Fri, 06 May 2022 12:45:33 -0500</pubDate>
+		<description><![CDATA[ <a name="edu-course"></a>
+<h1>edu course</h1>
+
+<ul>
+<li>CS50 Library for C- CS50 Docs:
+
+<ul>
+<li><a href="https://cs50.readthedocs.io/libraries/cs50/c/">https://cs50.readthedocs.io/libraries/cs50/c/</a></li>
+</ul>
+</li>
+</ul>
+
+
+<a name="later"></a>
+<h1>later</h1>
+
+<ul>
+<li>biotech for the curious:
+
+<ul>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Information Flow</title>
+		<link>https://trevcan.github.io/a-lot-of-information.html</link>
+		<guid>https://trevcan.github.io/a-lot-of-information.html</guid>
+		<pubDate>Tue, 03 May 2022 21:09:31 -0500</pubDate>
+		<description><![CDATA[ <p>Oh my God ! It&rsquo;s my last day of school ! Well, I still
+have another day tomorrow but we&rsquo;re practically doing nothing!
+I still have like 3 final exams that I&rsquo;ll be doing this Friday
+or the next week.</p>
+
+<p>But whateveeeer ! Today I&rsquo;ve given myself the day.
+I had a &lsquo;fiesta de cereal&rsquo; (yes, a cereal party) !
+Everyone just brought a ton of sugary cereals, milk, almond milk,
+other kinds of liquids that are called milk but I don&rsquo;t think
+are actually milk, toppings, spoons, bowls, and glasses for drinking
+and apparently serving the cereal !?</p>
+
+<p>But it didn&rsquo;t really feel that good. I feel kinda bad because I
+was supposed to bring cereal and other stuff but I did not.</p>
+
+<p>But now I feel bored. Yet with self-guilt, because I am not doing
+what I am supposed to. I have some not-yet-done calculus assignments
+that are not difficult, yet too easy. And that doesn&rsquo;t motivate me
+to keep on going. I&rsquo;ve probably already passed the subject, and now
+I just need to take the final exam and if I want finish those
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Getting access to public wifi internet on Linux</title>
+		<link>https://trevcan.github.io/sign-in-public-wifi.html</link>
+		<guid>https://trevcan.github.io/sign-in-public-wifi.html</guid>
+		<pubDate>Mon, 02 May 2022 20:53:00 -0500</pubDate>
+		<description><![CDATA[ <p>Okay, so you&rsquo;re at a mall or something, there&rsquo;s public
+<em>WiFi</em>. Cool. And you can access the internet with your
+phone. But you open your Linux computer and connect
+to the network, yet nothing happens ! I&rsquo;ll show you
+how to fix this.</p>
+
+<p>Most public wifi networks use what is known as a
+<strong><em>Captive Portal</em></strong>. It is merely a login page used
+to authenticate control over Wi-Fi hotspots (Nyman, 2013).</p>
+
+<a name="tdlr"></a>
+<h1>tdlr</h1>
+
+<p>just go to <a href="http://192.168.1.1">http://192.168.1.1</a> on a web browser.
+It should redirect
+you to the login page.</p>
+
+<a name="tldr-2"></a>
+<h1>tldr 2</h1>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>make Cheese Garlic Bread</title>
+		<link>https://trevcan.github.io/cheese-garlic-bread.html</link>
+		<guid>https://trevcan.github.io/cheese-garlic-bread.html</guid>
+		<pubDate>Sun, 01 May 2022 14:15:28 -0500</pubDate>
+		<description><![CDATA[ <p><em><strong>Note: This is a verbatim copy off the recipe found in the description off <a href="https://youtu.be/J6ujTlepWo0">this video.</a></strong></em></p>
+
+<p>Cheese Garlic Bread</p>
+
+<p>*** Please note that I have written down the expected questions as TIP.</p>
+
+<p>You make your own fluffy bread, and the bread you eat when it&rsquo;s warm is really delicious.
+The combination of the subtle garlic scent and the ever-stretching mochi cheese is the best.
+It&rsquo;s not difficult to knead so let&rsquo;s make it together~</p>
+
+<p>*** Weighing is scale (g), rice spoon (tbsp), teaspoon (tsp) weighing.</p>
+
+<p>[Diameter 22cm]
+✤ Ingredients for dough
+  -200g Bread flour
+  -1 Egg (can be omitted/replaced with milk)
+  -20g Sugar (2tbsp)
+  -4g Instant yeast (1tsp)
+  -3g Salt (1tsp flat)
+  -80ml Warm milk
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Going back in time and reading some of Zuckerberg's blog posts.</title>
+		<link>https://trevcan.github.io/back-in-time-xucc.html</link>
+		<guid>https://trevcan.github.io/back-in-time-xucc.html</guid>
+		<pubDate>Sun, 01 May 2022 14:15:16 -0500</pubDate>
+		<description><![CDATA[ <p>Yes, the Mark Zuckerberg!</p>
+
+<p>More like&hellip; only one, unfortunately.</p>
+
+<p>I&rsquo;ll make some commentary at the end.</p>
+
+<p>I got it from <a href="#references">[0]</a></p>
+
+<p>Here&rsquo;s the text:</p>
+
+<p><strong>&mdash;-BEGIN TEXT&mdash;-</strong></p>
+
+<p>10.28.03</p>
+
+<p>8:13pm. I need to think of something to occupy my mind. Easy enough
+now I just need an idea…</p>
+
+<p>9:48pm. I’m a little intoxicated, not gonna lie. So what if it’s not even 10pm and it’s a Tuesday night? What? The Kirkland facebook is open on my computer desktop and some of these people have pretty horrendous facebook pics.
+I almost want to put some of these faces next to pictures of farm animals and have people vote on which is more attractive. It’s not such a great idea and probably not even funny, but Billy comes up with the idea of comparing two people from the facebook, and only sometimes putting a farm animal in there. Good call Mr. Olson! I think he’s onto something.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>I drank coffee</title>
+		<link>https://trevcan.github.io/on-norm.drugs.html</link>
+		<guid>https://trevcan.github.io/on-norm.drugs.html</guid>
+		<pubDate>Sun, 01 May 2022 00:45:37 -0500</pubDate>
+		<description><![CDATA[ <p>Maybe this is placebo but point is I kind of am a distracted person
+and feel like my heart is pounding relatively fast.</p>
+
+<p>Yet today I decided to drink at seven in the <code>p.m.</code> one and a half
+cups of american medium-roasted coffee from <em>Garat</em>. and i ate
+it with some cookies. maybe too many cookies. Then I started
+using my phone like a crazy person and started sending a shit-ton
+of links to a friend. Maybe I went overboard with the links.</p>
+
+<p>And the coffee kinda made me happy. I&rsquo;ve never felt this alive before.</p>
+
+<p>Like ideas just flow into my head and I execute them. Or maybe I&rsquo;m just
+being very reactive to my vices. Since, yes, being on instagram for like
+five hours straight is not healthy. Also, I got on a call with another
+friend and helped him out on a school project which I hadn&rsquo;t even started
+at the time,
+then got him to let me join his team. The code was
+almost kind of done, and he made most of it. I feel bad for that. Kinda.</p>
+
+<p>I don&rsquo;t know. But maybe without me he wouldn&rsquo;t have gotten the last
+]]>
+		</description>
+		</item>
+		<item>
+		<title>The feeling of Uselessness</title>
+		<link>https://trevcan.github.io/the-feeling-of-uselessness.html</link>
+		<guid>https://trevcan.github.io/the-feeling-of-uselessness.html</guid>
+		<pubDate>Fri, 29 Apr 2022 12:43:13 -0500</pubDate>
+		<description><![CDATA[ <a name="i-feel-useless"></a>
+<h1>i feel useless</h1>
+
+<p>yes, indeed I do.
+Even though I can provide ideas, experiencie and opinions within
+my area of expertise,
+I do not fill fulfilled.</p>
+
+<p>I feel <strong>not useful</strong>. I am
+trying to teach someone something
+but they really don&rsquo;t get it!
+They barely get it at all!
+You are a good person, kinda trying
+to understand but you&rsquo;re not at all putting in the effort.
+I explain, you look at me in deception and
+I try to explain but you barely make
+any questions.</p>
+
+<p>I had already teached you some
+of this which means that you
+]]>
+		</description>
+		</item>
+		<item>
+		<title>A top-tier prank to Elijah Woods</title>
+		<link>https://trevcan.github.io/top-tier-prank-elijah.html</link>
+		<guid>https://trevcan.github.io/top-tier-prank-elijah.html</guid>
+		<pubDate>Fri, 29 Apr 2022 12:13:15 -0500</pubDate>
+		<description><![CDATA[ <p><a href="https://youtu.be/IfhMILe8C84">https://youtu.be/IfhMILe8C84</a></p>
+
+<p>Just watch it. It&rsquo;s the kind
+of humor that is indeed humorous.</p>
+
+<i> Tags: <b> funny </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>A relatable song.</title>
+		<link>https://trevcan.github.io/nouveau-song-thirsty.html</link>
+		<guid>https://trevcan.github.io/nouveau-song-thirsty.html</guid>
+		<pubDate>Sun, 24 Apr 2022 13:46:14 -0500</pubDate>
+		<description><![CDATA[ <p>A very relatable song. Just listen to the
+crisp lyrics:</p>
+
+<p><a href="https://youtu.be/g5W7Dg_Lof4">Waste my Time - Crystal Casino Band</a> (youtube)</p>
+
+<p>Oddly enough, this song appeared as an <em>advert</em> in an instagram story. I was just bored at a party after a while and I started using my phone and then lo and behold some radio frequencies that we humans interpret as sound and my brain - me - has appreciated it.</p>
+
+<p>I&rsquo;ve just never found such a relatable song as of now. Is this happiness ? Does it transfer sadness? Not sure, yet.</p>
+
+<i> Tags: <b> musique </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Listing Installed Fonts on *NIX systems</title>
+		<link>https://trevcan.github.io/list-linux-fonts.html</link>
+		<guid>https://trevcan.github.io/list-linux-fonts.html</guid>
+		<pubDate>Fri, 22 Apr 2022 21:29:15 -0500</pubDate>
+		<description><![CDATA[ <p>weird, right !?</p>
+
+<p>There&rsquo;s the <code>fc-list</code> command.
+This binary is installed with the <code>fontconfig</code> package on Arch Linux.</p>
+
+<p>But if you don&rsquo;t want to install <code>1.1 MB</code> of not-so-useful
+stuff, you can list your installed fonts by going to this directory:</p>
+
+<p><code>/usr/share/fonts</code></p>
+
+<p>then you can run something like <code>tree</code>. There will be several folders and
+a ton of <code>.ttf</code> files.
+my dir listing looks like this:</p>
+
+<p><pre><code>&gt; ls /usr/share/fonts
+adobe-source-code-pro  gnu-free           liberation  old            ttf-linux-libertine
+cantarell              gsfonts            misc        TTF            xscreensaver
+encodings              kanjistrokeorders  noto        ttf-jetbrains
+
+</code></pre>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Hello, world!</title>
+		<link>https://trevcan.github.io/hello-manav-and-dagsen.html</link>
+		<guid>https://trevcan.github.io/hello-manav-and-dagsen.html</guid>
+		<pubDate>Fri, 22 Apr 2022 11:47:40 -0500</pubDate>
+		<description><![CDATA[ <p>Hello. This is trevor writing.</p>
+
+<i> Tags: <b> random testing </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Le Revue dans ma classe de français</title>
+		<link>https://trevcan.github.io/mon-french-revue.html</link>
+		<guid>https://trevcan.github.io/mon-french-revue.html</guid>
+		<pubDate>Thu, 21 Apr 2022 21:59:40 -0500</pubDate>
+		<description><![CDATA[ <p>Donc aujourd'hui ma professeur de français a voulé de faire
+un revue de toute les conjugaison en français.</p>
+
+<a name="pass-c3--a9--compos-c3--a9-"></a>
+<h1>passé composé</h1>
+
+<p>Donc on a commencé par le passé composé: très simple. C'est
+seulement la formule:</p>
+
+<p><pre><code>passé composé = auxiliare + participe passé
+</code></pre>
+où <code>l'auxiliaire</code> est <em>être</em> ou <em>faire</em>. Le verbes qui doivent
+être conjugés avec <code>être</code> sont tous les verbes pronominaux et
+les verbes de &lsquo;mouvement&rsquo; ( avec la maison etc&hellip;)</p>
+
+<a name="imparfait"></a>
+<h1>imparfait</h1>
+
+<p>c'est pour décrire des habitudes</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>This is my terminal.</title>
+		<link>https://trevcan.github.io/my-terminal.n.html</link>
+		<guid>https://trevcan.github.io/my-terminal.n.html</guid>
+		<pubDate>Thu, 21 Apr 2022 21:24:44 -0500</pubDate>
+		<description><![CDATA[ 
+
+<p>
+<iframe src=terminal.html width=800px height=600px >
+</iframe>
+</p>
+
+
+<p>I will - at least for now - not tell you the specifications, but what
+can be seen closest from the eye.</p>
+
+<p>First, a quote from Mahatma Gandhi, whom I barely know. I only know
+that he has been one of the most important human rights activists around
+the world, or at least that has been portrayed by the Western Media. I
+know he is from India and was part of several peaceful protests to
+liberate the country from Britain.</p>
+
+<p>The quote is short, yet simple.</p>
+
+<blockquote><p>Whatever you do will be insignificant, but it is very<br>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>A funny short film.</title>
+		<link>https://trevcan.github.io/one-funny-short-film.html</link>
+		<guid>https://trevcan.github.io/one-funny-short-film.html</guid>
+		<pubDate>Thu, 21 Apr 2022 20:37:21 -0500</pubDate>
+		<description><![CDATA[ <p>what the film <code>NUMBER 2</code> here:
+<a href="https://youtu.be/hZFm6bIqeh8">https://youtu.be/hZFm6bIqeh8</a></p>
+
+<p><details>
+    <summary>
+    <em>Click here to view my review. With spoilers of course.</em>
+    </summary></p>
+
+<p>The film tests the boundaries at which we will conserve
+and preserve and save <em>intimacy</em>. And <em>embarassment</em>. I guess
+Danish women aren&rsquo;t expected to fart randomly at a supermarket or
+in front of a male friend, are they ? Pretty embarassing if you
+ask me. I don&rsquo;t understand why she didn&rsquo;t go to the store bathroom;
+maybe there wasn&rsquo;t one&hellip;</p>
+
+<p>Of course, we shall discuss other things. Like the fact that she
+didn&rsquo;t want to tell her friend that she was actually busy and
+instead held a relatively long conversation with her friend.</p>
+
+<p>I guess boundaries go a long way. Just as she did not have the trust
+]]>
+		</description>
+		</item>
+		<item>
+		<title>On Top of the World, You Are Not - Nor Am I.</title>
+		<link>https://trevcan.github.io/the-thoushallnot.html</link>
+		<guid>https://trevcan.github.io/the-thoushallnot.html</guid>
+		<pubDate>Wed, 20 Apr 2022 18:32:57 -0500</pubDate>
+		<description><![CDATA[ <p>Yes. And there was light, after darkness.
+And there was darkness after the light;
+yet no one in the whisper town seemed to know for sure when they were.</p>
+
+<p>Today&hellip; was a weird day!?</p>
+
+<p>Yes, believe me mate.
+Morning, as usual.<br>
+I woke up late, I was not due early; my sister had to be on campus
+until eleven in the morning. So I was going with my mum. *sigh*.</p>
+
+<p>Yep. But I hadn&rsquo;t showered the day before, nor the day before that.
+So it was time, I had to do something, make something in order
+to make myself not feel so bad for not showering enough.</p>
+
+<p>So you know what I did ? No ? Yes ? Well, I showered. And I sure fucking did.
+Boiling hot water. Soap. Shampoo. Cold. Morning. Not-that-late. Water.
+Sink. I showered.</p>
+
+<p>I started rinsing my whole body with this prestigious liquid that supposedly
+]]>
+		</description>
+		</item>
+		<item>
+		<title>The Tiny Quake</title>
+		<link>https://trevcan.github.io/the-tiny-quake-19-april-22.html</link>
+		<guid>https://trevcan.github.io/the-tiny-quake-19-april-22.html</guid>
+		<pubDate>Tue, 19 Apr 2022 08:00:57 -0500</pubDate>
+		<description><![CDATA[ <p><audio controls>
+    <source src="https://files.thetrevor.tech/musike/real/songs/playlists/80s_90s_2000_heavy-metal.songs.playlist/AC_DC%20-%20You%20Shook%20Me%20All%20Night%20Long%20(Official%20Video)%20%5BLo2qQmj0_h4%5D.aac" type=audio/aac >
+</audio></p>
+
+<p><em>You shook me all night long.</em> <strong>AC / DC</strong></p>
+
+<p>For those who were not in Mexico at the time, apparently the Earth trembled.
+It shook.</p>
+
+<p>The epicenter seemed to originate from Zihuatanejo, Guerrero. I hope
+everyone is fine. I definitely felt it here in Toluca, several hundred
+kilometers away.</p>
+
+<i> Tags: <b> now </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Weirdness of entropy or the Absurdity of Entropy.</title>
+		<link>https://trevcan.github.io/the-absurdity-entropy.html</link>
+		<guid>https://trevcan.github.io/the-absurdity-entropy.html</guid>
+		<pubDate>Mon, 18 Apr 2022 09:39:24 -0500</pubDate>
+		<description><![CDATA[ <p>note: my friend Gaby thinks that I did not touch entropy enough. Fair enough, <em>I don&rsquo;t really dive into the definition or the concept.</em></p>
+
+<p>Okay, so I just got back from Veracruz. As usual, I am procrastinating
+and not doing my calculus assignment; instead, I&rsquo;ll tell you about
+a story about entropy, destiny, and I do not know what else.</p>
+
+<p>Okay, so I was in Veracruz, up until Saturday. On Saturday I went away
+- with my family - to Tlaxcala, about halfway to where I live.
+On Sunday we continued
+the route and got to my house. Then we unpacked, my parents told me
+to actually get all my stuff up to my room so that they wouldn&rsquo;t take up
+that much space in the house. Then we rested for a little bit and
+went away to eat, since there wasn&rsquo;t much food in the house. We had
+been away for about a week.</p>
+
+<p>Then, while we were in the car, I realized
+I was <strong>not</strong> wearing my seatbelt. Weird thing was that this SUV always
+beeps with a very fucking high pitch when someone does not have their seatbelt
+on.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Writing math in raw utf-8</title>
+		<link>https://trevcan.github.io/writing-math.html</link>
+		<guid>https://trevcan.github.io/writing-math.html</guid>
+		<pubDate>Sun, 17 Apr 2022 00:33:01 -0500</pubDate>
+		<description><![CDATA[ <a name="on-web-browsers-and-GUI-apps"></a>
+<h1>on web browsers and GUI apps</h1>
+
+<p>So apparently linux lets you use the keybinding <code>Ctrl+Shift+U</code> to
+insert utf-8 characters, literally any utf-8 character. This is in
+a non-terminal application such as libreOffice, Chromium, Firefox, etc.</p>
+
+<p>Why does this work ? No idea. Don&rsquo;t know if this comes directly
+from the kernel - or X11 / xorg -  but yeah, it works and I can type stuff
+like:</p>
+
+<p>1 + 1 = √2</p>
+
+<p>yes, that&rsquo;s a square root symbol in raw unicode ! without using
+microsoft word with a laggy interface or whatever.</p>
+
+<a name="utf-2d-8-symbols-on-vim"></a>
+<h1>utf-8 symbols on vim</h1>
+
+<p>On your terminal, it&rsquo;s quite hard to type them. the only reasonable
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Site updates</title>
+		<link>https://trevcan.github.io/site-updates.html</link>
+		<guid>https://trevcan.github.io/site-updates.html</guid>
+		<pubDate>Sat, 16 Apr 2022 23:42:01 -0500</pubDate>
+		<description><![CDATA[ <p>so we now have a new domain !</p>
+
+<p>unless you read the mediagoblin post, read this !</p>
+
+<p>visit me now @ <a href="https://blog.thetrevor.tech">blog.thetrevor.tech</a>
+to see my blog ! instead of the long kinda fishy domain <code>duckdns.org</code>.
+Although it was a great start I now use <code>thetrevor.tech</code>.</p>
+
+<p>I acquired it for a time of one year - for free btw. And the whole
+domain is mine !</p>
+
+<p>so yeah, I could write <code>thetrevor.thetrevor.tech</code> or literally
+<code>mydomainforoneyear.thetrevor.tech</code> point is, I can now share
+my site just as <code>thetrevor.tech</code> and they&rsquo;ll see the main page of
+my site.</p>
+
+<p>same as <a href="https://trevcan.duckdns.org/">https://trevcan.duckdns.org/</a></p>
+
+<p>so yeah.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>I talked to a human.</title>
+		<link>https://trevcan.github.io/talked.today.april.11.html</link>
+		<guid>https://trevcan.github.io/talked.today.april.11.html</guid>
+		<pubDate>Mon, 11 Apr 2022 11:24:01 -0500</pubDate>
+		<description><![CDATA[ <p>Nothing new, I guess.</p>
+
+<p>Why am I making this blog post ? Well, I&rsquo;m dumb.
+No, I&rsquo;m not dumb. I&rsquo;m just trying to have an inner
+conversation and some kind of introspection to understand
+what is going on, man!</p>
+
+<p>Why am I like this ??</p>
+
+<p>Why do I self-sabotage ( is it with j or g ? oh yeah in
+english it&rsquo;s definitely with <code>g</code>, right ? )  ??? !!!</p>
+
+<p>Don&rsquo;t self-sabotage Hector!</p>
+
+<p>You promised Tim that you&rsquo;d be good enough and work
+on time. He has been nothing less than tolerant with you !
+And that&rsquo;s a good thing. Seems like a nice guy.</p>
+
+<p>Honestly, some people warned me that it could be a scam and
+that I&rsquo;d be tutoring for free whilst he&rsquo;d be selling ads on
+]]>
+		</description>
+		</item>
+		<item>
+		<title>MediaGoblin won't work.</title>
+		<link>https://trevcan.github.io/whyy-dont-you-work-mediagoblin.html</link>
+		<guid>https://trevcan.github.io/whyy-dont-you-work-mediagoblin.html</guid>
+		<pubDate>Mon, 11 Apr 2022 01:46:04 -0500</pubDate>
+		<description><![CDATA[ <p>Hello. I have recently acquired a domain for some time, called
+&lsquo;thetrevor.tech&rsquo; and you may not visit my site using that
+domain name.</p>
+
+<p>e.g. <a href="https://blog.thetrevor.tech">https://blog.thetrevor.tech</a>. Yes, I kinda own the whole domain!
+I now have a revamped git repo at <a href="https://git.thetrevor.tech">https://git.thetrevor.tech</a> !</p>
+
+<p>Anyways, I&rsquo;m getting very off-topic. For some time now I&rsquo;ve been
+wanting to have a video streaming platform that allows you to
+view videos from my server, without youtube or vimeo or peertube
+or whatever. I found about peertube through Luke Smith&rsquo;s instance
+in which he hosts some exclusive &ndash; yet still free - content.</p>
+
+<p>Which sometimes forced me to instead go to that site instead of youtube
+since sometimes he just won&rsquo;t altogether post any new videos on youtube
+but will on peertube.</p>
+
+<p>I also knew about odysee through Mental Outlaw. Not that mental outlaw
+is bad or anything, but I don&rsquo;t like that much the decentralized
+platform that consumes a ton of resources on your <strong>client</strong> web
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Resizing images on Linux while keeping aspect ratio.</title>
+		<link>https://trevcan.github.io/resize-image-on-linux.html</link>
+		<guid>https://trevcan.github.io/resize-image-on-linux.html</guid>
+		<pubDate>Mon, 11 Apr 2022 01:43:36 -0500</pubDate>
+		<description><![CDATA[ <p>bored ?, read <a href="#references">[0]</a>.</p>
+
+<a name="tldr"></a>
+<h1>tldr</h1>
+
+<p><code>convert FILE -resize SIZE OUT_FILE</code></p>
+
+<p><code>convert image.jpeg -resize 300x new-image.jpeg</code></p>
+
+<p>( resizes <code>image.jpeg</code> to <code>300x</code> width, scaling height accordingly
+and writing it to <code>new-image.jpeg</code>)</p>
+
+<p>Where <code>FILE</code> is the input image file you&rsquo;d like to resize,
+<code>SIZE</code> is the new size in pixels, e.g. <code>500x</code> will set a
+500x width and scale the height accordingly whilst keeping
+the aspect ratio. And <code>OUT_FILE</code> is the output file. No,
+it won&rsquo;t modify the original file.</p>
+
+<p>That is all. oh, no. Dependencies!!</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Sometimes the truth hurts</title>
+		<link>https://trevcan.github.io/right.truth.html</link>
+		<guid>https://trevcan.github.io/right.truth.html</guid>
+		<pubDate>Fri, 08 Apr 2022 14:44:36 -0500</pubDate>
+		<description><![CDATA[ <p>Yes, sometimes the truth hurts.</p>
+
+<p>Especially if you have something to do with it.</p>
+
+<p>Truth is weird. Humans lie. I try not to lie. I try to be
+plainly honest most of the time. I try not to cheat on
+exams. I try not to look at the exam answers even when my
+friends would give them all to me without any academic
+repercussions.</p>
+
+<p>But when the truth affects your past, your situation,
+your view of life. You kinda die inside. You oughtta accept
+that sometimes you just aren&rsquo;t right and maybe you&rsquo;re
+fucking wrong.</p>
+
+<p>I fucked up, I guess. I think that you were definitely right,
+Gaby. No problem. But it is hard accepting the truth.</p>
+
+<p>End.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Programming paradigms recommended by two humans.</title>
+		<link>https://trevcan.github.io/programming-paradigms-geohot.html</link>
+		<guid>https://trevcan.github.io/programming-paradigms-geohot.html</guid>
+		<pubDate>Fri, 08 Apr 2022 13:47:41 -0500</pubDate>
+		<description><![CDATA[ <a name="Programming-paradigms"></a>
+<h2>Programming paradigms</h2>
+
+<ul>
+<li>Haskell</li>
+<li>Coq</li>
+<li>Verilog,</li>
+<li>VHDL</li>
+</ul>
+
+
+<a name="why--3f-"></a>
+<h2>why ?</h2>
+
+<p>why not ? the main reason I put this here is because it was on my phone just taking up space.</p>
+
+<p>I extracted this information from Lex Fridman&rsquo;s Podcast with George Hotz.</p>
+
+<p>(you, from the future: is youtube still a thing ? rn we have two consecutive ads. I hope someone mirrors my blog.)</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Un escrito que me encontré en la web</title>
+		<link>https://trevcan.github.io/frase-shopenjuawer.html</link>
+		<guid>https://trevcan.github.io/frase-shopenjuawer.html</guid>
+		<pubDate>Fri, 08 Apr 2022 13:43:33 -0500</pubDate>
+		<description><![CDATA[ <p>Hola, este es uno de mis primeros posts en español. Este es un texto originalmente publicado en <a href="#referencias">0</a>.</p>
+
+<p>Decía Schopenahuer que una vez quedan resueltas todas las necesidades que la &ldquo;voluntad&rdquo; exige a las personas, a estas no les quedará más en la vida que el sinsentido, el desánimo, el ocio. La necesidad, el deseo de algo, es aquello que dota de propósito, rumbo y significado a nuestras existencias. Por ejemplo, si no sabes qué hacer con tu vida ten hijos y obtén un sentido para tu existencia, uno dado por default biológico.</p>
+
+<p>Al mismo tiempo, filosofías como el budismo enseñan que estos deseos que la &ldquo;voluntad&rdquo; impone, pueden representar la cárcel de nuestras consciencias individuales.</p>
+
+<p>El vagabundo y el despierto tienen algo en común: son seres marginados de los parámetros sociales; el propósito y significado de sus vidas es sobrevivir a la incertidumbre de encarar su propia existencia.</p>
+
+<p>Es una cuestión de perspectivas: afronto el sinsentido de la realidad haciendo conscientes mis deseos animales, o bien, soy feliz con el breve goze que me brinde la satisfacción de mis necesidades y pulsiones, al igual que el traidor en Matrix elige los placeres de un mundo ficticio que despertar en la crudeza de una realidad que no le brinda satisfacciones externas.</p>
+
+<p>Podríamos decir que la sociedad del siglo XXI ha resuelto sus necesidades básicas, al menos en la cultura de occidente, pero tal como indica la piramide de Maslow, hay luego otras necesidades tanto afectivas, de autoestima y autorrealización. ¿Vivimos en una sociedad que nos alienta a realizarnos y encontrarnos a nosotros mismos?</p>
+
+<p>Creamos un mundo que enaltece la competitividad con otros seres humanos, que romantiza la meritocracia, al mismo tiempo la ansiedad y depresión han alcanzado picos tan altos que lo que consideramos una moda en realidad se trata de una epidemia. ¿Coincidencia? No lo creo.</p>
+
+<p> Ya nuestras necesidades de simios salvajes están resueltas al punto que ahora llegamos a buscar la satisfacción del capricho, del simio vanidoso y las necesidades inventadas por el marketing. Ahora afrontamos de cara el vacío, la inseguridad de nuestros egos.
+Ya no hay que salir a cazar ni ir a la guerra, ahora enfrentamos nuestra propia soledad frente a un mundo que no comprendemos, pero al que tratamos de adaptarnos desesperadamente mediante sus estándares de &ldquo;éxito&rdquo;.  Quizá por eso buscamos el mayor número de distracciones posibles, al igual que el citado traidor en Matrix, que le doten un sentido artificial a nuestra existencia: el placer, el aturdimiento de los sentidos.</p>
+
+<p>Y todo este paradigma no es sino un nuevo mercado que explotar: el mercado del aburrimiento, del vacío existencial que busca satisfacerse con un iphone de miles de dólares; la avalancha de series, películas, videojuegos en las que olvidarnos por un día más.</p>
+
+<p>Escrito por: no sé.</p>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Querying Netflix media by genre codes</title>
+		<link>https://trevcan.github.io/le-netflox-genre-codes.html</link>
+		<guid>https://trevcan.github.io/le-netflox-genre-codes.html</guid>
+		<pubDate>Fri, 08 Apr 2022 13:34:48 -0500</pubDate>
+		<description><![CDATA[ <p>Netflix genre codes</p>
+
+<p>The following explanation is in Spanish.
+Should be pretty self explanatory even for non-Spanish speakers.</p>
+
+<p>just replace the code in the urls for the ones you&rsquo;d like to search for.</p>
+
+<p>Van a poner en la barra de búsqueda de su explorador
+https://www.netflix.com/browse/genre/
+Después del “genre/” van a ingresar el código de la categoría que quieren ver, ejemplo:</p>
+
+<p>“Steamy thrillers” o sea misterio cachondo el código es 972 ergo en su barra buscadora van a ingresar:
+https://www.netflix.com/browse/genre/972
+Y ya ahí les va a salir un catálogo que incluye
+-Basic Instinct
+-Addicted
+-Sliver, etc, etc.</p>
+
+<p>Así que, si ustedes ya sabían y es noticia vieja, si ya los vimos, para los demás aquí va la lista de códigos.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Bonsoir</title>
+		<link>https://trevcan.github.io/today.avril.07.2022.html</link>
+		<guid>https://trevcan.github.io/today.avril.07.2022.html</guid>
+		<pubDate>Thu, 07 Apr 2022 23:05:26 -0500</pubDate>
+		<description><![CDATA[ <p>Bonsoir, Elliot. <a href="#references">?</a></p>
+
+<p>Donc, cet article c'est seulement un exercice ou je pratique mon
+français, car je ne le veux pas perdre.</p>
+
+<p>Probablemente ma prof le corrigera.</p>
+
+<p>je ne sais pas qu'est-ce que je voudrais dire.</p>
+
+<p>Je probablement doit dormir. J'éspère terminer cette article
+demain. Au revoir</p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<a name="r-c3--a9-ferences"></a>
+<h1>réferences</h1>
+
+<p>? : c'est une référence à une sérié de télévision appelé
+Mr. Robot. Elle est une très bonne série Americaine, crée
+]]>
+		</description>
+		</item>
+		<item>
+		<title>HTTP Proxy</title>
+		<link>https://trevcan.github.io/http-proxy.html</link>
+		<guid>https://trevcan.github.io/http-proxy.html</guid>
+		<pubDate>Thu, 07 Apr 2022 21:53:42 -0500</pubDate>
+		<description><![CDATA[ <p>I have a problem. I&rsquo;m a linux junkie. I&rsquo;d like to ssh into my
+home-server from any network. This means networks that don&rsquo;t allow
+port 22. My institution&rsquo;s network only allows port 80 and 443 (and
+maybe vpn ports).</p>
+
+<p>So I think what I need is a proxy server. A proxy is what is sounds
+like. It&rsquo;s an intermediary between me and the target server. But
+it can work through http and use other protocols (in theory).</p>
+
+<a name="useful-links"></a>
+<h2>useful links</h2>
+
+<ul>
+<li><a href="http://travisaltman.com/tunneling-http-thru-ssh/">tunneling http thru ssh</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proxy_server">proxy server. <em>wikipedia</em></a></li>
+<li><a href="https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModSockProxy">lighttpd modsock proxy</a></li>
+<li><a href="https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModProxy">docs mod proxy</a></li>
+<li><a href="https://stackoverflow.com/questions/48794514/lighttpd-reverse-proxy#48970712">lighttpd reverse proxy</a>
+
+<ul>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>What are names anyway ?</title>
+		<link>https://trevcan.github.io/names.anyway.html</link>
+		<guid>https://trevcan.github.io/names.anyway.html</guid>
+		<pubDate>Thu, 07 Apr 2022 11:12:02 -0500</pubDate>
+		<description><![CDATA[ <p>just about four minutes ago I stumbled upon a good friend of mine, Nacho. He was with her friend, Betzabé. I couldn&rsquo;t remember the name. Nor did she remember mine. So we did not salute. Then Cindy arrived. I did remember Cindy&rsquo;s name. Then I asked them about where the <em>Auditorium 1</em> was. Apparently I had fucked up. It was in the high school building, not in undergrad. Then I told Betzabe hello, and sincerely said that I couldn&rsquo;t remember her name. &ldquo;Betzabé&rdquo;, she told me. She confessed she didn&rsquo;t remember mine either.</p>
+
+<p>So this story / blog post shall be meant to be used for future reference when trying to remember Betzabè&rsquo;s name. Betzabé. <em>Betzabé</em>. <strong>Betzabé</strong>. <strong><em>Betzabé</em></strong>. Her name is Betzabé. Almost all of the times I&rsquo;ve encountered Nacho I&rsquo;ve also encountered with Betzabé. Weird name. Three syllables. or Betza, maybe ? Nah, I&rsquo;ll confuse her with someone who&rsquo;s actually referred to as Betza. Are you though ? Are you referred to as Betza, Betzabé ?</p>
+
+<p>Who knows, lol. Just a fun story I felt like writing I guess. Back to the
+<code>always-late-cause-we're-inmexico-and-stuff.</code></p>
+
+<p>Bye.</p>
+
+<p>Other names I&rsquo;ve sometimes forgotten:</p>
+
+<ul>
+<li>Victoria</li>
+</ul>
+
+
+<i> Tags: <b> short </b></i>
+</div>
+<footer id=footer >
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Métaphysique </title>
+		<link>https://trevcan.github.io/metaphysique.html</link>
+		<guid>https://trevcan.github.io/metaphysique.html</guid>
+		<pubDate>Wed, 06 Apr 2022 14:53:44 -0500</pubDate>
+		<description><![CDATA[ <p>notes de ma classe de philosophie.</p>
+
+<p>la réalité, la nature et ce que se trouve plus loin des les choses.</p>
+
+<p>La metaphysique ne parle pas de fantomes, spirite, etc.</p>
+
+<p>Elle parle de ce que se trouve plus de notre réalités et pour
+quoi est qu'on pense qu'il est.</p>
+
+<p>Chacun de nos est en changeant vraiment.</p>
+
+<p>Le seule chose permanent est le change.</p>
+
+<p>C'est ça.</p>
+
+<p>Pour quoi est-ce qu'on s'appelle le même après beaucoups des annés ?
+<code>Car il est socialment indagé je pense, ou même si indoctriné, no ?</code></p>
+
+<blockquote><p>La nature humaine est très faible,<br>
+mais elle est un nature qui est consciente,<br>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Git server upgrade!</title>
+		<link>https://trevcan.github.io/git-on-https.html</link>
+		<guid>https://trevcan.github.io/git-on-https.html</guid>
+		<pubDate>Sat, 02 Apr 2022 22:14:30 -0600</pubDate>
+		<description><![CDATA[ <p>So, as of yesterday I was running a git over ssh server.
+Which isn&rsquo;t even a server <em>per se</em>, since it just runs
+software that was already installed on my system. (<code>ssh</code>)</p>
+
+<p>But this approach isn&rsquo;t very useful. It does not allow
+me to update my git repositories (including
+my blog) through restricted networks, such
+as the institution I study at. Port 22 is indeed
+restricted.</p>
+
+<p>So I thought, I&rsquo;ve always seen that https/ssh/zip button
+link thing on github. Why can&rsquo;t I do that ? Isn&rsquo;t https
+like allowed on almost any network ? So I started investigating.</p>
+
+<p>According to the git-scm [0] reference manual, there are other
+ways to host servers. One of them is using a CGI script that
+runs server-side.</p>
+
+<p><code>CGI</code> stands for <em>Common Gateway Interface</em>.
+It&rsquo;s a standard protocol that is
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Actually unmounting and removing power off HDDs</title>
+		<link>https://trevcan.github.io/hdd-real-unmount.html</link>
+		<guid>https://trevcan.github.io/hdd-real-unmount.html</guid>
+		<pubDate>Wed, 30 Mar 2022 18:19:42 -0600</pubDate>
+		<description><![CDATA[ <p>On windows 10, when ejecting a hard disk drive, it will stop
+spinning. That is nice. It, of course, unmounts the partitions
+before.</p>
+
+<p>Linux does not do this automatically, at least not my minimalist
+setup that only uses <code>dmenu</code>,<code>lsblk</code>,<code>mount</code>,<code>umount</code> and a little
+of <code>grep</code>/<code>sed</code>/<code>other text-editing tools</code>.</p>
+
+<p>When unmounting a drive using <code>umount</code> it merely unmounts the disk
+partitions. It DOES NOT manage power, as far as I know.</p>
+
+<p>To remove power from the HDD, I use a tool named <code>hdparm</code>, used to
+set HDD parameters through the shell. The package should
+be installed by default on
+<a href="https://archlinux.org/packages/core/x86_64/hdparm/">archlinux</a>,
+<a href="https://sourceforge.net/projects/hdparm/">this is the project page</a>
+(it has adware).</p>
+
+<p>Anyways, to set the HDD params you need to be root. I don&rsquo;t know how
+to set the permissions so that a normal user can do this, but I&rsquo;m not
+]]>
+		</description>
+		</item>
+		<item>
+		<title>blogging while at physics class</title>
+		<link>https://trevcan.github.io/meta.today.2022.march.28.html</link>
+		<guid>https://trevcan.github.io/meta.today.2022.march.28.html</guid>
+		<pubDate>Wed, 30 Mar 2022 18:06:38 -0600</pubDate>
+		<description><![CDATA[ <p><em>i was not drugged while writing this blog post. maybe drugged with too much feelings</em>
+<em>wait, actually i do think some medicines I took might have altered this.</em>
+<em>whatever, man.</em></p>
+
+<p><em><strong>beware, sensitive topics ahead</strong></em></p>
+
+<p>with <em>Gaby</em> and <em>JP</em>.</p>
+
+<p>Who am I ? Who are you ?</p>
+
+<p>Just write, motherfucker!</p>
+
+<blockquote><p>A ver, voy a regresarme,
+llegamos hasta aqui, sacamos
+el voltaje de esto, va esto,
+y luego esto se rompe y [&hellip;]</p>
+
+<ul>
+<li>Alex Portales</li>
+</ul>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Finding empty directories</title>
+		<link>https://trevcan.github.io/find.dirs.html</link>
+		<guid>https://trevcan.github.io/find.dirs.html</guid>
+		<pubDate>Wed, 30 Mar 2022 17:53:43 -0600</pubDate>
+		<description><![CDATA[ <p>based on this article: <a href="https://www.linuxshelltips.com/find-and-delete-empty-directories-in-linux/">https://www.linuxshelltips.com/find-and-delete-empty-directories-in-linux/</a></p>
+
+<p>Problem is: I have a linux shell script that lets me mount hard drives,
+usb, and other storage devices. But if I have already mounted
+some storage device and it has a lot of folders, my command will
+keep looking for empty folders where other storage devices can
+be mounted. In other words, I have a directory <code>/media/</code> where all
+the folders for external devices are created. I mount my big HDD
+with a ton of folders to - let&rsquo;s say - <code>/media/HDD_0</code>. Now it is
+available and there are thousands upon thousands of files available
+under <code>/media/HDD_0</code>. Now I want to mount <strong>another</strong> device. What
+my script does if find empty folders under <code>/media/</code> but it will
+find it recursively.</p>
+
+<p>So the solution is using the <code>-maxdepth n</code> option for the <code>find</code> command.
+This allows you to set a maximum depth in which to look. Pretty
+self-explanatory, right ? So in other words, if I give <code>find</code> a
+starting point of <code>/media/</code> it won&rsquo;t go more than <code>n</code> folders
+recursively. That&rsquo;s it.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Addicted to Black points</title>
+		<link>https://trevcan.github.io/the.orange.addiction.html</link>
+		<guid>https://trevcan.github.io/the.orange.addiction.html</guid>
+		<pubDate>Wed, 30 Mar 2022 17:45:00 -0600</pubDate>
+		<description><![CDATA[ <p>written on march 29th</p>
+
+<p>I am addicted to <a href="https://news.ycombinator.com">hacker news</a></p>
+
+<p>Or maybe I am just too much of an asshole to want to talk to my friends.</p>
+
+<p>I don&rsquo;t have anything to say. I&rsquo;ve recoursed back into using my phone
+more often, and <em>not</em> leaving it behing. I used to leave it behind
+when going to the bathroom, for a walk or just for anything, actually.</p>
+
+<p>Yet today I was very worried. I really liked someone, I told her that
+I liked her but she was in shock. I didn&rsquo;t see her again until like
+four hours later. I tried to talk to her but I guess she didn&rsquo;t want to.</p>
+
+<p>So yeah, she does not like me. Yes, indeed.</p>
+
+<p>Anyways, that has somewhat something to do with the black points over
+the orange background. Yes, I am referring to hacker news. Specifically,
+the points I have accumulated on my profile [0].</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Nice website</title>
+		<link>https://trevcan.github.io/funny-site-faq.html</link>
+		<guid>https://trevcan.github.io/funny-site-faq.html</guid>
+		<pubDate>Wed, 30 Mar 2022 17:15:15 -0600</pubDate>
+		<description><![CDATA[ <p>After reading one of the top posts on Ask HN this day, I stumbled upon this
+blog search engine, known as <a href="https://blogsurf.io/">blogsurf</a>. It&rsquo;s a blog
+search engine.</p>
+
+<p>Small community. 200 blogs ! oh my god, that&rsquo;s nothing! Anyways, eventually
+I saw one of the top blogs
+and stumbled upon <a href="https://waitbutwhy.com/">waitbutwhy.com</a>.</p>
+
+<p>The articles seem promising, I read a couple but got to the middle of
+each one and then left. Eventually, I clicked on the &lsquo;about&rsquo; page and started
+reading the &lsquo;wait but who&rsquo;. Very meta web-site. This about page acknowledges
+the hurdles of maintaining a website whilst working a (maybe?) full-time job.</p>
+
+<p>3 members apparently. They seem funny.</p>
+
+<p>Some articles that I think seem promising but I actually haven&rsquo;t read:
+- <a href="https://waitbutwhy.com/2014/10/cant-post-on-time.html">why i can&rsquo;t post on time</a>
+- <a href="https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html">religion for the non-religious</a>
+- and of course, the funny faq page: <a href="https://waitbutwhy.com/faq">faq</a></p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Debugging Linux chown operation not permitted</title>
+		<link>https://trevcan.github.io/debug.chown.not.pmed.html</link>
+		<guid>https://trevcan.github.io/debug.chown.not.pmed.html</guid>
+		<pubDate>Sun, 27 Mar 2022 21:02:58 -0600</pubDate>
+		<description><![CDATA[ <p><em>yes, even for root!</em></p>
+
+<p>Main reason this happens is usually the permissions themselves.</p>
+
+<p>If you ain&rsquo;t root you won&rsquo;t be able to change an external hard
+drive mounted <strong>without custom</strong> permissions.</p>
+
+<p><strong>TLDR; become r00t (root) !</strong></p>
+
+<p><strong>TLDR 2; or just RTFM and man tf outta mount!</strong></p>
+
+<p><pre><code>man mount
+</code></pre>
+</p>
+
+<a name="wait-2c--you-didn-27-T-solve-my-PROBLEM-21--21-"></a>
+<h1>wait, you didn&rsquo;T solve my PROBLEM!!</h1>
+
+<p>well, then, you are in some luck. You probably have a file
+system that doesn&rsquo;t allow permissions. These file systems
+]]>
+		</description>
+		</item>
+		<item>
+		<title>tragedy</title>
+		<link>https://trevcan.github.io/ffff.html</link>
+		<guid>https://trevcan.github.io/ffff.html</guid>
+		<pubDate>Sat, 26 Mar 2022 16:38:28 -0600</pubDate>
+		<description><![CDATA[ <p><em>Disclaimer: there&rsquo;s swearing and sensitive topics (including suicide)</em> dont kill yourself</p>
+
+<p>You, Hector from the future. do not die. do not willingly kill yourself. why did you not win ? you asshole, man!</p>
+
+<p>You really fucked up by not uploading those extra bytes of code. didn&rsquo;t ya ? or was it because of the f'ed up corruption.</p>
+
+<p>Point is, <strong>Hector</strong>, if you are ever trying to kikk yourself, do not do it. Don&rsquo;t do it for Alex, Alex, Joe, Amilcar, Astrid, Gaby, or Jenny. <strong>Do it for your fucking self, you asshole.</strong></p>
+
+<p>You are a human being.
+the fact that you are still here says a lot:
+You are more important than someone or something else.
+You are here because you survive.
+You overcome.
+You adapt.</p>
+
+<p>Fuck me, man. Fuck me hard.
+fuck duck. dick duck duck go.
+good thing the IT guys at my school
+blocked my blog, they won&rsquo;t
+be hearing my swearing any time
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Speed running today</title>
+		<link>https://trevcan.github.io/meta.today.html</link>
+		<guid>https://trevcan.github.io/meta.today.html</guid>
+		<pubDate>Tue, 22 Mar 2022 10:32:01 -0600</pubDate>
+		<description><![CDATA[ <p>context: go to end of document.</p>
+
+<p>Hello. I woke up several times and tried to sleep and turned off my shitty alarms.</p>
+
+<p>Eventually, Joe called. I answered. I understood, my voice was clearly fucked up.
+I think I&rsquo;m dehydrated.</p>
+
+<p>Then an alarm started to sound at the same time I was taking the phone call !
+What a silly design choice, Apple ! Then I woke up,
+went to the bathroom, tried not to die.</p>
+
+<p>I then started committing a lot of changes. Then I pushed. And I pushed.</p>
+
+<p>I got 500'ed by github. What a shame. Github is my go-to remote git provider.
+It works over https, aka firewalls don&rsquo;t tell me no. I had some respect for Github.</p>
+
+<p>But I had to push this as fast as I could. So I ssh'ed into my home server,
+then created a bare git repo and pushed to that.</p>
+
+<p>Since my friend is in a proxy plus firewalle&rsquo;d network, he couldn&rsquo;t use his ssh keys
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Dedication is not only admirable, but achievable</title>
+		<link>https://trevcan.github.io/whyamistillhere.html</link>
+		<guid>https://trevcan.github.io/whyamistillhere.html</guid>
+		<pubDate>Mon, 21 Mar 2022 02:44:58 -0600</pubDate>
+		<description><![CDATA[ <p>Yesterday - well, technically the day before yesterday a.k.a. <em>antier</em> in Spanish -
+me and some friends were sharing stories of how we got into Tecbot, the
+robotics team I am a member of. We were
+tired after a long day of working, testing the robot; building stuff; realizing
+that X or Y doesn&rsquo;t work; trying to find x or y thing for this problem; then
+realizing again that it was there the whole time behind some backpacks or whatever.</p>
+
+<p>Anyways, we got to this kid. His name is Velasco. He is in 2nd semester of high
+school. In other words, he&rsquo;s a freshman. He tried to get into tecbot since
+middle school, in 9th grade. People
+referred him to X teacher. Teacher did not respond his emails. None. Nada. none
+at all. Maybe his institutional teacher account had some corporate spam
+email filters so maybe he never actually received it ! So he got tired and
+eventually got into the high school were the robotics team was.</p>
+
+<p>But this was all during the pandemic so he barely got to be in the
+high school buildings.</p>
+
+<p>He tried emailing him again. And again. He seemed busy. He did not respond.
+Yet Santiago figured out the name of the teacher, then ( somehow ) got his
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Lazy man's VPN or <em>Simple VPN through SSH</em></title>
+		<link>https://trevcan.github.io/ssh-vpn.html</link>
+		<guid>https://trevcan.github.io/ssh-vpn.html</guid>
+		<pubDate>Wed, 16 Mar 2022 16:00:48 -0600</pubDate>
+		<description><![CDATA[ <p>It works like a VPN, acts like a VPN, feels like a VPN; but it kinda
+isn&rsquo;t a VPN.</p>
+
+<p>Would you like to access your local network ?</p>
+
+<p>Are you too lazy to set up a real VPN server like me ? Do
+you like security ? Well, now you can use a virtual private
+network through ssh and route all requests from one machine to
+another, using <a href="https://github.com/sshuttle/sshuttle">sshuttle</a>.</p>
+
+<a name="tldr"></a>
+<h1>tldr</h1>
+
+<p>commands:</p>
+
+<p><pre><code>sshuttle -x server.org -r user@server.org 0.0.0.0/0 --dns
+sshuttle -x server.org -r user@server.org addresses/subnet --dns
+</code></pre>
+WHERE:</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>web servers useful links</title>
+		<link>https://trevcan.github.io/webserver.html</link>
+		<guid>https://trevcan.github.io/webserver.html</guid>
+		<pubDate>Wed, 16 Mar 2022 15:56:11 -0600</pubDate>
+		<description><![CDATA[ <p>not a real article, just a list of links.</p>
+
+<p>Might do a writing on this some day.</p>
+
+<p>You can view my simple webserver in C @
+<a href="https://trevcan.duckdns.org/short">https://trevcan.duckdns.org/short</a>
+all requests with at least that are passed from lighttpd to the webserver.</p>
+
+<p>I coded in something to show you the headers your browser is sending:
+<a href="https://trevcan.duckdns.org/short/head">https://trevcan.duckdns.org/short/head</a></p>
+
+<p>maybe I&rsquo;ll post the code.</p>
+
+<ul>
+<li><a href="https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/">TCP Servers. arquitecture in C</a></li>
+<li><p>this is a good starting point i guess ? i don&rsquo;t know I only
+viewed  the diagram.</p></li>
+<li><p>https://hackaday.io/project/20042-micro-http-server-in-c</p></li>
+<li>http://httap.org/</li>
+<li>https://dzone.com/articles/web-server-c</li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Debugging FRC Pneumatics </title>
+		<link>https://trevcan.github.io/tecbot.debugging.pcm.html</link>
+		<guid>https://trevcan.github.io/tecbot.debugging.pcm.html</guid>
+		<pubDate>Wed, 16 Mar 2022 15:54:04 -0600</pubDate>
+		<description><![CDATA[ <p>Shame on me. Shame on my team. I lead the software team @ tecbot. Includes
+programming.</p>
+
+<p>Pneumatics did not work. The compressor would not turn on.</p>
+
+<p>We did not have any good solenoids to test it on.</p>
+
+<p>Guess the culprit. Me, myself, and I.</p>
+
+<p>I never created a solenoid object. If I don&rsquo;t use pneumatics, the
+thread to keep the compressor at the necessary pressure will never start.</p>
+
+<p>AAAHHHHhhhh! shame on me ! shame on wpilib ! how dare you guys code
+that in ?</p>
+
+<i> Tags: <b> tecbot debugging </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Debugging archlinux keyring breaking when updating.</title>
+		<link>https://trevcan.github.io/arch-debug-keys-keyring.html</link>
+		<guid>https://trevcan.github.io/arch-debug-keys-keyring.html</guid>
+		<pubDate>Wed, 16 Mar 2022 15:51:10 -0600</pubDate>
+		<description><![CDATA[ <a name="bug"></a>
+<h1>bug</h1>
+
+<p>you run <code>sudo pacman -Syu</code>, but then you get an error
+<strong>Key is marginal trust or whatever.</strong></p>
+
+<p>solution:</p>
+
+<a name="TLDR:"></a>
+<h1>TLDR:</h1>
+
+<p><pre><code># pacman -Sy archlinux-keyring &amp;&amp; pacman -Su
+</code></pre>
+(assumes root)</p>
+
+<p>See this Arch Post: <a href="https://bbs.archlinux.org/viewtopic.php?id=267364">https://bbs.archlinux.org/viewtopic.php?id=267364</a></p>
+
+<p><code>Key is marginal trust or whatever.</code></p>
+
+<p>Actually, RTFM! (me included lol). It&rsquo;s actually documented in the arch wiki:
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Independence from closed technologies.</title>
+		<link>https://trevcan.github.io/volvo-music.html</link>
+		<guid>https://trevcan.github.io/volvo-music.html</guid>
+		<pubDate>Wed, 16 Mar 2022 15:45:04 -0600</pubDate>
+		<description><![CDATA[ <p>Hello there. I use spotify. My dad pays for it.</p>
+
+<p>It allows me to listen to almost any popular artists and songs, even indie
+creators are there to! I do not use the podcast features.</p>
+
+<p>I doubt that I have found &lsquo;good&rsquo; songs through Spotify ? But I might
+be wrong. My <em>liked songs</em> playlist is like 215 songs long, not bad I guess.</p>
+
+<p>But yeah, a lot of consumption. Remember what happened to spotify like
+less than a week ago ? Well, let me remind you.
+Spotify servers went down for whatever reason.</p>
+
+<p>You open the app, your phone is connected to the internet. You want to
+listen to some <strong>downloaded</strong> songs. The app pings the auth server, doesn&rsquo;t
+respond; logs you out. You are now unable to access any of your spotify music.</p>
+
+<p><strong>YOUR</strong>. Yours? Your music? Really yours ? doesn&rsquo;t sound like it.
+You weren&rsquo;t doing anything wrong. You are a paying customer who gives
+them money on a monthly basis through a platform that allows you to download
+songs and audio. But restricted. You were not pirating anything. Yet you
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Yeeet !</title>
+		<link>https://trevcan.github.io/helloddd.html</link>
+		<guid>https://trevcan.github.io/helloddd.html</guid>
+		<pubDate>Thu, 10 Mar 2022 09:18:26 -0600</pubDate>
+		<description><![CDATA[ <p>Hello, Demian. I hope you are
+doing well. Thanks for complimenting my blog. That is all. good luck on your presentation !</p>
+
+<i> Tags: <b> bizarre </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Jonah Hill.</title>
+		<link>https://trevcan.github.io/jonahhill.html</link>
+		<guid>https://trevcan.github.io/jonahhill.html</guid>
+		<pubDate>Tue, 08 Mar 2022 07:41:35 -0600</pubDate>
+		<description><![CDATA[ <p>this is jonah Hill:</p>
+
+<p><img src="https://thetrevor.tech/files/IMG_5624.JPG" title="Jonah Hill" alt="Picture of Jonah Hill. He is wearing a suit and looking to his right." /></p>
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>En parlant français</title>
+		<link>https://trevcan.github.io/fr.blooaub.html</link>
+		<guid>https://trevcan.github.io/fr.blooaub.html</guid>
+		<pubDate>Mon, 07 Mar 2022 13:43:18 -0600</pubDate>
+		<description><![CDATA[ <p>Bonjour, ç'est seulement un petit blog post
+où j'essaie de parler français et en vérifiant
+que le système autonome fonctionne. Le suivants mots
+montreront un peux de comme fonctionne le système pour
+faire le blog possible.</p>
+
+<p>Je suis un peux ennuyé et enfadé des systèmes,
+articles, blogs qui utilise espàce comme s'il était libre.
+Presque toutes les sites web que je visite son très, très
+<em>bloated</em> ( saturés ) et ils ont beaucoup de choses qui n'aident pas à
+la lecture du site, l'absorption d'information ou la
+transference d'idées.</p>
+
+<p>Je doit faire un travail d'école donc je continuera,
+peut-être que demain.</p>
+
+<p>edité par JPLM (2022-mars-07)</p>
+
+<i> Tags: <b> fr write </b></i>
+</div>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>copy all Pictures/Videos from iOS device to PC</title>
+		<link>https://trevcan.github.io/exporting-media-from-ios-to-pc.html</link>
+		<guid>https://trevcan.github.io/exporting-media-from-ios-to-pc.html</guid>
+		<pubDate>Sun, 06 Mar 2022 01:14:58 -0600</pubDate>
+		<description><![CDATA[ <p>This guide is a tutorial to learn how to import ( and optionally delete) and browse your pictures and videos inside your iOS Device. You only need a working computer, a lightning-to-usb (with data transfer) cable, and an iOS device.</p>
+
+<a name="non-2d-features"></a>
+<h3>non-features</h3>
+
+<ul>
+<li><strong>You do not need another, external iOS Device, you do not need to pay Apple for iCloud, you do not need to download laggy, iTunes windows-and-mac only software.</strong></li>
+</ul>
+
+
+<a name="features"></a>
+<h3>features</h3>
+
+<ul>
+<li>you can browse all pictures and videos saved in your iOS Device</li>
+<li>you can delete any pictures on said iOS Device</li>
+<li>you can copy all the pictures easily.</li>
+<li>you can do this from a Linux / GNU + Linux / *NIX machine.</li>
+</ul>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Chanson: Priorisite-moi</title>
+		<link>https://trevcan.github.io/dite-moi.je.faire.html</link>
+		<guid>https://trevcan.github.io/dite-moi.je.faire.html</guid>
+		<pubDate>Fri, 04 Mar 2022 14:51:16 -0600</pubDate>
+		<description><![CDATA[ <p>Chanson de Pomplamoose.</p>
+
+<p>Voyez la vidéo ici: <a href="https://www.youtube.com/watch?v=JoDjLmFcTCg">https://www.youtube.com/watch?v=JoDjLmFcTCg</a></p>
+
+<p>Cette chanson est grammatiquement correct, mais elle parle
+d'amour et comme la rélation entre une couple peut se
+tuer par des autres factores comme le travail, ses amies
+et en géneral distractions.</p>
+
+<i> Tags: <b> fr musique </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+]]>
+		</description>
+		</item>
+		<item>
+		<title>How to get saved network passwords in Linux (Network Manager)</title>
+		<link>https://trevcan.github.io/linux-find-network-passwds.html</link>
+		<guid>https://trevcan.github.io/linux-find-network-passwds.html</guid>
+		<pubDate>Fri, 04 Mar 2022 12:51:22 -0600</pubDate>
+		<description><![CDATA[ <p>making this because sometimes i don&rsquo;t RTFM.</p>
+
+<p><strong>Assuming you use the Network Manager daemon to manager network connections, follow
+this procedure:</strong></p>
+
+<p>go to this path: as root
+<pre><code>/etc/NetworkManager/system-connections
+</code></pre>
+Then try listing the directory with ls. you should see
+a list of *.nmconnection files.</p>
+
+<p>open the files and there will be the password and auth specific stuff.</p>
+
+<i> Tags: <b> tldr </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>*Curriculum Vitae*</title>
+		<link>https://trevcan.github.io/hireme.cv.html</link>
+		<guid>https://trevcan.github.io/hireme.cv.html</guid>
+		<pubDate>Wed, 02 Mar 2022 11:44:41 -0600</pubDate>
+		<description><![CDATA[ <p><a href="https://cv.thetrevor.tech">https://cv.thetrevor.tech</a></p>
+
+<p><a href="https://trevcan.github.io/cv/">https://trevcan.github.io/cv/</a></p>
+
+<!-- Here it is: -->
+
+
+<p><pre><code>name: Hector Canizales
+place of birth: United States of America
+</code></pre>
+&lt;!&ndash; <a href="#short-version">short version</a></p>
+
+<a name="long-version"></a>
+<h1>long version</h1>
+
+<p>&ndash;></p>
+
+<p><pre><code>--- Soft Skills: ---
+    
+    -   Full honesty.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>My hacker news Who wants to be hired full comment</title>
+		<link>https://trevcan.github.io/hired.hn.html</link>
+		<guid>https://trevcan.github.io/hired.hn.html</guid>
+		<pubDate>Tue, 01 Mar 2022 13:50:50 -0600</pubDate>
+		<description><![CDATA[ <p>here it is:</p>
+
+<p>Hello there. I am a self-taught programmer and have been working with robotics
+for about 4 years, mostly within FRC.
+I am the lead programmer of the software team of my local robotics FRC Team,
+known as tecbot [0].
+I have a blog that I built and self-host with an old computer [1].
+<em>I am looking for an internship</em>.
+I have experience with systems administration of my own website, among some
+services here and there ( e.g. git repo: [2]. <em>I am a high school senior and
+will be starting a CS Engineering degree in the Fall of 2022.</em></p>
+
+<p><pre><code>
+  Location:    Toluca, Mexico.
+  Remote:      Yes
+  Willing to relocate: Yes
+  Technologies: C, Linux, Java, wpilib, webservers, C#, Unity3D, html.
+  Résumé/CV: https://trevcan.duckdns.org/blog/hireme.cv.html
+  Email: heror0484 [at] protonmail [dot] com
+  Github: trevcan https://github.com/trevcan
+]]>
+		</description>
+		</item>
+		<item>
+		<title>robots.txt and a cool HN thread</title>
+		<link>https://trevcan.github.io/robots.html</link>
+		<guid>https://trevcan.github.io/robots.html</guid>
+		<pubDate>Tue, 01 Mar 2022 13:50:50 -0600</pubDate>
+		<description><![CDATA[ <a name="the-hn-thread"></a>
+<h2>the hn thread</h2>
+
+<ul>
+<li>https://news.ycombinator.com/item?id=30299731</li>
+</ul>
+
+
+<a name="cool-urls-i-found-in-comments"></a>
+<h3>cool urls i found in comments</h3>
+
+<ul>
+<li>https://www.nike.com/robots.txt</li>
+<li>https://www.youtube.com/robots.txt</li>
+<li>https://www.cloudflare.com/robots.txt</li>
+<li>https://www.last.fm/robots.txt</li>
+<li>https://www.bloomberg.com/robots.txt</li>
+<li>https://meta.wikimedia.org/robots.txt</li>
+</ul>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>On Feelings</title>
+		<link>https://trevcan.github.io/hello.touch.html</link>
+		<guid>https://trevcan.github.io/hello.touch.html</guid>
+		<pubDate>Sun, 27 Feb 2022 14:32:25 -0600</pubDate>
+		<description><![CDATA[ <a name="On-feelings"></a>
+<h1>On feelings</h1>
+
+<a name="today"></a>
+<h2>today</h2>
+
+<p>Today. I woke up sunday twenty-seventh, twenty twenty-two at about twelve hours and thirteen minutes.</p>
+
+<p>My parents attempted to wake me up earlier but were partially unsuccessful. I dont&rsquo;t remember much about what I was thinking about whilst still in bed. Point is, I woke up. I went to the bathroom. Maybe I peed. I put water on my face and rubbed it in with my fingers, feeling the oil kinda come off and stick to my finger tips. I then washed my hands with my blue soap.</p>
+
+<p>After that I checked my phone. Nothing important. Just messages that are kind of irrelevant to me on a Sunday noon. I then proceedes to go downstairs - to the kitchen. I then though about what to eat. The bread was out, in its plastic bag, beside the fruits. The toaster was not there. I walked into the pantry, not much to eat or at least that I&rsquo;d be interested in eating.</p>
+
+<p>Then I though, why not make some <em>tostadas españolas</em> ? And place a couple of sunny-side-up eggs on top.</p>
+
+<p>tostadas españolas is a Spanish dish that consists mainly of raw garlic, tomatoes, and toasted bread. Like the bread you use for a PJ sandwich. You grind the tomato so you get this partially liquid, partially solid cream. You put in a bowl. I don&rsquo;t filter out the seeds. I get some garlic teeth (not sure how you say it), you peel off the skin, cut each of them in half. Then toast the bread to your liking.
+After the bread is toasted, put on some plated, take the cut side of the garlic and spread it around whilst holding it with your fingers.
+Spread! The heat of the toast makes some of the garlic come off.
+Spread it all around like
+some marmalade / jelly.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Setting up Cloudflare's DNS</title>
+		<link>https://trevcan.github.io/howto.dns.cloudflare.html</link>
+		<guid>https://trevcan.github.io/howto.dns.cloudflare.html</guid>
+		<pubDate>Tue, 15 Feb 2022 22:03:55 -0600</pubDate>
+		<description><![CDATA[ <p>A DNS stands for Domain Name System.
+It is simply a protocol for getting the IP address of any given domain name.</p>
+
+<p>Usually, your Internet Service Provider (aka ISP) will provide you with one which may be a little slow,
+or even may block certain websites.</p>
+
+<p>Below is a guide on how to set your DNS to Cloudflare. Any of these
+configurations can be (in theory) applied to all your network, but if you want there&rsquo;s nothing stopping you from doing this for a single device (just search &ldquo;how to set up DNS [device name])</p>
+
+<p>DNS Cloudflare</p>
+
+<p><a href="https://1.1.1.1">https://1.1.1.1</a></p>
+
+<ol>
+<li>For IPv4, replace the existing addresses with:   - 1.1.1.1   - 1.0.0.1 </li>
+<li>For IPv6, replace the existing addresses with:
+ 2606:4700:4700::1111  2606:4700:4700::1001</li>
+</ol>
+
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Was down for a few minutes, we back1!</title>
+		<link>https://trevcan.github.io/downforamoment.html</link>
+		<guid>https://trevcan.github.io/downforamoment.html</guid>
+		<pubDate>Fri, 11 Feb 2022 11:22:21 -0600</pubDate>
+		<description><![CDATA[ <p>Hello there. https was not working since some certs have expired.
+Just renewed them and site should now just work fine!</p>
+
+<i> Tags: <b> site-update </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>I'm back!</title>
+		<link>https://trevcan.github.io/update.back.html</link>
+		<guid>https://trevcan.github.io/update.back.html</guid>
+		<pubDate>Wed, 09 Feb 2022 22:17:55 -0600</pubDate>
+		<description><![CDATA[ <p>Hello there! Well, I was technically always here
+but guess what? My computer stopped working.</p>
+
+<p>I think I messed up some docker (compose?) configuration
+and it basically adds an IP address to a network
+interface which should be the one for my local area
+network and my computer was probably confused where to route
+incoming packets but I kinda just did a quick fix.</p>
+
+<p>not sure if it&rsquo;ll survive after a reboot, since
+the problem has persisted (as of now) across
+reboots. But yeah we&rsquo;re back.</p>
+
+<a name="tldr"></a>
+<h3>tldr</h3>
+
+<p>RTFM! <a href="https://wiki.archlinux.org/title/Network_configuration#IP_addresses">arch linux wiki with network info.</a></p>
+
+<i> Tags: <b> site-update sysadmin </b></i>
+</div>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Resources for Tecbot</title>
+		<link>https://trevcan.github.io/tecbot.resources-tecbot.html</link>
+		<guid>https://trevcan.github.io/tecbot.resources-tecbot.html</guid>
+		<pubDate>Sat, 15 Jan 2022 22:23:11 -0600</pubDate>
+		<description><![CDATA[ <ul>
+<li><p><a href="https://www.firstinspires.org/robotics/frc/blog/2022-kickoff-so-close">2022 FRC main Resources</a></p></li>
+<li><p><a href="https://docs.limelightvision.io/en/latest/networktables_api.html">Limelight: network tables API</a></p></li>
+<li><a href="https://docs.limelightvision.io/en/latest/cs_aimandrange.html">Limelight: Case Study: Aiming and Range at the same time</a></li>
+</ul>
+
+
+<hr />
+
+<a name="linux"></a>
+<h1>linux</h1>
+
+<ul>
+<li><a href="https://www.chiefdelphi.com/t/driver-station-on-linux/368087/6"><em>chiefdelphi.com</em> driver station on linux</a></li>
+<li><a href="https://github.com/FRC-Utilities/QDriverStation">QDriverStation</a></li>
+<li><a href="https://github.com/Boomaa23/open-ds">OpenDS, this one actually works!!</a></li>
+</ul>
+
+
+<a name="vision"></a>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Adding website stats</title>
+		<link>https://trevcan.github.io/lighttpd-site-stats.html</link>
+		<guid>https://trevcan.github.io/lighttpd-site-stats.html</guid>
+		<pubDate>Sat, 15 Jan 2022 18:08:27 -0600</pubDate>
+		<description><![CDATA[ <p>Maybe use webalizer ?
+But apparently it&rsquo;s quite an old technology so it&rsquo;s not easy to use.
+https://www.cyberciti.biz/tips/lighttpd-install-and-configure-webalizer-statistics-software.html</p>
+
+<a name="solution-21-"></a>
+<h1>solution!</h1>
+
+<p>Don&rsquo;t know how I did find it but it&rsquo;s <a href="https://goaccess.io/">goaccess</a> and it
+generates a nice html with graphs and numbers and works good enough.</p>
+
+<p>You can access the current stats @ https://trevcan.duckdns.org/stats
+and a handful of other sym-linked dirs. Can you find them all?</p>
+
+<p>It can give you the total number of requests among many other things
+including user agents and stuff. just random numbers but real actually.</p>
+
+<p>from people and software interacting with a 2014 hp computer. wow.</p>
+
+<i> Tags: <b> site-update </b></i>
+</div>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Today: working towards an internship ?</title>
+		<link>https://trevcan.github.io/today-2022-jan-15.html</link>
+		<guid>https://trevcan.github.io/today-2022-jan-15.html</guid>
+		<pubDate>Sat, 15 Jan 2022 18:08:27 -0600</pubDate>
+		<description><![CDATA[ <p><strong>this is probably a rant, discretion is advised but not obligatory.</strong></p>
+
+<p>Hello. It&rsquo;s been a while since I wrote something public.</p>
+
+<p>I&rsquo;ve been in school - physically - and haven&rsquo;t got much time to do stuff.
+Actually, that&rsquo;s a lie. I&rsquo;ve been in school but have gotten tons of
+free time. But let&rsquo;s not shame ourselves, right ? I was supposed to
+start blogging just when I turned on my computer today.</p>
+
+<p>But I just spent an hour with bloat on my computer. Opening chrome,
+converting an email to an image but first trying to save it as HTML but turns
+out the HTML is js-filled with shit that doesn&rsquo;t even contain the email,
+then uploading it to my server (<a href="https://trevcan.duckdns.org/files/%3DnTO%2B%27dKwl.png">look, it&rsquo;s live!</a>.</p>
+
+<p>and then thinking that I should set up a website that uses mediagoblin because why tf not?
+Well, because peertube is too fucking hard to set up. But maybe mediagoblin is too.</p>
+
+<p>They got all these ton-shit dependencies. I mean, why the fuck do you need a MySQL-professional
+grade database running on my system for it to work. I&rsquo;ve tried the docker  instances for both
+mediagoblin and peertube but it&rsquo;s just a lot of software stacks!  I mean I&rsquo;d love to have something
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Setting EPSON L575 Printer in linux with CUPS</title>
+		<link>https://trevcan.github.io/setting-up-printer.html</link>
+		<guid>https://trevcan.github.io/setting-up-printer.html</guid>
+		<pubDate>Wed, 15 Dec 2021 23:54:14 -0600</pubDate>
+		<description><![CDATA[ <p>Hey there, here I&rsquo;ll attempt to document the way in which I set up
+printing for my Arch Linux machine, since it&rsquo;s been a hassle being able
+to correctly print.</p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li><a href="https://www.cups.org/doc/admin.html#MODELS"> [0] Printer Drivers and PPDs, Command-Line Printer Administration</a></li>
+<li><a href="https://aur.archlinux.org/packages/epson-inkjet-printer-escpr/"> [1] <em>Arch User Repository:</em> Epson Inkjet Printer Driver (ESC/P-R) for Linux</a></li>
+<li><a href="http://download.ebz.epson.net/dsc/search/01/search/searchModule"> [2] Epson Linux Printer Driver Search </a></li>
+</ul>
+
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Today</title>
+		<link>https://trevcan.github.io/today.december.8.mmxxi.html</link>
+		<guid>https://trevcan.github.io/today.december.8.mmxxi.html</guid>
+		<pubDate>Wed, 08 Dec 2021 02:08:18 -0600</pubDate>
+		<description><![CDATA[ <p>Hello, I am bored. Also, I&rsquo;ve thought of kinda making my own daily blog entries
+so here is one!</p>
+
+<p>Today, well, more like yesterday since it&rsquo;s already midnight. I&rsquo;m actually
+waiting for my other laptop to finish copying a disk partition to another
+disk. I&rsquo;m using the one and only, legendary&hellip; dISk d3stroy3r !!! Yes,
+that&rsquo;s right, I saw that in a Luke Smith Video! the thing is, I was
+setting up the archivebox software which is basically a self-hosted
+archive / wayback machine, pretty self-explanatory. I set it up with docker
+and after a while of restarting it for some weird reason the home directory
+of a new user I&rsquo;ve created was being chmoded by docker or the software
+and idk really know what happened. Eventually, I figured out that for some
+stupid reason I had no disk space left on my home partition. But it only
+marked like 30 gigs used, meaning that for some weird reason I didn&rsquo;t
+extend the partition ? So i got out my trusty red usb with ventoy on it
+(lets you boot multiple OSes easily) and hopped on to gparted. It&rsquo;s
+literally just raw debian ( i think?, i&rsquo;ve never tried it :v )
+with gparted installed. it has an old school GUI like windows xp, has
+work spaces, you can move windows around. a pretty solid desktop
+environment. So, anyways, back to the story. I opened gparted and there
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Project Ideas</title>
+		<link>https://trevcan.github.io/ideas.html</link>
+		<guid>https://trevcan.github.io/ideas.html</guid>
+		<pubDate>Mon, 06 Dec 2021 19:39:10 -0600</pubDate>
+		<description><![CDATA[ <p>this file contains a simple list of project ideas which may include
+software projects with a small aim: providing something that isn&rsquo;t
+currently available.</p>
+
+<p>If the project is in progress, it&rsquo;ll be listed just after it.</p>
+
+<p>If you have any ideas for projects&hellip;</p>
+
+<ul>
+<li>short: short url service with simple GET/POST http requests and
+minimalist web UI.</li>
+<li>clipme: copy of http://0x0.st . simply receive get/post requests and make
+a file publicly available.</li>
+<li>archivemoi: web archiver, just like the web archive wayback machine. maybe
+using pupeteer (python library to use the chromium debugger thingy) to take
+high quality screenshots, make PDFs and archive the hole html thing.</li>
+<li><strong>implement all of the above using something such as fastcgi to serve  with simple web requests or something</strong></li>
+<li>simple rss reader that parses rss/atom files and gives you a summary in html form or
+even ANSI!</li>
+<li>make simple, suckless, maybe in C, clipboard http POST pastebin. (examples: <a href="https://github.com/Willyfrog/pastas">https://github.com/Willyfrog/pastas</a>, <a href="http://0x0.st">http://0x0.st</a>, <a href="http://ix.io">http://ix.io</a>)</li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Geohot Archive Links</title>
+		<link>https://trevcan.github.io/geohot-archive.html</link>
+		<guid>https://trevcan.github.io/geohot-archive.html</guid>
+		<pubDate>Tue, 30 Nov 2021 21:27:56 -0600</pubDate>
+		<description><![CDATA[ <p>Hello, this is just a list of useful links of geohot&rsquo;s hard-to-find (not
+that hard actually) blogs. He actually still blogs but much much less
+since he has a startup to take care of called <a href="http://comma.ai">comma.ai</a>.</p>
+
+<ul>
+<li>Geohot&rsquo;s current blog: <a href="https://geohot.github.io/blog/"><em>geohot.github.io/blog/</em></a></li>
+<li>Jailbreak blog: from 2007 to 2009:
+<a href="https://web.archive.org/web/20090716104350/http://iphonejtag.blogspot.com/"><em>iphonejtag.blogspot.com, archived.</em></a>
+
+<ul>
+<li><a href="https://web.archive.org/web/20080208175647/http://lpahome.com/">lpahome.com</a></li>
+</ul>
+</li>
+<li></li>
+</ul>
+
+
+<p>i should probably go study french or something, shit. My exam is in less
+than 12 hours. ignore this, wait, don&rsquo;t ignore me.</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>adding the fzf plugin to vim</title>
+		<link>https://trevcan.github.io/using-fzf-in-vim.html</link>
+		<guid>https://trevcan.github.io/using-fzf-in-vim.html</guid>
+		<pubDate>Sat, 27 Nov 2021 00:37:01 -0600</pubDate>
+		<description><![CDATA[ <p>hey there! I don&rsquo;t know why this came to me but I guess I&rsquo;ve seen
+several internet videos in which linuxy users are using a nice, fancy
+prompt to search files. Turns out they&rsquo;re using
+<a href="https://github.com/junegunn/fzf/">fzf!</a>
+, a nice tool to easily search for files in the command line. To some
+degree I guess it is like a dmenu prompt but in a command line. So yeah,
+by default it acts like a find any file recursively in the current directory,
+yes, including hidden files; yet still acts like a standard unix command
+that can take input from stdin (standard input) and only show those choices
+and of course, prints to stdout the result.</p>
+
+<p>So one can do something like</p>
+
+<p><pre><code>cat &lt;&lt; EOF | fzf
+one
+two
+three
+four
+john cena
+EOF
+]]>
+		</description>
+		</item>
+		<item>
+		<title>The Myth of Technology</title>
+		<link>https://trevcan.github.io/computers-for-cynics-0.html</link>
+		<guid>https://trevcan.github.io/computers-for-cynics-0.html</guid>
+		<pubDate>Sat, 20 Nov 2021 18:08:12 -0600</pubDate>
+		<description><![CDATA[ <a name="The-Myth-of-Technology:-Computers-for-Cynics-0"></a>
+<h2>The Myth of Technology: Computers for Cynics 0</h2>
+
+<p>a video by Ted Nelson:</p>
+
+<p><a href="https://m.youtube.com/watch?v=KdnGPQaICjk">https://m.youtube.com/watch?v=KdnGPQaICjk</a></p>
+
+<p>I don&rsquo;t remember how i stumbled upon this video. Here are some ideas I wrote down.</p>
+
+<ul>
+<li>junk
+not knowing who to blame.</li>
+</ul>
+
+
+<p>hopes and dreams.</p>
+
+<p>&ldquo;I don&rsquo;t understand technology&rdquo; &ndash;>
+    &ldquo;I don&rsquo;t get the crappy menus&hellip;&rdquo;</p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Rant on \"Writing\"-ish tools</title>
+		<link>https://trevcan.github.io/rant-writing-tools.html</link>
+		<guid>https://trevcan.github.io/rant-writing-tools.html</guid>
+		<pubDate>Thu, 18 Nov 2021 19:30:23 -0600</pubDate>
+		<description><![CDATA[ <p>whoami ? well, honestly, no one to have the authority to say anything relevant
+regarding this issue. I am merely a teenager so please you have all the right
+to ignore this stuff; also, i don&rsquo;t know why i just wrote this paragraph.</p>
+
+<p>Well, let&rsquo;s get to it. Thanks to my respect to myself of privacy and the right
+to actually have an annoying private life and talk to people, browse the
+internets without actually being spied on and be farmed on as a farm animal
+for personal data I have several ads coming up very often. Repeating
+themselves. A lot. Literally, <strong>a lot lot lotlotststs</strong>.</p>
+
+<p>The ad that&rsquo;s annoying me the most is Le <em>Grammarly</em>. You&rsquo;ve probably heard of
+it if you&rsquo;re a student, unfortunately. I don&rsquo;t have any actual grudge against
+spell checkers or whatever but I think taking the things to a much farther
+level is bad. You shouldn&rsquo;t be inferring or passive-aggressively suggesting
+grammar styles to students. They should write like they want, of course
+when turning in an assignment check your spelling and coherence of ideas or
+whatever; but that&rsquo;s it! Literally it! I shouldn&rsquo;t have a little shit software
+tell me that I&rsquo;ve plagiarized something! If I have, I will definitely know
+myself. Okay, maybe if you forget but that&rsquo;s it. Also, I think that these
+kinds of companies that most likely use a shit-load of data-sets to infer
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Working with git hooks.</title>
+		<link>https://trevcan.github.io/git-hooks.html</link>
+		<guid>https://trevcan.github.io/git-hooks.html</guid>
+		<pubDate>Sun, 14 Nov 2021 21:50:43 -0600</pubDate>
+		<description><![CDATA[ <p>edit: see end of post.</p>
+
+<p>Hey there fellow read-capable human! I am here to tell you a story about
+git hooks. Well, first let&rsquo;s talk a little bit about how remote repos work.</p>
+
+<p>From the little knowledge I think I have, a git server can be run through ssh,
+you must create a git user which is in fact the user you login as when pushing
+your git object references. Most of the time, this will happen in a bare git
+repo. That is, a repo which only contains the contents of what you would
+normally expect the
+<pre><code>.git
+</code></pre>
+contents to be. So in fact there&rsquo;s no working directory but only history
+changes with reference objects and stuff. But in fact this is probably wrong,
+as most people most likely use services such as github.com, gitlab.com,
+etcetera. And those websites can show you the files and in fact show you
+the &lsquo;working directory&rsquo; of you repo, and the files themselves. So most git
+servers you interact with are probably not bare since the aforementioned
+services show you the files. So I chose to setup a git server on my home server
+, pretty straight forward. Setup some ssh keys to not be spammed or something.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Un beso en el asfalto. 2017</title>
+		<link>https://trevcan.github.io/un-beso-en-el-asfalto.html</link>
+		<guid>https://trevcan.github.io/un-beso-en-el-asfalto.html</guid>
+		<pubDate>Sun, 14 Nov 2021 21:49:13 -0600</pubDate>
+		<description><![CDATA[ <p>you should watch it.</p>
+
+<p>spoilers ahead if that ain&rsquo;t obvious enough.</p>
+
+<p>Hey there, I just watched the movie <a href="https://www.filmaffinity.com/mx/film644257.html">Un beso en el asfalto (2017) <em>filmaffinity.com</em></a>
+and it was pretty cool. Weirdly enough, I think that it was hilarious that it
+showed surprisingly different perspectives from all angles, even outside the
+context of the movie. Hell, it even showed a threatre reading the script,
+presenting it with props in front of an audience, and when they were recording
+it. It was kinda like Shutter island in the sense that the end is whatever your
+brain&rsquo;s interpretation is. So yeah, maybe I&rsquo;ll update this post idk.</p>
+
+<i> Tags: <b> entertainment movies write </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+]]>
+		</description>
+		</item>
+		<item>
+		<title>trust me bro</title>
+		<link>https://trevcan.github.io/trustme.html</link>
+		<guid>https://trevcan.github.io/trustme.html</guid>
+		<pubDate>Sat, 13 Nov 2021 13:54:08 -0600</pubDate>
+		<description><![CDATA[ <p><a href="https://matias.ma/nsfw/">https://matias.ma/nsfw/</a></p>
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Contacting me</title>
+		<link>https://trevcan.github.io/contact.html</link>
+		<guid>https://trevcan.github.io/contact.html</guid>
+		<pubDate>Thu, 11 Nov 2021 08:10:28 -0600</pubDate>
+		<description><![CDATA[ <ul>
+<li>email: <code>heror 04 84 [at] proton mail {dot} com</code></li>
+<li><p>email: <code>hector [dot] canizales [at] tuta.io</code></p>
+
+<ul>
+<li>gpg/pgp: 112A155C7200EB093E1E0FB0CBF3F8DD3971A362
+
+<ul>
+<li><a href="pubkey">key</a> <a href="http://keyserver2.pgp.com/vkd/SubmitSearch.event?SearchCriteria=hector.canizales%40tuta.io">mirror: <em>keyserver2.pgp.com</em></a>
+<a href="https://keys.openpgp.org/search?q=hector.canizales%40tuta.io">mirror: <em>keys.openpgp.org</em></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<!-- - keybase @trevcan: [link](https://keybase.io/trevcan) -->
+
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>debugging blogit.</title>
+		<link>https://trevcan.github.io/debugging-blogit.html</link>
+		<guid>https://trevcan.github.io/debugging-blogit.html</guid>
+		<pubDate>Wed, 10 Nov 2021 23:30:12 -0600</pubDate>
+		<description><![CDATA[ <p>log:
+~ 6:24 P.M
+git status has one untracked file.
+only one. no changes on tracked files.
+will try to build /deploy the site
+without adding this new blog post.</p>
+
+<a name="test-1"></a>
+<h1>test 1</h1>
+
+<p>$ make main
+a lot of text and shit
+git status now shows indeed more
+untracked files; the new
+blog post, the tags folder, the blog
+folder and the www folder</p>
+
+<hr />
+
+<p>I am now opening the www/index.html file
+]]>
+		</description>
+		</item>
+		<item>
+		<title>How do I fix this blogit?</title>
+		<link>https://trevcan.github.io/why-blogit.html</link>
+		<guid>https://trevcan.github.io/why-blogit.html</guid>
+		<pubDate>Wed, 10 Nov 2021 18:41:11 -0600</pubDate>
+		<description><![CDATA[ <p>hey there, I hope you are having a nice day.
+Today was a much more intersting day than the rest of the week,
+I got to actually deploy my <a href="http://trevcan.duckdns.org/blog">blog mirror</a>
+and it literally looks exactly like on github, exect that mime types
+are not auto-completed like in github, e.g. i can type something like
+<pre><code>http://trevcan.github.io/index
+</code></pre>
+and it will be the same as
+<pre><code>http://trevcan.github.io/index.html
+</code></pre>
+and so on. I guess there&rsquo;s some plugin in <em>nginx</em> that I can use or something.
+Should also add https or something, although since I&rsquo;m not hosting any
+arbitrary code, it is simply rendering html and css (no js folks!) it shouldn&rsquo;t
+be a problem, right?</p>
+
+<hr />
+
+<p>Well, onto another random thing. There&rsquo;s a problem with
+<a href="http://github.com/trevcan/blogit"><em>blogit</em></a>
+(<a href="http://trevcan.duckdns.org/git/blogit/log.html">mirror</a>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Derivatives Stuff Calculus</title>
+		<link>https://trevcan.github.io/notes-calculus.html</link>
+		<guid>https://trevcan.github.io/notes-calculus.html</guid>
+		<pubDate>Wed, 10 Nov 2021 13:19:18 -0600</pubDate>
+		<description><![CDATA[ <p>day: nov 10 2021</p>
+
+<ul>
+<li><p>critical points;</p>
+
+<ul>
+<li>the x-values within the domain of f(x)</li>
+</ul>
+</li>
+<li><p>relative extrema;</p>
+
+<ul>
+<li>local y-values, maximum &amp; min values.</li>
+</ul>
+</li>
+<li><p>absolute extrema;</p>
+
+<ul>
+<li>global largest or smallest</li>
+</ul>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Hacking with The Blue Alliance </title>
+		<link>https://trevcan.github.io/hacking.av.tba.html</link>
+		<guid>https://trevcan.github.io/hacking.av.tba.html</guid>
+		<pubDate>Tue, 09 Nov 2021 17:50:46 -0600</pubDate>
+		<description><![CDATA[ <p>Another year, another FRC Season. I&rsquo;m currently in the Tecbot 3158 First
+Robotics Competition, a great way in which students of all STEM fields can
+show their abilities through teamwork.</p>
+
+<p>Right now, I&rsquo;m in the engineering part. My job, for now, is to gather scouting
+data for our team to analyze with maybe some ML models or just to make simple
+statistics.</p>
+
+<a name="setup"></a>
+<h2>setup</h2>
+
+<p>Thankfully, TBA (<em>the blue alliance</em>) has a public read-access (and write, i
+believe) API, it&rsquo;s JSON and it lets you access almost everything. You just
+have to sign in with google and get an API key. Now use any HTTP-GET
+friendly request to retrieve data. Just remember to assign the HTTP header
+<code>X-TBA-Auth-Key</code> to the API key you receive.</p>
+
+<a name=""></a>
+<h3></h3>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Luke: 'Will you ever stand up for yourself ?'</title>
+		<link>https://trevcan.github.io/stand-up-thy-self.html</link>
+		<guid>https://trevcan.github.io/stand-up-thy-self.html</guid>
+		<pubDate>Tue, 09 Nov 2021 17:49:06 -0600</pubDate>
+		<description><![CDATA[ <p><a href="https://videos.lukesmith.xyz/w/aWCVkSQTXKJ1yuR6o8zjDY">his video</a></p>
+
+<p>although Luke of course shares some of his personal beliefs,
+he <strong>ultimately encourages</strong> humans to do what they <strong>think is right</strong>
+and to be autonomous /independent in a sense.</p>
+
+<blockquote><p>Dude my job they want me to get the vaccerino!</p></blockquote>
+
+<ul>
+<li>they know they’re doing something that’s wrong</li>
+<li>Shouldn’t be in ce position</li>
+<li>Evil ? Systems?</li>
+<li>Subsoyervance</li>
+<li>ngos orgs govmnt are cults? </li>
+<li>100 k for random shit</li>
+<li>‘Benefits’</li>
+<li>Life is minimizing your liabilities.</li>
+<li>Cathedral</li>
+<li>Ensconced ?</li>
+<li>The richer you are the more enslaved you are to anything !</li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>finally blog it!</title>
+		<link>https://trevcan.github.io/yayy.html</link>
+		<guid>https://trevcan.github.io/yayy.html</guid>
+		<pubDate>Tue, 09 Nov 2021 00:06:44 -0600</pubDate>
+		<description><![CDATA[ <p>Hello there, I&rsquo;ve just finished mygration of my website
+over to <a href="https://github.com/trevcan/blogit">my fork of blogit</a>
+and so far so good. Just have to fix up the 404 and should
+probably be good to go.</p>
+
+<i> Tags: <b> site-update </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Learn how to use pedantic.software/git/blogit !!</title>
+		<link>https://trevcan.github.io/idk-learn-pedantics-blogit.html</link>
+		<guid>https://trevcan.github.io/idk-learn-pedantics-blogit.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:56:35 -0600</pubDate>
+		<description><![CDATA[ <p>originally posted on : 2021-11-06</p>
+
+<a name="Hello-there-2c-"></a>
+<h1>Hello there,</h1>
+
+<p>I&rsquo;ve been trying out several bloggin systems but none of them seem to work
+as I expect them. Well, to be frank, the only blogging systems I&rsquo;ve been
+trying are only Jekyll/Github based. The only thing I want is a nice
+<a href="https://github.com/tocttou/hacker-blog">hacker-like</a> aesthethic because
+why not and minimalist software that doesn&rsquo;t have a ton shit of folders like
+Jekyll, <strong>I just don&rsquo;t get why I can&rsquo;t add posts anywhere other than in <code>_posts/</code>!!</strong>.</p>
+
+<p>Also, this is a check to see if this post actually gets built because only the
+sample posts have appeared so far !!. <strong>Edit</strong>: You know what?, why not start
+doing it right fucking know lol. I guess I&rsquo;ll create a test repo where I can idk
+do shit and test <code>blogit</code>.</p>
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+]]>
+		</description>
+		</item>
+		<item>
+		<title>about:Trevcan</title>
+		<link>https://trevcan.github.io/about.html</link>
+		<guid>https://trevcan.github.io/about.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <p>Hello there, I&rsquo;m a human!
+I&rsquo;m into programming, computers, and of course,
+the beloved <em>linux</em> (I use <a href="http://archlinux.org">arch</a> btw).
+I like learning about new things, and enjoy riding
+bikes, reading books such as 1984 (George Orwell), talking to people,
+and breathing.</p>
+
+<p>And yeah, I&rsquo;ve decided to start writing / blogging so yeah this is me
+attempting to set up a minimalist blogging system with blogit I guess
+and a tad of github actions automation with gh pages.</p>
+
+<p><a href="contact.html">contact info here</a></p>
+
+<a name="Software-used:"></a>
+<h3>Software used:</h3>
+
+<ul>
+<li>webserver - <a href="https://www.lighttpd.net/">lighttpd</a>, pronounced <em>lightly</em>.</li>
+<li><code>markdown</code> or <code>discount</code> > A Markdown implementation written in C.
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Bookmarks</title>
+		<link>https://trevcan.github.io/bookmarks.html</link>
+		<guid>https://trevcan.github.io/bookmarks.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <a name="Bookmarks-bar--7b--23-bookmarks-2d-bar-add_date-3d--22-1628991664-22--last_modified-3d--22-1634164207-22--personal_toolbar_folder-3d--22-true-22--7d-"></a>
+<h3>Bookmarks bar {#bookmarks-bar add_date=&ldquo;1628991664&rdquo; last_modified=&ldquo;1634164207&rdquo; personal_toolbar_folder=&ldquo;true&rdquo;}</h3>
+
+<a name="kbs--7b--23-kbs-add_date-3d--22-1628992714-22--last_modified-3d--22-1629814053-22--7d-"></a>
+<h3>kbs {#kbs add_date=&ldquo;1628992714&rdquo; last_modified=&ldquo;1629814053&rdquo;}</h3>
+
+<a name="kbss--7b--23-kbss-add_date-3d--22-1628992714-22--last_modified-3d--22-1628992714-22--7d-"></a>
+<h3>kbss {#kbss add_date=&ldquo;1628992714&rdquo; last_modified=&ldquo;1628992714&rdquo;}</h3>
+
+<p><a href="https://config.qmk.fm/#/print">QMK Configurator</a></p>
+
+<p><a href="https://github.com/qmk/qmk_firmware/tree/master/keyboards">qmk_firmware/keyboards at master · qmk/qmk_firmware ·
+GitHub</a></p>
+
+<p><a href="https://www.reddit.com/r/MechanicalKeyboards/comments/7pnqqy/guide_for_flashing_keyboards/">Guide for flashing keyboards :
+MechanicalKeyboards</a></p>
+
+<p><a href="https://beta.docs.qmk.fm/tutorial/newbs_flashing">Flashing Firmware -
+QMK</a></p>
+
+]]>
+		</description>
+		</item>
+		<item>
+		<title>courses</title>
+		<link>https://trevcan.github.io/courses.html</link>
+		<guid>https://trevcan.github.io/courses.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <p>Online courses that I recommend</p>
+
+<ul>
+<li><a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched">NDG Linux Unhatched English 0421b</a></li>
+<li><a href="https://linuxjourney.com/">Linux Journey <em>; learn the ways of Linux-fu, for free</em></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/">Systems Security, *MIT OpenCourseWare</a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/index.htm">Computer System Engineering</a></li>
+<li><a href="https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/">Principles of Computer System design: an Introduction</a></li>
+</ul>
+
+
+<a name="hacking"></a>
+<h2>hacking</h2>
+
+<p>learning how to hack&hellip;</p>
+
+<ul>
+<li>Bandit overthewire: <a href="https://overthewire.org/wargames/bandit/">https://overthewire.org/wargames/bandit/</a>
+
+<ul>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Arch Linux Bulletin Board System Post</title>
+		<link>https://trevcan.github.io/gpg.why.bbs.html</link>
+		<guid>https://trevcan.github.io/gpg.why.bbs.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <p>First of all, your help, any help would be greatly appreciated.</p>
+
+<p>[h]
+the problem
+[/h]
+I&rsquo;ve been using the [https://passwordstore.org] program for quite a while now, about 9 months I&rsquo;d say.
+All was going well until about 4 weeks ago. I don&rsquo;t
+know what happened, what caused it or why. Pass started acting up, it took from
+20 to 30 seconds what used to take literally 1 second. The pinentry-gtk-2
+program was taking a whole lot of time to start. So I dug deeper. Eventually I
+found out that it definitely had something to do with GnuPG as decrypting
+files directly through GnuPG also yielded the same results, after all, pass is
+just a bash script that uses gpg encryption and decryption commands. So then I
+went searching on the internets and it was pretty bad. I couldn&rsquo;t really find
+any information regarding GnuPG besides [0]</p>
+
+<p>I&rsquo;ve tried almost* everything to get gpg up and running but it just,
+won&rsquo;t work! I don&rsquo;t know if this was a system upgrade or
+something but point is, it just slowed way down. When [b]requesting a password, [/b]
+it&rsquo;d take anywhere from 20 to 40 seconds to just show the pinentry binary (the
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Why is GnuPG / GPG  acting up ? </title>
+		<link>https://trevcan.github.io/gpg.why.html</link>
+		<guid>https://trevcan.github.io/gpg.why.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <p>After trying several things to fix encryption and decryption in GnuPG I have no
+real hopes. I honestly don&rsquo;t know what to do but to keep asking. I&rsquo;ve searched on
+stackoverflow for pinentry and gpg-agent acting up and taking too much time and
+I only found one stack overflow question <a href="#references">[0]</a> which didn&rsquo;t get
+that close to my issue.
+It slows down when using the pinentry-curses, pinentry-gtk-2 binaries.</p>
+
+<p>edit: I found out the problem! Thanks to <a href="https://www.reddit.com/r/GnuPG/comments/q2apuh/comment/hpa3m6f/?utm_source=share&amp;utm_medium=web2x&amp;context=3">u/xXbobby123Xx</a> for discovering the solution,
+and this GNU forum: <a href="https://dev.gnupg.org/T3240">https://dev.gnupg.org/T3240</a> it appears to be a bug in gnome-keyring.</p>
+
+<p><strong>Uninstalling the gnome-keyring is the solution for now.</strong></p>
+
+<p>there appear to be 2 dev.gnupg.org forum posts:
+- https://dev.gnupg.org/T3240
+- https://dev.gnupg.org/T4592 (this url is kinda broken but didn&rsquo;t use to be)</p>
+
+<a name="the-problem"></a>
+<h1>the problem</h1>
+
+<p>I&rsquo;ve been using the [https://passwordstore.org] program for quite a while now,
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Main</title>
+		<link>https://trevcan.github.io/main.html</link>
+		<guid>https://trevcan.github.io/main.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <a name="quick-links"></a>
+<h1>quick links</h1>
+
+<a name="later-7b-:target-3d--22-_blank-22--7d-"></a>
+<h1><a href="/wl.md">later</a>{:target=&ldquo;_blank&rdquo;}</h1>
+
+<ul>
+<li><a href="/gpg.why">gpg</a>{:target=&ldquo;_blank&rdquo;}</li>
+</ul>
+
+
+<p><a href="http://archlinux.org"><em>L'arch Linux</em></a>{:target=&ldquo;_blank&rdquo;}</p>
+
+<p><a href="/README.md">readme</a></p>
+
+<ul>
+<li><p>aspell is this thingy that checks for spelling and stuff</p>
+
+<ul>
+<li><a href="http://aspell.net/test/cur/">Available Aspell Dictionaries</a>{:target=&ldquo;_blank&rdquo;}</li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Movies</title>
+		<link>https://trevcan.github.io/mvs.html</link>
+		<guid>https://trevcan.github.io/mvs.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <a name="Julian-27-s-recommended"></a>
+<h2>Julian&rsquo;s recommended</h2>
+
+<ul>
+<li class="github_checkbox"><input disabled="" type="checkbox" checked="checked"/> Mid90s (2018), <em>written and directed by the legendary <strong>Jonah Hill</strong></em></li>
+<li class="github_checkbox"><input disabled="" type="checkbox"/> NeonGenesis Evangelion (1995). Japanese, apocalyptic, idk and also a lot of things!!</li>
+<li class="github_checkbox"><input disabled="" type="checkbox"/> About Time (2013)</li>
+</ul>
+
+
+<hr />
+
+<a name="tres-bon-je-pense"></a>
+<h1>tres bon je pense</h1>
+
+<ul>
+<li class="github_checkbox"><input disabled="" type="checkbox" checked="checked"/> Arrival (2016)</li>
+<li class="github_checkbox"><input disabled="" type="checkbox" checked="checked"/> The Firm (1993)</li>
+<li class="github_checkbox"><input disabled="" type="checkbox"/> Gran Torino (2008)</li>
+<li class="github_checkbox"><input disabled="" type="checkbox"/> The Mule (2018)</li>
+]]>
+		</description>
+		</item>
+		<item>
+		<title>quotes</title>
+		<link>https://trevcan.github.io/quotes.html</link>
+		<guid>https://trevcan.github.io/quotes.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <blockquote><p>&ldquo;To live, is to risk it all.<br>
+Otherwise you&rsquo;re just an inert<br>
+chunk of randomly assembled molecules<br>
+drifting wherever the universe<br>
+blows you.&rdquo;<br></p></blockquote>
+
+<p>- Rick Sanchez (from the show <em>Rick and Morty</em>)</p>
+
+<ul>
+<li><p>Money will not make you happy,<br>
+and happy will not make you money.</p></li>
+<li><blockquote><p>Once men turned their thinking over to machines in the hope that this would set them free.
+But that only permitted other men with machines to enslave them.</p></blockquote></li>
+</ul>
+
+
+<p>- Frank Herbert, Dune</p>
+
+<ul>
+<li><blockquote><p>&ldquo;So don&rsquo;t be afraid; your heart is in me, and it&rsquo;s racing so fast now.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>Trevcan Readme</title>
+		<link>https://trevcan.github.io/README.html</link>
+		<guid>https://trevcan.github.io/README.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <p>These are just some useful links</p>
+
+<a name="Guides-that-I-like."></a>
+<h3>Guides that I like.</h3>
+
+<ul>
+<li><a href="https://beej.us">beej.us</a>&rsquo;s Guide on C Programming (&ldquo;rough draft&rdquo;, Beej): <a href="http://beej.us/guide/bgc/">original</a>, <a href="/mirrors/bgc/website">my mirror</a> (Licensed under Attribution-NonCommercial-NoDerivatives 3.0 Unported CC BY-NC-ND 3.0, <a href="/mirrors/bgc/LICENSE.md">license</a> )</li>
+</ul>
+
+
+<a name="aa"></a>
+<h1>aa</h1>
+
+<ul>
+<li><a href="https://snapdrop.net/">airdrop but cross-platform; works with websockets and is LAN but a backend is still necessary to generate the websockets</a> also, doesn&rsquo;t work great on ~600 MB files.</li>
+</ul>
+
+
+<!--
+You can use the [editor on GitHub](https://github.com/TrevCan/trevcan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+]]>
+		</description>
+		</item>
+		<item>
+		<title>watch later</title>
+		<link>https://trevcan.github.io/wl.html</link>
+		<guid>https://trevcan.github.io/wl.html</guid>
+		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
+		<description><![CDATA[ <p>wl as in&hellip;</p>
+
+<a name="watch-later"></a>
+<h1>watch later</h1>
+
+<p>or&hellip;</p>
+
+<a name="read-later"></a>
+<h1>read later</h1>
+
+<p>or&hellip;</p>
+
+<a name="L-5b-any-verb-that-constitutes-an-action-5d-...-later"></a>
+<h1>[any verb that constitutes an action]&hellip; later</h1>
+
+<a name="important-21---28-or-maybe-not-so-much-29-"></a>
+<h1>important! (or maybe not so much)</h1>
+
+<p><a href="https://www.root-me.org/">https://www.root-me.org/</a></p>
+
+]]>
+		</description>
+		</item>
+</channel>
+</rss>

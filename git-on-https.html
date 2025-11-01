@@ -1,0 +1,134 @@
+<!DOCTYPE html><html><head>
+		<title>Git server upgrade!</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Git server upgrade!</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>04/02/2022 10:14:30 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>04/04/2022 05:59:55 PM</i></td>
+		</tr>
+	</table>
+
+<p>So, as of yesterday I was running a git over ssh server.
+Which isn&rsquo;t even a server <em>per se</em>, since it just runs
+software that was already installed on my system. (<code>ssh</code>)</p>
+
+<p>But this approach isn&rsquo;t very useful. It does not allow
+me to update my git repositories (including
+my blog) through restricted networks, such
+as the institution I study at. Port 22 is indeed
+restricted.</p>
+
+<p>So I thought, I&rsquo;ve always seen that https/ssh/zip button
+link thing on github. Why can&rsquo;t I do that ? Isn&rsquo;t https
+like allowed on almost any network ? So I started investigating.</p>
+
+<p>According to the git-scm [0] reference manual, there are other
+ways to host servers. One of them is using a CGI script that
+runs server-side.</p>
+
+<p><code>CGI</code> stands for <em>Common Gateway Interface</em>.
+It&rsquo;s a standard protocol that is
+to be run server-side to provide HTTP content on-demand.
+Most popular webservers will provide plugins to run CGI scripts. This protocol takes a few environment variables and just returns the HTTP response just as if it were a server. In the future, I&rsquo;d love to make my own &lsquo;CGI Server&rsquo;.</p>
+
+<hr />
+
+<p>So I tried to set up my lighttpd web server to route all requests
+for the domain <code>https://git-push.thetrevor.tech/</code> to the CGI script.</p>
+
+<p>I must say, this was a pain in the ass, but this is my working configuration
+file.</p>
+
+<p><a href="https://git-trevcan.duckdns.org/lighttpd-conf.git/tree/sites-enabled/push-git.conf">https://git-trevcan.duckdns.org/lighttpd-conf.git/tree/sites-enabled/push-git.conf</a></p>
+
+<p>when i have the time i&rsquo;ll explain it over.</p>
+
+<p>please don&rsquo;t hack me.</p>
+
+<a name="references"></a>
+<h3>references</h3>
+
+<ul>
+<li><a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Smart-HTTP">[0]</a> git on the server: smart http.</li>
+<li><a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface">info on cgi scripts</a></li>
+</ul>
+
+
+<a name="lighttpd-useful-links"></a>
+<h3>lighttpd useful links</h3>
+
+<ul>
+<li><a href="https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs_ModAuth">URL Rewrite mod_rewrite</a></li>
+<li><a href="https://stackoverflow.com/questions/6267084/configuring-lighttpd-to-handle-cgi-c-executables">stackoverflow handle cgi c executables</a></li>
+</ul>
+
+
+<i> Tags: <b> git technical linux https </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

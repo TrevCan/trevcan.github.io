@@ -1,0 +1,109 @@
+<!DOCTYPE html><html><head>
+		<title>Listing Installed Fonts on *NIX systems</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Listing Installed Fonts on *NIX systems</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>04/22/2022 09:29:15 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>05/11/2022 09:20:09 PM</i></td>
+		</tr>
+	</table>
+
+<p>weird, right !?</p>
+
+<p>There&rsquo;s the <code>fc-list</code> command.
+This binary is installed with the <code>fontconfig</code> package on Arch Linux.</p>
+
+<p>But if you don&rsquo;t want to install <code>1.1 MB</code> of not-so-useful
+stuff, you can list your installed fonts by going to this directory:</p>
+
+<p><code>/usr/share/fonts</code></p>
+
+<p>then you can run something like <code>tree</code>. There will be several folders and
+a ton of <code>.ttf</code> files.
+my dir listing looks like this:</p>
+
+<p><pre><code>&gt; ls /usr/share/fonts
+adobe-source-code-pro  gnu-free           liberation  old            ttf-linux-libertine
+cantarell              gsfonts            misc        TTF            xscreensaver
+encodings              kanjistrokeorders  noto        ttf-jetbrains
+
+</code></pre>
+you can now get all your installed fonts on your Linux system!</p>
+
+<a name="references"></a>
+<h2>references</h2>
+
+<ul>
+<li><a href="https://ostechnix.com/find-installed-fonts-commandline-linux/">https://ostechnix.com/find-installed-fonts-commandline-linux/</a></li>
+</ul>
+
+
+<i> Tags: <b> linux guides  </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

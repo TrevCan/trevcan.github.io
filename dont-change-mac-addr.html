@@ -1,0 +1,117 @@
+<!DOCTYPE html><html><head>
+		<title>Changing your device's MAC address is risky.</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Changing your device's MAC address is risky.</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>05/22/2022 09:02:54 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>05/22/2022 09:04:55 AM</i></td>
+		</tr>
+	</table>
+
+<p>At least that was certainly my experience with it.</p>
+
+<p>I recently installed macchanger <a href="#references">[0]</a>, a utility to&hellip; yes! change your mac address.</p>
+
+<p>A MAC address stands for <em>Media Access Control address</em>. It is a unique identifier address used for network interface controllers (NICs, according to Wikipedia). So your LAN controller and your WiFi controllers have MAC addresses.</p>
+
+<p>But companies and governments have standardized the way in which unique MAC addresses are set. I could, in theory, get into an insecure network and know how many devices are from X or why company. The FCC or some other organization assigns &lsquo;blocks&rsquo; that companies can use in order to set these MAC addresses. I think MAC addresses are used in network routers (e.g. the one your ISP gives you) to keep track of who has this or that IP address.</p>
+
+<p>So as I sad in the beginning of this post, I tried changing my MAC address.
+Because as of now, I could connect to my network and possibly know that this or that device is or this or that brand.
+Which, in my opinion, is creepy as fuck.
+So why not be more privacy minded ? So yeah, I tried changing my MAC address to a random one.</p>
+
+<p>So you run the command. Nothing happens, it says that you should try using the <code>--help</code> flag, so I do. There is a <strong>random</strong> flag, just what I need. I do it. It tells me that I&rsquo;m missing something.
+I read the manpage.
+You have to specify the network adapter.
+So I run <code>ip a</code>.
+my computer is connected through an ethernet cable. I get the adapter name. I put it at the end of my command. Now I get permission denied. Fair enough, just use <code>sudo !!</code>. and it works!
+Now I have another MAC address. But guess what ?</p>
+
+<p>I go to sleep, I wake up the next day. I do not open my computer, do not check on it. The blog is fucked. I cannot sync anything. The server is inaccessible. Why ? Great question.</p>
+
+<p>Then I try all kinds of stuff. I get to my house, I can access it from my Local Area Network. the IP address works. My public ports are fine. Then I remember, I changed the MAC address. Maybe I should restart my web server. That does not work. Neither does restarting the Network Manager.</p>
+
+<p>I give up, I reset the MAC address to its default configuration. Maybe I cannot change the MAC address and <strong>not reboot.</strong></p>
+
+<p>So now it works with the default MAC address.</p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li>[0] macchanger on arch linux packages: <a href="https://archlinux.org/packages/community/x86_64/macchanger/">https://archlinux.org/packages/community/x86_64/macchanger/</a></li>
+<li>[1] MAC address, <em>wikipedia</em>.
+<a href="https://en.m.wikipedia.org/wiki/MAC_address">https://en.m.wikipedia.org/wiki/MAC_address</a></li>
+</ul>
+
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

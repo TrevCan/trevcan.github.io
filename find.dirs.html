@@ -1,0 +1,106 @@
+<!DOCTYPE html><html><head>
+		<title>Finding empty directories</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Finding empty directories</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>03/30/2022 05:53:43 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>03/30/2022 05:53:43 PM</i></td>
+		</tr>
+	</table>
+
+<p>based on this article: <a href="https://www.linuxshelltips.com/find-and-delete-empty-directories-in-linux/">https://www.linuxshelltips.com/find-and-delete-empty-directories-in-linux/</a></p>
+
+<p>Problem is: I have a linux shell script that lets me mount hard drives,
+usb, and other storage devices. But if I have already mounted
+some storage device and it has a lot of folders, my command will
+keep looking for empty folders where other storage devices can
+be mounted. In other words, I have a directory <code>/media/</code> where all
+the folders for external devices are created. I mount my big HDD
+with a ton of folders to - let&rsquo;s say - <code>/media/HDD_0</code>. Now it is
+available and there are thousands upon thousands of files available
+under <code>/media/HDD_0</code>. Now I want to mount <strong>another</strong> device. What
+my script does if find empty folders under <code>/media/</code> but it will
+find it recursively.</p>
+
+<p>So the solution is using the <code>-maxdepth n</code> option for the <code>find</code> command.
+This allows you to set a maximum depth in which to look. Pretty
+self-explanatory, right ? So in other words, if I give <code>find</code> a
+starting point of <code>/media/</code> it won&rsquo;t go more than <code>n</code> folders
+recursively. That&rsquo;s it.</p>
+
+<p>Yeah, I use the <a href="https://github.com/LukeSmithxyz/voidrice">LARBS voidrice</a>
+<code>dmenumount</code> script, apparently the github does have a max-depth but I
+think I removed that because I only wanted to look under <code>/media/</code>.</p>
+
+<p>But hey, I fixed it with the magic of the internet and reading man-pages
+and at times bashing my head at my own hands or arms.</p>
+
+<i> Tags: <b> debugging linux files </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

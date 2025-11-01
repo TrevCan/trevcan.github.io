@@ -1,0 +1,178 @@
+<!DOCTYPE html><html><head>
+		<title>At last my error.</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>At last my error.</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>06/18/2022 03:06:09 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>06/18/2022 03:06:09 AM</i></td>
+		</tr>
+	</table>
+
+<p>Instead of working I have found myself dealing
+with some mysery and happiness.
+Lots of both sometimes.
+I miss things.
+I think I miss writing.
+I like writing at the two a.m. in the morning because why not.</p>
+
+<p>Anyways, I recently bought myself something that actually uses the usb-c
+port on my computer. The USB-C connection actually has a Thunderbolt 3
+controller and yes, in theory, I could just connect literally everything
+I&rsquo;d possibly ever need through that cable.</p>
+
+<p>I went to a Best Buy in Michigan to get a thunderbolt 3 capable dock
+but to my surprise I did not find any of my liking. The thing that was
+missing the most was a Display Port. Literally none of them had it.
+Not even the extra expensive ones. I mean, they were all kinda equally
+expensive, even though they&rsquo;re probably as shitty as one would expect
+from too new technologies and not enough real manufacturing of them.</p>
+
+<p>In the past month I stumbled upon a hacker news post talking about
+thunderbolt 3 was.
+The conclusion was that the expensive and ali-express bought docks
+were just as equally likely to fail, not work at all, and or work
+at advertised speeds.</p>
+
+<p>Anyways, I did find some interesting stuff at the best buy. I found a
+micro-SD card reader that has both a USB type A (that&rsquo;s the regular
+USB port you&rsquo;re used to) and a USB type C port. That&rsquo;s nice,
+maybe I&rsquo;ll gift it to my sister who both owns a regular laptop without
+USB type C and an iPad with a USB type C connector, hopefully this will
+work if she has to transfer files faster.</p>
+
+<p>So I did buy that, I bought it <em>open box</em> <a href="#references">[0]</a>!
+I know, I&rsquo;m a cheap, ain&rsquo;t I ?
+Also, I bought a 100-watt USB-C power adaptor for my computer, to charge
+it much, much faster. As a bonus, it has a 20-watt <a href="#references">[1]</a>
+type-c port and a usb type-a with a little more amperage than your
+regular phone brick.</p>
+
+<p>Anyways, I bought these two products. The power adaptor worked great.
+I can now fast-charge off a single AC connection three devices at the
+same time! Pretty neat. We&rsquo;ll see how hot she gets.</p>
+
+<p>The micro-SD card reader did not work.
+Well, the USB type-A connector did work. So that&rsquo;s good. I could access
+the file system off my only not-lost micro-SD card and can play
+the files just as well as I would on my computer&rsquo;s port.
+But the type-C connection wouldn&rsquo;t work.
+One of my first ideas was to try on a proprietary operating system
+that normies call Windows.
+(un?)Fortunately, same results. Only type-A would work.
+Although something interesting was that power would indeed work.
+I could charge my phone off the port easily. But I could not read
+any data off any devices.</p>
+
+<p>So I thought maybe BIOS drivers but wtf am  ieven saying idk. Idk
+enough to know if the BIOS is in charge of this or not. Maybe Lenovo
+weird firmware updates ?! I checked but nothing. Just annoying windows 10
+fat updates. Some Linux stackoverflow questions pointed in weird directions.</p>
+
+<a name="the-culprit"></a>
+<h1>the culprit</h1>
+
+<p>the culprit
+is that&hellip;
+well&hellip; not-so-long ago I delved into my BIOS settings and chose to disable
+the THunderbolt 3 port.
+To my surprise, power was not cut-off the port and still worked like a
+charger and I therefore expected it to still be working.
+But in fact I just jumped into my BIOS a few minutes ago and lo and behold
+there it was the Thunderbolt 3 disable setting!
+turned it right back up, worked like a charm.
+Even if the connection
+was not over thunderbolt 3, it encapsulates the type-C data port as well,
+so that&rsquo;s that. Now I can access my micro-sd through an adapter connected
+to a USB-C port that is accessed by a mostly open-source operating system.</p>
+
+<p>nice.</p>
+
+<a name="references"></a>
+<h2>references</h2>
+
+<ul>
+<li>[0] &ldquo;<em>open box</em>&rdquo;. - I&rsquo;ve never heard of this term
+until a friend of mine who lives in the United States told me.
+It means that a human presumably opened a product but did not use it.
+Then this human returned the product and it is advertised on the price tags
+with a discount and a label that says &ldquo;open box&rdquo;. I bought this thingy for like
+15 bucks (no tax), like 10 off. Has worked well enough so far.</li>
+<li>[1]
+fast-charging baby!
+which only my dad will get to use because i have an iPhone 6s which fits my
+needs. I&rsquo;d love to jailbreak it. Or maybe not ?
+Every time I think of doing it I don&rsquo;t have the correct iOS version for it
+to work and I kinda don&rsquo;t want to possibly install  malware onto my phone.
+WHy am I playing the devil&rsquo;s advocate - and not - every time I think of this ?</li>
+</ul>
+
+
+<i> Tags: <b> today </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>
