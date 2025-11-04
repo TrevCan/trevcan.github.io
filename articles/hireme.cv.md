@@ -149,8 +149,6 @@ Languages:
 	
 --- Education: ---
 
-2024 - 2027: (Online) Electrical and Cybersecurity Engineering
-	@ Universidad Autónoma de Guadalajara
 	
 2019 - 2022: PrepaTec Multicultural (PTM) 
 	@ Tec de Monterrey (ITESM)
@@ -240,8 +238,6 @@ Languages:
 
 --- Education: ---
 	
-2023 - 2026 ?: Computer Science Engineering Degree.
-	@ UDLAP. Universidad de las Américas Puebla.
 	
 2019 - 2022: PrepaTec Multicultural (PTM) 
 	@ ITESM.
