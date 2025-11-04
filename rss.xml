@@ -2,12 +2,12 @@
 <rss version="2.0">
 	<channel>
 	<title>trevcan's blog</title>
-	<link>https://trevcan.github.io/index.html</link>
+	<link>https://blog.thetrevor.tech/index.html</link>
 	<description>the blog by trevcan, a.k.a. Hector Canizales</description>
 		<item>
 		<title>$ whois trevor. featuring guest author</title>
-		<link>https://trevcan.github.io/paolo.the.challenge.html</link>
-		<guid>https://trevcan.github.io/paolo.the.challenge.html</guid>
+		<link>https://blog.thetrevor.tech/paolo.the.challenge.html</link>
+		<guid>https://blog.thetrevor.tech/paolo.the.challenge.html</guid>
 		<pubDate>Fri, 31 Jan 2025 18:23:43 -0600</pubDate>
 		<description><![CDATA[ <p>Hello. This is a challenge for Paolo. I hope you read this, Paolo.
 You are an interesting human being, you know more about me than what I know
@@ -34,36 +34,36 @@ it in this markdown file in html as <code>asdf/img</code>.</p>
 		</item>
 		<item>
 		<title>i am happy.</title>
-		<link>https://trevcan.github.io/happy.wed.html</link>
-		<guid>https://trevcan.github.io/happy.wed.html</guid>
+		<link>https://blog.thetrevor.tech/happy.wed.html</link>
+		<guid>https://blog.thetrevor.tech/happy.wed.html</guid>
 		<pubDate>Wed, 29 Jan 2025 23:10:52 -0600</pubDate>
 		<description><![CDATA[ <p>big image</p>
 
-<div class="container-image">
-<style>
-/* https://www.w3schools.com/howto/howto_css_image_text.asp  */
+<p><a href="assets/happy.wed.29j.2025.jpeg"></p>
 
-/* Container holding the image and the text */
-.container-image {
-  position: relative;
-  text-align: center;
-  color: white;
-  text-align:left;
-  color:rgba(0,0,0,0);
-}
+<p><img src="assets/happy.wed.29j.2025.jpeg">
+</a></p>
 
-/* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
+<i> Tags: <b> en write life </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
 ]]>
 		</description>
 		</item>
 		<item>
 		<title>believing in something: Stalker (1979)</title>
-		<link>https://trevcan.github.io/stalker.html</link>
-		<guid>https://trevcan.github.io/stalker.html</guid>
+		<link>https://blog.thetrevor.tech/stalker.html</link>
+		<guid>https://blog.thetrevor.tech/stalker.html</guid>
 		<pubDate>Sun, 05 Jan 2025 22:07:27 -0600</pubDate>
 		<description><![CDATA[ <p>I watched Stalker(1979), a Russian film
 recommended to me by Miranda. It was
@@ -90,8 +90,8 @@ of my thoughts.</p>
 		</item>
 		<item>
 		<title>On a chaotic mind or mind chaos</title>
-		<link>https://trevcan.github.io/on.a.chaotic.mind.html</link>
-		<guid>https://trevcan.github.io/on.a.chaotic.mind.html</guid>
+		<link>https://blog.thetrevor.tech/on.a.chaotic.mind.html</link>
+		<guid>https://blog.thetrevor.tech/on.a.chaotic.mind.html</guid>
 		<pubDate>Sat, 04 Jan 2025 11:58:01 -0600</pubDate>
 		<description><![CDATA[ <p>March 23, 2023. More than one and a half year later, I am here to write this.
 I don&rsquo;t even remember anything of what I was going to write.</p>
@@ -118,8 +118,8 @@ it was easy getting it to work again but it did need some cleaning
 		</item>
 		<item>
 		<title>Archiving iPhone photo albums without iTunes in Linux</title>
-		<link>https://trevcan.github.io/archiving-ios-pictures.html</link>
-		<guid>https://trevcan.github.io/archiving-ios-pictures.html</guid>
+		<link>https://blog.thetrevor.tech/archiving-ios-pictures.html</link>
+		<guid>https://blog.thetrevor.tech/archiving-ios-pictures.html</guid>
 		<pubDate>Thu, 28 Mar 2024 01:55:39 -0600</pubDate>
 		<description><![CDATA[ <p>Hello! My Mom asked me to archive the pictures and videos on her iPhone.
 I tried doing it without iTunes and was somewhat successful!
@@ -146,8 +146,8 @@ but whenever I right clicked to open a terminal, it would drop me in the home
 		</item>
 		<item>
 		<title>On a bus.</title>
-		<link>https://trevcan.github.io/just-writing-2024-january26th.html</link>
-		<guid>https://trevcan.github.io/just-writing-2024-january26th.html</guid>
+		<link>https://blog.thetrevor.tech/just-writing-2024-january26th.html</link>
+		<guid>https://blog.thetrevor.tech/just-writing-2024-january26th.html</guid>
 		<pubDate>Fri, 26 Jan 2024 14:34:03 -0600</pubDate>
 		<description><![CDATA[ <p>Today, hello. I am writing slightly uncomfortably
 on a moving bus. It looks small from the back. But it&rsquo;s
@@ -174,8 +174,8 @@ I think. Esteban read it, thank you Esteban.</p>
 		</item>
 		<item>
 		<title>El Teatro ó El Teatro y Yo.</title>
-		<link>https://trevcan.github.io/theatre.html</link>
-		<guid>https://trevcan.github.io/theatre.html</guid>
+		<link>https://blog.thetrevor.tech/theatre.html</link>
+		<guid>https://blog.thetrevor.tech/theatre.html</guid>
 		<pubDate>Wed, 18 Oct 2023 22:16:40 -0600</pubDate>
 		<description><![CDATA[ <p>Lunes 16 de octubre de 2023.
 Acrerca de: El Teatro ó El Teatro y Yo.
@@ -202,8 +202,8 @@ Título: aún no decidido.</p>
 		</item>
 		<item>
 		<title>Life before your eyes</title>
-		<link>https://trevcan.github.io/rebooting-remotely.html</link>
-		<guid>https://trevcan.github.io/rebooting-remotely.html</guid>
+		<link>https://blog.thetrevor.tech/rebooting-remotely.html</link>
+		<guid>https://blog.thetrevor.tech/rebooting-remotely.html</guid>
 		<pubDate>Fri, 25 Aug 2023 21:23:43 -0600</pubDate>
 		<description><![CDATA[ <p>Hopefully it is not a tragedy. I am rebooting my server
 after more than 374 days of uptime. Not complete uptime,
@@ -230,8 +230,8 @@ that specifically made it act that way.</p>
 		</item>
 		<item>
 		<title>Software tools</title>
-		<link>https://trevcan.github.io/software-tools.html</link>
-		<guid>https://trevcan.github.io/software-tools.html</guid>
+		<link>https://blog.thetrevor.tech/software-tools.html</link>
+		<guid>https://blog.thetrevor.tech/software-tools.html</guid>
 		<pubDate>Wed, 23 Aug 2023 10:17:55 -0600</pubDate>
 		<description><![CDATA[ <a name="operating-systems"></a>
 <h1>operating systems</h1>
@@ -258,8 +258,8 @@ that specifically made it act that way.</p>
 		</item>
 		<item>
 		<title>Cálculo Lambda</title>
-		<link>https://trevcan.github.io/el-calculo-lambda.html</link>
-		<guid>https://trevcan.github.io/el-calculo-lambda.html</guid>
+		<link>https://blog.thetrevor.tech/el-calculo-lambda.html</link>
+		<guid>https://blog.thetrevor.tech/el-calculo-lambda.html</guid>
 		<pubDate>Wed, 10 May 2023 00:42:09 -0600</pubDate>
 		<description><![CDATA[ 
 
@@ -286,8 +286,8 @@ that specifically made it act that way.</p>
 		</item>
 		<item>
 		<title>How to get a consistent RSS feed ?</title>
-		<link>https://trevcan.github.io/fixing-rss.html</link>
-		<guid>https://trevcan.github.io/fixing-rss.html</guid>
+		<link>https://blog.thetrevor.tech/fixing-rss.html</link>
+		<guid>https://blog.thetrevor.tech/fixing-rss.html</guid>
 		<pubDate>Wed, 19 Apr 2023 16:33:16 -0600</pubDate>
 		<description><![CDATA[ <p>It&rsquo;s hard. Well, maybe not that hard. But when
 you coded a half-assed program to generate an RSS
@@ -314,8 +314,8 @@ long enough that I am able to fix both problems.</p>
 		</item>
 		<item>
 		<title>High on happiness</title>
-		<link>https://trevcan.github.io/high-on-happiness.html</link>
-		<guid>https://trevcan.github.io/high-on-happiness.html</guid>
+		<link>https://blog.thetrevor.tech/high-on-happiness.html</link>
+		<guid>https://blog.thetrevor.tech/high-on-happiness.html</guid>
 		<pubDate>Wed, 29 Mar 2023 00:40:57 -0600</pubDate>
 		<description><![CDATA[ <p>When do you ever, truly, feel happy ?</p>
 
@@ -342,8 +342,8 @@ itself, you never really know what you&rsquo;re gonna get. You don&rsquo;t know 
 		</item>
 		<item>
 		<title>Agárrate, ¡con las manos!</title>
-		<link>https://trevcan.github.io/agarrate.con.las.manos.html</link>
-		<guid>https://trevcan.github.io/agarrate.con.las.manos.html</guid>
+		<link>https://blog.thetrevor.tech/agarrate.con.las.manos.html</link>
+		<guid>https://blog.thetrevor.tech/agarrate.con.las.manos.html</guid>
 		<pubDate>Sat, 28 Jan 2023 14:35:57 -0600</pubDate>
 		<description><![CDATA[ <p>Escribo aquí, ahora, porque puedo y lo he decidido.
 El día de hoy me levanté  alrededor de las 8:25 horas de la mañana.
@@ -370,8 +370,8 @@ Está cerca de donde vivo.
 		</item>
 		<item>
 		<title>What?</title>
-		<link>https://trevcan.github.io/what.html</link>
-		<guid>https://trevcan.github.io/what.html</guid>
+		<link>https://blog.thetrevor.tech/what.html</link>
+		<guid>https://blog.thetrevor.tech/what.html</guid>
 		<pubDate>Sat, 21 Jan 2023 23:58:21 -0600</pubDate>
 		<description><![CDATA[ <p>Hello, world!</p>
 
@@ -398,8 +398,8 @@ of my thoughts and should act as an archive of my mind.
 		</item>
 		<item>
 		<title>A new beginning </title>
-		<link>https://trevcan.github.io/new-beginning.html</link>
-		<guid>https://trevcan.github.io/new-beginning.html</guid>
+		<link>https://blog.thetrevor.tech/new-beginning.html</link>
+		<guid>https://blog.thetrevor.tech/new-beginning.html</guid>
 		<pubDate>Sun, 01 Jan 2023 13:54:09 -0600</pubDate>
 		<description><![CDATA[ <p>I dropped out of university. I was majoring for CS Engineering (Ingeniería en Tecnologías Computacionales) at Tec de Monterrey Campus Toluca.</p>
 
@@ -426,8 +426,8 @@ Or Computer Science Engineering, I think.</p>
 		</item>
 		<item>
 		<title>Logging in to day</title>
-		<link>https://trevcan.github.io/aujourdhui.13.of.the22.oct.html</link>
-		<guid>https://trevcan.github.io/aujourdhui.13.of.the22.oct.html</guid>
+		<link>https://blog.thetrevor.tech/aujourdhui.13.of.the22.oct.html</link>
+		<guid>https://blog.thetrevor.tech/aujourdhui.13.of.the22.oct.html</guid>
 		<pubDate>Thu, 13 Oct 2022 21:39:32 -0500</pubDate>
 		<description><![CDATA[ <p>Hello, world!</p>
 
@@ -454,8 +454,8 @@ This was the day I was actually going to shower fucking early, have the time
 		</item>
 		<item>
 		<title>Not on the melancholy hill</title>
-		<link>https://trevcan.github.io/on-not-melancholy-hill.html</link>
-		<guid>https://trevcan.github.io/on-not-melancholy-hill.html</guid>
+		<link>https://blog.thetrevor.tech/on-not-melancholy-hill.html</link>
+		<guid>https://blog.thetrevor.tech/on-not-melancholy-hill.html</guid>
 		<pubDate>Sun, 02 Oct 2022 00:59:14 -0500</pubDate>
 		<description><![CDATA[ <p>For some strange fucking reason, I feel satisfied.
 I am not sad.
@@ -482,8 +482,8 @@ from there but he sure seems to be making
 		</item>
 		<item>
 		<title>Today is Friday my dudes ! </title>
-		<link>https://trevcan.github.io/its-friday-my-dudes--30-septem-22.html</link>
-		<guid>https://trevcan.github.io/its-friday-my-dudes--30-septem-22.html</guid>
+		<link>https://blog.thetrevor.tech/its-friday-my-dudes--30-septem-22.html</link>
+		<guid>https://blog.thetrevor.tech/its-friday-my-dudes--30-septem-22.html</guid>
 		<pubDate>Fri, 30 Sep 2022 09:48:34 -0500</pubDate>
 		<description><![CDATA[ <p>Hello Stranger. I am me. And i&rsquo;m blogging.</p>
 
@@ -510,8 +510,8 @@ And I&rsquo;m not saying it&rsquo;s the other person&rsquo;s fault for suggestin
 		</item>
 		<item>
 		<title>Une critique en rapport à la chanson de <em>Prioritise-Moi</em></title>
-		<link>https://trevcan.github.io/apropos-prioritise-moi.html</link>
-		<guid>https://trevcan.github.io/apropos-prioritise-moi.html</guid>
+		<link>https://blog.thetrevor.tech/apropos-prioritise-moi.html</link>
+		<guid>https://blog.thetrevor.tech/apropos-prioritise-moi.html</guid>
 		<pubDate>Tue, 27 Sep 2022 10:06:08 -0500</pubDate>
 		<description><![CDATA[ <p><em>J'ai vu et ecouté a ce chanson originale par Pomplamoose <a href="#references">[0]</a>.</em>
 <em>Vue les lyrics <a href="#lyrics">ici</a>.</em></p>
@@ -538,8 +538,8 @@ Et aussi, analyser une chanson dans ma troisième langue est très difficile,
 		</item>
 		<item>
 		<title>Divide and Conquer</title>
-		<link>https://trevcan.github.io/divide-et-conquer.html</link>
-		<guid>https://trevcan.github.io/divide-et-conquer.html</guid>
+		<link>https://blog.thetrevor.tech/divide-et-conquer.html</link>
+		<guid>https://blog.thetrevor.tech/divide-et-conquer.html</guid>
 		<pubDate>Thu, 22 Sep 2022 21:46:29 -0500</pubDate>
 		<description><![CDATA[ <p>That&rsquo;s what it&rsquo;s all about when pursuing your dreams.</p>
 
@@ -566,8 +566,8 @@ Et aussi, analyser une chanson dans ma troisième langue est très difficile,
 		</item>
 		<item>
 		<title>Salary transparency	</title>
-		<link>https://trevcan.github.io/salary-transparency.html</link>
-		<guid>https://trevcan.github.io/salary-transparency.html</guid>
+		<link>https://blog.thetrevor.tech/salary-transparency.html</link>
+		<guid>https://blog.thetrevor.tech/salary-transparency.html</guid>
 		<pubDate>Thu, 25 Aug 2022 11:16:27 -0500</pubDate>
 		<description><![CDATA[ <p>This is the page where I publish my salary transparency data.
 Hopefully I&rsquo;ll remember to update this in the future.</p>
@@ -594,8 +594,8 @@ Hopefully I&rsquo;ll remember to update this in the future.</p>
 		</item>
 		<item>
 		<title>Love and happiness</title>
-		<link>https://trevcan.github.io/love-and-happiness.html</link>
-		<guid>https://trevcan.github.io/love-and-happiness.html</guid>
+		<link>https://blog.thetrevor.tech/love-and-happiness.html</link>
+		<guid>https://blog.thetrevor.tech/love-and-happiness.html</guid>
 		<pubDate>Sun, 14 Aug 2022 23:11:43 -0500</pubDate>
 		<description><![CDATA[ <p><em>See also: <strong>Song</strong> Love and happiness <a href="#references">[0]</a> by Al green</em></p>
 
@@ -622,8 +622,8 @@ purely survivalist standard being with that person would most likely
 		</item>
 		<item>
 		<title>No: a Poem by <em><small>yours truly</small></em></title>
-		<link>https://trevcan.github.io/a.poem.i.wrote.a.while.ago.html</link>
-		<guid>https://trevcan.github.io/a.poem.i.wrote.a.while.ago.html</guid>
+		<link>https://blog.thetrevor.tech/a.poem.i.wrote.a.while.ago.html</link>
+		<guid>https://blog.thetrevor.tech/a.poem.i.wrote.a.while.ago.html</guid>
 		<pubDate>Fri, 12 Aug 2022 00:11:57 -0500</pubDate>
 		<description><![CDATA[ <p>Oh my, oh my,<br>
 with no path for myself,<br>
@@ -650,8 +650,8 @@ I&rsquo;m a lazy human for not doing my part!<br></p>
 		</item>
 		<item>
 		<title>At last my error.</title>
-		<link>https://trevcan.github.io/need-write-now.html</link>
-		<guid>https://trevcan.github.io/need-write-now.html</guid>
+		<link>https://blog.thetrevor.tech/need-write-now.html</link>
+		<guid>https://blog.thetrevor.tech/need-write-now.html</guid>
 		<pubDate>Sat, 18 Jun 2022 03:06:09 -0500</pubDate>
 		<description><![CDATA[ <p>Instead of working I have found myself dealing
 with some mysery and happiness.
@@ -678,8 +678,8 @@ from too new technologies and not enough real manufacturing of them.</p>
 		</item>
 		<item>
 		<title>$ whoami</title>
-		<link>https://trevcan.github.io/me-why.html</link>
-		<guid>https://trevcan.github.io/me-why.html</guid>
+		<link>https://blog.thetrevor.tech/me-why.html</link>
+		<guid>https://blog.thetrevor.tech/me-why.html</guid>
 		<pubDate>Mon, 06 Jun 2022 20:38:08 -0400</pubDate>
 		<description><![CDATA[ <p>Well, <strong>who am I?</strong></p>
 
@@ -706,8 +706,8 @@ https://git.thetrevor.tech/blog.git/log/articles/me-why.md
 		</item>
 		<item>
 		<title>$ whatis umask anyways</title>
-		<link>https://trevcan.github.io/whatis-umask.html</link>
-		<guid>https://trevcan.github.io/whatis-umask.html</guid>
+		<link>https://blog.thetrevor.tech/whatis-umask.html</link>
+		<guid>https://blog.thetrevor.tech/whatis-umask.html</guid>
 		<pubDate>Wed, 01 Jun 2022 19:26:23 -0500</pubDate>
 		<description><![CDATA[ <p>So, linux and other operating systems use files.
 You might have heard the expression
@@ -734,8 +734,8 @@ of a file using the <code>ls</code> command with some fancy options:</p>
 		</item>
 		<item>
 		<title>A not-so-long plane ride.</title>
-		<link>https://trevcan.github.io/the-offline.html</link>
-		<guid>https://trevcan.github.io/the-offline.html</guid>
+		<link>https://blog.thetrevor.tech/the-offline.html</link>
+		<guid>https://blog.thetrevor.tech/the-offline.html</guid>
 		<pubDate>Wed, 01 Jun 2022 13:23:00 -0500</pubDate>
 		<description><![CDATA[ <p><small>but one without headphones
 </small></p>
@@ -762,8 +762,8 @@ the first place. So I chose not to bring them at all. But in the plane I was off
 		</item>
 		<item>
 		<title>A writing from Alex</title>
-		<link>https://trevcan.github.io/alexss-writing.html</link>
-		<guid>https://trevcan.github.io/alexss-writing.html</guid>
+		<link>https://blog.thetrevor.tech/alexss-writing.html</link>
+		<guid>https://blog.thetrevor.tech/alexss-writing.html</guid>
 		<pubDate>Sat, 28 May 2022 20:50:55 -0500</pubDate>
 		<description><![CDATA[ <p>Alex, write anything you&rsquo;d like to make public. Go right ahead:</p>
 
@@ -790,8 +790,8 @@ the first place. So I chose not to bring them at all. But in the plane I was off
 		</item>
 		<item>
 		<title>Changing your device's MAC address is risky.</title>
-		<link>https://trevcan.github.io/dont-change-mac-addr.html</link>
-		<guid>https://trevcan.github.io/dont-change-mac-addr.html</guid>
+		<link>https://blog.thetrevor.tech/dont-change-mac-addr.html</link>
+		<guid>https://blog.thetrevor.tech/dont-change-mac-addr.html</guid>
 		<pubDate>Sun, 22 May 2022 09:02:54 -0500</pubDate>
 		<description><![CDATA[ <p>At least that was certainly my experience with it.</p>
 
@@ -818,8 +818,8 @@ Now I have another MAC address. But guess what ?</p>
 		</item>
 		<item>
 		<title>The Usual Linux Problems</title>
-		<link>https://trevcan.github.io/common-linux-issues.html</link>
-		<guid>https://trevcan.github.io/common-linux-issues.html</guid>
+		<link>https://blog.thetrevor.tech/common-linux-issues.html</link>
+		<guid>https://blog.thetrevor.tech/common-linux-issues.html</guid>
 		<pubDate>Thu, 19 May 2022 23:14:03 -0500</pubDate>
 		<description><![CDATA[ <p>Most of the time, it boils down to RTFM <a href="#references">[1]</a>!</p>
 
@@ -846,8 +846,8 @@ Now I have another MAC address. But guess what ?</p>
 		</item>
 		<item>
 		<title>Interesting readings from the Internet</title>
-		<link>https://trevcan.github.io/nice-reads.html</link>
-		<guid>https://trevcan.github.io/nice-reads.html</guid>
+		<link>https://blog.thetrevor.tech/nice-reads.html</link>
+		<guid>https://blog.thetrevor.tech/nice-reads.html</guid>
 		<pubDate>Mon, 16 May 2022 22:35:35 -0500</pubDate>
 		<description><![CDATA[ <ul>
 <li><p>A take on George Hotz and his journey on making something useful.</p>
@@ -874,8 +874,8 @@ Now I have another MAC address. But guess what ?</p>
 		</item>
 		<item>
 		<title>Something I did not write.</title>
-		<link>https://trevcan.github.io/writing-not-me-films.html</link>
-		<guid>https://trevcan.github.io/writing-not-me-films.html</guid>
+		<link>https://blog.thetrevor.tech/writing-not-me-films.html</link>
+		<guid>https://blog.thetrevor.tech/writing-not-me-films.html</guid>
 		<pubDate>Mon, 16 May 2022 22:35:04 -0500</pubDate>
 		<description><![CDATA[ <p>Read this article:
 <a href="https://www.sabzian.be/article/hossein-sabzian">https://www.sabzian.be/article/hossein-sabzian</a></p>
@@ -902,8 +902,8 @@ dependency.</p>
 		</item>
 		<item>
 		<title>Creo que extraño mi computadora</title>
-		<link>https://trevcan.github.io/miss-computer-among-autres.html</link>
-		<guid>https://trevcan.github.io/miss-computer-among-autres.html</guid>
+		<link>https://blog.thetrevor.tech/miss-computer-among-autres.html</link>
+		<guid>https://blog.thetrevor.tech/miss-computer-among-autres.html</guid>
 		<pubDate>Sat, 14 May 2022 22:52:15 -0500</pubDate>
 		<description><![CDATA[ <p>Why am I writing the title in Spanish ? Hmmm, I don&rsquo;t know.</p>
 
@@ -930,8 +930,8 @@ qué compré el libro en primera instancia, por qué lo estoy leyendo, por qué 
 		</item>
 		<item>
 		<title>the woke tech culture has spoken</title>
-		<link>https://trevcan.github.io/why-git.html</link>
-		<guid>https://trevcan.github.io/why-git.html</guid>
+		<link>https://blog.thetrevor.tech/why-git.html</link>
+		<guid>https://blog.thetrevor.tech/why-git.html</guid>
 		<pubDate>Sun, 08 May 2022 13:07:05 -0500</pubDate>
 		<description><![CDATA[ <p>Read this story: <a href="https://news.ycombinator.com/item?id=31009675">https://news.ycombinator.com/item?id=31009675</a></p>
 
@@ -958,8 +958,8 @@ Hundreds of CI/CD (Continuous integration / Continuous delivery ).</p>
 		</item>
 		<item>
 		<title>Untitled Universtiy Useful Links</title>
-		<link>https://trevcan.github.io/uu.watchlater.html</link>
-		<guid>https://trevcan.github.io/uu.watchlater.html</guid>
+		<link>https://blog.thetrevor.tech/uu.watchlater.html</link>
+		<guid>https://blog.thetrevor.tech/uu.watchlater.html</guid>
 		<pubDate>Fri, 06 May 2022 12:45:33 -0500</pubDate>
 		<description><![CDATA[ <a name="edu-course"></a>
 <h1>edu course</h1>
@@ -986,8 +986,8 @@ Hundreds of CI/CD (Continuous integration / Continuous delivery ).</p>
 		</item>
 		<item>
 		<title>Information Flow</title>
-		<link>https://trevcan.github.io/a-lot-of-information.html</link>
-		<guid>https://trevcan.github.io/a-lot-of-information.html</guid>
+		<link>https://blog.thetrevor.tech/a-lot-of-information.html</link>
+		<guid>https://blog.thetrevor.tech/a-lot-of-information.html</guid>
 		<pubDate>Tue, 03 May 2022 21:09:31 -0500</pubDate>
 		<description><![CDATA[ <p>Oh my God ! It&rsquo;s my last day of school ! Well, I still
 have another day tomorrow but we&rsquo;re practically doing nothing!
@@ -1014,8 +1014,8 @@ I just need to take the final exam and if I want finish those
 		</item>
 		<item>
 		<title>Getting access to public wifi internet on Linux</title>
-		<link>https://trevcan.github.io/sign-in-public-wifi.html</link>
-		<guid>https://trevcan.github.io/sign-in-public-wifi.html</guid>
+		<link>https://blog.thetrevor.tech/sign-in-public-wifi.html</link>
+		<guid>https://blog.thetrevor.tech/sign-in-public-wifi.html</guid>
 		<pubDate>Mon, 02 May 2022 20:53:00 -0500</pubDate>
 		<description><![CDATA[ <p>Okay, so you&rsquo;re at a mall or something, there&rsquo;s public
 <em>WiFi</em>. Cool. And you can access the internet with your
@@ -1042,8 +1042,8 @@ you to the login page.</p>
 		</item>
 		<item>
 		<title>make Cheese Garlic Bread</title>
-		<link>https://trevcan.github.io/cheese-garlic-bread.html</link>
-		<guid>https://trevcan.github.io/cheese-garlic-bread.html</guid>
+		<link>https://blog.thetrevor.tech/cheese-garlic-bread.html</link>
+		<guid>https://blog.thetrevor.tech/cheese-garlic-bread.html</guid>
 		<pubDate>Sun, 01 May 2022 14:15:28 -0500</pubDate>
 		<description><![CDATA[ <p><em><strong>Note: This is a verbatim copy off the recipe found in the description off <a href="https://youtu.be/J6ujTlepWo0">this video.</a></strong></em></p>
 
@@ -1070,8 +1070,8 @@ It&rsquo;s not difficult to knead so let&rsquo;s make it together~</p>
 		</item>
 		<item>
 		<title>Going back in time and reading some of Zuckerberg's blog posts.</title>
-		<link>https://trevcan.github.io/back-in-time-xucc.html</link>
-		<guid>https://trevcan.github.io/back-in-time-xucc.html</guid>
+		<link>https://blog.thetrevor.tech/back-in-time-xucc.html</link>
+		<guid>https://blog.thetrevor.tech/back-in-time-xucc.html</guid>
 		<pubDate>Sun, 01 May 2022 14:15:16 -0500</pubDate>
 		<description><![CDATA[ <p>Yes, the Mark Zuckerberg!</p>
 
@@ -1098,8 +1098,8 @@ I almost want to put some of these faces next to pictures of farm animals and ha
 		</item>
 		<item>
 		<title>I drank coffee</title>
-		<link>https://trevcan.github.io/on-norm.drugs.html</link>
-		<guid>https://trevcan.github.io/on-norm.drugs.html</guid>
+		<link>https://blog.thetrevor.tech/on-norm.drugs.html</link>
+		<guid>https://blog.thetrevor.tech/on-norm.drugs.html</guid>
 		<pubDate>Sun, 01 May 2022 00:45:37 -0500</pubDate>
 		<description><![CDATA[ <p>Maybe this is placebo but point is I kind of am a distracted person
 and feel like my heart is pounding relatively fast.</p>
@@ -1126,8 +1126,8 @@ almost kind of done, and he made most of it. I feel bad for that. Kinda.</p>
 		</item>
 		<item>
 		<title>The feeling of Uselessness</title>
-		<link>https://trevcan.github.io/the-feeling-of-uselessness.html</link>
-		<guid>https://trevcan.github.io/the-feeling-of-uselessness.html</guid>
+		<link>https://blog.thetrevor.tech/the-feeling-of-uselessness.html</link>
+		<guid>https://blog.thetrevor.tech/the-feeling-of-uselessness.html</guid>
 		<pubDate>Fri, 29 Apr 2022 12:43:13 -0500</pubDate>
 		<description><![CDATA[ <a name="i-feel-useless"></a>
 <h1>i feel useless</h1>
@@ -1154,8 +1154,8 @@ of this which means that you
 		</item>
 		<item>
 		<title>A top-tier prank to Elijah Woods</title>
-		<link>https://trevcan.github.io/top-tier-prank-elijah.html</link>
-		<guid>https://trevcan.github.io/top-tier-prank-elijah.html</guid>
+		<link>https://blog.thetrevor.tech/top-tier-prank-elijah.html</link>
+		<guid>https://blog.thetrevor.tech/top-tier-prank-elijah.html</guid>
 		<pubDate>Fri, 29 Apr 2022 12:13:15 -0500</pubDate>
 		<description><![CDATA[ <p><a href="https://youtu.be/IfhMILe8C84">https://youtu.be/IfhMILe8C84</a></p>
 
@@ -1182,8 +1182,8 @@ of humor that is indeed humorous.</p>
 		</item>
 		<item>
 		<title>A relatable song.</title>
-		<link>https://trevcan.github.io/nouveau-song-thirsty.html</link>
-		<guid>https://trevcan.github.io/nouveau-song-thirsty.html</guid>
+		<link>https://blog.thetrevor.tech/nouveau-song-thirsty.html</link>
+		<guid>https://blog.thetrevor.tech/nouveau-song-thirsty.html</guid>
 		<pubDate>Sun, 24 Apr 2022 13:46:14 -0500</pubDate>
 		<description><![CDATA[ <p>A very relatable song. Just listen to the
 crisp lyrics:</p>
@@ -1210,8 +1210,8 @@ crisp lyrics:</p>
 		</item>
 		<item>
 		<title>Listing Installed Fonts on *NIX systems</title>
-		<link>https://trevcan.github.io/list-linux-fonts.html</link>
-		<guid>https://trevcan.github.io/list-linux-fonts.html</guid>
+		<link>https://blog.thetrevor.tech/list-linux-fonts.html</link>
+		<guid>https://blog.thetrevor.tech/list-linux-fonts.html</guid>
 		<pubDate>Fri, 22 Apr 2022 21:29:15 -0500</pubDate>
 		<description><![CDATA[ <p>weird, right !?</p>
 
@@ -1238,8 +1238,8 @@ encodings              kanjistrokeorders  noto        ttf-jetbrains
 		</item>
 		<item>
 		<title>Hello, world!</title>
-		<link>https://trevcan.github.io/hello-manav-and-dagsen.html</link>
-		<guid>https://trevcan.github.io/hello-manav-and-dagsen.html</guid>
+		<link>https://blog.thetrevor.tech/hello-manav-and-dagsen.html</link>
+		<guid>https://blog.thetrevor.tech/hello-manav-and-dagsen.html</guid>
 		<pubDate>Fri, 22 Apr 2022 11:47:40 -0500</pubDate>
 		<description><![CDATA[ <p>Hello. This is trevor writing.</p>
 
@@ -1266,8 +1266,8 @@ encodings              kanjistrokeorders  noto        ttf-jetbrains
 		</item>
 		<item>
 		<title>Le Revue dans ma classe de français</title>
-		<link>https://trevcan.github.io/mon-french-revue.html</link>
-		<guid>https://trevcan.github.io/mon-french-revue.html</guid>
+		<link>https://blog.thetrevor.tech/mon-french-revue.html</link>
+		<guid>https://blog.thetrevor.tech/mon-french-revue.html</guid>
 		<pubDate>Thu, 21 Apr 2022 21:59:40 -0500</pubDate>
 		<description><![CDATA[ <p>Donc aujourd'hui ma professeur de français a voulé de faire
 un revue de toute les conjugaison en français.</p>
@@ -1294,13 +1294,13 @@ les verbes de &lsquo;mouvement&rsquo; ( avec la maison etc&hellip;)</p>
 		</item>
 		<item>
 		<title>This is my terminal.</title>
-		<link>https://trevcan.github.io/my-terminal.n.html</link>
-		<guid>https://trevcan.github.io/my-terminal.n.html</guid>
+		<link>https://blog.thetrevor.tech/my-terminal.n.html</link>
+		<guid>https://blog.thetrevor.tech/my-terminal.n.html</guid>
 		<pubDate>Thu, 21 Apr 2022 21:24:44 -0500</pubDate>
 		<description><![CDATA[ 
 
 <p>
-<iframe src=terminal.html width=800px height=600px >
+<iframe src=https://thetrevor.tech/terminal.html width=800px height=600px >
 </iframe>
 </p>
 
@@ -1322,8 +1322,8 @@ liberate the country from Britain.</p>
 		</item>
 		<item>
 		<title>A funny short film.</title>
-		<link>https://trevcan.github.io/one-funny-short-film.html</link>
-		<guid>https://trevcan.github.io/one-funny-short-film.html</guid>
+		<link>https://blog.thetrevor.tech/one-funny-short-film.html</link>
+		<guid>https://blog.thetrevor.tech/one-funny-short-film.html</guid>
 		<pubDate>Thu, 21 Apr 2022 20:37:21 -0500</pubDate>
 		<description><![CDATA[ <p>what the film <code>NUMBER 2</code> here:
 <a href="https://youtu.be/hZFm6bIqeh8">https://youtu.be/hZFm6bIqeh8</a></p>
@@ -1350,8 +1350,8 @@ instead held a relatively long conversation with her friend.</p>
 		</item>
 		<item>
 		<title>On Top of the World, You Are Not - Nor Am I.</title>
-		<link>https://trevcan.github.io/the-thoushallnot.html</link>
-		<guid>https://trevcan.github.io/the-thoushallnot.html</guid>
+		<link>https://blog.thetrevor.tech/the-thoushallnot.html</link>
+		<guid>https://blog.thetrevor.tech/the-thoushallnot.html</guid>
 		<pubDate>Wed, 20 Apr 2022 18:32:57 -0500</pubDate>
 		<description><![CDATA[ <p>Yes. And there was light, after darkness.
 And there was darkness after the light;
@@ -1378,8 +1378,8 @@ Sink. I showered.</p>
 		</item>
 		<item>
 		<title>The Tiny Quake</title>
-		<link>https://trevcan.github.io/the-tiny-quake-19-april-22.html</link>
-		<guid>https://trevcan.github.io/the-tiny-quake-19-april-22.html</guid>
+		<link>https://blog.thetrevor.tech/the-tiny-quake-19-april-22.html</link>
+		<guid>https://blog.thetrevor.tech/the-tiny-quake-19-april-22.html</guid>
 		<pubDate>Tue, 19 Apr 2022 08:00:57 -0500</pubDate>
 		<description><![CDATA[ <p><audio controls>
     <source src="https://files.thetrevor.tech/musike/real/songs/playlists/80s_90s_2000_heavy-metal.songs.playlist/AC_DC%20-%20You%20Shook%20Me%20All%20Night%20Long%20(Official%20Video)%20%5BLo2qQmj0_h4%5D.aac" type=audio/aac >
@@ -1406,8 +1406,8 @@ kilometers away.</p>
 		</item>
 		<item>
 		<title>Weirdness of entropy or the Absurdity of Entropy.</title>
-		<link>https://trevcan.github.io/the-absurdity-entropy.html</link>
-		<guid>https://trevcan.github.io/the-absurdity-entropy.html</guid>
+		<link>https://blog.thetrevor.tech/the-absurdity-entropy.html</link>
+		<guid>https://blog.thetrevor.tech/the-absurdity-entropy.html</guid>
 		<pubDate>Mon, 18 Apr 2022 09:39:24 -0500</pubDate>
 		<description><![CDATA[ <p>note: my friend Gaby thinks that I did not touch entropy enough. Fair enough, <em>I don&rsquo;t really dive into the definition or the concept.</em></p>
 
@@ -1434,8 +1434,8 @@ on.</p>
 		</item>
 		<item>
 		<title>Writing math in raw utf-8</title>
-		<link>https://trevcan.github.io/writing-math.html</link>
-		<guid>https://trevcan.github.io/writing-math.html</guid>
+		<link>https://blog.thetrevor.tech/writing-math.html</link>
+		<guid>https://blog.thetrevor.tech/writing-math.html</guid>
 		<pubDate>Sun, 17 Apr 2022 00:33:01 -0500</pubDate>
 		<description><![CDATA[ <a name="on-web-browsers-and-GUI-apps"></a>
 <h1>on web browsers and GUI apps</h1>
@@ -1462,8 +1462,8 @@ microsoft word with a laggy interface or whatever.</p>
 		</item>
 		<item>
 		<title>Site updates</title>
-		<link>https://trevcan.github.io/site-updates.html</link>
-		<guid>https://trevcan.github.io/site-updates.html</guid>
+		<link>https://blog.thetrevor.tech/site-updates.html</link>
+		<guid>https://blog.thetrevor.tech/site-updates.html</guid>
 		<pubDate>Sat, 16 Apr 2022 23:42:01 -0500</pubDate>
 		<description><![CDATA[ <p>so we now have a new domain !</p>
 
@@ -1490,8 +1490,8 @@ my site.</p>
 		</item>
 		<item>
 		<title>I talked to a human.</title>
-		<link>https://trevcan.github.io/talked.today.april.11.html</link>
-		<guid>https://trevcan.github.io/talked.today.april.11.html</guid>
+		<link>https://blog.thetrevor.tech/talked.today.april.11.html</link>
+		<guid>https://blog.thetrevor.tech/talked.today.april.11.html</guid>
 		<pubDate>Mon, 11 Apr 2022 11:24:01 -0500</pubDate>
 		<description><![CDATA[ <p>Nothing new, I guess.</p>
 
@@ -1518,8 +1518,8 @@ that I&rsquo;d be tutoring for free whilst he&rsquo;d be selling ads on
 		</item>
 		<item>
 		<title>MediaGoblin won't work.</title>
-		<link>https://trevcan.github.io/whyy-dont-you-work-mediagoblin.html</link>
-		<guid>https://trevcan.github.io/whyy-dont-you-work-mediagoblin.html</guid>
+		<link>https://blog.thetrevor.tech/whyy-dont-you-work-mediagoblin.html</link>
+		<guid>https://blog.thetrevor.tech/whyy-dont-you-work-mediagoblin.html</guid>
 		<pubDate>Mon, 11 Apr 2022 01:46:04 -0500</pubDate>
 		<description><![CDATA[ <p>Hello. I have recently acquired a domain for some time, called
 &lsquo;thetrevor.tech&rsquo; and you may not visit my site using that
@@ -1546,8 +1546,8 @@ platform that consumes a ton of resources on your <strong>client</strong> web
 		</item>
 		<item>
 		<title>Resizing images on Linux while keeping aspect ratio.</title>
-		<link>https://trevcan.github.io/resize-image-on-linux.html</link>
-		<guid>https://trevcan.github.io/resize-image-on-linux.html</guid>
+		<link>https://blog.thetrevor.tech/resize-image-on-linux.html</link>
+		<guid>https://blog.thetrevor.tech/resize-image-on-linux.html</guid>
 		<pubDate>Mon, 11 Apr 2022 01:43:36 -0500</pubDate>
 		<description><![CDATA[ <p>bored ?, read <a href="#references">[0]</a>.</p>
 
@@ -1574,8 +1574,8 @@ it won&rsquo;t modify the original file.</p>
 		</item>
 		<item>
 		<title>Sometimes the truth hurts</title>
-		<link>https://trevcan.github.io/right.truth.html</link>
-		<guid>https://trevcan.github.io/right.truth.html</guid>
+		<link>https://blog.thetrevor.tech/right.truth.html</link>
+		<guid>https://blog.thetrevor.tech/right.truth.html</guid>
 		<pubDate>Fri, 08 Apr 2022 14:44:36 -0500</pubDate>
 		<description><![CDATA[ <p>Yes, sometimes the truth hurts.</p>
 
@@ -1602,8 +1602,8 @@ Gaby. No problem. But it is hard accepting the truth.</p>
 		</item>
 		<item>
 		<title>Programming paradigms recommended by two humans.</title>
-		<link>https://trevcan.github.io/programming-paradigms-geohot.html</link>
-		<guid>https://trevcan.github.io/programming-paradigms-geohot.html</guid>
+		<link>https://blog.thetrevor.tech/programming-paradigms-geohot.html</link>
+		<guid>https://blog.thetrevor.tech/programming-paradigms-geohot.html</guid>
 		<pubDate>Fri, 08 Apr 2022 13:47:41 -0500</pubDate>
 		<description><![CDATA[ <a name="Programming-paradigms"></a>
 <h2>Programming paradigms</h2>
@@ -1630,8 +1630,8 @@ Gaby. No problem. But it is hard accepting the truth.</p>
 		</item>
 		<item>
 		<title>Un escrito que me encontré en la web</title>
-		<link>https://trevcan.github.io/frase-shopenjuawer.html</link>
-		<guid>https://trevcan.github.io/frase-shopenjuawer.html</guid>
+		<link>https://blog.thetrevor.tech/frase-shopenjuawer.html</link>
+		<guid>https://blog.thetrevor.tech/frase-shopenjuawer.html</guid>
 		<pubDate>Fri, 08 Apr 2022 13:43:33 -0500</pubDate>
 		<description><![CDATA[ <p>Hola, este es uno de mis primeros posts en español. Este es un texto originalmente publicado en <a href="#referencias">0</a>.</p>
 
@@ -1658,8 +1658,8 @@ Ya no hay que salir a cazar ni ir a la guerra, ahora enfrentamos nuestra propia 
 		</item>
 		<item>
 		<title>Querying Netflix media by genre codes</title>
-		<link>https://trevcan.github.io/le-netflox-genre-codes.html</link>
-		<guid>https://trevcan.github.io/le-netflox-genre-codes.html</guid>
+		<link>https://blog.thetrevor.tech/le-netflox-genre-codes.html</link>
+		<guid>https://blog.thetrevor.tech/le-netflox-genre-codes.html</guid>
 		<pubDate>Fri, 08 Apr 2022 13:34:48 -0500</pubDate>
 		<description><![CDATA[ <p>Netflix genre codes</p>
 
@@ -1686,8 +1686,8 @@ Y ya ahí les va a salir un catálogo que incluye
 		</item>
 		<item>
 		<title>Bonsoir</title>
-		<link>https://trevcan.github.io/today.avril.07.2022.html</link>
-		<guid>https://trevcan.github.io/today.avril.07.2022.html</guid>
+		<link>https://blog.thetrevor.tech/today.avril.07.2022.html</link>
+		<guid>https://blog.thetrevor.tech/today.avril.07.2022.html</guid>
 		<pubDate>Thu, 07 Apr 2022 23:05:26 -0500</pubDate>
 		<description><![CDATA[ <p>Bonsoir, Elliot. <a href="#references">?</a></p>
 
@@ -1714,8 +1714,8 @@ Mr. Robot. Elle est une très bonne série Americaine, crée
 		</item>
 		<item>
 		<title>HTTP Proxy</title>
-		<link>https://trevcan.github.io/http-proxy.html</link>
-		<guid>https://trevcan.github.io/http-proxy.html</guid>
+		<link>https://blog.thetrevor.tech/http-proxy.html</link>
+		<guid>https://blog.thetrevor.tech/http-proxy.html</guid>
 		<pubDate>Thu, 07 Apr 2022 21:53:42 -0500</pubDate>
 		<description><![CDATA[ <p>I have a problem. I&rsquo;m a linux junkie. I&rsquo;d like to ssh into my
 home-server from any network. This means networks that don&rsquo;t allow
@@ -1742,8 +1742,8 @@ it can work through http and use other protocols (in theory).</p>
 		</item>
 		<item>
 		<title>What are names anyway ?</title>
-		<link>https://trevcan.github.io/names.anyway.html</link>
-		<guid>https://trevcan.github.io/names.anyway.html</guid>
+		<link>https://blog.thetrevor.tech/names.anyway.html</link>
+		<guid>https://blog.thetrevor.tech/names.anyway.html</guid>
 		<pubDate>Thu, 07 Apr 2022 11:12:02 -0500</pubDate>
 		<description><![CDATA[ <p>just about four minutes ago I stumbled upon a good friend of mine, Nacho. He was with her friend, Betzabé. I couldn&rsquo;t remember the name. Nor did she remember mine. So we did not salute. Then Cindy arrived. I did remember Cindy&rsquo;s name. Then I asked them about where the <em>Auditorium 1</em> was. Apparently I had fucked up. It was in the high school building, not in undergrad. Then I told Betzabe hello, and sincerely said that I couldn&rsquo;t remember her name. &ldquo;Betzabé&rdquo;, she told me. She confessed she didn&rsquo;t remember mine either.</p>
 
@@ -1770,8 +1770,8 @@ it can work through http and use other protocols (in theory).</p>
 		</item>
 		<item>
 		<title>Métaphysique </title>
-		<link>https://trevcan.github.io/metaphysique.html</link>
-		<guid>https://trevcan.github.io/metaphysique.html</guid>
+		<link>https://blog.thetrevor.tech/metaphysique.html</link>
+		<guid>https://blog.thetrevor.tech/metaphysique.html</guid>
 		<pubDate>Wed, 06 Apr 2022 14:53:44 -0500</pubDate>
 		<description><![CDATA[ <p>notes de ma classe de philosophie.</p>
 
@@ -1798,8 +1798,8 @@ mais elle est un nature qui est consciente,<br>
 		</item>
 		<item>
 		<title>Git server upgrade!</title>
-		<link>https://trevcan.github.io/git-on-https.html</link>
-		<guid>https://trevcan.github.io/git-on-https.html</guid>
+		<link>https://blog.thetrevor.tech/git-on-https.html</link>
+		<guid>https://blog.thetrevor.tech/git-on-https.html</guid>
 		<pubDate>Sat, 02 Apr 2022 22:14:30 -0600</pubDate>
 		<description><![CDATA[ <p>So, as of yesterday I was running a git over ssh server.
 Which isn&rsquo;t even a server <em>per se</em>, since it just runs
@@ -1826,8 +1826,8 @@ It&rsquo;s a standard protocol that is
 		</item>
 		<item>
 		<title>Actually unmounting and removing power off HDDs</title>
-		<link>https://trevcan.github.io/hdd-real-unmount.html</link>
-		<guid>https://trevcan.github.io/hdd-real-unmount.html</guid>
+		<link>https://blog.thetrevor.tech/hdd-real-unmount.html</link>
+		<guid>https://blog.thetrevor.tech/hdd-real-unmount.html</guid>
 		<pubDate>Wed, 30 Mar 2022 18:19:42 -0600</pubDate>
 		<description><![CDATA[ <p>On windows 10, when ejecting a hard disk drive, it will stop
 spinning. That is nice. It, of course, unmounts the partitions
@@ -1854,8 +1854,8 @@ to set the permissions so that a normal user can do this, but I&rsquo;m not
 		</item>
 		<item>
 		<title>blogging while at physics class</title>
-		<link>https://trevcan.github.io/meta.today.2022.march.28.html</link>
-		<guid>https://trevcan.github.io/meta.today.2022.march.28.html</guid>
+		<link>https://blog.thetrevor.tech/meta.today.2022.march.28.html</link>
+		<guid>https://blog.thetrevor.tech/meta.today.2022.march.28.html</guid>
 		<pubDate>Wed, 30 Mar 2022 18:06:38 -0600</pubDate>
 		<description><![CDATA[ <p><em>i was not drugged while writing this blog post. maybe drugged with too much feelings</em>
 <em>wait, actually i do think some medicines I took might have altered this.</em>
@@ -1882,8 +1882,8 @@ y luego esto se rompe y [&hellip;]</p>
 		</item>
 		<item>
 		<title>Finding empty directories</title>
-		<link>https://trevcan.github.io/find.dirs.html</link>
-		<guid>https://trevcan.github.io/find.dirs.html</guid>
+		<link>https://blog.thetrevor.tech/find.dirs.html</link>
+		<guid>https://blog.thetrevor.tech/find.dirs.html</guid>
 		<pubDate>Wed, 30 Mar 2022 17:53:43 -0600</pubDate>
 		<description><![CDATA[ <p>based on this article: <a href="https://www.linuxshelltips.com/find-and-delete-empty-directories-in-linux/">https://www.linuxshelltips.com/find-and-delete-empty-directories-in-linux/</a></p>
 
@@ -1910,8 +1910,8 @@ recursively. That&rsquo;s it.</p>
 		</item>
 		<item>
 		<title>Addicted to Black points</title>
-		<link>https://trevcan.github.io/the.orange.addiction.html</link>
-		<guid>https://trevcan.github.io/the.orange.addiction.html</guid>
+		<link>https://blog.thetrevor.tech/the.orange.addiction.html</link>
+		<guid>https://blog.thetrevor.tech/the.orange.addiction.html</guid>
 		<pubDate>Wed, 30 Mar 2022 17:45:00 -0600</pubDate>
 		<description><![CDATA[ <p>written on march 29th</p>
 
@@ -1938,8 +1938,8 @@ the points I have accumulated on my profile [0].</p>
 		</item>
 		<item>
 		<title>Nice website</title>
-		<link>https://trevcan.github.io/funny-site-faq.html</link>
-		<guid>https://trevcan.github.io/funny-site-faq.html</guid>
+		<link>https://blog.thetrevor.tech/funny-site-faq.html</link>
+		<guid>https://blog.thetrevor.tech/funny-site-faq.html</guid>
 		<pubDate>Wed, 30 Mar 2022 17:15:15 -0600</pubDate>
 		<description><![CDATA[ <p>After reading one of the top posts on Ask HN this day, I stumbled upon this
 blog search engine, known as <a href="https://blogsurf.io/">blogsurf</a>. It&rsquo;s a blog
@@ -1966,8 +1966,8 @@ the hurdles of maintaining a website whilst working a (maybe?) full-time job.</p
 		</item>
 		<item>
 		<title>Debugging Linux chown operation not permitted</title>
-		<link>https://trevcan.github.io/debug.chown.not.pmed.html</link>
-		<guid>https://trevcan.github.io/debug.chown.not.pmed.html</guid>
+		<link>https://blog.thetrevor.tech/debug.chown.not.pmed.html</link>
+		<guid>https://blog.thetrevor.tech/debug.chown.not.pmed.html</guid>
 		<pubDate>Sun, 27 Mar 2022 21:02:58 -0600</pubDate>
 		<description><![CDATA[ <p><em>yes, even for root!</em></p>
 
@@ -1994,8 +1994,8 @@ system that doesn&rsquo;t allow permissions. These file systems
 		</item>
 		<item>
 		<title>tragedy</title>
-		<link>https://trevcan.github.io/ffff.html</link>
-		<guid>https://trevcan.github.io/ffff.html</guid>
+		<link>https://blog.thetrevor.tech/ffff.html</link>
+		<guid>https://blog.thetrevor.tech/ffff.html</guid>
 		<pubDate>Sat, 26 Mar 2022 16:38:28 -0600</pubDate>
 		<description><![CDATA[ <p><em>Disclaimer: there&rsquo;s swearing and sensitive topics (including suicide)</em> dont kill yourself</p>
 
@@ -2022,8 +2022,8 @@ be hearing my swearing any time
 		</item>
 		<item>
 		<title>Speed running today</title>
-		<link>https://trevcan.github.io/meta.today.html</link>
-		<guid>https://trevcan.github.io/meta.today.html</guid>
+		<link>https://blog.thetrevor.tech/meta.today.html</link>
+		<guid>https://blog.thetrevor.tech/meta.today.html</guid>
 		<pubDate>Tue, 22 Mar 2022 10:32:01 -0600</pubDate>
 		<description><![CDATA[ <p>context: go to end of document.</p>
 
@@ -2050,8 +2050,8 @@ then created a bare git repo and pushed to that.</p>
 		</item>
 		<item>
 		<title>Dedication is not only admirable, but achievable</title>
-		<link>https://trevcan.github.io/whyamistillhere.html</link>
-		<guid>https://trevcan.github.io/whyamistillhere.html</guid>
+		<link>https://blog.thetrevor.tech/whyamistillhere.html</link>
+		<guid>https://blog.thetrevor.tech/whyamistillhere.html</guid>
 		<pubDate>Mon, 21 Mar 2022 02:44:58 -0600</pubDate>
 		<description><![CDATA[ <p>Yesterday - well, technically the day before yesterday a.k.a. <em>antier</em> in Spanish -
 me and some friends were sharing stories of how we got into Tecbot, the
@@ -2078,8 +2078,8 @@ Yet Santiago figured out the name of the teacher, then ( somehow ) got his
 		</item>
 		<item>
 		<title>Lazy man's VPN or <em>Simple VPN through SSH</em></title>
-		<link>https://trevcan.github.io/ssh-vpn.html</link>
-		<guid>https://trevcan.github.io/ssh-vpn.html</guid>
+		<link>https://blog.thetrevor.tech/ssh-vpn.html</link>
+		<guid>https://blog.thetrevor.tech/ssh-vpn.html</guid>
 		<pubDate>Wed, 16 Mar 2022 16:00:48 -0600</pubDate>
 		<description><![CDATA[ <p>It works like a VPN, acts like a VPN, feels like a VPN; but it kinda
 isn&rsquo;t a VPN.</p>
@@ -2106,8 +2106,8 @@ WHERE:</p>
 		</item>
 		<item>
 		<title>web servers useful links</title>
-		<link>https://trevcan.github.io/webserver.html</link>
-		<guid>https://trevcan.github.io/webserver.html</guid>
+		<link>https://blog.thetrevor.tech/webserver.html</link>
+		<guid>https://blog.thetrevor.tech/webserver.html</guid>
 		<pubDate>Wed, 16 Mar 2022 15:56:11 -0600</pubDate>
 		<description><![CDATA[ <p>not a real article, just a list of links.</p>
 
@@ -2134,8 +2134,8 @@ viewed  the diagram.</p></li>
 		</item>
 		<item>
 		<title>Debugging FRC Pneumatics </title>
-		<link>https://trevcan.github.io/tecbot.debugging.pcm.html</link>
-		<guid>https://trevcan.github.io/tecbot.debugging.pcm.html</guid>
+		<link>https://blog.thetrevor.tech/tecbot.debugging.pcm.html</link>
+		<guid>https://blog.thetrevor.tech/tecbot.debugging.pcm.html</guid>
 		<pubDate>Wed, 16 Mar 2022 15:54:04 -0600</pubDate>
 		<description><![CDATA[ <p>Shame on me. Shame on my team. I lead the software team @ tecbot. Includes
 programming.</p>
@@ -2162,8 +2162,8 @@ that in ?</p>
 		</item>
 		<item>
 		<title>Debugging archlinux keyring breaking when updating.</title>
-		<link>https://trevcan.github.io/arch-debug-keys-keyring.html</link>
-		<guid>https://trevcan.github.io/arch-debug-keys-keyring.html</guid>
+		<link>https://blog.thetrevor.tech/arch-debug-keys-keyring.html</link>
+		<guid>https://blog.thetrevor.tech/arch-debug-keys-keyring.html</guid>
 		<pubDate>Wed, 16 Mar 2022 15:51:10 -0600</pubDate>
 		<description><![CDATA[ <a name="bug"></a>
 <h1>bug</h1>
@@ -2190,8 +2190,8 @@ that in ?</p>
 		</item>
 		<item>
 		<title>Independence from closed technologies.</title>
-		<link>https://trevcan.github.io/volvo-music.html</link>
-		<guid>https://trevcan.github.io/volvo-music.html</guid>
+		<link>https://blog.thetrevor.tech/volvo-music.html</link>
+		<guid>https://blog.thetrevor.tech/volvo-music.html</guid>
 		<pubDate>Wed, 16 Mar 2022 15:45:04 -0600</pubDate>
 		<description><![CDATA[ <p>Hello there. I use spotify. My dad pays for it.</p>
 
@@ -2218,8 +2218,8 @@ songs and audio. But restricted. You were not pirating anything. Yet you
 		</item>
 		<item>
 		<title>Yeeet !</title>
-		<link>https://trevcan.github.io/helloddd.html</link>
-		<guid>https://trevcan.github.io/helloddd.html</guid>
+		<link>https://blog.thetrevor.tech/helloddd.html</link>
+		<guid>https://blog.thetrevor.tech/helloddd.html</guid>
 		<pubDate>Thu, 10 Mar 2022 09:18:26 -0600</pubDate>
 		<description><![CDATA[ <p>Hello, Demian. I hope you are
 doing well. Thanks for complimenting my blog. That is all. good luck on your presentation !</p>
@@ -2246,8 +2246,8 @@ doing well. Thanks for complimenting my blog. That is all. good luck on your pre
 		</item>
 		<item>
 		<title>Jonah Hill.</title>
-		<link>https://trevcan.github.io/jonahhill.html</link>
-		<guid>https://trevcan.github.io/jonahhill.html</guid>
+		<link>https://blog.thetrevor.tech/jonahhill.html</link>
+		<guid>https://blog.thetrevor.tech/jonahhill.html</guid>
 		<pubDate>Tue, 08 Mar 2022 07:41:35 -0600</pubDate>
 		<description><![CDATA[ <p>this is jonah Hill:</p>
 
@@ -2274,8 +2274,8 @@ doing well. Thanks for complimenting my blog. That is all. good luck on your pre
 		</item>
 		<item>
 		<title>En parlant français</title>
-		<link>https://trevcan.github.io/fr.blooaub.html</link>
-		<guid>https://trevcan.github.io/fr.blooaub.html</guid>
+		<link>https://blog.thetrevor.tech/fr.blooaub.html</link>
+		<guid>https://blog.thetrevor.tech/fr.blooaub.html</guid>
 		<pubDate>Mon, 07 Mar 2022 13:43:18 -0600</pubDate>
 		<description><![CDATA[ <p>Bonjour, ç'est seulement un petit blog post
 où j'essaie de parler français et en vérifiant
@@ -2302,8 +2302,8 @@ peut-être que demain.</p>
 		</item>
 		<item>
 		<title>copy all Pictures/Videos from iOS device to PC</title>
-		<link>https://trevcan.github.io/exporting-media-from-ios-to-pc.html</link>
-		<guid>https://trevcan.github.io/exporting-media-from-ios-to-pc.html</guid>
+		<link>https://blog.thetrevor.tech/exporting-media-from-ios-to-pc.html</link>
+		<guid>https://blog.thetrevor.tech/exporting-media-from-ios-to-pc.html</guid>
 		<pubDate>Sun, 06 Mar 2022 01:14:58 -0600</pubDate>
 		<description><![CDATA[ <p>This guide is a tutorial to learn how to import ( and optionally delete) and browse your pictures and videos inside your iOS Device. You only need a working computer, a lightning-to-usb (with data transfer) cable, and an iOS device.</p>
 
@@ -2330,8 +2330,8 @@ peut-être que demain.</p>
 		</item>
 		<item>
 		<title>Chanson: Priorisite-moi</title>
-		<link>https://trevcan.github.io/dite-moi.je.faire.html</link>
-		<guid>https://trevcan.github.io/dite-moi.je.faire.html</guid>
+		<link>https://blog.thetrevor.tech/dite-moi.je.faire.html</link>
+		<guid>https://blog.thetrevor.tech/dite-moi.je.faire.html</guid>
 		<pubDate>Fri, 04 Mar 2022 14:51:16 -0600</pubDate>
 		<description><![CDATA[ <p>Chanson de Pomplamoose.</p>
 
@@ -2358,8 +2358,8 @@ et en géneral distractions.</p>
 		</item>
 		<item>
 		<title>How to get saved network passwords in Linux (Network Manager)</title>
-		<link>https://trevcan.github.io/linux-find-network-passwds.html</link>
-		<guid>https://trevcan.github.io/linux-find-network-passwds.html</guid>
+		<link>https://blog.thetrevor.tech/linux-find-network-passwds.html</link>
+		<guid>https://blog.thetrevor.tech/linux-find-network-passwds.html</guid>
 		<pubDate>Fri, 04 Mar 2022 12:51:22 -0600</pubDate>
 		<description><![CDATA[ <p>making this because sometimes i don&rsquo;t RTFM.</p>
 
@@ -2386,8 +2386,8 @@ a list of *.nmconnection files.</p>
 		</item>
 		<item>
 		<title>*Curriculum Vitae*</title>
-		<link>https://trevcan.github.io/hireme.cv.html</link>
-		<guid>https://trevcan.github.io/hireme.cv.html</guid>
+		<link>https://blog.thetrevor.tech/hireme.cv.html</link>
+		<guid>https://blog.thetrevor.tech/hireme.cv.html</guid>
 		<pubDate>Wed, 02 Mar 2022 11:44:41 -0600</pubDate>
 		<description><![CDATA[ <p><a href="https://cv.thetrevor.tech">https://cv.thetrevor.tech</a></p>
 
@@ -2414,8 +2414,8 @@ place of birth: United States of America
 		</item>
 		<item>
 		<title>My hacker news Who wants to be hired full comment</title>
-		<link>https://trevcan.github.io/hired.hn.html</link>
-		<guid>https://trevcan.github.io/hired.hn.html</guid>
+		<link>https://blog.thetrevor.tech/hired.hn.html</link>
+		<guid>https://blog.thetrevor.tech/hired.hn.html</guid>
 		<pubDate>Tue, 01 Mar 2022 13:50:50 -0600</pubDate>
 		<description><![CDATA[ <p>here it is:</p>
 
@@ -2442,8 +2442,8 @@ will be starting a CS Engineering degree in the Fall of 2022.</em></p>
 		</item>
 		<item>
 		<title>robots.txt and a cool HN thread</title>
-		<link>https://trevcan.github.io/robots.html</link>
-		<guid>https://trevcan.github.io/robots.html</guid>
+		<link>https://blog.thetrevor.tech/robots.html</link>
+		<guid>https://blog.thetrevor.tech/robots.html</guid>
 		<pubDate>Tue, 01 Mar 2022 13:50:50 -0600</pubDate>
 		<description><![CDATA[ <a name="the-hn-thread"></a>
 <h2>the hn thread</h2>
@@ -2470,8 +2470,8 @@ will be starting a CS Engineering degree in the Fall of 2022.</em></p>
 		</item>
 		<item>
 		<title>On Feelings</title>
-		<link>https://trevcan.github.io/hello.touch.html</link>
-		<guid>https://trevcan.github.io/hello.touch.html</guid>
+		<link>https://blog.thetrevor.tech/hello.touch.html</link>
+		<guid>https://blog.thetrevor.tech/hello.touch.html</guid>
 		<pubDate>Sun, 27 Feb 2022 14:32:25 -0600</pubDate>
 		<description><![CDATA[ <a name="On-feelings"></a>
 <h1>On feelings</h1>
@@ -2498,8 +2498,8 @@ some marmalade / jelly.</p>
 		</item>
 		<item>
 		<title>Setting up Cloudflare's DNS</title>
-		<link>https://trevcan.github.io/howto.dns.cloudflare.html</link>
-		<guid>https://trevcan.github.io/howto.dns.cloudflare.html</guid>
+		<link>https://blog.thetrevor.tech/howto.dns.cloudflare.html</link>
+		<guid>https://blog.thetrevor.tech/howto.dns.cloudflare.html</guid>
 		<pubDate>Tue, 15 Feb 2022 22:03:55 -0600</pubDate>
 		<description><![CDATA[ <p>A DNS stands for Domain Name System.
 It is simply a protocol for getting the IP address of any given domain name.</p>
@@ -2526,8 +2526,8 @@ configurations can be (in theory) applied to all your network, but if you want t
 		</item>
 		<item>
 		<title>Was down for a few minutes, we back1!</title>
-		<link>https://trevcan.github.io/downforamoment.html</link>
-		<guid>https://trevcan.github.io/downforamoment.html</guid>
+		<link>https://blog.thetrevor.tech/downforamoment.html</link>
+		<guid>https://blog.thetrevor.tech/downforamoment.html</guid>
 		<pubDate>Fri, 11 Feb 2022 11:22:21 -0600</pubDate>
 		<description><![CDATA[ <p>Hello there. https was not working since some certs have expired.
 Just renewed them and site should now just work fine!</p>
@@ -2554,8 +2554,8 @@ Just renewed them and site should now just work fine!</p>
 		</item>
 		<item>
 		<title>I'm back!</title>
-		<link>https://trevcan.github.io/update.back.html</link>
-		<guid>https://trevcan.github.io/update.back.html</guid>
+		<link>https://blog.thetrevor.tech/update.back.html</link>
+		<guid>https://blog.thetrevor.tech/update.back.html</guid>
 		<pubDate>Wed, 09 Feb 2022 22:17:55 -0600</pubDate>
 		<description><![CDATA[ <p>Hello there! Well, I was technically always here
 but guess what? My computer stopped working.</p>
@@ -2582,8 +2582,8 @@ reboots. But yeah we&rsquo;re back.</p>
 		</item>
 		<item>
 		<title>Resources for Tecbot</title>
-		<link>https://trevcan.github.io/tecbot.resources-tecbot.html</link>
-		<guid>https://trevcan.github.io/tecbot.resources-tecbot.html</guid>
+		<link>https://blog.thetrevor.tech/tecbot.resources-tecbot.html</link>
+		<guid>https://blog.thetrevor.tech/tecbot.resources-tecbot.html</guid>
 		<pubDate>Sat, 15 Jan 2022 22:23:11 -0600</pubDate>
 		<description><![CDATA[ <ul>
 <li><p><a href="https://www.firstinspires.org/robotics/frc/blog/2022-kickoff-so-close">2022 FRC main Resources</a></p></li>
@@ -2610,8 +2610,8 @@ reboots. But yeah we&rsquo;re back.</p>
 		</item>
 		<item>
 		<title>Adding website stats</title>
-		<link>https://trevcan.github.io/lighttpd-site-stats.html</link>
-		<guid>https://trevcan.github.io/lighttpd-site-stats.html</guid>
+		<link>https://blog.thetrevor.tech/lighttpd-site-stats.html</link>
+		<guid>https://blog.thetrevor.tech/lighttpd-site-stats.html</guid>
 		<pubDate>Sat, 15 Jan 2022 18:08:27 -0600</pubDate>
 		<description><![CDATA[ <p>Maybe use webalizer ?
 But apparently it&rsquo;s quite an old technology so it&rsquo;s not easy to use.
@@ -2638,8 +2638,8 @@ including user agents and stuff. just random numbers but real actually.</p>
 		</item>
 		<item>
 		<title>Today: working towards an internship ?</title>
-		<link>https://trevcan.github.io/today-2022-jan-15.html</link>
-		<guid>https://trevcan.github.io/today-2022-jan-15.html</guid>
+		<link>https://blog.thetrevor.tech/today-2022-jan-15.html</link>
+		<guid>https://blog.thetrevor.tech/today-2022-jan-15.html</guid>
 		<pubDate>Sat, 15 Jan 2022 18:08:27 -0600</pubDate>
 		<description><![CDATA[ <p><strong>this is probably a rant, discretion is advised but not obligatory.</strong></p>
 
@@ -2666,8 +2666,8 @@ mediagoblin and peertube but it&rsquo;s just a lot of software stacks!  I mean I
 		</item>
 		<item>
 		<title>Setting EPSON L575 Printer in linux with CUPS</title>
-		<link>https://trevcan.github.io/setting-up-printer.html</link>
-		<guid>https://trevcan.github.io/setting-up-printer.html</guid>
+		<link>https://blog.thetrevor.tech/setting-up-printer.html</link>
+		<guid>https://blog.thetrevor.tech/setting-up-printer.html</guid>
 		<pubDate>Wed, 15 Dec 2021 23:54:14 -0600</pubDate>
 		<description><![CDATA[ <p>Hey there, here I&rsquo;ll attempt to document the way in which I set up
 printing for my Arch Linux machine, since it&rsquo;s been a hassle being able
@@ -2694,8 +2694,8 @@ to correctly print.</p>
 		</item>
 		<item>
 		<title>Today</title>
-		<link>https://trevcan.github.io/today.december.8.mmxxi.html</link>
-		<guid>https://trevcan.github.io/today.december.8.mmxxi.html</guid>
+		<link>https://blog.thetrevor.tech/today.december.8.mmxxi.html</link>
+		<guid>https://blog.thetrevor.tech/today.december.8.mmxxi.html</guid>
 		<pubDate>Wed, 08 Dec 2021 02:08:18 -0600</pubDate>
 		<description><![CDATA[ <p>Hello, I am bored. Also, I&rsquo;ve thought of kinda making my own daily blog entries
 so here is one!</p>
@@ -2722,8 +2722,8 @@ environment. So, anyways, back to the story. I opened gparted and there
 		</item>
 		<item>
 		<title>Project Ideas</title>
-		<link>https://trevcan.github.io/ideas.html</link>
-		<guid>https://trevcan.github.io/ideas.html</guid>
+		<link>https://blog.thetrevor.tech/ideas.html</link>
+		<guid>https://blog.thetrevor.tech/ideas.html</guid>
 		<pubDate>Mon, 06 Dec 2021 19:39:10 -0600</pubDate>
 		<description><![CDATA[ <p>this file contains a simple list of project ideas which may include
 software projects with a small aim: providing something that isn&rsquo;t
@@ -2750,8 +2750,8 @@ even ANSI!</li>
 		</item>
 		<item>
 		<title>Geohot Archive Links</title>
-		<link>https://trevcan.github.io/geohot-archive.html</link>
-		<guid>https://trevcan.github.io/geohot-archive.html</guid>
+		<link>https://blog.thetrevor.tech/geohot-archive.html</link>
+		<guid>https://blog.thetrevor.tech/geohot-archive.html</guid>
 		<pubDate>Tue, 30 Nov 2021 21:27:56 -0600</pubDate>
 		<description><![CDATA[ <p>Hello, this is just a list of useful links of geohot&rsquo;s hard-to-find (not
 that hard actually) blogs. He actually still blogs but much much less
@@ -2778,8 +2778,8 @@ than 12 hours. ignore this, wait, don&rsquo;t ignore me.</p>
 		</item>
 		<item>
 		<title>adding the fzf plugin to vim</title>
-		<link>https://trevcan.github.io/using-fzf-in-vim.html</link>
-		<guid>https://trevcan.github.io/using-fzf-in-vim.html</guid>
+		<link>https://blog.thetrevor.tech/using-fzf-in-vim.html</link>
+		<guid>https://blog.thetrevor.tech/using-fzf-in-vim.html</guid>
 		<pubDate>Sat, 27 Nov 2021 00:37:01 -0600</pubDate>
 		<description><![CDATA[ <p>hey there! I don&rsquo;t know why this came to me but I guess I&rsquo;ve seen
 several internet videos in which linuxy users are using a nice, fancy
@@ -2806,8 +2806,8 @@ EOF
 		</item>
 		<item>
 		<title>The Myth of Technology</title>
-		<link>https://trevcan.github.io/computers-for-cynics-0.html</link>
-		<guid>https://trevcan.github.io/computers-for-cynics-0.html</guid>
+		<link>https://blog.thetrevor.tech/computers-for-cynics-0.html</link>
+		<guid>https://blog.thetrevor.tech/computers-for-cynics-0.html</guid>
 		<pubDate>Sat, 20 Nov 2021 18:08:12 -0600</pubDate>
 		<description><![CDATA[ <a name="The-Myth-of-Technology:-Computers-for-Cynics-0"></a>
 <h2>The Myth of Technology: Computers for Cynics 0</h2>
@@ -2834,8 +2834,8 @@ not knowing who to blame.</li>
 		</item>
 		<item>
 		<title>Rant on \"Writing\"-ish tools</title>
-		<link>https://trevcan.github.io/rant-writing-tools.html</link>
-		<guid>https://trevcan.github.io/rant-writing-tools.html</guid>
+		<link>https://blog.thetrevor.tech/rant-writing-tools.html</link>
+		<guid>https://blog.thetrevor.tech/rant-writing-tools.html</guid>
 		<pubDate>Thu, 18 Nov 2021 19:30:23 -0600</pubDate>
 		<description><![CDATA[ <p>whoami ? well, honestly, no one to have the authority to say anything relevant
 regarding this issue. I am merely a teenager so please you have all the right
@@ -2862,8 +2862,8 @@ kinds of companies that most likely use a shit-load of data-sets to infer
 		</item>
 		<item>
 		<title>Working with git hooks.</title>
-		<link>https://trevcan.github.io/git-hooks.html</link>
-		<guid>https://trevcan.github.io/git-hooks.html</guid>
+		<link>https://blog.thetrevor.tech/git-hooks.html</link>
+		<guid>https://blog.thetrevor.tech/git-hooks.html</guid>
 		<pubDate>Sun, 14 Nov 2021 21:50:43 -0600</pubDate>
 		<description><![CDATA[ <p>edit: see end of post.</p>
 
@@ -2890,8 +2890,8 @@ services show you the files. So I chose to setup a git server on my home server
 		</item>
 		<item>
 		<title>Un beso en el asfalto. 2017</title>
-		<link>https://trevcan.github.io/un-beso-en-el-asfalto.html</link>
-		<guid>https://trevcan.github.io/un-beso-en-el-asfalto.html</guid>
+		<link>https://blog.thetrevor.tech/un-beso-en-el-asfalto.html</link>
+		<guid>https://blog.thetrevor.tech/un-beso-en-el-asfalto.html</guid>
 		<pubDate>Sun, 14 Nov 2021 21:49:13 -0600</pubDate>
 		<description><![CDATA[ <p>you should watch it.</p>
 
@@ -2918,8 +2918,8 @@ brain&rsquo;s interpretation is. So yeah, maybe I&rsquo;ll update this post idk.
 		</item>
 		<item>
 		<title>trust me bro</title>
-		<link>https://trevcan.github.io/trustme.html</link>
-		<guid>https://trevcan.github.io/trustme.html</guid>
+		<link>https://blog.thetrevor.tech/trustme.html</link>
+		<guid>https://blog.thetrevor.tech/trustme.html</guid>
 		<pubDate>Sat, 13 Nov 2021 13:54:08 -0600</pubDate>
 		<description><![CDATA[ <p><a href="https://matias.ma/nsfw/">https://matias.ma/nsfw/</a></p>
 
@@ -2946,8 +2946,8 @@ brain&rsquo;s interpretation is. So yeah, maybe I&rsquo;ll update this post idk.
 		</item>
 		<item>
 		<title>Contacting me</title>
-		<link>https://trevcan.github.io/contact.html</link>
-		<guid>https://trevcan.github.io/contact.html</guid>
+		<link>https://blog.thetrevor.tech/contact.html</link>
+		<guid>https://blog.thetrevor.tech/contact.html</guid>
 		<pubDate>Thu, 11 Nov 2021 08:10:28 -0600</pubDate>
 		<description><![CDATA[ <ul>
 <li>email: <code>heror 04 84 [at] proton mail {dot} com</code></li>
@@ -2974,8 +2974,8 @@ brain&rsquo;s interpretation is. So yeah, maybe I&rsquo;ll update this post idk.
 		</item>
 		<item>
 		<title>debugging blogit.</title>
-		<link>https://trevcan.github.io/debugging-blogit.html</link>
-		<guid>https://trevcan.github.io/debugging-blogit.html</guid>
+		<link>https://blog.thetrevor.tech/debugging-blogit.html</link>
+		<guid>https://blog.thetrevor.tech/debugging-blogit.html</guid>
 		<pubDate>Wed, 10 Nov 2021 23:30:12 -0600</pubDate>
 		<description><![CDATA[ <p>log:
 ~ 6:24 P.M
@@ -3002,8 +3002,8 @@ folder and the www folder</p>
 		</item>
 		<item>
 		<title>How do I fix this blogit?</title>
-		<link>https://trevcan.github.io/why-blogit.html</link>
-		<guid>https://trevcan.github.io/why-blogit.html</guid>
+		<link>https://blog.thetrevor.tech/why-blogit.html</link>
+		<guid>https://blog.thetrevor.tech/why-blogit.html</guid>
 		<pubDate>Wed, 10 Nov 2021 18:41:11 -0600</pubDate>
 		<description><![CDATA[ <p>hey there, I hope you are having a nice day.
 Today was a much more intersting day than the rest of the week,
@@ -3030,8 +3030,8 @@ be a problem, right?</p>
 		</item>
 		<item>
 		<title>Derivatives Stuff Calculus</title>
-		<link>https://trevcan.github.io/notes-calculus.html</link>
-		<guid>https://trevcan.github.io/notes-calculus.html</guid>
+		<link>https://blog.thetrevor.tech/notes-calculus.html</link>
+		<guid>https://blog.thetrevor.tech/notes-calculus.html</guid>
 		<pubDate>Wed, 10 Nov 2021 13:19:18 -0600</pubDate>
 		<description><![CDATA[ <p>day: nov 10 2021</p>
 
@@ -3058,8 +3058,8 @@ be a problem, right?</p>
 		</item>
 		<item>
 		<title>Hacking with The Blue Alliance </title>
-		<link>https://trevcan.github.io/hacking.av.tba.html</link>
-		<guid>https://trevcan.github.io/hacking.av.tba.html</guid>
+		<link>https://blog.thetrevor.tech/hacking.av.tba.html</link>
+		<guid>https://blog.thetrevor.tech/hacking.av.tba.html</guid>
 		<pubDate>Tue, 09 Nov 2021 17:50:46 -0600</pubDate>
 		<description><![CDATA[ <p>Another year, another FRC Season. I&rsquo;m currently in the Tecbot 3158 First
 Robotics Competition, a great way in which students of all STEM fields can
@@ -3086,8 +3086,8 @@ friendly request to retrieve data. Just remember to assign the HTTP header
 		</item>
 		<item>
 		<title>Luke: 'Will you ever stand up for yourself ?'</title>
-		<link>https://trevcan.github.io/stand-up-thy-self.html</link>
-		<guid>https://trevcan.github.io/stand-up-thy-self.html</guid>
+		<link>https://blog.thetrevor.tech/stand-up-thy-self.html</link>
+		<guid>https://blog.thetrevor.tech/stand-up-thy-self.html</guid>
 		<pubDate>Tue, 09 Nov 2021 17:49:06 -0600</pubDate>
 		<description><![CDATA[ <p><a href="https://videos.lukesmith.xyz/w/aWCVkSQTXKJ1yuR6o8zjDY">his video</a></p>
 
@@ -3114,8 +3114,8 @@ and to be autonomous /independent in a sense.</p>
 		</item>
 		<item>
 		<title>finally blog it!</title>
-		<link>https://trevcan.github.io/yayy.html</link>
-		<guid>https://trevcan.github.io/yayy.html</guid>
+		<link>https://blog.thetrevor.tech/yayy.html</link>
+		<guid>https://blog.thetrevor.tech/yayy.html</guid>
 		<pubDate>Tue, 09 Nov 2021 00:06:44 -0600</pubDate>
 		<description><![CDATA[ <p>Hello there, I&rsquo;ve just finished mygration of my website
 over to <a href="https://github.com/trevcan/blogit">my fork of blogit</a>
@@ -3142,8 +3142,8 @@ probably be good to go.</p>
 		</item>
 		<item>
 		<title>Learn how to use pedantic.software/git/blogit !!</title>
-		<link>https://trevcan.github.io/idk-learn-pedantics-blogit.html</link>
-		<guid>https://trevcan.github.io/idk-learn-pedantics-blogit.html</guid>
+		<link>https://blog.thetrevor.tech/idk-learn-pedantics-blogit.html</link>
+		<guid>https://blog.thetrevor.tech/idk-learn-pedantics-blogit.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:56:35 -0600</pubDate>
 		<description><![CDATA[ <p>originally posted on : 2021-11-06</p>
 
@@ -3170,8 +3170,8 @@ do shit and test <code>blogit</code>.</p>
 		</item>
 		<item>
 		<title>about:Trevcan</title>
-		<link>https://trevcan.github.io/about.html</link>
-		<guid>https://trevcan.github.io/about.html</guid>
+		<link>https://blog.thetrevor.tech/about.html</link>
+		<guid>https://blog.thetrevor.tech/about.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <p>Hello there, I&rsquo;m a human!
 I&rsquo;m into programming, computers, and of course,
@@ -3198,8 +3198,8 @@ and a tad of github actions automation with gh pages.</p>
 		</item>
 		<item>
 		<title>Bookmarks</title>
-		<link>https://trevcan.github.io/bookmarks.html</link>
-		<guid>https://trevcan.github.io/bookmarks.html</guid>
+		<link>https://blog.thetrevor.tech/bookmarks.html</link>
+		<guid>https://blog.thetrevor.tech/bookmarks.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <a name="Bookmarks-bar--7b--23-bookmarks-2d-bar-add_date-3d--22-1628991664-22--last_modified-3d--22-1634164207-22--personal_toolbar_folder-3d--22-true-22--7d-"></a>
 <h3>Bookmarks bar {#bookmarks-bar add_date=&ldquo;1628991664&rdquo; last_modified=&ldquo;1634164207&rdquo; personal_toolbar_folder=&ldquo;true&rdquo;}</h3>
@@ -3226,8 +3226,8 @@ QMK</a></p>
 		</item>
 		<item>
 		<title>courses</title>
-		<link>https://trevcan.github.io/courses.html</link>
-		<guid>https://trevcan.github.io/courses.html</guid>
+		<link>https://blog.thetrevor.tech/courses.html</link>
+		<guid>https://blog.thetrevor.tech/courses.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <p>Online courses that I recommend</p>
 
@@ -3254,8 +3254,8 @@ QMK</a></p>
 		</item>
 		<item>
 		<title>Arch Linux Bulletin Board System Post</title>
-		<link>https://trevcan.github.io/gpg.why.bbs.html</link>
-		<guid>https://trevcan.github.io/gpg.why.bbs.html</guid>
+		<link>https://blog.thetrevor.tech/gpg.why.bbs.html</link>
+		<guid>https://blog.thetrevor.tech/gpg.why.bbs.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <p>First of all, your help, any help would be greatly appreciated.</p>
 
@@ -3282,8 +3282,8 @@ it&rsquo;d take anywhere from 20 to 40 seconds to just show the pinentry binary 
 		</item>
 		<item>
 		<title>Why is GnuPG / GPG  acting up ? </title>
-		<link>https://trevcan.github.io/gpg.why.html</link>
-		<guid>https://trevcan.github.io/gpg.why.html</guid>
+		<link>https://blog.thetrevor.tech/gpg.why.html</link>
+		<guid>https://blog.thetrevor.tech/gpg.why.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <p>After trying several things to fix encryption and decryption in GnuPG I have no
 real hopes. I honestly don&rsquo;t know what to do but to keep asking. I&rsquo;ve searched on
@@ -3310,8 +3310,8 @@ and this GNU forum: <a href="https://dev.gnupg.org/T3240">https://dev.gnupg.org/
 		</item>
 		<item>
 		<title>Main</title>
-		<link>https://trevcan.github.io/main.html</link>
-		<guid>https://trevcan.github.io/main.html</guid>
+		<link>https://blog.thetrevor.tech/main.html</link>
+		<guid>https://blog.thetrevor.tech/main.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <a name="quick-links"></a>
 <h1>quick links</h1>
@@ -3338,8 +3338,8 @@ and this GNU forum: <a href="https://dev.gnupg.org/T3240">https://dev.gnupg.org/
 		</item>
 		<item>
 		<title>Movies</title>
-		<link>https://trevcan.github.io/mvs.html</link>
-		<guid>https://trevcan.github.io/mvs.html</guid>
+		<link>https://blog.thetrevor.tech/mvs.html</link>
+		<guid>https://blog.thetrevor.tech/mvs.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <a name="Julian-27-s-recommended"></a>
 <h2>Julian&rsquo;s recommended</h2>
@@ -3366,8 +3366,8 @@ and this GNU forum: <a href="https://dev.gnupg.org/T3240">https://dev.gnupg.org/
 		</item>
 		<item>
 		<title>quotes</title>
-		<link>https://trevcan.github.io/quotes.html</link>
-		<guid>https://trevcan.github.io/quotes.html</guid>
+		<link>https://blog.thetrevor.tech/quotes.html</link>
+		<guid>https://blog.thetrevor.tech/quotes.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <blockquote><p>&ldquo;To live, is to risk it all.<br>
 Otherwise you&rsquo;re just an inert<br>
@@ -3394,8 +3394,8 @@ But that only permitted other men with machines to enslave them.</p></blockquote
 		</item>
 		<item>
 		<title>Trevcan Readme</title>
-		<link>https://trevcan.github.io/README.html</link>
-		<guid>https://trevcan.github.io/README.html</guid>
+		<link>https://blog.thetrevor.tech/README.html</link>
+		<guid>https://blog.thetrevor.tech/README.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <p>These are just some useful links</p>
 
@@ -3422,8 +3422,8 @@ You can use the [editor on GitHub](https://github.com/TrevCan/trevcan.github.io/
 		</item>
 		<item>
 		<title>watch later</title>
-		<link>https://trevcan.github.io/wl.html</link>
-		<guid>https://trevcan.github.io/wl.html</guid>
+		<link>https://blog.thetrevor.tech/wl.html</link>
+		<guid>https://blog.thetrevor.tech/wl.html</guid>
 		<pubDate>Mon, 08 Nov 2021 23:40:33 -0600</pubDate>
 		<description><![CDATA[ <p>wl as in&hellip;</p>
 

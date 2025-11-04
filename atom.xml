@@ -4,16 +4,16 @@
 
 	<title type="text">trevcan's blog</title>
 	<subtitle type="text">the blog by trevcan, a.k.a. Hector Canizales</subtitle>
-	<link rel="alternate" type="text/html" href="https://trevcan.github.io"/>
-	<link rel="self" type="application/atom+xml" href="https://trevcan.github.io/atom.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.thetrevor.tech"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.thetrevor.tech/atom.xml"/>
 	<author><name>trevcan</name></author>
-	<id>https://trevcan.github.io/atom.xml</id>
-	<updated>2025-10-31T23:45:29Z</updated>
+	<id>https://blog.thetrevor.tech/atom.xml</id>
+	<updated>2025-11-03T20:06:41Z</updated>
 
 		<entry>
 		<title type="html"><![CDATA[$ whois trevor. featuring guest author]]></title>
-		<link href="https://trevcan.github.io/paolo.the.challenge.html"/>
-<id>https://trevcan.github.io/paolo.the.challenge.html</id>
+		<link href="https://blog.thetrevor.tech/paolo.the.challenge.html"/>
+<id>https://blog.thetrevor.tech/paolo.the.challenge.html</id>
 		<updated>2025-01-31T18:01:43-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>$ whois trevor. featuring guest author</title>
@@ -125,8 +125,8 @@ push to git. Good luck!</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[i am happy.]]></title>
-		<link href="https://trevcan.github.io/happy.wed.html"/>
-<id>https://trevcan.github.io/happy.wed.html</id>
+		<link href="https://blog.thetrevor.tech/happy.wed.html"/>
+<id>https://blog.thetrevor.tech/happy.wed.html</id>
 		<updated>2025-01-29T23:01:52-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>i am happy.</title>
@@ -178,85 +178,10 @@ push to git. Good luck!</p>
 
 <p>big image</p>
 
-<div class="container-image">
-<style>
-/* https://www.w3schools.com/howto/howto_css_image_text.asp  */
+<p><a href="assets/happy.wed.29j.2025.jpeg"></p>
 
-/* Container holding the image and the text */
-.container-image {
-  position: relative;
-  text-align: center;
-  color: white;
-  text-align:left;
-  color:rgba(0,0,0,0);
-}
-
-/* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.text-description {
-  position: absolute;
-  color: rgba(0,0,0,0);
-  font-size:46px;
-  line-height: 0.4;
-
-}
-
-body {
-    font-family: 'Courier New', monospace;
-
-}
-</style>
-
-
-  <img src="assets/happy.wed.29j.2025.jpeg" alt="Snow" style="width:100%;">
-
-  top: 415px;
-  left: 680px;
-  <div class="text-description" style="top: 385px; left: 680px;"><pre>
-i am happy. wednesday 29th january, year 2025.<br>
-                          unix epoch: 1738212160</pre></div>
-
-  <div class="text-description" style="top:540px;left:176.8px"<pre>
-the infrastructure was there, the fingers, the ssh keys. the digital
-<p style="">
-ocean credits, the life. everything good that could be almost<br><br>
-</p>
-anything i wanted. but digital life wasn't all. I had just started a        <br><br><br>
-dating profile because i felt all alone. but today i did not feel       <br><br><br><br><br><br>
-alone. I felt more alive and connected than in 369 days (number is just     <br><br><br><br><br><br><br>
-there for arbitrary purposes, just for the j0zjzz). It was nice re-     <br><br><br><br><br><br><br><br>
-meeting you Paolo. And Mari too, of course. Today is more of a greet        <br><br><br><br><br><br><br><br><br><br>
-ting card than anything. A thnak you to life for connecting me with these   <br><br><br><br><br><br><br><br><br><br><br>
-people. the words, the conversations, the smiles. this swas what feeling    <br><br><br><br><br><br><br><br><br><br><br><br>
-or being alive was meant to be for. and for preservvving our species as     <br><br><br><br><br><br><br><br><br><br><br><br><br>
-well of course. sex is a thing you know? but i could pracyically be cons    <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-idered asexual given my non-existen history of girlfriends or really any    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-intimate contact. i hope that changes this year. more to come definitely    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-.k. i am alive and am thzankful for that. i don't care at all what I've     <br><br><br><br><br><br><br>
-done before. well i have, maybe i didn't give enoguh recog. to Paoplo's song.bye
-
-    
-
-
-  </pre></div>
-
-  <!--
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
-  -->
-</div>
-
-
-
+<p><img src="assets/happy.wed.29j.2025.jpeg">
+</a></p>
 
 <i> Tags: <b> en write life </b></i>
 </div>
@@ -294,8 +219,8 @@ done before. well i have, maybe i didn't give enoguh recog. to Paoplo's song.bye
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[believing in something: Stalker (1979)]]></title>
-		<link href="https://trevcan.github.io/stalker.html"/>
-<id>https://trevcan.github.io/stalker.html</id>
+		<link href="https://blog.thetrevor.tech/stalker.html"/>
+<id>https://blog.thetrevor.tech/stalker.html</id>
 		<updated>2025-01-05T22:01:27-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>believing in something: Stalker (1979)</title>
@@ -490,8 +415,8 @@ the review</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[On a chaotic mind or mind chaos]]></title>
-		<link href="https://trevcan.github.io/on.a.chaotic.mind.html"/>
-<id>https://trevcan.github.io/on.a.chaotic.mind.html</id>
+		<link href="https://blog.thetrevor.tech/on.a.chaotic.mind.html"/>
+<id>https://blog.thetrevor.tech/on.a.chaotic.mind.html</id>
 		<updated>2025-01-04T11:01:01-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>On a chaotic mind or mind chaos</title>
@@ -639,8 +564,8 @@ storyteller I am (out of ideas).</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Archiving iPhone photo albums without iTunes in Linux]]></title>
-		<link href="https://trevcan.github.io/archiving-ios-pictures.html"/>
-<id>https://trevcan.github.io/archiving-ios-pictures.html</id>
+		<link href="https://blog.thetrevor.tech/archiving-ios-pictures.html"/>
+<id>https://blog.thetrevor.tech/archiving-ios-pictures.html</id>
 		<updated>2024-03-28T01:03:39-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Archiving iPhone photo albums without iTunes in Linux</title>
@@ -923,8 +848,8 @@ TABLE Z_27ALBUMLISTS idk what's in here
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[On a bus.]]></title>
-		<link href="https://trevcan.github.io/just-writing-2024-january26th.html"/>
-<id>https://trevcan.github.io/just-writing-2024-january26th.html</id>
+		<link href="https://blog.thetrevor.tech/just-writing-2024-january26th.html"/>
+<id>https://blog.thetrevor.tech/just-writing-2024-january26th.html</id>
 		<updated>2024-01-26T14:01:03-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>On a bus.</title>
@@ -1048,8 +973,8 @@ are just more audible in the back of the bus than say, the front.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[El Teatro ó El Teatro y Yo.]]></title>
-		<link href="https://trevcan.github.io/theatre.html"/>
-<id>https://trevcan.github.io/theatre.html</id>
+		<link href="https://blog.thetrevor.tech/theatre.html"/>
+<id>https://blog.thetrevor.tech/theatre.html</id>
 		<updated>2023-10-18T22:10:40-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>El Teatro ó El Teatro y Yo.</title>
@@ -1149,8 +1074,8 @@ Título: aún no decidido.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Life before your eyes]]></title>
-		<link href="https://trevcan.github.io/rebooting-remotely.html"/>
-<id>https://trevcan.github.io/rebooting-remotely.html</id>
+		<link href="https://blog.thetrevor.tech/rebooting-remotely.html"/>
+<id>https://blog.thetrevor.tech/rebooting-remotely.html</id>
 		<updated>2023-08-25T21:08:43-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Life before your eyes</title>
@@ -1292,8 +1217,8 @@ of 374 days and a little more time.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Software tools]]></title>
-		<link href="https://trevcan.github.io/software-tools.html"/>
-<id>https://trevcan.github.io/software-tools.html</id>
+		<link href="https://blog.thetrevor.tech/software-tools.html"/>
+<id>https://blog.thetrevor.tech/software-tools.html</id>
 		<updated>2023-08-23T10:08:55-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Software tools</title>
@@ -1762,8 +1687,8 @@ Hola Les comparto algunos recursos para sus próximos desarrollos o si apenas in
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Cálculo Lambda]]></title>
-		<link href="https://trevcan.github.io/el-calculo-lambda.html"/>
-<id>https://trevcan.github.io/el-calculo-lambda.html</id>
+		<link href="https://blog.thetrevor.tech/el-calculo-lambda.html"/>
+<id>https://blog.thetrevor.tech/el-calculo-lambda.html</id>
 		<updated>2023-05-10T00:05:09-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Cálculo Lambda</title>
@@ -1984,8 +1909,8 @@ Hola Les comparto algunos recursos para sus próximos desarrollos o si apenas in
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[How to get a consistent RSS feed ?]]></title>
-		<link href="https://trevcan.github.io/fixing-rss.html"/>
-<id>https://trevcan.github.io/fixing-rss.html</id>
+		<link href="https://blog.thetrevor.tech/fixing-rss.html"/>
+<id>https://blog.thetrevor.tech/fixing-rss.html</id>
 		<updated>2023-04-19T16:04:16-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>How to get a consistent RSS feed ?</title>
@@ -2149,8 +2074,8 @@ together. I think that sounds nice.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[High on happiness]]></title>
-		<link href="https://trevcan.github.io/high-on-happiness.html"/>
-<id>https://trevcan.github.io/high-on-happiness.html</id>
+		<link href="https://blog.thetrevor.tech/high-on-happiness.html"/>
+<id>https://blog.thetrevor.tech/high-on-happiness.html</id>
 		<updated>2023-03-29T00:03:57-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>High on happiness</title>
@@ -2333,8 +2258,8 @@ very moment and that is in one word, success.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Agárrate, ¡con las manos!]]></title>
-		<link href="https://trevcan.github.io/agarrate.con.las.manos.html"/>
-<id>https://trevcan.github.io/agarrate.con.las.manos.html</id>
+		<link href="https://blog.thetrevor.tech/agarrate.con.las.manos.html"/>
+<id>https://blog.thetrevor.tech/agarrate.con.las.manos.html</id>
 		<updated>2023-01-28T14:01:57-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Agárrate, ¡con las manos!</title>
@@ -2525,8 +2450,8 @@ palabras que escribí.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[What?]]></title>
-		<link href="https://trevcan.github.io/what.html"/>
-<id>https://trevcan.github.io/what.html</id>
+		<link href="https://blog.thetrevor.tech/what.html"/>
+<id>https://blog.thetrevor.tech/what.html</id>
 		<updated>2023-01-21T23:01:21-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>What?</title>
@@ -2645,8 +2570,8 @@ said herein (is this the right fancy way to use this word?).</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[A new beginning ]]></title>
-		<link href="https://trevcan.github.io/new-beginning.html"/>
-<id>https://trevcan.github.io/new-beginning.html</id>
+		<link href="https://blog.thetrevor.tech/new-beginning.html"/>
+<id>https://blog.thetrevor.tech/new-beginning.html</id>
 		<updated>2023-01-01T13:01:09-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>A new beginning </title>
@@ -2745,8 +2670,8 @@ Or Computer Science Engineering, I think.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Logging in to day]]></title>
-		<link href="https://trevcan.github.io/aujourdhui.13.of.the22.oct.html"/>
-<id>https://trevcan.github.io/aujourdhui.13.of.the22.oct.html</id>
+		<link href="https://blog.thetrevor.tech/aujourdhui.13.of.the22.oct.html"/>
+<id>https://blog.thetrevor.tech/aujourdhui.13.of.the22.oct.html</id>
 		<updated>2022-10-13T21:10:32-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Logging in to day</title>
@@ -3075,8 +3000,8 @@ it. the end;</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Not on the melancholy hill]]></title>
-		<link href="https://trevcan.github.io/on-not-melancholy-hill.html"/>
-<id>https://trevcan.github.io/on-not-melancholy-hill.html</id>
+		<link href="https://blog.thetrevor.tech/on-not-melancholy-hill.html"/>
+<id>https://blog.thetrevor.tech/on-not-melancholy-hill.html</id>
 		<updated>2022-10-02T00:10:14-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Not on the melancholy hill</title>
@@ -3204,8 +3129,8 @@ should live my life.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Today is Friday my dudes ! ]]></title>
-		<link href="https://trevcan.github.io/its-friday-my-dudes--30-septem-22.html"/>
-<id>https://trevcan.github.io/its-friday-my-dudes--30-septem-22.html</id>
+		<link href="https://blog.thetrevor.tech/its-friday-my-dudes--30-septem-22.html"/>
+<id>https://blog.thetrevor.tech/its-friday-my-dudes--30-septem-22.html</id>
 		<updated>2022-09-30T09:09:34-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Today is Friday my dudes ! </title>
@@ -3326,8 +3251,8 @@ I would do it again, many many times.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Une critique en rapport à la chanson de <em>Prioritise-Moi</em>]]></title>
-		<link href="https://trevcan.github.io/apropos-prioritise-moi.html"/>
-<id>https://trevcan.github.io/apropos-prioritise-moi.html</id>
+		<link href="https://blog.thetrevor.tech/apropos-prioritise-moi.html"/>
+<id>https://blog.thetrevor.tech/apropos-prioritise-moi.html</id>
 		<updated>2022-09-27T10:09:08-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Une critique en rapport à la chanson de <em>Prioritise-Moi</em></title>
@@ -3502,8 +3427,8 @@ Pour te tourner la tête
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Divide and Conquer]]></title>
-		<link href="https://trevcan.github.io/divide-et-conquer.html"/>
-<id>https://trevcan.github.io/divide-et-conquer.html</id>
+		<link href="https://blog.thetrevor.tech/divide-et-conquer.html"/>
+<id>https://blog.thetrevor.tech/divide-et-conquer.html</id>
 		<updated>2022-09-22T21:09:29-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Divide and Conquer</title>
@@ -3602,8 +3527,8 @@ Pour te tourner la tête
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Salary transparency	]]></title>
-		<link href="https://trevcan.github.io/salary-transparency.html"/>
-<id>https://trevcan.github.io/salary-transparency.html</id>
+		<link href="https://blog.thetrevor.tech/salary-transparency.html"/>
+<id>https://blog.thetrevor.tech/salary-transparency.html</id>
 		<updated>2022-08-25T11:08:27-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Salary transparency	</title>
@@ -3867,8 +3792,8 @@ Hopefully I&rsquo;ll remember to update this in the future.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Love and happiness]]></title>
-		<link href="https://trevcan.github.io/love-and-happiness.html"/>
-<id>https://trevcan.github.io/love-and-happiness.html</id>
+		<link href="https://blog.thetrevor.tech/love-and-happiness.html"/>
+<id>https://blog.thetrevor.tech/love-and-happiness.html</id>
 		<updated>2022-08-14T23:08:43-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Love and happiness</title>
@@ -4031,8 +3956,8 @@ less than 50 minutes.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[No: a Poem by <em><small>yours truly</small></em>]]></title>
-		<link href="https://trevcan.github.io/a.poem.i.wrote.a.while.ago.html"/>
-<id>https://trevcan.github.io/a.poem.i.wrote.a.while.ago.html</id>
+		<link href="https://blog.thetrevor.tech/a.poem.i.wrote.a.while.ago.html"/>
+<id>https://blog.thetrevor.tech/a.poem.i.wrote.a.while.ago.html</id>
 		<updated>2022-08-12T00:08:57-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>No: a Poem by <em><small>yours truly</small></em></title>
@@ -4167,8 +4092,8 @@ maybe&hellip; maybe not.<br></p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[At last my error.]]></title>
-		<link href="https://trevcan.github.io/need-write-now.html"/>
-<id>https://trevcan.github.io/need-write-now.html</id>
+		<link href="https://blog.thetrevor.tech/need-write-now.html"/>
+<id>https://blog.thetrevor.tech/need-write-now.html</id>
 		<updated>2022-06-18T03:06:09-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>At last my error.</title>
@@ -4353,8 +4278,8 @@ WHy am I playing the devil&rsquo;s advocate - and not - every time I think of th
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[$ whoami]]></title>
-		<link href="https://trevcan.github.io/me-why.html"/>
-<id>https://trevcan.github.io/me-why.html</id>
+		<link href="https://blog.thetrevor.tech/me-why.html"/>
+<id>https://blog.thetrevor.tech/me-why.html</id>
 		<updated>2022-06-06T19:06:08-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>$ whoami</title>
@@ -4458,8 +4383,8 @@ https://git.thetrevor.tech/blog.git/log/articles/me-why.md
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[$ whatis umask anyways]]></title>
-		<link href="https://trevcan.github.io/whatis-umask.html"/>
-<id>https://trevcan.github.io/whatis-umask.html</id>
+		<link href="https://blog.thetrevor.tech/whatis-umask.html"/>
+<id>https://blog.thetrevor.tech/whatis-umask.html</id>
 		<updated>2022-06-01T19:06:23-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>$ whatis umask anyways</title>
@@ -4618,8 +4543,8 @@ shell in the same way by just typing out the permissions you want.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[A not-so-long plane ride.]]></title>
-		<link href="https://trevcan.github.io/the-offline.html"/>
-<id>https://trevcan.github.io/the-offline.html</id>
+		<link href="https://blog.thetrevor.tech/the-offline.html"/>
+<id>https://blog.thetrevor.tech/the-offline.html</id>
 		<updated>2022-06-01T13:06:00-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>A not-so-long plane ride.</title>
@@ -4756,8 +4681,8 @@ or is it ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[A writing from Alex]]></title>
-		<link href="https://trevcan.github.io/alexss-writing.html"/>
-<id>https://trevcan.github.io/alexss-writing.html</id>
+		<link href="https://blog.thetrevor.tech/alexss-writing.html"/>
+<id>https://blog.thetrevor.tech/alexss-writing.html</id>
 		<updated>2022-05-28T20:05:55-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>A writing from Alex</title>
@@ -4852,8 +4777,8 @@ or is it ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Changing your device's MAC address is risky.]]></title>
-		<link href="https://trevcan.github.io/dont-change-mac-addr.html"/>
-<id>https://trevcan.github.io/dont-change-mac-addr.html</id>
+		<link href="https://blog.thetrevor.tech/dont-change-mac-addr.html"/>
+<id>https://blog.thetrevor.tech/dont-change-mac-addr.html</id>
 		<updated>2022-05-22T09:05:54-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Changing your device's MAC address is risky.</title>
@@ -4977,8 +4902,8 @@ Now I have another MAC address. But guess what ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[The Usual Linux Problems]]></title>
-		<link href="https://trevcan.github.io/common-linux-issues.html"/>
-<id>https://trevcan.github.io/common-linux-issues.html</id>
+		<link href="https://blog.thetrevor.tech/common-linux-issues.html"/>
+<id>https://blog.thetrevor.tech/common-linux-issues.html</id>
 		<updated>2022-05-19T23:05:03-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>The Usual Linux Problems</title>
@@ -5117,8 +5042,8 @@ Now I have another MAC address. But guess what ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Interesting readings from the Internet]]></title>
-		<link href="https://trevcan.github.io/nice-reads.html"/>
-<id>https://trevcan.github.io/nice-reads.html</id>
+		<link href="https://blog.thetrevor.tech/nice-reads.html"/>
+<id>https://blog.thetrevor.tech/nice-reads.html</id>
 		<updated>2022-05-16T22:05:35-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Interesting readings from the Internet</title>
@@ -5260,8 +5185,8 @@ Now I have another MAC address. But guess what ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Something I did not write.]]></title>
-		<link href="https://trevcan.github.io/writing-not-me-films.html"/>
-<id>https://trevcan.github.io/writing-not-me-films.html</id>
+		<link href="https://blog.thetrevor.tech/writing-not-me-films.html"/>
+<id>https://blog.thetrevor.tech/writing-not-me-films.html</id>
 		<updated>2022-05-16T22:05:04-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Something I did not write.</title>
@@ -5354,8 +5279,8 @@ dependency.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Creo que extraño mi computadora]]></title>
-		<link href="https://trevcan.github.io/miss-computer-among-autres.html"/>
-<id>https://trevcan.github.io/miss-computer-among-autres.html</id>
+		<link href="https://blog.thetrevor.tech/miss-computer-among-autres.html"/>
+<id>https://blog.thetrevor.tech/miss-computer-among-autres.html</id>
 		<updated>2022-05-14T22:05:15-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Creo que extraño mi computadora</title>
@@ -5466,8 +5391,8 @@ qué compré el libro en primera instancia, por qué lo estoy leyendo, por qué 
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[the woke tech culture has spoken]]></title>
-		<link href="https://trevcan.github.io/why-git.html"/>
-<id>https://trevcan.github.io/why-git.html</id>
+		<link href="https://blog.thetrevor.tech/why-git.html"/>
+<id>https://blog.thetrevor.tech/why-git.html</id>
 		<updated>2022-05-08T13:05:05-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>the woke tech culture has spoken</title>
@@ -5586,8 +5511,8 @@ a stupid decision.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Untitled Universtiy Useful Links]]></title>
-		<link href="https://trevcan.github.io/uu.watchlater.html"/>
-<id>https://trevcan.github.io/uu.watchlater.html</id>
+		<link href="https://blog.thetrevor.tech/uu.watchlater.html"/>
+<id>https://blog.thetrevor.tech/uu.watchlater.html</id>
 		<updated>2022-05-06T12:05:33-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Untitled Universtiy Useful Links</title>
@@ -5747,8 +5672,8 @@ a stupid decision.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Information Flow]]></title>
-		<link href="https://trevcan.github.io/a-lot-of-information.html"/>
-<id>https://trevcan.github.io/a-lot-of-information.html</id>
+		<link href="https://blog.thetrevor.tech/a-lot-of-information.html"/>
+<id>https://blog.thetrevor.tech/a-lot-of-information.html</id>
 		<updated>2022-05-03T21:05:31-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Information Flow</title>
@@ -5929,8 +5854,8 @@ I&rsquo;m trying to get an internship.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Getting access to public wifi internet on Linux]]></title>
-		<link href="https://trevcan.github.io/sign-in-public-wifi.html"/>
-<id>https://trevcan.github.io/sign-in-public-wifi.html</id>
+		<link href="https://blog.thetrevor.tech/sign-in-public-wifi.html"/>
+<id>https://blog.thetrevor.tech/sign-in-public-wifi.html</id>
 		<updated>2022-05-02T20:05:00-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Getting access to public wifi internet on Linux</title>
@@ -6080,8 +6005,8 @@ will most likely open for you just as you connect to the network.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[make Cheese Garlic Bread]]></title>
-		<link href="https://trevcan.github.io/cheese-garlic-bread.html"/>
-<id>https://trevcan.github.io/cheese-garlic-bread.html</id>
+		<link href="https://blog.thetrevor.tech/cheese-garlic-bread.html"/>
+<id>https://blog.thetrevor.tech/cheese-garlic-bread.html</id>
 		<updated>2022-05-01T14:05:28-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>make Cheese Garlic Bread</title>
@@ -6205,8 +6130,8 @@ It&rsquo;s not difficult to knead so let&rsquo;s make it together~</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Going back in time and reading some of Zuckerberg's blog posts.]]></title>
-		<link href="https://trevcan.github.io/back-in-time-xucc.html"/>
-<id>https://trevcan.github.io/back-in-time-xucc.html</id>
+		<link href="https://blog.thetrevor.tech/back-in-time-xucc.html"/>
+<id>https://blog.thetrevor.tech/back-in-time-xucc.html</id>
 		<updated>2022-05-01T14:05:16-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Going back in time and reading some of Zuckerberg's blog posts.</title>
@@ -6378,8 +6303,8 @@ call me or something.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[I drank coffee]]></title>
-		<link href="https://trevcan.github.io/on-norm.drugs.html"/>
-<id>https://trevcan.github.io/on-norm.drugs.html</id>
+		<link href="https://blog.thetrevor.tech/on-norm.drugs.html"/>
+<id>https://blog.thetrevor.tech/on-norm.drugs.html</id>
 		<updated>2022-05-01T00:05:37-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>I drank coffee</title>
@@ -6492,8 +6417,8 @@ take antidepressants and an antibiotic ? I hope I don&rsquo;t fuck up my stomach
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[The feeling of Uselessness]]></title>
-		<link href="https://trevcan.github.io/the-feeling-of-uselessness.html"/>
-<id>https://trevcan.github.io/the-feeling-of-uselessness.html</id>
+		<link href="https://blog.thetrevor.tech/the-feeling-of-uselessness.html"/>
+<id>https://blog.thetrevor.tech/the-feeling-of-uselessness.html</id>
 		<updated>2022-04-29T12:04:13-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>The feeling of Uselessness</title>
@@ -6634,8 +6559,8 @@ practically nonexistent.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[A top-tier prank to Elijah Woods]]></title>
-		<link href="https://trevcan.github.io/top-tier-prank-elijah.html"/>
-<id>https://trevcan.github.io/top-tier-prank-elijah.html</id>
+		<link href="https://blog.thetrevor.tech/top-tier-prank-elijah.html"/>
+<id>https://blog.thetrevor.tech/top-tier-prank-elijah.html</id>
 		<updated>2022-04-29T12:04:15-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>A top-tier prank to Elijah Woods</title>
@@ -6726,8 +6651,8 @@ of humor that is indeed humorous.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[A relatable song.]]></title>
-		<link href="https://trevcan.github.io/nouveau-song-thirsty.html"/>
-<id>https://trevcan.github.io/nouveau-song-thirsty.html</id>
+		<link href="https://blog.thetrevor.tech/nouveau-song-thirsty.html"/>
+<id>https://blog.thetrevor.tech/nouveau-song-thirsty.html</id>
 		<updated>2022-04-24T13:04:14-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>A relatable song.</title>
@@ -6822,8 +6747,8 @@ crisp lyrics:</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Listing Installed Fonts on *NIX systems]]></title>
-		<link href="https://trevcan.github.io/list-linux-fonts.html"/>
-<id>https://trevcan.github.io/list-linux-fonts.html</id>
+		<link href="https://blog.thetrevor.tech/list-linux-fonts.html"/>
+<id>https://blog.thetrevor.tech/list-linux-fonts.html</id>
 		<updated>2022-04-22T21:04:15-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Listing Installed Fonts on *NIX systems</title>
@@ -6939,8 +6864,8 @@ you can now get all your installed fonts on your Linux system!</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Hello, world!]]></title>
-		<link href="https://trevcan.github.io/hello-manav-and-dagsen.html"/>
-<id>https://trevcan.github.io/hello-manav-and-dagsen.html</id>
+		<link href="https://blog.thetrevor.tech/hello-manav-and-dagsen.html"/>
+<id>https://blog.thetrevor.tech/hello-manav-and-dagsen.html</id>
 		<updated>2022-04-22T11:04:40-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Hello, world!</title>
@@ -7028,8 +6953,8 @@ you can now get all your installed fonts on your Linux system!</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Le Revue dans ma classe de français]]></title>
-		<link href="https://trevcan.github.io/mon-french-revue.html"/>
-<id>https://trevcan.github.io/mon-french-revue.html</id>
+		<link href="https://blog.thetrevor.tech/mon-french-revue.html"/>
+<id>https://blog.thetrevor.tech/mon-french-revue.html</id>
 		<updated>2022-04-21T21:04:40-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Le Revue dans ma classe de français</title>
@@ -7141,8 +7066,8 @@ les verbes de &lsquo;mouvement&rsquo; ( avec la maison etc&hellip;)</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[This is my terminal.]]></title>
-		<link href="https://trevcan.github.io/my-terminal.n.html"/>
-<id>https://trevcan.github.io/my-terminal.n.html</id>
+		<link href="https://blog.thetrevor.tech/my-terminal.n.html"/>
+<id>https://blog.thetrevor.tech/my-terminal.n.html</id>
 		<updated>2022-04-21T21:04:44-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>This is my terminal.</title>
@@ -7195,7 +7120,7 @@ les verbes de &lsquo;mouvement&rsquo; ( avec la maison etc&hellip;)</p>
 
 
 <p>
-<iframe src=terminal.html width=800px height=600px >
+<iframe src=https://thetrevor.tech/terminal.html width=800px height=600px >
 </iframe>
 </p>
 
@@ -7373,8 +7298,8 @@ a church. It is more a school of thought than a group of followers.</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[A funny short film.]]></title>
-		<link href="https://trevcan.github.io/one-funny-short-film.html"/>
-<id>https://trevcan.github.io/one-funny-short-film.html</id>
+		<link href="https://blog.thetrevor.tech/one-funny-short-film.html"/>
+<id>https://blog.thetrevor.tech/one-funny-short-film.html</id>
 		<updated>2022-04-21T20:04:21-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>A funny short film.</title>
@@ -7516,8 +7441,8 @@ us have more power, and therefore more control, and money.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[On Top of the World, You Are Not - Nor Am I.]]></title>
-		<link href="https://trevcan.github.io/the-thoushallnot.html"/>
-<id>https://trevcan.github.io/the-thoushallnot.html</id>
+		<link href="https://blog.thetrevor.tech/the-thoushallnot.html"/>
+<id>https://blog.thetrevor.tech/the-thoushallnot.html</id>
 		<updated>2022-04-20T18:04:57-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>On Top of the World, You Are Not - Nor Am I.</title>
@@ -7935,8 +7860,8 @@ maybe 25 cm. And that&rsquo;s it.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[The Tiny Quake]]></title>
-		<link href="https://trevcan.github.io/the-tiny-quake-19-april-22.html"/>
-<id>https://trevcan.github.io/the-tiny-quake-19-april-22.html</id>
+		<link href="https://blog.thetrevor.tech/the-tiny-quake-19-april-22.html"/>
+<id>https://blog.thetrevor.tech/the-tiny-quake-19-april-22.html</id>
 		<updated>2022-04-19T08:04:57-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>The Tiny Quake</title>
@@ -8035,8 +7960,8 @@ kilometers away.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Weirdness of entropy or the Absurdity of Entropy.]]></title>
-		<link href="https://trevcan.github.io/the-absurdity-entropy.html"/>
-<id>https://trevcan.github.io/the-absurdity-entropy.html</id>
+		<link href="https://blog.thetrevor.tech/the-absurdity-entropy.html"/>
+<id>https://blog.thetrevor.tech/the-absurdity-entropy.html</id>
 		<updated>2022-04-18T09:04:24-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Weirdness of entropy or the Absurdity of Entropy.</title>
@@ -8183,8 +8108,8 @@ of the <code>it's wednesday my dudeees...</code> vine ).</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Writing math in raw utf-8]]></title>
-		<link href="https://trevcan.github.io/writing-math.html"/>
-<id>https://trevcan.github.io/writing-math.html</id>
+		<link href="https://blog.thetrevor.tech/writing-math.html"/>
+<id>https://blog.thetrevor.tech/writing-math.html</id>
 		<updated>2022-04-17T00:04:01-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Writing math in raw utf-8</title>
@@ -8350,8 +8275,8 @@ self-explanatory.</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Site updates]]></title>
-		<link href="https://trevcan.github.io/site-updates.html"/>
-<id>https://trevcan.github.io/site-updates.html</id>
+		<link href="https://blog.thetrevor.tech/site-updates.html"/>
+<id>https://blog.thetrevor.tech/site-updates.html</id>
 		<updated>2022-04-16T23:04:01-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Site updates</title>
@@ -8513,8 +8438,8 @@ saturate my network.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[I talked to a human.]]></title>
-		<link href="https://trevcan.github.io/talked.today.april.11.html"/>
-<id>https://trevcan.github.io/talked.today.april.11.html</id>
+		<link href="https://blog.thetrevor.tech/talked.today.april.11.html"/>
+<id>https://blog.thetrevor.tech/talked.today.april.11.html</id>
 		<updated>2022-04-11T11:04:01-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>I talked to a human.</title>
@@ -8689,8 +8614,8 @@ corrected them or maybe I did not or ma8ybe I will.jjj1</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[MediaGoblin won't work.]]></title>
-		<link href="https://trevcan.github.io/whyy-dont-you-work-mediagoblin.html"/>
-<id>https://trevcan.github.io/whyy-dont-you-work-mediagoblin.html</id>
+		<link href="https://blog.thetrevor.tech/whyy-dont-you-work-mediagoblin.html"/>
+<id>https://blog.thetrevor.tech/whyy-dont-you-work-mediagoblin.html</id>
 		<updated>2022-04-11T01:04:04-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>MediaGoblin won't work.</title>
@@ -8841,8 +8766,8 @@ issue tracker:</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Resizing images on Linux while keeping aspect ratio.]]></title>
-		<link href="https://trevcan.github.io/resize-image-on-linux.html"/>
-<id>https://trevcan.github.io/resize-image-on-linux.html</id>
+		<link href="https://blog.thetrevor.tech/resize-image-on-linux.html"/>
+<id>https://blog.thetrevor.tech/resize-image-on-linux.html</id>
 		<updated>2022-04-11T01:04:36-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Resizing images on Linux while keeping aspect ratio.</title>
@@ -8973,8 +8898,8 @@ ad-filled website. Yet.</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Sometimes the truth hurts]]></title>
-		<link href="https://trevcan.github.io/right.truth.html"/>
-<id>https://trevcan.github.io/right.truth.html</id>
+		<link href="https://blog.thetrevor.tech/right.truth.html"/>
+<id>https://blog.thetrevor.tech/right.truth.html</id>
 		<updated>2022-04-08T14:04:36-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Sometimes the truth hurts</title>
@@ -9080,8 +9005,8 @@ Gaby. No problem. But it is hard accepting the truth.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Programming paradigms recommended by two humans.]]></title>
-		<link href="https://trevcan.github.io/programming-paradigms-geohot.html"/>
-<id>https://trevcan.github.io/programming-paradigms-geohot.html</id>
+		<link href="https://blog.thetrevor.tech/programming-paradigms-geohot.html"/>
+<id>https://blog.thetrevor.tech/programming-paradigms-geohot.html</id>
 		<updated>2022-04-08T13:04:41-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Programming paradigms recommended by two humans.</title>
@@ -9187,8 +9112,8 @@ Gaby. No problem. But it is hard accepting the truth.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Un escrito que me encontré en la web]]></title>
-		<link href="https://trevcan.github.io/frase-shopenjuawer.html"/>
-<id>https://trevcan.github.io/frase-shopenjuawer.html</id>
+		<link href="https://blog.thetrevor.tech/frase-shopenjuawer.html"/>
+<id>https://blog.thetrevor.tech/frase-shopenjuawer.html</id>
 		<updated>2022-04-08T13:04:33-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Un escrito que me encontré en la web</title>
@@ -9304,8 +9229,8 @@ Ya no hay que salir a cazar ni ir a la guerra, ahora enfrentamos nuestra propia 
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Querying Netflix media by genre codes]]></title>
-		<link href="https://trevcan.github.io/le-netflox-genre-codes.html"/>
-<id>https://trevcan.github.io/le-netflox-genre-codes.html</id>
+		<link href="https://blog.thetrevor.tech/le-netflox-genre-codes.html"/>
+<id>https://blog.thetrevor.tech/le-netflox-genre-codes.html</id>
 		<updated>2022-04-08T13:04:48-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Querying Netflix media by genre codes</title>
@@ -9674,8 +9599,8 @@ Y ya ahí les va a salir un catálogo que incluye
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Bonsoir]]></title>
-		<link href="https://trevcan.github.io/today.avril.07.2022.html"/>
-<id>https://trevcan.github.io/today.avril.07.2022.html</id>
+		<link href="https://blog.thetrevor.tech/today.avril.07.2022.html"/>
+<id>https://blog.thetrevor.tech/today.avril.07.2022.html</id>
 		<updated>2022-04-07T23:04:26-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Bonsoir</title>
@@ -9787,8 +9712,8 @@ parle des thèmes qui peut-être tu ne voudrez pas penser.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[HTTP Proxy]]></title>
-		<link href="https://trevcan.github.io/http-proxy.html"/>
-<id>https://trevcan.github.io/http-proxy.html</id>
+		<link href="https://blog.thetrevor.tech/http-proxy.html"/>
+<id>https://blog.thetrevor.tech/http-proxy.html</id>
 		<updated>2022-04-07T21:04:42-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>HTTP Proxy</title>
@@ -9916,8 +9841,8 @@ but who knows !?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[What are names anyway ?]]></title>
-		<link href="https://trevcan.github.io/names.anyway.html"/>
-<id>https://trevcan.github.io/names.anyway.html</id>
+		<link href="https://blog.thetrevor.tech/names.anyway.html"/>
+<id>https://blog.thetrevor.tech/names.anyway.html</id>
 		<updated>2022-04-07T11:04:02-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>What are names anyway ?</title>
@@ -10019,8 +9944,8 @@ but who knows !?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Métaphysique ]]></title>
-		<link href="https://trevcan.github.io/metaphysique.html"/>
-<id>https://trevcan.github.io/metaphysique.html</id>
+		<link href="https://blog.thetrevor.tech/metaphysique.html"/>
+<id>https://blog.thetrevor.tech/metaphysique.html</id>
 		<updated>2022-04-06T14:04:44-05:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Métaphysique </title>
@@ -10133,8 +10058,8 @@ consicente de sa propre faibilité.</p></blockquote>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Git server upgrade!]]></title>
-		<link href="https://trevcan.github.io/git-on-https.html"/>
-<id>https://trevcan.github.io/git-on-https.html</id>
+		<link href="https://blog.thetrevor.tech/git-on-https.html"/>
+<id>https://blog.thetrevor.tech/git-on-https.html</id>
 		<updated>2022-04-02T22:04:30-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Git server upgrade!</title>
@@ -10275,8 +10200,8 @@ file.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Actually unmounting and removing power off HDDs]]></title>
-		<link href="https://trevcan.github.io/hdd-real-unmount.html"/>
-<id>https://trevcan.github.io/hdd-real-unmount.html</id>
+		<link href="https://blog.thetrevor.tech/hdd-real-unmount.html"/>
+<id>https://blog.thetrevor.tech/hdd-real-unmount.html</id>
 		<updated>2022-03-30T18:03:42-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Actually unmounting and removing power off HDDs</title>
@@ -10403,8 +10328,8 @@ on once you actually want to mount it. the <code>"$1"</code> is the path for the
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[blogging while at physics class]]></title>
-		<link href="https://trevcan.github.io/meta.today.2022.march.28.html"/>
-<id>https://trevcan.github.io/meta.today.2022.march.28.html</id>
+		<link href="https://blog.thetrevor.tech/meta.today.2022.march.28.html"/>
+<id>https://blog.thetrevor.tech/meta.today.2022.march.28.html</id>
 		<updated>2022-03-30T18:03:38-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>blogging while at physics class</title>
@@ -10539,8 +10464,8 @@ I&rsquo;m barely worried about myself ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Finding empty directories]]></title>
-		<link href="https://trevcan.github.io/find.dirs.html"/>
-<id>https://trevcan.github.io/find.dirs.html</id>
+		<link href="https://blog.thetrevor.tech/find.dirs.html"/>
+<id>https://blog.thetrevor.tech/find.dirs.html</id>
 		<updated>2022-03-30T17:03:43-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Finding empty directories</title>
@@ -10653,8 +10578,8 @@ and at times bashing my head at my own hands or arms.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Addicted to Black points]]></title>
-		<link href="https://trevcan.github.io/the.orange.addiction.html"/>
-<id>https://trevcan.github.io/the.orange.addiction.html</id>
+		<link href="https://blog.thetrevor.tech/the.orange.addiction.html"/>
+<id>https://blog.thetrevor.tech/the.orange.addiction.html</id>
 		<updated>2022-03-30T17:03:00-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Addicted to Black points</title>
@@ -10790,8 +10715,8 @@ teaching me chinese.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Nice website]]></title>
-		<link href="https://trevcan.github.io/funny-site-faq.html"/>
-<id>https://trevcan.github.io/funny-site-faq.html</id>
+		<link href="https://blog.thetrevor.tech/funny-site-faq.html"/>
+<id>https://blog.thetrevor.tech/funny-site-faq.html</id>
 		<updated>2022-03-30T17:03:15-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Nice website</title>
@@ -10897,8 +10822,8 @@ the hurdles of maintaining a website whilst working a (maybe?) full-time job.</p
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Debugging Linux chown operation not permitted]]></title>
-		<link href="https://trevcan.github.io/debug.chown.not.pmed.html"/>
-<id>https://trevcan.github.io/debug.chown.not.pmed.html</id>
+		<link href="https://blog.thetrevor.tech/debug.chown.not.pmed.html"/>
+<id>https://blog.thetrevor.tech/debug.chown.not.pmed.html</id>
 		<updated>2022-03-27T21:03:58-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Debugging Linux chown operation not permitted</title>
@@ -11012,8 +10937,8 @@ order to add files without being root.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[tragedy]]></title>
-		<link href="https://trevcan.github.io/ffff.html"/>
-<id>https://trevcan.github.io/ffff.html</id>
+		<link href="https://blog.thetrevor.tech/ffff.html"/>
+<id>https://blog.thetrevor.tech/ffff.html</id>
 		<updated>2022-03-26T16:03:28-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>tragedy</title>
@@ -11137,8 +11062,8 @@ someone might have installed some RF interferrer to fuck with us.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Speed running today]]></title>
-		<link href="https://trevcan.github.io/meta.today.html"/>
-<id>https://trevcan.github.io/meta.today.html</id>
+		<link href="https://blog.thetrevor.tech/meta.today.html"/>
+<id>https://blog.thetrevor.tech/meta.today.html</id>
 		<updated>2022-03-22T10:03:01-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Speed running today</title>
@@ -11257,8 +11182,8 @@ tecbot.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Dedication is not only admirable, but achievable]]></title>
-		<link href="https://trevcan.github.io/whyamistillhere.html"/>
-<id>https://trevcan.github.io/whyamistillhere.html</id>
+		<link href="https://blog.thetrevor.tech/whyamistillhere.html"/>
+<id>https://blog.thetrevor.tech/whyamistillhere.html</id>
 		<updated>2022-03-21T02:03:58-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Dedication is not only admirable, but achievable</title>
@@ -11400,8 +11325,8 @@ to do anything you want.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Lazy man's VPN or <em>Simple VPN through SSH</em>]]></title>
-		<link href="https://trevcan.github.io/ssh-vpn.html"/>
-<id>https://trevcan.github.io/ssh-vpn.html</id>
+		<link href="https://blog.thetrevor.tech/ssh-vpn.html"/>
+<id>https://blog.thetrevor.tech/ssh-vpn.html</id>
 		<updated>2022-03-16T16:03:48-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Lazy man's VPN or <em>Simple VPN through SSH</em></title>
@@ -11528,8 +11453,8 @@ will crash.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[web servers useful links]]></title>
-		<link href="https://trevcan.github.io/webserver.html"/>
-<id>https://trevcan.github.io/webserver.html</id>
+		<link href="https://blog.thetrevor.tech/webserver.html"/>
+<id>https://blog.thetrevor.tech/webserver.html</id>
 		<updated>2022-03-16T15:03:11-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>web servers useful links</title>
@@ -11658,8 +11583,8 @@ viewed  the diagram.</p></li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Debugging FRC Pneumatics ]]></title>
-		<link href="https://trevcan.github.io/tecbot.debugging.pcm.html"/>
-<id>https://trevcan.github.io/tecbot.debugging.pcm.html</id>
+		<link href="https://blog.thetrevor.tech/tecbot.debugging.pcm.html"/>
+<id>https://blog.thetrevor.tech/tecbot.debugging.pcm.html</id>
 		<updated>2022-03-16T15:03:04-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Debugging FRC Pneumatics </title>
@@ -11760,8 +11685,8 @@ that in ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Debugging archlinux keyring breaking when updating.]]></title>
-		<link href="https://trevcan.github.io/arch-debug-keys-keyring.html"/>
-<id>https://trevcan.github.io/arch-debug-keys-keyring.html</id>
+		<link href="https://blog.thetrevor.tech/arch-debug-keys-keyring.html"/>
+<id>https://blog.thetrevor.tech/arch-debug-keys-keyring.html</id>
 		<updated>2022-03-16T15:03:10-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Debugging archlinux keyring breaking when updating.</title>
@@ -11869,8 +11794,8 @@ that in ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Independence from closed technologies.]]></title>
-		<link href="https://trevcan.github.io/volvo-music.html"/>
-<id>https://trevcan.github.io/volvo-music.html</id>
+		<link href="https://blog.thetrevor.tech/volvo-music.html"/>
+<id>https://blog.thetrevor.tech/volvo-music.html</id>
 		<updated>2022-03-16T15:03:04-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Independence from closed technologies.</title>
@@ -12170,8 +12095,8 @@ it worked.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Yeeet !]]></title>
-		<link href="https://trevcan.github.io/helloddd.html"/>
-<id>https://trevcan.github.io/helloddd.html</id>
+		<link href="https://blog.thetrevor.tech/helloddd.html"/>
+<id>https://blog.thetrevor.tech/helloddd.html</id>
 		<updated>2022-03-10T09:03:26-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Yeeet !</title>
@@ -12260,8 +12185,8 @@ doing well. Thanks for complimenting my blog. That is all. good luck on your pre
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Jonah Hill.]]></title>
-		<link href="https://trevcan.github.io/jonahhill.html"/>
-<id>https://trevcan.github.io/jonahhill.html</id>
+		<link href="https://blog.thetrevor.tech/jonahhill.html"/>
+<id>https://blog.thetrevor.tech/jonahhill.html</id>
 		<updated>2022-03-08T07:03:35-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Jonah Hill.</title>
@@ -12351,8 +12276,8 @@ doing well. Thanks for complimenting my blog. That is all. good luck on your pre
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[En parlant français]]></title>
-		<link href="https://trevcan.github.io/fr.blooaub.html"/>
-<id>https://trevcan.github.io/fr.blooaub.html</id>
+		<link href="https://blog.thetrevor.tech/fr.blooaub.html"/>
+<id>https://blog.thetrevor.tech/fr.blooaub.html</id>
 		<updated>2022-03-07T13:03:18-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>En parlant français</title>
@@ -12456,8 +12381,8 @@ peut-être que demain.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[copy all Pictures/Videos from iOS device to PC]]></title>
-		<link href="https://trevcan.github.io/exporting-media-from-ios-to-pc.html"/>
-<id>https://trevcan.github.io/exporting-media-from-ios-to-pc.html</id>
+		<link href="https://blog.thetrevor.tech/exporting-media-from-ios-to-pc.html"/>
+<id>https://blog.thetrevor.tech/exporting-media-from-ios-to-pc.html</id>
 		<updated>2022-03-06T01:03:58-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>copy all Pictures/Videos from iOS device to PC</title>
@@ -12649,8 +12574,8 @@ or critique ? Go ahead and <a href="https://trevcan.duckdns.org/blog/contact.htm
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Chanson: Priorisite-moi]]></title>
-		<link href="https://trevcan.github.io/dite-moi.je.faire.html"/>
-<id>https://trevcan.github.io/dite-moi.je.faire.html</id>
+		<link href="https://blog.thetrevor.tech/dite-moi.je.faire.html"/>
+<id>https://blog.thetrevor.tech/dite-moi.je.faire.html</id>
 		<updated>2022-03-04T14:03:16-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Chanson: Priorisite-moi</title>
@@ -12745,8 +12670,8 @@ et en géneral distractions.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[How to get saved network passwords in Linux (Network Manager)]]></title>
-		<link href="https://trevcan.github.io/linux-find-network-passwds.html"/>
-<id>https://trevcan.github.io/linux-find-network-passwds.html</id>
+		<link href="https://blog.thetrevor.tech/linux-find-network-passwds.html"/>
+<id>https://blog.thetrevor.tech/linux-find-network-passwds.html</id>
 		<updated>2022-03-04T12:03:22-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>How to get saved network passwords in Linux (Network Manager)</title>
@@ -12845,8 +12770,8 @@ a list of *.nmconnection files.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[*Curriculum Vitae*]]></title>
-		<link href="https://trevcan.github.io/hireme.cv.html"/>
-<id>https://trevcan.github.io/hireme.cv.html</id>
+		<link href="https://blog.thetrevor.tech/hireme.cv.html"/>
+<id>https://blog.thetrevor.tech/hireme.cv.html</id>
 		<updated>2022-03-02T11:03:41-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>*Curriculum Vitae*</title>
@@ -12892,7 +12817,7 @@ a list of *.nmconnection files.</p>
 		</tr>
 		<tr>
 			<td><i>Last edited:</i></td>
-			<td><i>07/25/2024 11:09:17 AM</i></td>
+			<td><i>11/03/2025 08:04:18 PM</i></td>
 		</tr>
 	</table>
 
@@ -13043,8 +12968,6 @@ Languages:
     
 --- Education: ---
 
-2024 - 2027: (Online) Electrical and Cybersecurity Engineering
-    @ Universidad Autónoma de Guadalajara
     
 2019 - 2022: PrepaTec Multicultural (PTM) 
     @ Tec de Monterrey (ITESM)
@@ -13133,8 +13056,6 @@ Languages:
 
 --- Education: ---
     
-2023 - 2026 ?: Computer Science Engineering Degree.
-    @ UDLAP. Universidad de las Américas Puebla.
     
 2019 - 2022: PrepaTec Multicultural (PTM) 
     @ ITESM.
@@ -13206,8 +13127,8 @@ e-mail: heror0484 [at] protonmail {dot} com
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[My hacker news Who wants to be hired full comment]]></title>
-		<link href="https://trevcan.github.io/hired.hn.html"/>
-<id>https://trevcan.github.io/hired.hn.html</id>
+		<link href="https://blog.thetrevor.tech/hired.hn.html"/>
+<id>https://blog.thetrevor.tech/hired.hn.html</id>
 		<updated>2022-03-01T13:03:50-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>My hacker news Who wants to be hired full comment</title>
@@ -13328,8 +13249,8 @@ will be starting a CS Engineering degree in the Fall of 2022.</em></p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[robots.txt and a cool HN thread]]></title>
-		<link href="https://trevcan.github.io/robots.html"/>
-<id>https://trevcan.github.io/robots.html</id>
+		<link href="https://blog.thetrevor.tech/robots.html"/>
+<id>https://blog.thetrevor.tech/robots.html</id>
 		<updated>2022-03-01T13:03:50-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>robots.txt and a cool HN thread</title>
@@ -13443,8 +13364,8 @@ some ascii art myself.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[On Feelings]]></title>
-		<link href="https://trevcan.github.io/hello.touch.html"/>
-<id>https://trevcan.github.io/hello.touch.html</id>
+		<link href="https://blog.thetrevor.tech/hello.touch.html"/>
+<id>https://blog.thetrevor.tech/hello.touch.html</id>
 		<updated>2022-02-27T14:02:25-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>On Feelings</title>
@@ -13661,8 +13582,8 @@ poor thing. But eventually I reached grass, decided not to step on any until the
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Setting up Cloudflare's DNS]]></title>
-		<link href="https://trevcan.github.io/howto.dns.cloudflare.html"/>
-<id>https://trevcan.github.io/howto.dns.cloudflare.html</id>
+		<link href="https://blog.thetrevor.tech/howto.dns.cloudflare.html"/>
+<id>https://blog.thetrevor.tech/howto.dns.cloudflare.html</id>
 		<updated>2022-02-15T22:02:55-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Setting up Cloudflare's DNS</title>
@@ -13773,8 +13694,8 @@ configurations can be (in theory) applied to all your network, but if you want t
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Was down for a few minutes, we back1!]]></title>
-		<link href="https://trevcan.github.io/downforamoment.html"/>
-<id>https://trevcan.github.io/downforamoment.html</id>
+		<link href="https://blog.thetrevor.tech/downforamoment.html"/>
+<id>https://blog.thetrevor.tech/downforamoment.html</id>
 		<updated>2022-02-11T11:02:21-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Was down for a few minutes, we back1!</title>
@@ -13863,8 +13784,8 @@ Just renewed them and site should now just work fine!</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[I'm back!]]></title>
-		<link href="https://trevcan.github.io/update.back.html"/>
-<id>https://trevcan.github.io/update.back.html</id>
+		<link href="https://blog.thetrevor.tech/update.back.html"/>
+<id>https://blog.thetrevor.tech/update.back.html</id>
 		<updated>2022-02-09T22:02:55-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>I'm back!</title>
@@ -13968,8 +13889,8 @@ reboots. But yeah we&rsquo;re back.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Resources for Tecbot]]></title>
-		<link href="https://trevcan.github.io/tecbot.resources-tecbot.html"/>
-<id>https://trevcan.github.io/tecbot.resources-tecbot.html</id>
+		<link href="https://blog.thetrevor.tech/tecbot.resources-tecbot.html"/>
+<id>https://blog.thetrevor.tech/tecbot.resources-tecbot.html</id>
 		<updated>2022-01-15T22:01:11-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Resources for Tecbot</title>
@@ -14099,8 +14020,8 @@ reboots. But yeah we&rsquo;re back.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Adding website stats]]></title>
-		<link href="https://trevcan.github.io/lighttpd-site-stats.html"/>
-<id>https://trevcan.github.io/lighttpd-site-stats.html</id>
+		<link href="https://blog.thetrevor.tech/lighttpd-site-stats.html"/>
+<id>https://blog.thetrevor.tech/lighttpd-site-stats.html</id>
 		<updated>2022-01-15T18:01:27-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Adding website stats</title>
@@ -14204,8 +14125,8 @@ including user agents and stuff. just random numbers but real actually.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Today: working towards an internship ?]]></title>
-		<link href="https://trevcan.github.io/today-2022-jan-15.html"/>
-<id>https://trevcan.github.io/today-2022-jan-15.html</id>
+		<link href="https://blog.thetrevor.tech/today-2022-jan-15.html"/>
+<id>https://blog.thetrevor.tech/today-2022-jan-15.html</id>
 		<updated>2022-01-15T18:01:27-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Today: working towards an internship ?</title>
@@ -14357,8 +14278,8 @@ to enter their company. I had read about this on an HN post I submitted, it was 
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Setting EPSON L575 Printer in linux with CUPS]]></title>
-		<link href="https://trevcan.github.io/setting-up-printer.html"/>
-<id>https://trevcan.github.io/setting-up-printer.html</id>
+		<link href="https://blog.thetrevor.tech/setting-up-printer.html"/>
+<id>https://blog.thetrevor.tech/setting-up-printer.html</id>
 		<updated>2021-12-15T23:12:14-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Setting EPSON L575 Printer in linux with CUPS</title>
@@ -14458,8 +14379,8 @@ to correctly print.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Today]]></title>
-		<link href="https://trevcan.github.io/today.december.8.mmxxi.html"/>
-<id>https://trevcan.github.io/today.december.8.mmxxi.html</id>
+		<link href="https://blog.thetrevor.tech/today.december.8.mmxxi.html"/>
+<id>https://blog.thetrevor.tech/today.december.8.mmxxi.html</id>
 		<updated>2021-12-08T02:12:18-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Today</title>
@@ -14644,8 +14565,8 @@ baby.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Project Ideas]]></title>
-		<link href="https://trevcan.github.io/ideas.html"/>
-<id>https://trevcan.github.io/ideas.html</id>
+		<link href="https://blog.thetrevor.tech/ideas.html"/>
+<id>https://blog.thetrevor.tech/ideas.html</id>
 		<updated>2021-12-06T19:12:10-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Project Ideas</title>
@@ -14756,8 +14677,8 @@ even ANSI!</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Geohot Archive Links]]></title>
-		<link href="https://trevcan.github.io/geohot-archive.html"/>
-<id>https://trevcan.github.io/geohot-archive.html</id>
+		<link href="https://blog.thetrevor.tech/geohot-archive.html"/>
+<id>https://blog.thetrevor.tech/geohot-archive.html</id>
 		<updated>2021-11-30T21:11:56-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Geohot Archive Links</title>
@@ -14866,8 +14787,8 @@ show small, less annoying tag links in the index file i guess ?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[adding the fzf plugin to vim]]></title>
-		<link href="https://trevcan.github.io/using-fzf-in-vim.html"/>
-<id>https://trevcan.github.io/using-fzf-in-vim.html</id>
+		<link href="https://blog.thetrevor.tech/using-fzf-in-vim.html"/>
+<id>https://blog.thetrevor.tech/using-fzf-in-vim.html</id>
 		<updated>2021-11-27T00:11:01-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>adding the fzf plugin to vim</title>
@@ -15027,8 +14948,8 @@ these config files but I guess sharing is caring, right?</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[The Myth of Technology]]></title>
-		<link href="https://trevcan.github.io/computers-for-cynics-0.html"/>
-<id>https://trevcan.github.io/computers-for-cynics-0.html</id>
+		<link href="https://blog.thetrevor.tech/computers-for-cynics-0.html"/>
+<id>https://blog.thetrevor.tech/computers-for-cynics-0.html</id>
 		<updated>2021-11-20T18:11:12-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>The Myth of Technology</title>
@@ -15164,8 +15085,8 @@ and 4 bits for numbers ?</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Rant on \"Writing\"-ish tools]]></title>
-		<link href="https://trevcan.github.io/rant-writing-tools.html"/>
-<id>https://trevcan.github.io/rant-writing-tools.html</id>
+		<link href="https://blog.thetrevor.tech/rant-writing-tools.html"/>
+<id>https://blog.thetrevor.tech/rant-writing-tools.html</id>
 		<updated>2021-11-18T19:11:23-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Rant on "Writing"-ish tools</title>
@@ -15288,8 +15209,8 @@ there&rsquo;s that. Whatever.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Working with git hooks.]]></title>
-		<link href="https://trevcan.github.io/git-hooks.html"/>
-<id>https://trevcan.github.io/git-hooks.html</id>
+		<link href="https://blog.thetrevor.tech/git-hooks.html"/>
+<id>https://blog.thetrevor.tech/git-hooks.html</id>
 		<updated>2021-11-14T21:11:43-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Working with git hooks.</title>
@@ -15444,8 +15365,8 @@ i had in the git pull command so let&rsquo;s see if that works.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Un beso en el asfalto. 2017]]></title>
-		<link href="https://trevcan.github.io/un-beso-en-el-asfalto.html"/>
-<id>https://trevcan.github.io/un-beso-en-el-asfalto.html</id>
+		<link href="https://blog.thetrevor.tech/un-beso-en-el-asfalto.html"/>
+<id>https://blog.thetrevor.tech/un-beso-en-el-asfalto.html</id>
 		<updated>2021-11-14T21:11:13-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Un beso en el asfalto. 2017</title>
@@ -15543,8 +15464,8 @@ brain&rsquo;s interpretation is. So yeah, maybe I&rsquo;ll update this post idk.
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[trust me bro]]></title>
-		<link href="https://trevcan.github.io/trustme.html"/>
-<id>https://trevcan.github.io/trustme.html</id>
+		<link href="https://blog.thetrevor.tech/trustme.html"/>
+<id>https://blog.thetrevor.tech/trustme.html</id>
 		<updated>2021-11-13T13:11:08-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>trust me bro</title>
@@ -15632,8 +15553,8 @@ brain&rsquo;s interpretation is. So yeah, maybe I&rsquo;ll update this post idk.
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Contacting me]]></title>
-		<link href="https://trevcan.github.io/contact.html"/>
-<id>https://trevcan.github.io/contact.html</id>
+		<link href="https://blog.thetrevor.tech/contact.html"/>
+<id>https://blog.thetrevor.tech/contact.html</id>
 		<updated>2021-11-11T08:11:28-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Contacting me</title>
@@ -15741,8 +15662,8 @@ brain&rsquo;s interpretation is. So yeah, maybe I&rsquo;ll update this post idk.
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[debugging blogit.]]></title>
-		<link href="https://trevcan.github.io/debugging-blogit.html"/>
-<id>https://trevcan.github.io/debugging-blogit.html</id>
+		<link href="https://blog.thetrevor.tech/debugging-blogit.html"/>
+<id>https://blog.thetrevor.tech/debugging-blogit.html</id>
 		<updated>2021-11-10T23:11:12-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>debugging blogit.</title>
@@ -15992,8 +15913,8 @@ recent article is right below the middle, the sixth one from bottom to top.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[How do I fix this blogit?]]></title>
-		<link href="https://trevcan.github.io/why-blogit.html"/>
-<id>https://trevcan.github.io/why-blogit.html</id>
+		<link href="https://blog.thetrevor.tech/why-blogit.html"/>
+<id>https://blog.thetrevor.tech/why-blogit.html</id>
 		<updated>2021-11-10T18:11:11-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>How do I fix this blogit?</title>
@@ -16120,8 +16041,8 @@ have up to 5 subdomains.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Derivatives Stuff Calculus]]></title>
-		<link href="https://trevcan.github.io/notes-calculus.html"/>
-<id>https://trevcan.github.io/notes-calculus.html</id>
+		<link href="https://blog.thetrevor.tech/notes-calculus.html"/>
+<id>https://blog.thetrevor.tech/notes-calculus.html</id>
 		<updated>2021-11-10T13:11:18-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Derivatives Stuff Calculus</title>
@@ -16232,8 +16153,8 @@ have up to 5 subdomains.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Hacking with The Blue Alliance ]]></title>
-		<link href="https://trevcan.github.io/hacking.av.tba.html"/>
-<id>https://trevcan.github.io/hacking.av.tba.html</id>
+		<link href="https://blog.thetrevor.tech/hacking.av.tba.html"/>
+<id>https://blog.thetrevor.tech/hacking.av.tba.html</id>
 		<updated>2021-11-09T17:11:46-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Hacking with The Blue Alliance </title>
@@ -16339,8 +16260,8 @@ friendly request to retrieve data. Just remember to assign the HTTP header
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Luke: 'Will you ever stand up for yourself ?']]></title>
-		<link href="https://trevcan.github.io/stand-up-thy-self.html"/>
-<id>https://trevcan.github.io/stand-up-thy-self.html</id>
+		<link href="https://blog.thetrevor.tech/stand-up-thy-self.html"/>
+<id>https://blog.thetrevor.tech/stand-up-thy-self.html</id>
 		<updated>2021-11-09T17:11:06-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Luke: 'Will you ever stand up for yourself ?'</title>
@@ -16466,8 +16387,8 @@ and to be autonomous /independent in a sense.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[finally blog it!]]></title>
-		<link href="https://trevcan.github.io/yayy.html"/>
-<id>https://trevcan.github.io/yayy.html</id>
+		<link href="https://blog.thetrevor.tech/yayy.html"/>
+<id>https://blog.thetrevor.tech/yayy.html</id>
 		<updated>2021-11-09T00:11:44-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>finally blog it!</title>
@@ -16558,8 +16479,8 @@ probably be good to go.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Learn how to use pedantic.software/git/blogit !!]]></title>
-		<link href="https://trevcan.github.io/idk-learn-pedantics-blogit.html"/>
-<id>https://trevcan.github.io/idk-learn-pedantics-blogit.html</id>
+		<link href="https://blog.thetrevor.tech/idk-learn-pedantics-blogit.html"/>
+<id>https://blog.thetrevor.tech/idk-learn-pedantics-blogit.html</id>
 		<updated>2021-11-08T23:11:35-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Learn how to use pedantic.software/git/blogit !!</title>
@@ -16662,8 +16583,8 @@ do shit and test <code>blogit</code>.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[about:Trevcan]]></title>
-		<link href="https://trevcan.github.io/about.html"/>
-<id>https://trevcan.github.io/about.html</id>
+		<link href="https://blog.thetrevor.tech/about.html"/>
+<id>https://blog.thetrevor.tech/about.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>about:Trevcan</title>
@@ -16785,8 +16706,8 @@ and a tad of github actions automation with gh pages.</p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Bookmarks]]></title>
-		<link href="https://trevcan.github.io/bookmarks.html"/>
-<id>https://trevcan.github.io/bookmarks.html</id>
+		<link href="https://blog.thetrevor.tech/bookmarks.html"/>
+<id>https://blog.thetrevor.tech/bookmarks.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Bookmarks</title>
@@ -17444,8 +17365,8 @@ DuckDuckGo</a></p>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[courses]]></title>
-		<link href="https://trevcan.github.io/courses.html"/>
-<id>https://trevcan.github.io/courses.html</id>
+		<link href="https://blog.thetrevor.tech/courses.html"/>
+<id>https://blog.thetrevor.tech/courses.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>courses</title>
@@ -17626,8 +17547,8 @@ I have not checked any of these programming &lsquo;practice websites and don&rsq
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Arch Linux Bulletin Board System Post]]></title>
-		<link href="https://trevcan.github.io/gpg.why.bbs.html"/>
-<id>https://trevcan.github.io/gpg.why.bbs.html</id>
+		<link href="https://blog.thetrevor.tech/gpg.why.bbs.html"/>
+<id>https://blog.thetrevor.tech/gpg.why.bbs.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Arch Linux Bulletin Board System Post</title>
@@ -17845,8 +17766,8 @@ $ tail -f .gnupg/gpg-agent.debug.log > gpgagent.debug.out
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Why is GnuPG / GPG  acting up ? ]]></title>
-		<link href="https://trevcan.github.io/gpg.why.html"/>
-<id>https://trevcan.github.io/gpg.why.html</id>
+		<link href="https://blog.thetrevor.tech/gpg.why.html"/>
+<id>https://blog.thetrevor.tech/gpg.why.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Why is GnuPG / GPG  acting up ? </title>
@@ -18072,8 +17993,8 @@ CLI?</a></li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Main]]></title>
-		<link href="https://trevcan.github.io/main.html"/>
-<id>https://trevcan.github.io/main.html</id>
+		<link href="https://blog.thetrevor.tech/main.html"/>
+<id>https://blog.thetrevor.tech/main.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Main</title>
@@ -18187,8 +18108,8 @@ CLI?</a></li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Movies]]></title>
-		<link href="https://trevcan.github.io/mvs.html"/>
-<id>https://trevcan.github.io/mvs.html</id>
+		<link href="https://blog.thetrevor.tech/mvs.html"/>
+<id>https://blog.thetrevor.tech/mvs.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Movies</title>
@@ -18622,7 +18543,6 @@ Inquebrantable (2014)</li>
 <li class="github_checkbox"><input disabled="" type="checkbox" checked="checked"/> Stalker (1979)</li>
 <li class="github_checkbox"><input disabled="" type="checkbox"/> Glengarry GlenRoss (1992)</li>
 <li class="github_checkbox"><input disabled="" type="checkbox"/> The purple rose of cairo</li>
-<li class="github_checkbox"><input disabled="" type="checkbox"/> Extras (2005)</li>
 </ul>
 
 
@@ -19217,8 +19137,8 @@ Inquebrantable (2014)</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[quotes]]></title>
-		<link href="https://trevcan.github.io/quotes.html"/>
-<id>https://trevcan.github.io/quotes.html</id>
+		<link href="https://blog.thetrevor.tech/quotes.html"/>
+<id>https://blog.thetrevor.tech/quotes.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>quotes</title>
@@ -19542,8 +19462,8 @@ Gabriel Ponce Peña</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[Trevcan Readme]]></title>
-		<link href="https://trevcan.github.io/README.html"/>
-<id>https://trevcan.github.io/README.html</id>
+		<link href="https://blog.thetrevor.tech/README.html"/>
+<id>https://blog.thetrevor.tech/README.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>Trevcan Readme</title>
@@ -19956,8 +19876,8 @@ Just spitballing here.</li>
 		</entry>
 		<entry>
 		<title type="html"><![CDATA[watch later]]></title>
-		<link href="https://trevcan.github.io/wl.html"/>
-<id>https://trevcan.github.io/wl.html</id>
+		<link href="https://blog.thetrevor.tech/wl.html"/>
+<id>https://blog.thetrevor.tech/wl.html</id>
 		<updated>2021-11-08T23:11:33-06:00</updated>
 		<summary type="html"><![CDATA[<html><head>
 		<title>watch later</title>
