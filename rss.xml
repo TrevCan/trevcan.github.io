@@ -2393,22 +2393,22 @@ a list of *.nmconnection files.</p>
 
 <p><a href="https://trevcan.github.io/cv/">https://trevcan.github.io/cv/</a></p>
 
-<!-- Here it is: -->
+<a name="Hector-Canizales"></a>
+<h1>Hector Canizales</h1>
 
+<p><strong>Software Developer &amp; Programmer</strong><br/>
+Born in United States of America | Mexico City, Mexico (open to relocation)<br/>
+Email: heror0484@protonmail.com<br/>
+GitHub: <a href="https://github.com/TrevCan">github.com/TrevCan</a><br/>
+Blog: <a href="https://trevcan.github.io">trevcan.github.io</a></p>
 
-<p><pre><code>name: Hector Canizales
-place of birth: United States of America
-</code></pre>
-&lt;!&ndash; <a href="#short-version">short version</a></p>
+<hr />
 
-<a name="long-version"></a>
-<h1>long version</h1>
+<a name="Technical-Skills"></a>
+<h3>Technical Skills</h3>
 
-<p>&ndash;></p>
-
-<p><pre><code>--- Soft Skills: ---
-    
-    -   Full honesty.
+<ul>
+<li><strong>Languages</strong>: Java (4+ years), Python, C, Scala, Bash, Processing, basic JavaScript</li>
 ]]>
 		</description>
 		</item>

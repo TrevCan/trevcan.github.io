@@ -8,7 +8,7 @@
 	<link rel="self" type="application/atom+xml" href="https://blog.thetrevor.tech/atom.xml"/>
 	<author><name>trevcan</name></author>
 	<id>https://blog.thetrevor.tech/atom.xml</id>
-	<updated>2025-11-03T20:06:41Z</updated>
+	<updated>2026-05-22T16:40:35Z</updated>
 
 		<entry>
 		<title type="html"><![CDATA[$ whois trevor. featuring guest author]]></title>
@@ -12817,7 +12817,7 @@ a list of *.nmconnection files.</p>
 		</tr>
 		<tr>
 			<td><i>Last edited:</i></td>
-			<td><i>11/03/2025 08:04:18 PM</i></td>
+			<td><i>05/22/2026 04:07:46 PM</i></td>
 		</tr>
 	</table>
 
@@ -12825,271 +12825,106 @@ a list of *.nmconnection files.</p>
 
 <p><a href="https://trevcan.github.io/cv/">https://trevcan.github.io/cv/</a></p>
 
-<!-- Here it is: -->
+<a name="Hector-Canizales"></a>
+<h1>Hector Canizales</h1>
 
+<p><strong>Software Developer &amp; Programmer</strong><br/>
+Born in United States of America | Mexico City, Mexico (open to relocation)<br/>
+Email: heror0484@protonmail.com<br/>
+GitHub: <a href="https://github.com/TrevCan">github.com/TrevCan</a><br/>
+Blog: <a href="https://trevcan.github.io">trevcan.github.io</a></p>
 
-<p><pre><code>name: Hector Canizales
-place of birth: United States of America
-</code></pre>
-&lt;!&ndash; <a href="#short-version">short version</a></p>
+<hr />
 
-<a name="long-version"></a>
-<h1>long version</h1>
-
-<p>&ndash;></p>
-
-<p><pre><code>--- Soft Skills: ---
-    
-    -   Full honesty.
-    -   Perseverance.
-    -   Team Work.
-    -   Good communication.
-    -   Courtesy.
-
---- Hard Skills: ---
-    
-    -   Java Object Oriented Programming
-    -   Linux server administration
-    -   Lighttpd static-file webserver configuration and (fast)CGI protocols.       
-    
---- Experience: ---
-
-Languages:
-- Java (+4 years)
-- Scala
-- C
-- bash
-- basic JavaScript
-- Processing
-- English (practically native)
-- Spanish (native)
-- French (basic)
-
-2023: Wendy's Crew. 6 weeks. Summer job.
-    I worked a summer job at a Wendy's in Flower Mound, Texas.
-    I worked the front, taking orders from customers, dispatched orders
-    to the drive-thru and the front, made fries, served drinks, washed
-    dishes, cleaned the store and the fry station. Lots of team work
-    and communication to manage multiple orders at the same time.
-
-2022 : two and a half months. Remote. Paid internship. Junior developer.
-    @ wiringbits [9]
-    I was hired as a junior developer. I worked on learning about the Scala
-    programming language, functional paradigms plus OOP. I then started
-    fixing bugs here and there in their opensource project &lt;cazadescuentos.net&gt;,
-    an online web store scraper.
-    I submitted Pull Requests to the project, worked on feedback from 
-    coworkers and asked for advice when having doubts.
-    
-2019 - present: Learned Linux ! 
-    also sysadmin stuff. 
-    Set up a lighttpd web server.
-                
-    all my website and blog [3],[4],
-                
-    are hosted on an old computer connected to my home
-    internet modem. 
-
-    The computer runs Arch Linux and  its longest
-    uptime has been 80d, 12h, 17m and counting !
-    see for yourself!: [6]
-
-    I use a dynamic DNS provider to set it up. Of course,
-    
-    I set up port forwarding to be able to set up the site
-        over HTTP and HTTPS. Also set up SSH, among a few other ports.
-
-    Also deployed cgit [5], a CGI web interface for viewing
-    interactively and diffing different commits and projects.
-
-    I also set up a git over HTTPs repository, on my own. Ton of work,
-    web server configuration ain't easy at all!
-
-    I'd love to set up my own peertube or odyssee instance but
-    I've failed to do it. I also tried MediaGoblin but 
-    containers are certainly hard ! Will update here if I get it
-    working.
-
-    
-2022: Final Project for Advanced Programming High school class.
-    We implemented a web application (CRUD), using XAMPP,
-    allowing us to update and register
-    exam evaluations. 
-    Collaborative project (2 developers),
-    There were data checks performed through javascript,
-    then it would submit a form and PHP would register
-    it to a MySQL database.
-    Github Project: [2]
-    
-2021: (2 weeks) Cyber Security Externship at WorkED. 
-    Done virtually due to pandemic. 
-    Learned about frameworks to make reports and main
-    strategies to combat bad actors.
-    Worked with real pen-testing tools, Linux, learned about SQL injections.
-    Talked to several cybersecurity experts in 
-    several fields (private, public).
-    Worked with rangeforce platform (&lt;https://rangeforce.com&gt;).
-    Made professional reports about previous 
-    vulnerabilities, worked in teams, made new relationships.
-
-    
-    
-    
-2018 August - 2022 August: Member of TECBOT Robotics Team. 
-    Competes against other 
-    highschools, national and international in FRC (First Robotics Competition). 
-    Member of the software 
-    team and have led the teaching of new students who learn 
-    Java Programming for FRC. 
-    Our code is on github: [0].
-    See also: Our Code for the 2022 FRC Season: [8]
-    Tecbot website: [1].
-
-
-
-2019: Workshop: •The Science Behind Technological Design: A 
-    Human-Centered Approach. 
-    With Monica Perusquia as instructor.
-    1 week. Undergrad and high school (me) students. 
-    First time I installed Linux (Ubuntu) ! Got me very interested.
-    Learned Linux, teamwork, reading software documentation, 
-    tried out python with some ML. 
-    We made a prototype to measure a person's posture + stress 
-    + haptic feedback.
-            
-2019: Hackathon Fintech Workshop. In collaboration
-    with Banca Mifel. Mostly undergraduate students from
-    business, engineering, and tech careers. Learned about
-    Unity3D, played around with NodeJS and some database engines.
-    72 hours.
-    In Teams.
-
-    
-    
---- Education: ---
-
-    
-2019 - 2022: PrepaTec Multicultural (PTM) 
-    @ Tec de Monterrey (ITESM)
-    (3 years) (Classes in English 
-    and learned French)
-    16 weeks per semester.  Had some classes in 5th and 6th semester
-    to get a feeling of my undergrad degree.
-    
-
-</code></pre>
-&lt;!&ndash;</p>
-
-<a name="short-version"></a>
-<h1>short version</h1>
-
-<p><pre><code>--- Soft Skills: ---
-    
-    -   Full honesty.
-    -   Perseverance.
-    -   Team Work.
-    -   Good communication.
-    -   Courtesy.
-    
---- Experience: ---
-
-2022 - 2022: 2.5 months. Remote. Paid internship. Junior developer.
-    @ wiringbits [9]. 
-    Learned the Scala programming language (OOP + functional), 
-    miscellaneous bug fixes,
-    submitted PRs
-    collaborated remotely with coworkers.
-    
-2019 - present: Learned Linux ! 
-    sysadmin stuff.
-    Set up a lighttpd web server.
-    My website is hosted on my own computer.
-        with a dynamic dns service (duckdns.org)
-    arch linux install among others (popOS, Ubuntu)
-    
-2022: CRUD web app students for Advanced Programming High school class.
-    CRUD web app. 
-    Done in pairs
-    Using XAMPP without perl. PHP + Apache + javascript + html
-    Data checks performed through javascript
-    Submits to a PHP form, registers to a MySQL database.
-    source code: [2]
-    
-2021: (2 weeks) Cyber Security Externship at WorkED. 
-    Remote.
-    Learned about cybersec frameworks to make reports and main
-    strategies to combat bad actors in cybersecurity.
-    Worked with real pen-testing tools, Linux, learned about SQL injections.
-    Talked to several cybersecurity experts in several fields 
-    (private, public).
-    Worked with rangeforce platform [10].
-    Made professional reports about previous 
-    vulnerabilities, worked in teams, made new relationships. [11]
-
-2018 August - 2022 August: Member of TECBOT Robotics Team. 
-    Competes against other 
-    highschools, national and international in FRC (First Robotics Competition). 
-    Member of the software 
-    team and have led the teaching of new students who learn 
-    Java Programming for FRC. 
-    Our code is on github: [0].
-    See also: Our Code for the 2022 FRC Season: [8]
-    Tecbot website: [1].
-
-2019: Workshop: •The Science Behind Technological Design: A 
-    Human-Centered Approach. 
-    With Monica Perusquia as instructor.
-    1 week. Undergrad and high school (me) students. 
-    First time I installed Linux (Ubuntu) ! Got me very interested.
-    Learned Linux, teamwork, reading software documentation, 
-    tried out python with some ML. 
-    We made a prototype to measure a person's posture + stress 
-    + haptic feedback.
-            
-2019: Hackathon Fintech Workshop. In collaboration
-    with Banca Mifel. Mostly undergraduate students from
-    business, engineering, and tech careers. Learned about
-    Unity3D, played around with NodeJS and some database engines.
-    72 hours.
-    In Teams.
-
-
---- Education: ---
-    
-    
-2019 - 2022: PrepaTec Multicultural (PTM) 
-    @ ITESM.
-    (3 years) (Classes in English 
-    and learned French)
-    16 weeks per semester.  Had some classes in 5th and 6th semester
-    to get a feeling of my undergrad degree.
-
-</code></pre>
-&ndash;></p>
-
-<p><pre><code>--- Contact ---
-e-mail: heror0484 [at] protonmail {dot} com
-</code></pre>
-</p>
-
-<a name="links"></a>
-<h2>links</h2>
+<a name="Technical-Skills"></a>
+<h3>Technical Skills</h3>
 
 <ul>
-<li>[0] Tecbot github: <a href="https://github.com/Tecbot3158">https://github.com/Tecbot3158</a></li>
-<li>[1] Tecbot website: <a href="https://www.team3158.tech">https://www.team3158.tech</a></li>
-<li>[2] PISA Project: <a href="https://github.com/jplmx/Pisa">https://github.com/jplmx/Pisa</a></li>
-<li>[3] my Blog: <a href="https://blog.thetrevor.tech">https://blog.thetrevor.tech</a></li>
-<li>[4] my site: <a href="https://thetrevor.tech">https://thetrevor.tech</a></li>
-<li>[5] my cgit instance: <a href="https://git.thetrevor.tech">https://git.thetrevor.tech</a></li>
-<li>[6] my server&rsquo;s uptime: <a href="https://blog.thetrevor.tech/update.html">https://blog.thetrevor.tech/update.html</a></li>
-<li>[7] my GitHub: <a href="https://github.com/trevcan">https://github.com/trevcan</a></li>
-<li>[8] Tecbot&rsquo;s RobotCode for 2022 Season: <a href="https://github.com/Tecbot3158/RobotCode_2022">https://github.com/Tecbot3158/RobotCode_2022</a></li>
-<li>[9] Wiringbits website: <a href="https://wiringbits.net">https://wiringbits.net</a></li>
-<li>[10] RANGEFORCE Platform: <a href="https://www.rangeforce.com/">https://www.rangeforce.com/</a></li>
-<li>[11] CyberSec Externship: <a href="https://github.com/TrevCan/cybersec-externship">https://github.com/TrevCan/cybersec-externship</a></li>
+<li><strong>Languages</strong>: Java (4+ years), Python, C, Scala, Bash, Processing, basic JavaScript</li>
+<li><strong>Computer Vision</strong>: OpenCV, Tesseract OCR, real-time video pipelines</li>
+<li><strong>Systems &amp; Infrastructure</strong>: Linux server administration (Arch), Lighttpd + CGI, self-hosted services, dynamic DNS, port forwarding, cgit, git-over-HTTPS</li>
+<li><strong>Robotics</strong>: Java FRC robotics, sensor integration, autonomous systems</li>
+<li><strong>Other</strong>: Multithreading, hardware-software integration, OCR optimization, creative coding</li>
 </ul>
 
+
+<hr />
+
+<a name="Experience"></a>
+<h3>Experience</h3>
+
+<p><strong>Junior Developer Intern</strong><br/>
+Wiringbits – Remote<br/>
+May – July 2022 (2.5 months)<br/>
+- Worked on open-source Scala project (cazadescuentos.net), an online web store scraper.<br/>
+- Learned functional + OOP paradigms, fixed bugs, and submitted multiple Pull Requests.</p>
+
+<p><strong>Software Team Member &amp; Teacher</strong><br/>
+TECBOT Robotics – FRC Team 3158<br/>
+2018 – 2022<br/>
+- Led software development and taught Java programming to new team members.<br/>
+- Developed autonomous routines, sensor integration, and robot control systems for First Robotics Competition.<br/>
+- GitHub: <a href="https://github.com/Tecbot3158">github.com/Tecbot3158</a></p>
+
+<p><strong>Cyber Security Externship</strong><br/>
+WorkED via Rangeforce Platform<br/>
+2021 (2 weeks)<br/>
+- Hands-on training with penetration testing tools, Linux, SQL injection, and vulnerability reporting.<br/>
+- Produced professional security reports in team settings.</p>
+
+<p><strong>Crew Member</strong><br/>
+Wendy&rsquo;s – Flower Mound, Texas<br/>
+Summer 2023 (6 weeks)<br/>
+- Managed high-volume customer service, order dispatch, and team coordination in a fast-paced environment.</p>
+
+<hr />
+
+<a name="Key-Projects"></a>
+<h3>Key Projects</h3>
+
+<p><strong>la-tastiera-ottima</strong> — Real-time Typewriter-to-Keyboard<br/>
+<a href="https://github.com/TrevCan/la-tastiera-ottima">github.com/TrevCan/la-tastiera-ottima</a><br/>
+- Built a real-time computer vision system converting mechanical typewriter input into digital keystrokes.<br/>
+- Used OpenCV, multi-threading, custom preprocessing, and Tesseract OCR.</p>
+
+<p><strong>Self-Hosted Linux Infrastructure</strong><br/>
+2019 – Present<br/>
+- Run an Arch Linux home server (peak uptime 80+ days) with Lighttpd web server, cgit interface, git-over-HTTPS, dynamic DNS, and port forwarding.<br/>
+- Host personal blog, website, and private repositories.</p>
+
+<p><strong>PISA Project</strong> – High School Advanced Programming Final<br/>
+2022<br/>
+- Developed a full CRUD web application using XAMPP, PHP, MySQL, and JavaScript validation.<br/>
+- Collaborative project (2 developers).</p>
+
+<p><strong>Additional Projects</strong><br/>
+- iOS automation tools (Notes Exporter, RSS reader)<br/>
+- Robotics prototypes and creative coding experiments</p>
+
+<hr />
+
+<a name="Additional-Information"></a>
+<h3>Additional Information</h3>
+
+<ul>
+<li>Native Spanish &amp; English, basic French</li>
+<li>Strong problem solver, independent thinker, and perseverant learner</li>
+<li>Passionate about low-level systems, real-time computing, and hardware-software integration</li>
+<li>Available full-time</li>
+</ul>
+
+
+<hr />
+
+<a name="Education"></a>
+<h3>Education</h3>
+
+<p><strong>Computer Science Engineering</strong><br/>
+Universidad de las Américas Puebla (UDLAP)<br/>
+2023 – 2024</p>
+
+<p><strong>PrepaTec Multicultural</strong> – Tec de Monterrey (ITESM)<br/>
+2019 – 2022</p>
 
 <i> Tags: <b> hireme cv </b></i>
 </div>
