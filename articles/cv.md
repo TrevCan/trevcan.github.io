@@ -30,7 +30,7 @@ Blog: [trevcan.github.io](https://trevcan.github.io)
 [github.com/TrevCan/la-tastiera-ottima](https://github.com/TrevCan/la-tastiera-ottima)  
 2025
 - Built a real-time computer vision system converting mechanical typewriter input into digital keystrokes
-- Used OpenCV, multi-threading, custom preprocessing, and independent OCR AI model.
+- Used OpenCV, multi-threading, custom preprocessing, and an independent OCR AI model.
 
 **iOS Notes Exporter** [ios-notes-exporter](https://github.com/TrevCan/ios-notes-exporter)
 2025
