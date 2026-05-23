@@ -1,0 +1,243 @@
+<!DOCTYPE html><html><head>
+		<title>debugging blogit.</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>debugging blogit.</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>11/10/2021 11:30:12 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>11/10/2021 11:33:36 PM</i></td>
+		</tr>
+	</table>
+
+<p>log:
+~ 6:24 P.M
+git status has one untracked file.
+only one. no changes on tracked files.
+will try to build /deploy the site
+without adding this new blog post.</p>
+
+<a name="test-1"></a>
+<h1>test 1</h1>
+
+<p>$ make main
+a lot of text and shit
+git status now shows indeed more
+untracked files; the new
+blog post, the tags folder, the blog
+folder and the www folder</p>
+
+<hr />
+
+<p>I am now opening the www/index.html file
+relative to the repo root.
+Yayyy!!! it works like a charm. CSS works,
+everything works.
+The latest article I published is
+&ldquo;Derivatives Stuff Calculus&rdquo; and is indeed
+correct. At the time of writing this, it is
+the only article that has been created,commited,
+and pushed to the github and home server repo.
+So yeah, it works.</p>
+
+<p>small note:
+<em>something i noticed is that sometimes the tags</em>
+<em>were kind of misplaced, sometimes the tag TBA</em>
+* appears almost at the start, near &lsquo;API&rsquo; and &lsquo;C&rsquo;<em>
+</em>but now it seems to be in the 2nd line.*
+<strong>This  is definitely not the case when viewing </strong>
+<strong>the version with the bad commit dates</strong>
+<strong> <a href="https://archive.md/9Fn0i/image">wrong sample</a></strong></p>
+
+<a name="test-2"></a>
+<h1>test 2</h1>
+
+<p>ok, so as we can see in test #1, it worked like a
+charm when not adding any new files, having a clean
+build dir and one new blog post (untracked file).</p>
+
+<p>Now, I wonder something, if I did not commit
+any changes, the last commit I made is the same as the
+last one in the github repo, which means that they built
+off of the same commited files. How can having
+untracked files and a clean build dir affect this ??
+who knows&hellip;</p>
+
+<p>Now what i will do is execute a clean</p>
+
+<p>$ make clean</p>
+
+<p>now i will attempt building the site again and comparing
+results. Keep in mind that I still have the untracked file.</p>
+
+<p>$ make main</p>
+
+<p>ok, great. Same thing, results are literally the same.
+Honestly I expected this since the &lsquo;main&rsquo; target in the
+makefile has as a first dependency the clean thingy.</p>
+
+<p><em>note: maybe it has to do something with the .PHONY thingy</em>
+* in makefiles. that you&rsquo;re supposed to use it your targets*
+* aren&rsquo;t actually files ??? *</p>
+
+<p>okay. now to experiment # 3</p>
+
+<a name="test-3"></a>
+<h1>test 3</h1>
+
+<p>okay, so my plan for test 3 is the following. make clean,
+then start tracking the new blog post i just made,
+    commit only that change, make clean again, and try to build.
+    Between each of these operations, I will build and &lsquo;deploy&rsquo;
+    the site locally to see if it changes in any particular stage.</p>
+
+<p><pre><code>$ make clean
+$ make main
+</code></pre>
+I did it and then another main just to be safe and sure enough,
+it is working persistently as expected.</p>
+
+<p><pre><code>$ git add articles/why-blogit.md
+$ make main
+</code></pre>
+Ok, still the same, since I haven&rsquo;t made a commit with the new
+article, the article should not appear on the index, which is good
+and works as expected. The other articles still appear in the right
+order. now let&rsquo;s commit changes!</p>
+
+<p><pre><code>$ git commit -m 'add blogit issue article'
+$ make main
+</code></pre>
+and sure enough, works like a charm! the new blog post appears
+at the top and the next one is indeed the last one I committed, which
+makes lots of sense. So, nothing wrong as of now&hellip;. now let&rsquo;s do exp 4</p>
+
+<a name="test-4"></a>
+<h1>test 4</h1>
+
+<p>so now i want to try to make a clean, and then a main.
+<pre><code>$ make clean
+$ make main
+</code></pre>
+ok, great. It still works like a charm! literally got the same exact
+content. now on to test 5</p>
+
+<a name="test-5"></a>
+<h1>test 5</h1>
+
+<p>I honestly do not know what to try now. I think in this one I&rsquo;ll checkout
+to the last commit the github repo has (25f4b89, 5 h ago) and try building it.</p>
+
+<p>first of all, I&rsquo;ll try to clean up.
+<pre><code>$ make clean
+$ git checkout 25f4b89 
+$ make main
+</code></pre>
+ok, so (un)fortunately I still have not found the bug! It still builds as if it
+were very normal! In fact, it indeed builds correctly, but for some reason it did not when I
+pushed it to github pages ??</p>
+
+<p>now i really don&rsquo;t know wut to do.
+now i will checkout to master</p>
+
+<p><pre><code>$ git checkout master
+</code></pre>
+ok</p>
+
+<a name="test-6"></a>
+<h1>test 6</h1>
+
+<p>now i will attempt to push my latest commit to the github repo and to my home server, I will
+try to see if behaviours change.
+<pre><code>$ make clean
+$ git push
+</code></pre>
+ok, the github push built in like 25 seconds. so yeah, that&rsquo;s great i guess.
+Now the moment of truth&hellip;.  ah shitt&hellip;. for some weird reason it keeps
+not using the correct commit date.
+Weirdly enough, all the articles show the same DATE but not the same time.
+the 404.md  simply says that it was allegedly last edited today, 11/10/21
+@ 13:19:18. now my new blog post which appears at the bottom literally the
+third one from bottom to top!, it says that iwas last edited also
+today 11/10/21 @ 18:41:11 which is correct! now I do not know what the issue
+is..!!</p>
+
+<p>okay, now let&rsquo;s try pushing to the home server and seeing if we have the same results.
+<pre><code>$ make clean
+$ git push home-site
+</code></pre>
+okay, I&rsquo;ve pushed the master branch to the master branch at the home server, let&rsquo;s try this.
+okay so I&rsquo;ve built it from my home server. But now it shows somehwat wrong results but still
+different than github. I reckon this has something to do with dates. This is getting interesting
+or idk. Now the first article at the top is &lsquo;How do i fix this blogit&rsquo; which is, indeed,
+the last article I committed. But the next one is 404, which is definitely not what I&rsquo;ve committed
+recently. next is about:trevcan, haven&rsquo;t made any recent updates, and so on. the second most
+recent article is right below the middle, the sixth one from bottom to top.</p>
+
+<i> Tags: <b> debugging sysadmin </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

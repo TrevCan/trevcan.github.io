@@ -1,0 +1,132 @@
+<!DOCTYPE html><html><head>
+		<title>The Usual Linux Problems</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>The Usual Linux Problems</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>05/19/2022 11:14:03 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>05/19/2022 11:14:46 PM</i></td>
+		</tr>
+	</table>
+
+<p>Most of the time, it boils down to RTFM <a href="#references">[1]</a>!</p>
+
+<p><a href="https://www.linuxquestions.org/questions/linux-newbie-8/su-command-authentication-failure-753154/">https://www.linuxquestions.org/questions/linux-newbie-8/su-command-authentication-failure-753154/</a></p>
+
+<p><a href="https://askubuntu.com/questions/615790/maximum-time-for-which-a-linux-pc-can-be-up#615835">https://askubuntu.com/questions/615790/maximum-time-for-which-a-linux-pc-can-be-up#615835</a></p>
+
+<a name="scripting"></a>
+<h1>scripting</h1>
+
+<a name="what-kinds-of-string-interpolation-does-POSIX-sh-support--3f-"></a>
+<h2>what kinds of string interpolation does POSIX sh support ?</h2>
+
+<p><strong>By Gilles &lsquo;SO-stop being evil&rsquo;</strong>: source and license: <a href="#references">[0]</a></p>
+
+<p><code>--BEGIN--TEXT</code></p>
+
+<p><code>"${blah}"</code> and <code>"$blah"</code> are portable shell syntax: they work on all POSIX-compliant shells as well as in traditional Bourne shells. POSIX also requires other features of variable expansion:</p>
+
+<ul>
+<li>String manipulation with <code>${VAR#PREFIX}</code>, <code>${VAR##PREFIX}</code>, <code>${VAR%SUFFIX}</code> and <code>${VAR%%SUFFIX}</code>.</li>
+<li>Conditional treatment of unset variables with <code>${VAR-DEFAULT}</code>, <code>${VAR=DEFAULT}</code>, <code>${VAR+FALLBACK}</code> and <code>${VAR?MESSAGE}</code> as well as the unset-or-empty variants with <code>:-</code>, <code>:=</code>, <code>:+</code> and <code>:?</code>.</li>
+<li>Variable length with <code>${#VAR}</code>.</li>
+</ul>
+
+
+<p>In all cases, remember that the result of <code>$…</code> undergoes whitespace-splitting (more precisely, splitting at <code>$IFS</code> characters) and wildcard expansion (globbing) unless it&rsquo;s in double quotes (or a few other contexts that don&rsquo;t allow multiple words).</p>
+
+<p>You can look up what exists in POSIX by reading the specification. Modern versions of POSIX are identical to the <a href="http://pubs.opengroup.org/onlinepubs/9699919799/idx/shell.html">Open Group Base Specifications</a> (without optional components). Older versions are a subset of <a href="http://pubs.opengroup.org/onlinepubs/7990989775/xcu/shellix.html">Single Unix v2</a>.</p>
+
+<p>Unix-like systems without a POSIX shell are extremely rare nowadays. <code>/bin/sh</code> is a non-POSIX Bourne shell on a few systems, notably Solaris, but a POSIX shell is available (<code>/usr/xpg4/bin/sh</code> on Solaris, and you should have <code>/usr/xpg4/bin</code> ahead of <code>/usr/bin</code> in your PATH). If you need compatibility with Bourne shells, check the man page on the systems you&rsquo;re interested in, as there have been many versions of sh with slightly different sets of features. <a href="https://www.in-ulm.de/~mascheck/bourne/">Sven Mascheck maintains a page with a lot of information</a>.</p>
+
+<p><code>--END--TEXT</code></p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li>[0]: <em>What kinds of string interpolation does POSIX sh support?</em>
+
+<ul>
+<li><a href="https://unix.stackexchange.com/a/389659/497507">https://unix.stackexchange.com/a/389659/497507</a></li>
+<li>License: CC BY-SA 4.0. <a href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></li>
+</ul>
+</li>
+<li>[1]: RTFM, <em>Wikipedia.org</em> <a href="https://en.wikipedia.org/wiki/RTFM">https://en.wikipedia.org/wiki/RTFM</a>
+
+<ul>
+<li>see also: Arch Linux Principles <a href="https://wiki.archlinux.org/title/Arch_Linux#Principles">https://wiki.archlinux.org/title/Arch_Linux#Principles</a></li>
+</ul>
+</li>
+</ul>
+
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

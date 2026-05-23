@@ -1,0 +1,276 @@
+<!DOCTYPE html><html><head>
+		<title>Archiving iPhone photo albums without iTunes in Linux</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Archiving iPhone photo albums without iTunes in Linux</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>03/28/2024 01:55:39 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>03/28/2024 01:55:39 AM</i></td>
+		</tr>
+	</table>
+
+<p>Hello! My Mom asked me to archive the pictures and videos on her iPhone.
+I tried doing it without iTunes and was somewhat successful!
+I was able to keep all of her albums!</p>
+
+<p>One knows that iTunes can be a very buggy piece of software. I&rsquo;ve personally
+backed up very few times iPhones using iTunes, as I do not really care
+about having the apps backed up. I only care about the Photos and videos.</p>
+
+<p>It should be as easy as connecting it to your computer, right? Well, no.
+I mean, kind of. You can easily connect your iPhone to your Windows computer
+and from your iPhone click on &lsquo;Trust this device&rsquo; and it will magically open
+up the access to your iPhone&rsquo;s DCIM folder which contains all your pictures.</p>
+
+<p>I&rsquo;m using Garuda Linux but I&rsquo;ve been able to mount my iPhone with Arch Linux:
+<a href="https://wiki.archlinux.org/title/IOS">https://wiki.archlinux.org/title/IOS</a></p>
+
+<p>Note: It was a pain in the ass finding the mount point of my iPhone in Garuda
+Linux. They really didn&rsquo;t make it easy! Turns out it was in
+<code>/run/user/1000/kio-fuse-OUJOte/</code>. I could see the files in the file manager,
+but whenever I right clicked to open a terminal, it would drop me in the home
+of my root user for some reason.</p>
+
+<p>For those that would like to follow along, the shell I&rsquo;m using is <code>zsh</code>.</p>
+
+<p>The pictures in <code>DCIM/</code> have plenty of metadata in there.
+But the albums are nowhere to be found.
+I remember looking back a while ago when making a backup of my iPhone
+and I couldn&rsquo;t find anything interesting. But today I chose to look further.</p>
+
+<p>And I found an SQLite database! It has a bunch of stuff about Photos. I found
+it here: <code>/PhotoData/Photos.sqlite</code>.</p>
+
+<a name="big-big-database"></a>
+<h1>big big database</h1>
+
+<p><small>or not so big, idk it was like 350 MB</small></p>
+
+<p>Now, after archiving all the pictures under <code>/DCIM</code> using <code>rsync --archive</code>
+I manually wrote down the name of each album and the amount of pictures it had.
+I copied the database to my backup and started looking. I started by making
+a full dump with <code>sqlite3 Photos.sqlite .dump</code>. And that definitely took a
+while because for some reason I decided to read the sqlite file directly from
+the iPhone. I definitely should have copied it over to my hard drive first.
+Anyways, I started grepping in the dump for the names of the albums and found
+that the table <code>ZGENERICALBUM</code> is an album description for all the albums.
+It has the <code>Z_PK</code> column, this corresponds to the Album number, then
+<code>ZCACHEDCOUNT</code>, which contains the total count of Pictures and Videos in the
+Album (the sum of <code>ZCACHEDPHOTOSCOUNT</code> and <code>ZCACHEDVIDEOSCOUNT</code>
+should be <code>ZCACHEDCOUNT</code>); the last relevant column is <code>ZTITLE</code> which you
+guessed it&hellip; is the title for the album.</p>
+
+<p>I also found another table called <code>Z_28ASSETS</code>. This contains a list of the
+files that are in Albums. It took me a while before realizing the meaning
+of the fields. I knew the first one was definitely the album number, so
+<code>Z_28ALBUMS</code> corresponds to the <code>Z_PK</code> field in the <code>Z_GENERICALBUM</code> table. I
+eventually found out that the field <code>Z_3ASSETS</code> translates to the <code>Z_PK</code>
+field in the <code>Z_ASSET</code> (yes, &ldquo;not ASSETS&rdquo;) table.</p>
+
+<a name="Reconstructing-the-favorites-album"></a>
+<h1>Reconstructing the favorites album</h1>
+
+<p>But first I found out about the favorites album. This album isn&rsquo;t located
+in the <code>ZGENERICALBUM</code>. After all, it isn&rsquo;t generic. It&rsquo;s actually located
+in the <code>ZASSET</code> table. This is actually where all the pictures and videos
+are. There are even fields with the coordinates of the location where your
+picture was taken and a ton of other fields from which I don&rsquo;t really understand
+their purpose. Anyways, the <code>ZFAVORITE</code> field is in the <code>ZASSET</code> table and
+if its value is 1, it&rsquo;s in the favorite album. And there&rsquo;s also a field called
+<code>ZDIRECTORY</code> and <code>ZFILENAME</code> and this gives us the exact path to get each
+picture or video. So all I had to do to get the favorites album was:</p>
+
+<p><pre><code>sqlite3 Photos.sqlite "SELECT Z_PK,ZDIRECTORY,ZFILENAME FROM ZASSET WHERE ZFAVORITE=1;" &gt; albums.favorites
+</code></pre>
+We can generate the path with:</p>
+
+<p><pre><code>awk -F '|' '{printf("%s/%s\n", $2, $3)}' &lt; albums.favorites &gt; favorites.unreal
+</code></pre>
+Now, just to rule out any bad pictures, I&rsquo;ll make sure that they exist by
+<code>ls</code>ing them:</p>
+
+<p><pre><code>for x in `cat favorites.unreal`;
+do
+ls ../$x
+z=$?
+if [ $z -eq 0 ]; then
+echo $x &gt;&gt; favorites.real;
+fi
+done
+</code></pre>
+This is my file structure:</p>
+
+<p><pre><code>DCIM/
+    XYZAPPLE/
+    ...
+dev/
+    Photos.sqlite
+albums/
+    ...
+
+working directory: dev/
+</code></pre>
+In my case, no files were removed from <code>favorites.unreal</code>. Now that we
+have the file list in <code>favorites.real</code>, we can make symbolic links
+in a folder and make that our favorites album:</p>
+
+<p><pre><code>mkdir -p ../albums/favorites &amp;&amp; for x in $(cat favorites.real); do
+ln -s ../../$x ../albums/favorites/${x##*/}
+done
+</code></pre>
+Note: the <code>${x##*/}</code> in zsh means anything that matches <code>*/</code> in <code>$x</code>
+you shall remove. This will basically leave the filename only
+without the rest of the path (<code>abc/gde/qed</code> -> <code>qed</code>).</p>
+
+<p>Now your favorites folder should be in albums/favorites with all your pictures
+and videos.</p>
+
+<p>Note: There may appear slightly more pictures than there actually are on
+your iPhone&rsquo;s favorites album,
+there may be some kind of &lsquo;picture deleted&rsquo; field that I haven&rsquo;t found yet.</p>
+
+<a name="Reconstructing-the-other-albums"></a>
+<h1>Reconstructing the other albums</h1>
+
+<p>This was pretty hard. As I mentioned before, I knew that the first field
+<code>Z_28ALBUMS</code> in
+the <code>Z_28ASSETS</code> table corresponded to the album number but I was unsure of
+the only other two fields:
+<code>Z_3ASSETS</code> and <code>Z_FOK_3ASSETS</code>. At first, I thought it was some kind of
+permutation between the <code>XYZAPPLE</code> and the file itself but that didn&rsquo;t work
+out.
+Eventually I was using <code>sqlitebrowser</code> and <code>sqlite3</code> at the same time on
+different tables and saw the exact numbers! I figured out that the field
+<code>Z_3ASSETS</code>
+in the table <code>Z_28ASSETS</code> was the same as the field <code>Z_PK</code> in the <code>ZASSET</code>
+table, the latter of which had the filename. Now it was just a matter
+of putting everything together.</p>
+
+<p>First, get the albums from sqlite:</p>
+
+<p><pre><code>sqlite3 Photos.sqlite "SELECT Z_PK, ZCACHEDCOUNT, ZTITLE FROM ZGENERICALBUM WHERE ZCACHEDCOUNT&gt;0 and ZTITLE is not null;" &gt; albums.list
+</code></pre>
+Second, for each album we will create a directory in <code>album/</code> with the name and album number (apparently, Apple allows for two albums to have the same name so the album number Z_PK is added to differentiate between the two)</p>
+
+<p><pre><code>awk -F '|' '{printf("../albums/%06d_%s\n", $1, $3)}' &lt; albums.list | xargs --delimiter "\n" mkdir -p
+</code></pre>
+Now we will make another set of album folders to save all the <code>Z_3ASSETS</code> fields that match each album number and then for each album, we will iterate over the file list, get the file name from the <code>ZASSET</code> table and add a symbolic link to the album folder:</p>
+
+<p><pre><code>mkdir albums_data
+
+awk -F '|' '{printf("albums_data/%d\n", $1)}' &lt; albums.list | xargs --delimiter "\n" mkdir
+
+
+for x in $(ls albums_data);
+do
+sqlite3 Photos.sqlite "SELECT Z_28ALBUMS,Z_3ASSETS,Z_FOK_3ASSETS FROM Z_28ASSETS WHERE Z_28ALBUMS is $x" | awk -F '|' '{ printf("%s\n", $2) }' &gt; albums_data/$x/files;
+    for file in $(cat albums_data/$x/files);
+    do
+    sqlite3 Photos.sqlite "SELECT ZDIRECTORY,ZFILENAME FROM ZASSET WHERE Z_PK is $file" | awk -F '|' '{ printf("%s/%s\n", $1, $2) }' | xargs -I .fname ln -s "../../.fname" ../albums/0*?${x}_*/
+    done;
+done;
+
+</code></pre>
+</p>
+
+<a name="done-21-"></a>
+<h1>done!</h1>
+
+<p>If you did everything right, you should have an <code>albums</code> folder with many more
+directories inside it!</p>
+
+<p>I still haven&rsquo;t figured out how to rule out &lsquo;deleted&rsquo; files, so if you
+added a picture to an album and then removed it, it will probably appear.</p>
+
+<p>The end.</p>
+
+<p>.ps: info on the database:</p>
+
+<p><pre><code>TABLE ZASSET contains a lot of columns
+column Z_PK         this is the file id
+column ZDIRECTORY   this is the location XYZAPPLE/
+column ZFILENAME    this is the file name XYZ.{HEIC,JPEG,PNG,MOV}
+
+TABLE Z_28ASSETS contains 3 columns
+column Z_28ALBUMS corresponds to the album number to which the file is part of.
+column Z_3ASSETS is the identifier that corresponds to the Z_PK field in the Z_ASSET table
+column Z_FOK_3ASSETS is something...
+
+
+TABLE ZGENERICALBUM contains a lot of columns
+column Z_PK is the number of the album
+column ZCACHEDPHOTOSCOUNT is the photo count of the album
+column ZTITLE is the album title
+
+TABLE Z_27ALBUMLISTS idk what's in here
+</code></pre>
+</p>
+
+<i> Tags: <b> en bizarre tech write programming technical </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

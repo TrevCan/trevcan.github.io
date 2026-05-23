@@ -1,0 +1,159 @@
+<!DOCTYPE html><html><head>
+		<title>Writing math in raw utf-8</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Writing math in raw utf-8</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>04/17/2022 12:33:01 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>09/27/2022 10:17:13 AM</i></td>
+		</tr>
+	</table>
+
+<a name="on-web-browsers-and-GUI-apps"></a>
+<h1>on web browsers and GUI apps</h1>
+
+<p>So apparently linux lets you use the keybinding <code>Ctrl+Shift+U</code> to
+insert utf-8 characters, literally any utf-8 character. This is in
+a non-terminal application such as libreOffice, Chromium, Firefox, etc.</p>
+
+<p>Why does this work ? No idea. Don&rsquo;t know if this comes directly
+from the kernel - or X11 / xorg -  but yeah, it works and I can type stuff
+like:</p>
+
+<p>1 + 1 = √2</p>
+
+<p>yes, that&rsquo;s a square root symbol in raw unicode ! without using
+microsoft word with a laggy interface or whatever.</p>
+
+<a name="utf-2d-8-symbols-on-vim"></a>
+<h1>utf-8 symbols on vim</h1>
+
+<p>On your terminal, it&rsquo;s quite hard to type them. the only reasonable
+way is copying and pasting this character.</p>
+
+<p>Anyways, if you are <strong>writing in vim</strong>, you should be able (by default)
+to write utf-8 symbols in insert mode by pressing CTRL-V, yes <code>Ctrl</code>
+and the letter <code>v</code>. Now you should be able to type <code>u</code> for unicode
+and just write the unicode code for it. After you finish writing
+the code, the character will appear on screen.</p>
+
+<p>If it isn&rsquo;t appearing or you just see random whitespace, most likely
+your terminal does not have the correct font installed or just neglects
+that character.</p>
+
+<a name="vim-example"></a>
+<h2>vim example</h2>
+
+<p>e.g. to write the capital letter E with a grave accent <code>È</code> you would do
+the following. First, you&rsquo;d find that the code is <code>U+00C8</code>.
+The hexadecimal code is <code>00c8</code>. Now you&rsquo;d go into vim, get into insert or
+replace mode <a href="#references">₇</a>, then type <code>Ctrl-V</code>, then type <code>u</code>, then
+type the hex code <code>00c8</code>. After typing it, the character should appear
+on-screen in your terminal!</p>
+
+<p>Cool!</p>
+
+<p>Now, I should add that i found a vim plugin.</p>
+
+<a name="vim-plugin"></a>
+<h2>vim plugin</h2>
+
+<p>it kinda sucks <a href="https://github.com/chrisbra/unicode.vim">https://github.com/chrisbra/unicode.vim</a> tbh</p>
+
+<p>some unicode tables on wikipedia that may be of use:</p>
+
+<ul>
+<li>tiny numbers and letters!
+<a href="https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts">Subscripts and Superscripts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Latin-1_Supplement#Character_table">Latin 1 Supplement</a>
+accents, grave, acute, dieresis, pretty much write in Spanish</li>
+<li><a href="https://en.wikipedia.org/wiki/Phonetic_Extensions">Phonetic Extensions</a>
+self-explanatory.</li>
+</ul>
+
+
+<a name="references"></a>
+<h2>references</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Unicode_characters#Mathematical_symbols">math symbols in unicode (utf-8)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Unicode_characters#Superscripts_and_Subscripts">superscripts and subscripts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Superscripts_and_Subscripts_(Unicode_block">all superscripts and subscripts in utf-8</a>)</li>
+<li><a href="https://en.wikipedia.org/wiki/Latin-1_Supplement#Mathematical_operator">math operators</a></li>
+<li><a href="https://www.unicode.org/charts/PDF/U2100.pdf">https://www.unicode.org/charts/PDF/U2100.pdf</a></li>
+<li><a href="https://www.maketecheasier.com/quickly-type-special-characters-linux/">typing special characters in linux</a></li>
+<li><a href="https://frameboxxindore.com/linux/how-do-i-enter-unicode-characters-in-linux.html">type unicode chars linux</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Latin-1_Supplement">Latin 1 Supplement, <em>wikipedia.org</em></a></li>
+<li>[₇] - <em>X-Team.com</em>. <em>Inserting unicode characters in vim</em>.
+<a href="https://x-team.com/blog/inserting-unicode-characters-in-vim/">https://x-team.com/blog/inserting-unicode-characters-in-vim/</a></li>
+</ul>
+
+
+<i> Tags: <b> math school whynot </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

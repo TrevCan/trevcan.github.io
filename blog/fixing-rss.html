@@ -1,0 +1,157 @@
+<!DOCTYPE html><html><head>
+		<title>How to get a consistent RSS feed ?</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>How to get a consistent RSS feed ?</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>04/19/2023 04:33:16 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>04/19/2023 04:33:16 PM</i></td>
+		</tr>
+	</table>
+
+<p>It&rsquo;s hard. Well, maybe not that hard. But when
+you coded a half-assed program to generate an RSS
+feed using shell scripting inside a makefile it&rsquo;s gonna
+be pretty hard to fix it.</p>
+
+<p>I&rsquo;m most likely going to rewrite all the RSS feed generator
+in C. I hope that doesn&rsquo;t bring any more problems&hellip;</p>
+
+<p>Well, it all began when one of my readers told me that he
+was attempting to use the RSS feed and told me that it was
+broken. He didn&rsquo;t explain much else beyond that, aside from
+the fact that the atom link was broken too.</p>
+
+<p>And by broken, he meant that it wasn&rsquo;t being properly parsed. But
+the atom link just has been broken for a while - because the file
+doesn&rsquo;t exist on purpose. I&rsquo;ve been meaning to fix both, the RSS
+and the Atom feeds which are very similar but just haven&rsquo;t had
+the will to do it, until now apparently. I hope this will lasts
+long enough that I am able to fix both problems.</p>
+
+<p>Well, onto the story. So I replied back to him, thinking if I should
+even reply. Should I reply right now saying the problem has been
+acknowledged and I&rsquo;ll try to fix it or email him when it&rsquo;s fixed !?
+I don&rsquo;t know. Well, I replied anyway, saying that the RSS generator
+was probably doing something wrong and that caused the parsing in his
+RSS feed to not work. I mean, just opening the file in chromium-
+a web browser-
+yielded a parsing error.</p>
+
+<p>Turns out, the error was in the title of one of my blog posts. It
+had two <code>&lt;/em&gt;</code> tags, literally. Notice that <code>&lt;/em&gt;</code> is the closing
+tag of <code>&lt;em&gt;</code> but turns out I forgot to write the opening <code>&lt;em&gt;</code>
+tag in the title. I wanted a part my title to show up in italics
+so that&rsquo;s what I thought I wrote in, one <code>&lt;em&gt;</code> and then one <code>&lt;/em&gt;</code>
+tag. But I wrote just two <code>&lt;/em&gt;</code> instead. So the only
+thing I had to do was remove one single slash character <code>/</code>, add
+the file to staging through git with <code>git add file</code>, commit and
+push to my server. Then wait for the blog to be generated. Because
+it&rsquo;s not HTML. It&rsquo;s markdown and it has to be parsed first into html.
+Then the RSS feed is generated and so on.</p>
+
+<p>I waited for it to finish, it took a minute and a half or so. Now I
+checked again and there it was, without no error in chromium. Showing
+the ugly XML file. Then I put in the RSS url into a free RSS viewer
+<a href="#references">[0]</a> and it worked! It really worked.</p>
+
+<p>I was very proud of that. To be fair, I only found out about that wrong
+<code>&lt;/em</code> because the chromium browser said error parsing at line something
+column something. Still, that was fast debugging.</p>
+
+<a name="step-1-of-making-a-better-RSS-feed"></a>
+<h1>step 1 of making a better RSS feed</h1>
+
+<p>probably, code in something that removes all html special characters
+such as html tags and replaces them with nothing. Or maybe its markdown
+equivalent. e.g. replace <code>&lt;em&gt; bla bla &lt;/em&gt;</code> with <code>_ bla bla _</code> and
+so on.</p>
+
+<p>That&rsquo;s easy enough I guess, I&rsquo;ll do it later today maybe. I&rsquo;m still unsure
+of what I&rsquo;m going to code or how I should fix the whole RSS feed generator
+thing. I&rsquo;m unsure if it should all go into one program. or if I should
+outsource some tasks to the makefile that in turn, uses the <code>git</code> command
+to get important things such as the date, file name, link, etc. Maybe
+I should follow the UNIX way.
+<strong>Your program should do the following: Do one thing and do it well</strong>
+Maybe I should have several tiny programs that help me and then pipe them
+together. I think that sounds nice.</p>
+
+<p>Please share your thoughts!</p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li>[0] - <a href="https://rss.app/">https://rss.app/</a></li>
+</ul>
+
+
+<i> Tags: <b> meta debugging technical </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

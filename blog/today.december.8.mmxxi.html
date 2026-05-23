@@ -1,0 +1,178 @@
+<!DOCTYPE html><html><head>
+		<title>Today</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Today</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>12/08/2021 02:08:18 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>12/08/2021 02:08:18 AM</i></td>
+		</tr>
+	</table>
+
+<p>Hello, I am bored. Also, I&rsquo;ve thought of kinda making my own daily blog entries
+so here is one!</p>
+
+<p>Today, well, more like yesterday since it&rsquo;s already midnight. I&rsquo;m actually
+waiting for my other laptop to finish copying a disk partition to another
+disk. I&rsquo;m using the one and only, legendary&hellip; dISk d3stroy3r !!! Yes,
+that&rsquo;s right, I saw that in a Luke Smith Video! the thing is, I was
+setting up the archivebox software which is basically a self-hosted
+archive / wayback machine, pretty self-explanatory. I set it up with docker
+and after a while of restarting it for some weird reason the home directory
+of a new user I&rsquo;ve created was being chmoded by docker or the software
+and idk really know what happened. Eventually, I figured out that for some
+stupid reason I had no disk space left on my home partition. But it only
+marked like 30 gigs used, meaning that for some weird reason I didn&rsquo;t
+extend the partition ? So i got out my trusty red usb with ventoy on it
+(lets you boot multiple OSes easily) and hopped on to gparted. It&rsquo;s
+literally just raw debian ( i think?, i&rsquo;ve never tried it :v )
+with gparted installed. it has an old school GUI like windows xp, has
+work spaces, you can move windows around. a pretty solid desktop
+environment. So, anyways, back to the story. I opened gparted and there
+it was, like 100GB of free, unpartitioned, unallocated space!
+so yeah, i just extended the home partition and no errors baby!</p>
+
+<p>By this point. I shutdown the laptop, disconnect the trusty usb with oses
+and boot the computer, everything seems normal, although the error still
+appears telling me that there&rsquo;s no disk space! Oh no, maybe the root
+partition?! So I just ran <code>df -h</code> to show available disk space on mounted
+file systems, and low and behold!, indeed the root partition is full!
+What!?, I only allocated 20GB to the root partition!?, who was the stupid
+guy that did that ? (me of course) and then proceeded to create the swap
+and boot partitions right next to it so that no free space is available.
+Yayyy!!? my self! So yeah, moving partitions around is more prone to errors.
+Plus, if you move any of the boot and/or root partition your system might not
+boot, not pretty. So, just to be safe I got a spare HDD and clone the root
+and home partition to it, because why not? After that I&rsquo;ll probably just wipe
+the boot partitions from an archlinux iso in the trusty usb and move the
+partitions around hoping that I don&rsquo;t have any errors so that I can extend
+the free space in the root partition! Might as well use the external HDD as
+the whole home partition! Why not? hmm, idk I&rsquo;ll think about it.</p>
+
+<p>Some other things I did during the day (december 07 2021) were walk with my
+dog, her name is Candy. Just walked around the neighbourhood, went to some
+benches/tables with grass and a lot of sun! and setup a tiny parasol (omg
+is this actually a word in english! I couldn&rsquo;t believe that when duckduckgo
+showed the translation of sombrilla from spanish into parasol in english ?!
+wft, why don&rsquo;t we Mexicans use this parasol word? maybe some old people do).
+Also, I was planning on reading some French(-speaking?) poetry and translating
+words i didn&rsquo;t know with a small spanish-to-french and viceversa dictionary.
+In the end I only read like half of one page and got bored and walked with my
+dog again who was escaping.</p>
+
+<p>Honestly, I though the disk destroyer MI (mission impossible): operation would
+be done by now. But it&rsquo;s not!? 60GB copied baby! no idea if it will copy the
+whole partition with the unused space? ah, maybe, maybe not&hellip;</p>
+
+<p>later in the day I started to use my laptop to research how to take
+screenshots of webpages and just sat there, contemplated my life appreciating
+the fact that puppeeteer ( i still don&rsquo;t know if i got taht spelling right!)
+exists. Yay, so I could take screenshots using the chromium browser in
+headless mode! Nice. Now I just want a way to make my own <a href="http://archive.is">http://archive.is</a>
+or wayback machine! But without the shady tracking. I don&rsquo;t remember where
+I heard but I think it has some serious web tracking and a ton-shit of
+cookies. I only like real cookies. smh. and i bake them with my sister and we
+make the dough from scratch and they&rsquo;re delicious. and I like those cookies,
+I do not like these virtual, weird-ass cookies. I like tasting them irl.</p>
+
+<p>wow, got a 781 word count! This guy knows how to speak/write/whatevss.
+anyways, back to the story. I was trying to figure out how to <em>&lsquo;save&rsquo;</em> the
+webpage. You know, how when you&rsquo;re in chrome/firefox and press ctrl+s and
+it saves an html and the images i think as well. yeah, that. well, it turns
+out there&rsquo;s no easy way per se of doing that. after kinda pulling my hair out
+of my scalp I encountered the archivebox while searching through the aur for
+<em>archive</em> to see if there was any kind of self-hosted software that was
+like a little wayback machine! So it turns out it exists and I guess it kinda
+works! the web UI is okay, maybe a little bloated, it has like fuck'in 11
+cookies, and most definitely not the kind you can eat! So yeah, now I can
+archive urls and store them on my computer and let others archive urls and
+save it to my computer, hope I don&rsquo;t get sued for archiving something that
+other people aren&rsquo;t happy about. aahhhh, this disk destroyer thing isn&rsquo;t over
+yet. My plan was to just reinstall grub and the boot partition and that&rsquo;s it
+man! just re-make the <code>/etc/fstab</code> so that the new uuids are recorded and
+that&rsquo;s it! But no!, it was my great idea to re-extend the partition so now
+it&rsquo;s copying everything! f**c it, i&rsquo;m cancelling the operation and shrinking
+the partition as small as I can! holy shit! I only use like 2.16 GB in my home
+partition! no wonder docker was complaining! I shrunk the partition to 5 GB
+just to be safe and we should be re-installing and moving partitions round
+nd round in no time ! Nice! gparted took literally less than 1 minute!</p>
+
+<p>now just gotta create the boot partition from the usb thingy!</p>
+
+<p>turned out great. kinda. was a few minutes wondering why there were no
+kernels added to the grub config. Turns out kernels are installed in the
+boot partition! I deleted that partition!
+who would have known that? silly me, just had to pacman -S
+linux and remove the old linux-zen which was having trouble with docker.</p>
+
+<p>done i guess. you should be able to see this site now. back in business
+baby.</p>
+
+<i> Tags: <b> day </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

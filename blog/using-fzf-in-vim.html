@@ -1,0 +1,153 @@
+<!DOCTYPE html><html><head>
+		<title>adding the fzf plugin to vim</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>adding the fzf plugin to vim</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>11/27/2021 12:37:01 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>12/01/2021 01:50:52 PM</i></td>
+		</tr>
+	</table>
+
+<p>hey there! I don&rsquo;t know why this came to me but I guess I&rsquo;ve seen
+several internet videos in which linuxy users are using a nice, fancy
+prompt to search files. Turns out they&rsquo;re using
+<a href="https://github.com/junegunn/fzf/">fzf!</a>
+, a nice tool to easily search for files in the command line. To some
+degree I guess it is like a dmenu prompt but in a command line. So yeah,
+by default it acts like a find any file recursively in the current directory,
+yes, including hidden files; yet still acts like a standard unix command
+that can take input from stdin (standard input) and only show those choices
+and of course, prints to stdout the result.</p>
+
+<p>So one can do something like</p>
+
+<p><pre><code>cat &lt;&lt; EOF | fzf
+one
+two
+three
+four
+john cena
+EOF
+
+</code></pre>
+and that will basically show you an interactive command line prompt which can
+let you make a choice. This is kind of similar to pedantic software&rsquo;s choice
+tool by
+Sylvain Gauthier and Francois-Xavier Carton.
+<a href="https://pedantic.software/syg/blog/minimalism_2_choice.html">Here&rsquo;s</a> a blog
+post from Sylvain in which he explains what his tool does and its uses. I
+guess it kinda differs to some degree but yeah.</p>
+
+<p>Anyway, back to the fuzzy finder. So after seeing how not so useful this was,
+at least to me, I decided to make a quick internet search to see if I could
+use this in vim. And I could! As I&rsquo;ve already said at the start of this post,
+I&rsquo;ve seen several internet humans use vim as a file-finder. So I cloned a
+sample vim plugin which connects the fzf vim plugin which only gives core
+functions but doesn&rsquo;t actually implement anything. So installing all these
+stuff gives me a pretty prompt like this:
+<img src="https://trevcan.duckdns.org/files/fzf-in-vim.png" alt="fzf in vim" /></p>
+
+<p>and yeah that&rsquo;s cool, isn&rsquo;t it?
+If you&rsquo;re interested in how to set it up I&rsquo;ll put the steps below:</p>
+
+<ol>
+<li><p>install fzf, can be found in the official Arch Linux repos and pretty much
+any other distro</p></li>
+<li><p>install fzf core functions vim plugin; simply clone the official fzf repo
+to <code>~/.vim/pack/plugins/start/fzfcore</code> to start the plugin on vim startup.</p></li>
+</ol>
+
+
+<p><pre><code>git clone "https://github.com/junegunn/fzf.git" ~/.vim/pack/plugins/start/fzfcore
+</code></pre>
+note: this will only work if you have the vim pack functionality. It probably
+is if you keep vim up to date. I think this was released in vim 8.0</p>
+
+<ol>
+<li>install <a href="https://github.com/junegunn/fzf.vim">fzf.vim</a> as another vim
+plugin. Same as step 2.</li>
+</ol>
+
+
+<p><pre><code>git clone "https://github.com/junegunn/fzf.vim" ~/.vim/pack/plugins/start/fzf.vim
+</code></pre>
+And that should do the trick. Now just readthedocs @
+<a href="https://github.com/junegunn/fzf.vim#commands">the fzf.vim docs readme</a>
+and tldr;: use <code>:Files</code> to search within your home dir, hit enter and the file
+will be opened in vim. Also, it will show you a small preview (with syntax
+highlighting, if <a href="https://github.com/sharkdp/bat">bat</a> is installed.)</p>
+
+<p>that&rsquo;s it for this blog post. should probably sleep.</p>
+
+<p>It&rsquo;s quite simple. No, I didn&rsquo;t create any of
+these config files but I guess sharing is caring, right?</p>
+
+<i> Tags: <b> </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

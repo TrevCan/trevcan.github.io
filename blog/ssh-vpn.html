@@ -1,0 +1,120 @@
+<!DOCTYPE html><html><head>
+		<title>Lazy man's VPN or <em>Simple VPN through SSH</em></title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Lazy man's VPN or <em>Simple VPN through SSH</em></h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>03/16/2022 04:00:48 PM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>05/25/2022 09:44:35 PM</i></td>
+		</tr>
+	</table>
+
+<p>It works like a VPN, acts like a VPN, feels like a VPN; but it kinda
+isn&rsquo;t a VPN.</p>
+
+<p>Would you like to access your local network ?</p>
+
+<p>Are you too lazy to set up a real VPN server like me ? Do
+you like security ? Well, now you can use a virtual private
+network through ssh and route all requests from one machine to
+another, using <a href="https://github.com/sshuttle/sshuttle">sshuttle</a>.</p>
+
+<a name="tldr"></a>
+<h1>tldr</h1>
+
+<p>commands:</p>
+
+<p><pre><code>sshuttle -x server.org -r user@server.org 0.0.0.0/0 --dns
+sshuttle -x server.org -r user@server.org addresses/subnet --dns
+</code></pre>
+WHERE:</p>
+
+<p><code>server.org</code> is your (ssh-enabled) server&rsquo;s domain name.</p>
+
+<p><code>-x server.org</code> means, exclude the <code>server.org</code> domain from being routed
+through your server (<code>server.org</code>), the wiki says some problems occur on some
+linux machines - it will recursively resolve to itself and the ssh session
+will crash.</p>
+
+<p>use <code>0.0.0.0</code> on <code>SUBNET</code> to route ALL requests through ssh server.</p>
+
+<p>use <code>24</code> for <code>subnet</code> and use <code>192.168.1.0</code> on <code>addresses</code> to route requests starting with <code>192.168.1.</code> through the ssh server.</p>
+
+<p>e.g. <code>sshuttle --dns -x server.org -r user@server.org 192.168.1.0/24</code></p>
+
+<a name="references"></a>
+<h1>references</h1>
+
+<ul>
+<li>sshuttle wiki: <a href="https://sshuttle.readthedocs.io/en/latest/usage.html">https://sshuttle.readthedocs.io/en/latest/usage.html</a></li>
+</ul>
+
+
+<i> Tags: <b> vpn ssh security short linux </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html><html><head>
+		<title>Resizing images on Linux while keeping aspect ratio.</title>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="assets/Crystal_Clear_app_tux.png" type="image/png">
+		<link rel="stylesheet" href="main.css">
+
+
+		<header>
+			<div>
+				<!-- 
+					<a href="https://trevcan.github.io"> 
+				-->
+				<a href="index.html">
+
+					<!--
+						<h1>trevcan@internets /random/path/idk $</h1>
+					-->
+					<h1>trevcan@internets /dev/human $</h1>
+				</a>
+				<div class="header-links">
+					<a href="index.html"><h2 class="header-link">Index</h2></a>
+					<a href="about.html"><h2 class="header-link">About</h2></a>
+					<a href="rss.xml"><h2 class="header-link">RSS</h2></a>
+					<a href="atom.xml"><h2 class="header-link"> atom</h2></a>
+					<a href="wl.html"><h2 class="header-link">later</h2></a>
+				</div>
+			</div>
+		</header>
+
+
+	</head><body>
+
+		<div class="container">
+
+	<h1>Resizing images on Linux while keeping aspect ratio.</h1>
+
+	<table>
+		<tr>
+			<td><i>Posted on:</i></td>
+			<td><i>04/11/2022 01:43:36 AM</i></td>
+
+		</tr>
+		<tr>
+			<td><i>Last edited:</i></td>
+			<td><i>04/11/2022 01:43:36 AM</i></td>
+		</tr>
+	</table>
+
+<p>bored ?, read <a href="#references">[0]</a>.</p>
+
+<a name="tldr"></a>
+<h1>tldr</h1>
+
+<p><code>convert FILE -resize SIZE OUT_FILE</code></p>
+
+<p><code>convert image.jpeg -resize 300x new-image.jpeg</code></p>
+
+<p>( resizes <code>image.jpeg</code> to <code>300x</code> width, scaling height accordingly
+and writing it to <code>new-image.jpeg</code>)</p>
+
+<p>Where <code>FILE</code> is the input image file you&rsquo;d like to resize,
+<code>SIZE</code> is the new size in pixels, e.g. <code>500x</code> will set a
+500x width and scale the height accordingly whilst keeping
+the aspect ratio. And <code>OUT_FILE</code> is the output file. No,
+it won&rsquo;t modify the original file.</p>
+
+<p>That is all. oh, no. Dependencies!!</p>
+
+<a name="dependencies"></a>
+<h2>dependencies</h2>
+
+<ul>
+<li>imagemagick: <a href="https://imagemagick.org/index.php">https://imagemagick.org/index.php</a>
+
+<ul>
+<li>available on the Arch repos and ubuntu, at least.</li>
+</ul>
+</li>
+</ul>
+
+
+<a name="references"></a>
+<h2>references</h2>
+
+<ul>
+<li>[0]: Yeah, yeah. Maybe SEO won&rsquo;t put this on the top cause the title
+is too long and isn&rsquo;t that concise. Who cares!? I&rsquo;m not an
+ad-filled website. Yet.</li>
+<li>[1]: I originally got this off this ad-filled website:
+<a href="https://opensource.com/article/21/9/resize-image-linux">https://opensource.com/article/21/9/resize-image-linux</a></li>
+</ul>
+
+
+<i> Tags: <b> guides </b></i>
+</div>
+<footer id=footer >
+
+	<span>
+		<!--
+			<b>By trevcan : Hector Canizales;</b>
+		-->
+		<b>By trevcan : Hector Canizales;</b>
+	</span>
+	<a href="LICENSE">
+		<span>© sometime to ∞</span>
+	</a>
+	<p>
+	<span>
+		<b>Powered by my </b>
+	</span>
+	<a href="https://github.com/trevcan/blogit">
+		<span>fork of blogit</span>
+	</a>
+	<span>
+		and tocttou's beautiful
+	</span>
+	<a href="https://github.com/tocttou/hacker-blog/blob/master/_sass/base.scss">
+		<span>css</span>
+	</a>
+
+
+</footer>
+
+</body></html>
